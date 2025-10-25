@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T17:30:35.002493+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2025-10-25T18:38:16.163836+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
@@ -52,6 +52,21 @@
           "time_info": "[00时50分 ~ 07时30分]"
         },
         {
+          "title": "特朗普叫停美加贸易磋商 加拿大总理：愿在美国“准备好时”重启谈判",
+          "url": "https://www.cls.cn/detail/2180450",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时30分 ~ 18时38分]"
+        },
+        {
           "title": "特朗普赦免币安创始人赵长鹏",
           "url": "https://m.thepaper.cn/newsDetail_forward_31830074",
           "source": "澎湃新闻",
@@ -74,23 +89,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 16时41分]"
-        },
-        {
-          "title": "特朗普叫停美加贸易磋商 加拿大总理：愿在美国“准备好时”重启谈判",
-          "url": "https://www.cls.cn/detail/2180450",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时30分 ~ 17时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 18时38分]"
         },
         {
           "title": "伯南克与耶伦领衔 近50位经济学家呼吁美最高法院推翻特朗普关税政策",
@@ -103,8 +103,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时30分 ~ 17时30分]"
+          "appearance_count": 9,
+          "time_info": "[07时30分 ~ 18时38分]"
         },
         {
           "title": "网传特朗普考虑解散 NASA，这是真的吗？有哪些战略考量？",
@@ -115,11 +115,12 @@
             8,
             7,
             5,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时17分 ~ 17时30分]"
+          "appearance_count": 8,
+          "time_info": "[11时17分 ~ 18时38分]"
         },
         {
           "title": "美国总统特朗普：我们将与新任日本首相建立好的关系。 亚洲之行期间不计划会见加拿大总理卡尼。 与韩国的协议已相当接近达成。",
@@ -131,11 +132,36 @@
             9,
             11,
             18,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 17时30分]"
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 18时38分]"
+        },
+        {
+          "title": "特朗普警告以色列：不准吞并约旦河西岸，否则将失去美国一切支持",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31832113",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时17分 ~ 18时38分]"
+        },
+        {
+          "title": "特朗普：愿在亚洲行期间会见金正恩",
+          "url": "https://news.ifeng.com/c/8nju7bs3kIz",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 18时38分]"
         },
         {
           "title": "伯南克和耶伦等经济学家敦促美国最高法院推翻特朗普多数关税",
@@ -154,40 +180,18 @@
           "time_info": "[04时37分 ~ 12时40分]"
         },
         {
-          "title": "特朗普警告以色列：不准吞并约旦河西岸，否则将失去美国一切支持",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31832113",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时17分 ~ 17时30分]"
-        },
-        {
-          "title": "特朗普：愿在亚洲行期间会见金正恩",
-          "url": "https://news.ifeng.com/c/8nju7bs3kIz",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 17时30分]"
-        },
-        {
           "title": "特朗普玩“军阀剧本”这波绝了!",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346209&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8E%A9%E2%80%9C%E5%86%9B%E9%98%80%E5%89%A7%E6%9C%AC%E2%80%9D%E8%BF%99%E6%B3%A2%E7%BB%9D%E4%BA%86%21",
           "source": "贴吧",
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 17时30分]"
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 18时38分]"
         },
         {
           "title": "特朗普拿美加贸易谈判要挟得逞：加拿大将暂停播放反关税广告",
@@ -199,6 +203,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时40分 ~ 17时30分]"
+        },
+        {
+          "title": "为何特朗普把中美会晤放在行程最后",
+          "url": "https://www.toutiao.com/trending/7565044586163211839/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "泰国政府声明：泰国外长将于周日停火协议签署仪式前与美国总统特朗普举行会晤。",
+          "url": "https://flash.jin10.com/detail/20251025171620948800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "加拿大安大略省将撤销造成美国总统特朗普叫停两国之间对话的“反对关税”广告。（加拿大媒体Globe）",
@@ -215,6 +241,20 @@
           "time_info": "[02时54分 ~ 05时29分]"
         },
         {
+          "title": "当地时间10月24日晚间，美国总统特朗普启程前往马来西亚，并将访问日本和韩国。",
+          "url": "https://flash.jin10.com/detail/20251025145116076800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 18时38分]"
+        },
+        {
           "title": "外媒：特朗普拟邀高市早苗同乘总统专机",
           "url": "https://flash.jin10.com/detail/20251025121003889800",
           "source": "金十数据",
@@ -226,19 +266,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时40分 ~ 14时47分]"
-        },
-        {
-          "title": "当地时间10月24日晚间，美国总统特朗普启程前往马来西亚，并将访问日本和韩国。",
-          "url": "https://flash.jin10.com/detail/20251025145116076800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 17时30分]"
         },
         {
           "title": "据华尔街日报：美国总统特朗普推动新建海军军舰级别，希望建造新型海军舰艇，以应对潜在威胁。",
@@ -340,6 +367,18 @@
           "time_info": "[04时37分 ~ 07时30分]"
         },
         {
+          "title": "关键判决前夕，伯南克、耶伦带头，近50名经济学家呼吁美最高法推翻特朗普关税",
+          "url": "https://wallstreetcn.com/articles/3757880",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 18时38分]"
+        },
+        {
           "title": "美国总统特朗普：我们在人工智能领域引领所有人。",
           "url": "https://flash.jin10.com/detail/20251025115711896800",
           "source": "金十数据",
@@ -364,6 +403,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时29分 ~ 05时29分]"
+        },
+        {
+          "title": "巴西总统卢拉：希望与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20251025151023791800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 18时38分]"
         },
         {
           "title": "美国交通部长Duffy：（与特朗普政府关门相关的）人手不足造成53%的航班晚点。",
@@ -392,18 +444,6 @@
           "time_info": "[01时39分 ~ 03时29分]"
         },
         {
-          "title": "关键判决前夕，伯南克、耶伦带头，近50名经济学家呼吁美最高法推翻特朗普关税",
-          "url": "https://wallstreetcn.com/articles/3757880",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 17时30分]"
-        },
-        {
           "title": "市场消息：加拿大安大略省将撤销“反对关税”的广告，此前美国总统特朗普叫停两国之间的对话。",
           "url": "https://flash.jin10.com/detail/20251025022648345800",
           "source": "金十数据",
@@ -428,6 +468,18 @@
           "time_info": "[12时40分 ~ 13时35分]"
         },
         {
+          "title": "特朗普在“对中贸易争锋”中阵脚已乱",
+          "url": "https://www.toutiao.com/trending/7565063614768352822/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时30分 ~ 18时38分]"
+        },
+        {
           "title": "美国总统特朗普：与韩国的协议已相当接近达成。",
           "url": "https://flash.jin10.com/detail/20251025114949212800",
           "source": "金十数据",
@@ -438,18 +490,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时40分 ~ 13时35分]"
-        },
-        {
-          "title": "巴西总统卢拉：希望与美国总统特朗普会面。",
-          "url": "https://flash.jin10.com/detail/20251025151023791800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 17时30分]"
         },
         {
           "title": "美国总统特朗普：亚洲之行期间不计划会见加拿大总理卡尼。",
@@ -500,6 +540,17 @@
           "time_info": "[12时40分 ~ 13时35分]"
         },
         {
+          "title": "伯南克和耶伦呼吁推翻特朗普关税 加拿大称愿重启与美国谈判 | 环球市场",
+          "url": "https://www.cls.cn/detail/2180470",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 18时38分]"
+        },
+        {
           "title": "王冰汝：加拿大一则广告惹怒特朗普",
           "url": "https://www.toutiao.com/trending/7564996359107907091/",
           "source": "今日头条",
@@ -545,28 +596,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
-        },
-        {
-          "title": "伯南克和耶伦呼吁推翻特朗普关税 加拿大称愿重启与美国谈判 | 环球市场",
-          "url": "https://www.cls.cn/detail/2180470",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时30分"
-        },
-        {
-          "title": "特朗普在“对中贸易争锋”中阵脚已乱",
-          "url": "https://www.toutiao.com/trending/7565063614768352822/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时30分"
         },
         {
           "title": "据华尔街日报：OpenAI首席执行官Sam Altman曾是阻止特朗普向旧金山派遣军队的运动中的一员。",
@@ -638,7 +667,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "入青云破万福利全员抖音热舞",
@@ -651,11 +680,12 @@
             21,
             18,
             22,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时50分 ~ 17时30分]"
+          "appearance_count": 20,
+          "time_info": "[00时50分 ~ 18时38分]"
         },
         {
           "title": "拍抖音就是为了这个BGM",
@@ -693,6 +723,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 06时38分]"
+        },
+        {
+          "title": "抖音双11承包了我的心头好",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%8A%96%E9%9F%B3%E5%8F%8C11%E6%89%BF%E5%8C%85%E4%BA%86%E6%88%91%E7%9A%84%E5%BF%83%E5%A4%B4%E5%A5%BD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E6%258A%2596%25E9%259F%25B3%25E5%258F%258C11%25E6%2589%25BF%25E5%258C%2585%25E4%25BA%2586%25E6%2588%2591%25E7%259A%2584%25E5%25BF%2583%25E5%25A4%25B4%25E5%25A5%25BD%2523%26dgr%3D0%26filter_type%3Drealtimehot%26pos%3D19%26c_type%3D31%26realpos%3D20%26cate%3D5001%26lcate%3D5001%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D20%26display_time%3D1761388582%26pre_seqid%3D1761388582570032434511",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         }
       ]
     }

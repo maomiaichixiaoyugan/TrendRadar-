@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T14:59:56.219403+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2025-10-27T15:35:20.932837+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -123,6 +123,18 @@
           "time_info": "[00时49分 ~ 06时35分]"
         },
         {
+          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
+          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 15时35分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-26）",
           "url": "https://flash.jin10.com/detail/20251026184624203800",
           "source": "金十数据",
@@ -147,17 +159,6 @@
           "time_info": "11时51分"
         },
         {
-          "title": "特朗普：期待与日本新首相高市早苗会面。",
-          "url": "https://wallstreetcn.com/livenews/2994063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
           "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
           "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
           "source": "凤凰网",
@@ -169,25 +170,13 @@
           "time_info": "[11时51分 ~ 13时44分]"
         },
         {
-          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
-          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时43分 ~ 14时59分]"
-        },
-        {
           "title": "美国财长贝森特：美联储主席候选人名单缩减至五人，希望感恩节后向特朗普提交一份好名单。",
           "url": "https://flash.jin10.com/detail/20251027142654141800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -198,9 +187,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
+        },
+        {
+          "title": "特朗普耗资3亿美元的白宫宴会厅项目 获币圈和科技行业盟友“鼎力相助”",
+          "url": "https://wallstreetcn.com/livenews/2994020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 15时35分]"
         },
         {
           "title": "美议员：特朗普将在国会就可能扩大对委内瑞拉打击举行吹风会",
@@ -216,16 +218,29 @@
           "time_info": "[05时29分 ~ 07时30分]"
         },
         {
-          "title": "特朗普耗资3亿美元的白宫宴会厅项目 获币圈和科技行业盟友“鼎力相助”",
-          "url": "https://wallstreetcn.com/livenews/2994020",
+          "title": "特朗普：期待与日本新首相高市早苗会面。",
+          "url": "https://wallstreetcn.com/livenews/2994063",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            24
+            3,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时44分 ~ 14时59分]"
+          "time_info": "[14时59分 ~ 15时35分]"
+        },
+        {
+          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
+          "url": "https://www.cls.cn/detail/2181112",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时35分]"
         },
         {
           "title": "特朗普2.0亚洲“首秀”：五天三国",
@@ -239,18 +254,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时36分 ~ 07时30分]"
-        },
-        {
-          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
-          "url": "https://www.cls.cn/detail/2181112",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 14时59分]"
         },
         {
           "title": "特朗普点燃贸易协议乐观情绪 推动亚洲新兴市场资产攀升",
@@ -277,6 +280,18 @@
           "time_info": "[12时53分 ~ 13时44分]"
         },
         {
+          "title": "特朗普：预计将在今年年底前就美联储主席做出决定",
+          "url": "https://wallstreetcn.com/livenews/2994047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时35分]"
+        },
+        {
           "title": "巴西总统卢拉：美国对巴西征收关税是基于“错误信息”。 与特朗普的会晤出乎意料地顺利。 将在“几天内”与美国达成最终解决方案。",
           "url": "https://wallstreetcn.com/livenews/2993966",
           "source": "华尔街见闻-快讯",
@@ -287,6 +302,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时51分 ~ 12时53分]"
+        },
+        {
+          "title": "特朗普：如果需要，将考虑向阿根廷提供更多支持。",
+          "url": "https://wallstreetcn.com/livenews/2994045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时35分]"
         },
         {
           "title": "特朗普在马来西亚听了个地狱笑话",
@@ -300,13 +327,37 @@
           "time_info": "[00时48分 ~ 00时49分]"
         },
         {
+          "title": "特朗普：关税生效时我们会通知加拿大。 暂时不会与加拿大总理卡尼会面。 普京应该结束俄乌冲突。 无意损害韩国造船业。 希望企业引进人才到美国。 将确保牧场主不受损失，同时降低物价。 要把牛肉价格降下来。",
+          "url": "https://wallstreetcn.com/livenews/2994027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时35分]"
+        },
+        {
+          "title": "特朗普：和卢拉的会面很愉快，我们看看会发生什么。",
+          "url": "https://wallstreetcn.com/livenews/2994024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时35分]"
+        },
+        {
           "title": "美国总统特朗普：我真没考虑过去竞选2028年的第三任期。",
           "url": "https://flash.jin10.com/detail/20251027142110925800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -317,9 +368,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
+        },
+        {
+          "title": "特朗普：不会在2028年竞选副总统",
+          "url": "https://flash.jin10.com/detail/20251027151453609800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "美国总统特朗普：我们必须立即拯救芝加哥，我们可以很容易做到，但必须迅速行动。",
@@ -328,7 +390,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -355,24 +417,13 @@
           "time_info": "11时51分"
         },
         {
-          "title": "特朗普：预计将在今年年底前就美联储主席做出决定",
-          "url": "https://wallstreetcn.com/livenews/2994047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
           "title": "美国总统特朗普：（被问及最近和马斯克的关系）偶尔联系，挺少的，几乎没有什么特别的。他是个非常有能力的人。我一直都喜欢他。",
           "url": "https://flash.jin10.com/detail/20251027141650104800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -388,24 +439,13 @@
           "time_info": "07时30分"
         },
         {
-          "title": "特朗普：如果需要，将考虑向阿根廷提供更多支持。",
-          "url": "https://wallstreetcn.com/livenews/2994045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
           "title": "美国总统特朗普：将确保牧场不受损害。",
           "url": "https://flash.jin10.com/detail/20251027141231764800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -416,7 +456,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -427,7 +467,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -438,31 +478,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
         {
-          "title": "特朗普：关税生效时我们会通知加拿大。 暂时不会与加拿大总理卡尼会面。 普京应该结束俄乌冲突。 无意损害韩国造船业。 希望企业引进人才到美国。 将确保牧场主不受损失，同时降低物价。 要把牛肉价格降下来。",
-          "url": "https://wallstreetcn.com/livenews/2994027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
-          "title": "特朗普：和卢拉的会面很愉快，我们看看会发生什么。",
-          "url": "https://wallstreetcn.com/livenews/2994024",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：普京应该结束战争而不是试验导弹。",
+          "url": "https://flash.jin10.com/detail/20251027144820744800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时59分"
+          "time_info": "15时35分"
         },
         {
           "title": "美国总统特朗普：期待与新任日本首相会面。",
@@ -471,7 +500,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -482,7 +511,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -504,7 +533,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -526,7 +555,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -537,7 +566,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -548,7 +577,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         }
@@ -596,11 +625,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 14时59分]"
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 15时35分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T16:53:08.791121+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2025-10-27T17:42:48.300693+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -172,6 +172,17 @@
           "time_info": "11时51分"
         },
         {
+          "title": "日本首相高市早苗：期待明天与美国总统特朗普会面，并就如何进一步加强联盟进行富有成效的讨论。",
+          "url": "https://flash.jin10.com/detail/20251027172943820800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
           "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
           "source": "凤凰网",
@@ -192,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
+        },
+        {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "美国总统特朗普：停火是基于哈以双方的义务。我们也希望哈马斯加快归还人质尸体，目前我们还有13名人质，包括两名美国人。我们不认为（以色列的行动）构成对停火的违反。",
@@ -596,7 +618,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "在抖音共庆王者十周年",
@@ -627,8 +649,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 14时59分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 17时42分]"
         },
         {
           "title": "抖音音乐班逐渐抽象",
@@ -641,8 +663,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时52分 ~ 16时53分]"
+          "appearance_count": 9,
+          "time_info": "[12时52分 ~ 17时42分]"
+        },
+        {
+          "title": "抖音、腾讯、淘天等 61 家单位签署公约推动互联网平台互通互操作，将对互联网流量分发带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1966086071931593385",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T15:35:20.932837+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2025-10-27T16:53:08.791121+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -86,6 +86,18 @@
           "time_info": "[00时48分 ~ 07时30分]"
         },
         {
+          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
+          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时43分 ~ 16时53分]"
+        },
+        {
           "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
           "url": "https://flash.jin10.com/detail/20251026213743304800",
           "source": "金十数据",
@@ -123,16 +135,17 @@
           "time_info": "[00时49分 ~ 06时35分]"
         },
         {
-          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
-          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
-          "source": "凤凰网",
+          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
+          "url": "https://www.cls.cn/detail/2181112",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            5
+            13,
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 15时35分]"
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 16时53分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-26）",
@@ -228,19 +241,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时59分 ~ 15时35分]"
-        },
-        {
-          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
-          "url": "https://www.cls.cn/detail/2181112",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 15时35分]"
         },
         {
           "title": "特朗普2.0亚洲“首秀”：五天三国",
@@ -351,6 +351,17 @@
           "time_info": "[14时59分 ~ 15时35分]"
         },
         {
+          "title": "特朗普到访 高市早苗迎外交“大考”",
+          "url": "https://www.toutiao.com/trending/7565785838462701075/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
+        },
+        {
           "title": "美国总统特朗普：我真没考虑过去竞选2028年的第三任期。",
           "url": "https://flash.jin10.com/detail/20251027142110925800",
           "source": "金十数据",
@@ -379,7 +390,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -489,7 +500,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -626,11 +637,12 @@
           "ranks": [
             20,
             17,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时52分 ~ 15时35分]"
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 16时53分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T07:29:56.406528+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2025-10-28T11:34:50.674240+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 07时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 11时34分]"
         },
         {
           "title": "特朗普：很长时间内不想和加总理见面",
@@ -203,8 +203,63 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 11时34分]"
+        },
+        {
+          "title": "高市早苗会见特朗普 多次伸手笑容满面",
+          "url": "https://www.toutiao.com/trending/7565063392713575990/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "11时34分"
+        },
+        {
+          "title": "美军机南海坠毁 特朗普：可能油不好",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%B2%B9%E4%B8%8D%E5%A5%BD",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "特朗普：愿意延长亚洲行与金正恩会面",
+          "url": "https://news.ifeng.com/c/8noSUYL9rE6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "特朗普再提2028参选可能，点名两个潜在继任者",
+          "url": "https://news.ifeng.com/c/8noQCRgOldf",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "美国总统特朗普：日本正在增加国防开支。",
+          "url": "https://flash.jin10.com/detail/20251028105119280800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "墨西哥比索兑美元短线拉升，日内整体涨超0.4%，逼近18.37比索。 墨西哥股指涨幅重新扩大至将近0.6%。 墨西哥总统辛鲍姆称，上周六与美国总统特朗普通话。 两国接近达成非关税壁垒协议。 美方将（针对墨西哥的）贸易截至日期推后好几周时间。",
@@ -227,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "高市早苗欲送特朗普安倍球杆",
+          "url": "https://www.toutiao.com/trending/7566037915437141513/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         }
       ]
     },
@@ -244,11 +310,12 @@
             17,
             13,
             14,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 07时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 11时34分]"
         },
         {
           "title": "抖音、腾讯、淘天等 61 家单位签署公约推动互联网平台互通互操作，将对互联网流量分发带来哪些影响？",

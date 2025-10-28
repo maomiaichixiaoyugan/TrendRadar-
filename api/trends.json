@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T22:46:16.096609+08:00",
-  "total_titles_processed": 1849,
+  "generated_at": "2025-10-28T23:43:36.007931+08:00",
+  "total_titles_processed": 1934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 81,
+      "match_count": 88,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时51分 ~ 22时46分]"
+          "appearance_count": 10,
+          "time_info": "[16时51分 ~ 23时43分]"
         },
         {
           "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
@@ -221,17 +221,6 @@
           "time_info": "19时30分"
         },
         {
-          "title": "针对特朗普关税武器化等问题，日本民众连日抗议日美首脑会谈",
-          "url": "https://wallstreetcn.com/livenews/2995211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
           "title": "市场消息：苹果(AAPL.O)CEO库克出席了在东京举行的美国总统特朗普晚宴。",
           "url": "https://flash.jin10.com/detail/20251028183803091800",
           "source": "金十数据",
@@ -298,6 +287,17 @@
           "time_info": "19时30分"
         },
         {
+          "title": "美国交通部长Duffy：与空中交通控制相关的学生津贴即将耗尽。 在特朗普政府关门期间，与联邦航空管理局（FAA）相关的那些学生将被赶走。",
+          "url": "https://wallstreetcn.com/livenews/2995230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "特朗普谈到重振美国造船业。",
           "url": "https://wallstreetcn.com/livenews/2995097",
           "source": "华尔街见闻-快讯",
@@ -321,6 +321,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时53分 ~ 03时27分]"
+        },
+        {
+          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
+          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时40分 ~ 23时43分]"
         },
         {
           "title": "特朗普演讲时当众搂住高市早苗",
@@ -347,6 +358,18 @@
           "time_info": "[15时34分 ~ 16时52分]"
         },
         {
+          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
+          "url": "https://news.ifeng.com/c/8np198dmCFI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时40分 ~ 23时43分]"
+        },
+        {
           "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
           "url": "https://flash.jin10.com/detail/20251028004039681800",
           "source": "金十数据",
@@ -369,6 +392,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时34分 ~ 16时52分]"
+        },
+        {
+          "title": "针对特朗普关税武器化等问题，日本民众连日抗议日美首脑会谈",
+          "url": "https://wallstreetcn.com/livenews/2995211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 23时43分]"
         },
         {
           "title": "美军机南海坠毁 特朗普：可能油不好",
@@ -410,29 +445,6 @@
           "time_info": "[12时43分 ~ 15时34分]"
         },
         {
-          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
-          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时40分 ~ 22时46分]"
-        },
-        {
-          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
-          "url": "https://news.ifeng.com/c/8np198dmCFI",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时40分 ~ 22时46分]"
-        },
-        {
           "title": "特朗普再提2028参选可能，点名两个潜在继任者",
           "url": "https://news.ifeng.com/c/8noQCRgOldf",
           "source": "凤凰网",
@@ -453,6 +465,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时34分 ~ 12时43分]"
+        },
+        {
+          "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
+          "url": "https://news.ifeng.com/c/8npJJt30xAk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 23时43分]"
         },
         {
           "title": "消息人士：哈马斯称将遵守特朗普计划下的协议。",
@@ -617,17 +640,6 @@
           "time_info": "15时34分"
         },
         {
-          "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
-          "url": "https://news.ifeng.com/c/8npJJt30xAk",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
           "title": "美国总统特朗普在讲话中谈及重振美国造船业。",
           "url": "https://flash.jin10.com/detail/20251028190823052800",
           "source": "金十数据",
@@ -694,6 +706,17 @@
           "time_info": "15时34分"
         },
         {
+          "title": "据美国官员透露，特朗普政府计划与韩国签署一项协议，旨在加强人工智能、量子计算和6G领域的合作。",
+          "url": "https://flash.jin10.com/detail/20251028231835509800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "特朗普：我们将重新开始造船，很快就会这么做。 我们将与日本合作造船。 日本是美国的大投资者。 丰田将在美国建厂，价值将高达100亿美元。",
           "url": "https://wallstreetcn.com/livenews/2994894",
           "source": "华尔街见闻-快讯",
@@ -727,6 +750,17 @@
           "time_info": "19时30分"
         },
         {
+          "title": "美国众议院议长约翰逊谈及特朗普政府的SNAP计划，称：美国农业部（USDA）的确研究过，但无法提供资金支持。 无法避免美国在11月1日发生食品券悬崖。",
+          "url": "https://wallstreetcn.com/livenews/2995214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "特朗普与高市早苗一同乘机登上美航母",
           "url": "https://www.toutiao.com/trending/7565775120976429082/",
           "source": "今日头条",
@@ -747,6 +781,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：看不到特朗普第三次担任美国总统的可能性。",
+          "url": "https://wallstreetcn.com/livenews/2995213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "特朗普在美航母上讲话时用手拍导弹",
+          "url": "https://www.toutiao.com/trending/7565827783251755027/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "特朗普和高市早苗登华盛顿号航母",
@@ -793,6 +849,17 @@
           "time_info": "12时43分"
         },
         {
+          "title": "特朗普径自走过日本国旗未鞠躬",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BE%84%E8%87%AA%E8%B5%B0%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97%E6%9C%AA%E9%9E%A0%E8%BA%AC",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "美国总统特朗普：日本新首相表现非常出色。",
           "url": "https://flash.jin10.com/detail/20251028185434094800",
           "source": "金十数据",
@@ -813,6 +880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
+        },
+        {
+          "title": "特朗普正式提名迈克尔・塞利格担任美国CFTC主席",
+          "url": "https://wallstreetcn.com/livenews/2995205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "美国总统特朗普：考虑让贝森特担任美联储（主席）职务，但他本人并不想接任。",
@@ -992,8 +1070,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时59分 ~ 22时46分]"
+          "appearance_count": 12,
+          "time_info": "[14时59分 ~ 23时43分]"
         },
         {
           "title": "抖音、腾讯、淘天等 61 家单位签署公约推动互联网平台互通互操作，将对互联网流量分发带来哪些影响？",

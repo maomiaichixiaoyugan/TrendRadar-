@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T21:41:01.996394+08:00",
-  "total_titles_processed": 1752,
+  "generated_at": "2025-10-28T22:46:16.096609+08:00",
+  "total_titles_processed": 1849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 81,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时51分 ~ 21时41分]"
+          "appearance_count": 9,
+          "time_info": "[16时51分 ~ 22时46分]"
         },
         {
           "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
@@ -221,6 +221,17 @@
           "time_info": "19时30分"
         },
         {
+          "title": "针对特朗普关税武器化等问题，日本民众连日抗议日美首脑会谈",
+          "url": "https://wallstreetcn.com/livenews/2995211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "市场消息：苹果(AAPL.O)CEO库克出席了在东京举行的美国总统特朗普晚宴。",
           "url": "https://flash.jin10.com/detail/20251028183803091800",
           "source": "金十数据",
@@ -399,6 +410,29 @@
           "time_info": "[12时43分 ~ 15时34分]"
         },
         {
+          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
+          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时46分]"
+        },
+        {
+          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
+          "url": "https://news.ifeng.com/c/8np198dmCFI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时46分]"
+        },
+        {
           "title": "特朗普再提2028参选可能，点名两个潜在继任者",
           "url": "https://news.ifeng.com/c/8noQCRgOldf",
           "source": "凤凰网",
@@ -408,17 +442,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时34分 ~ 13时42分]"
-        },
-        {
-          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
-          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "特朗普：愿意延长亚洲行与金正恩会面",
@@ -432,17 +455,6 @@
           "time_info": "[11时34分 ~ 12时43分]"
         },
         {
-          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
-          "url": "https://news.ifeng.com/c/8np198dmCFI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
-        },
-        {
           "title": "消息人士：哈马斯称将遵守特朗普计划下的协议。",
           "url": "https://flash.jin10.com/detail/20251028022338078800",
           "source": "金十数据",
@@ -453,6 +465,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时53分 ~ 03时27分]"
+        },
+        {
+          "title": "美国高院即将就特朗普关税案进行庭审 投注网站料其败诉概率约六成",
+          "url": "https://wallstreetcn.com/livenews/2995178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时46分]"
         },
         {
           "title": "特朗普：米莱赢了美国赚了很多，但我们不是为了钱",
@@ -593,6 +617,17 @@
           "time_info": "15时34分"
         },
         {
+          "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
+          "url": "https://news.ifeng.com/c/8npJJt30xAk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "美国总统特朗普在讲话中谈及重振美国造船业。",
           "url": "https://flash.jin10.com/detail/20251028190823052800",
           "source": "金十数据",
@@ -602,17 +637,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
-        },
-        {
-          "title": "美国高院即将就特朗普关税案进行庭审 投注网站料其败诉概率约六成",
-          "url": "https://wallstreetcn.com/livenews/2995178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
         },
         {
           "title": "特朗普想要夺取的格陵兰岛发现新金矿",
@@ -632,7 +656,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -720,7 +744,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -819,7 +843,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -896,7 +920,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -918,7 +942,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         }
@@ -964,11 +988,12 @@
           "ranks": [
             11,
             26,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时59分 ~ 21时41分]"
+          "appearance_count": 11,
+          "time_info": "[14时59分 ~ 22时46分]"
         },
         {
           "title": "抖音、腾讯、淘天等 61 家单位签署公约推动互联网平台互通互操作，将对互联网流量分发带来哪些影响？",

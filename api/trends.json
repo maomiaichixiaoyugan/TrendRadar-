@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T04:41:39.949304+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2025-10-31T05:31:48.915184+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时31分]"
         },
         {
           "title": "特朗普给中美会晤打12分",
           "url": "https://www.douyin.com/hot/2288755",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时31分]"
         },
         {
           "title": "特朗普：给中美元首会晤打12分",
@@ -37,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时31分]"
         },
         {
           "title": "视频丨习近平同美国总统特朗普在釜山举行会晤",
@@ -48,8 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时31分]"
         },
         {
           "title": "胡锡进：特朗普是不是把试验运载技术与搞核试爆搞混了？",
@@ -60,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时31分]"
         },
         {
           "title": "金正恩为何不见特朗普？",
@@ -72,8 +73,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时31分]"
+        },
+        {
+          "title": "特朗普称将下令美航母改回蒸汽弹射",
+          "url": "https://news.ifeng.com/c/8nsP1iIULjB",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时31分]"
         },
         {
           "title": "特朗普批准韩国在美建造核动力潜艇",
@@ -87,16 +100,17 @@
           "time_info": "[00时52分 ~ 03时32分]"
         },
         {
-          "title": "特朗普称将下令美航母改回蒸汽弹射",
-          "url": "https://news.ifeng.com/c/8nsP1iIULjB",
-          "source": "凤凰网",
+          "title": "习近平同美国总统特朗普在釜山举行会晤",
+          "url": "https://wallstreetcn.com/articles/3758273",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            3
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时31分]"
         },
         {
           "title": "特朗普：相信我们将建立长期良好的关系",
@@ -106,20 +120,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普在釜山举行会晤",
-          "url": "https://wallstreetcn.com/articles/3758273",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时31分]"
         },
         {
           "title": "特朗普批准韩华费城造船厂建造核潜艇，外交部：望韩美切实履行核不扩散义务",
@@ -129,8 +131,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时31分]"
         },
         {
           "title": "特朗普的亚洲行，从东盟和韩日等经济体获得了多少现实利益，美国又为此付出了什么，对其经济有何影响？",
@@ -140,8 +142,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时31分]"
         },
         {
           "title": "特朗普：相信我们将建立长期良好关系",
@@ -154,8 +156,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时31分]"
         },
         {
           "title": "美国总统特朗普已抵达华盛顿。",
@@ -169,15 +171,17 @@
           "time_info": "03时32分"
         },
         {
-          "title": "美国贸易代表格里尔：总统特朗普希望与巴西总统卢拉达成一份协议。",
-          "url": "https://wallstreetcn.com/livenews/2997125",
-          "source": "华尔街见闻-快讯",
+          "title": "高市早苗接待特朗普为何“丑态百出”",
+          "url": "https://www.toutiao.com/trending/7566990340884794923/",
+          "source": "今日头条",
           "ranks": [
-            3
+            16,
+            24,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时57分 ~ 05时31分]"
         },
         {
           "title": "美国副总统万斯：美国民众不应该在（总统特朗普）政府关门期间对飞机出行方式感到惶恐不安。 担心飞行员不会重返（飞机）驾驶舱，这造成航班延误。",
@@ -217,6 +221,18 @@
           "time_info": "[01时42分 ~ 03时32分]"
         },
         {
+          "title": "美国贸易代表格里尔：总统特朗普希望与巴西总统卢拉达成一份协议。",
+          "url": "https://wallstreetcn.com/livenews/2997125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时31分]"
+        },
+        {
           "title": "美国副总统万斯：测试核武库功能是否正常是美国总统特朗普宣布的测试计划的一部分。",
           "url": "https://flash.jin10.com/detail/20251031023332558800",
           "source": "金十数据",
@@ -243,19 +259,6 @@
           "time_info": "[00时52分 ~ 04时41分]"
         },
         {
-          "title": "高市早苗接待特朗普为何“丑态百出”",
-          "url": "https://www.toutiao.com/trending/7566990340884794923/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时57分 ~ 04时41分]"
-        },
-        {
           "title": "美国联邦公报文件显示，美国总统特朗普将2026财年的难民接纳上限设定为7500人，创历史新低。",
           "url": "https://flash.jin10.com/detail/20251031002206303800",
           "source": "金十数据",
@@ -266,6 +269,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时42分]"
+        },
+        {
+          "title": "美国总统特朗普的“房管局长”（联邦住房金融局局长）Bill Pulte：房利美今天裁员超过62人。",
+          "url": "https://wallstreetcn.com/livenews/2997108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时31分]"
         },
         {
           "title": "参议院再否决特朗普关税，共和党人持续倒戈",
@@ -280,15 +295,15 @@
           "time_info": "[02时57分 ~ 03时32分]"
         },
         {
-          "title": "美国总统特朗普的“房管局长”（联邦住房金融局局长）Bill Pulte：房利美今天裁员超过62人。",
-          "url": "https://wallstreetcn.com/livenews/2997108",
+          "title": "据知情人士透露，美国总统特朗普的政府罢免房利美多名伦理（与利益冲突相关）官员。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/2997140",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时41分"
+          "time_info": "05时31分"
         },
         {
           "title": "据知情人士透露，福特汽车藐视美国总统特朗普的主张，将在印度发动机工厂投资3.70亿美元。（彭博）",
@@ -297,7 +312,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         }

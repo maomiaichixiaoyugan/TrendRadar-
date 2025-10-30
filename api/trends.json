@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-30T21:45:51.848099+08:00",
-  "total_titles_processed": 1620,
+  "generated_at": "2025-10-30T22:46:32.510827+08:00",
+  "total_titles_processed": 1722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 98,
+      "match_count": 100,
       "titles": [
+        {
+          "title": "习近平同特朗普会晤 详讯公布",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4+%E8%AF%A6%E8%AE%AF%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时54分 ~ 22时46分]"
+        },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
           "url": "https://wallstreetcn.com/articles/3758164",
@@ -44,17 +55,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[11时37分 ~ 18时44分]"
-        },
-        {
-          "title": "习近平同特朗普会晤 详讯公布",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4+%E8%AF%A6%E8%AE%AF%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时54分 ~ 21时45分]"
         },
         {
           "title": "习近平同特朗普握手合影",
@@ -141,11 +141,12 @@
             5,
             10,
             18,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时37分 ~ 17时40分]"
+          "appearance_count": 11,
+          "time_info": "[11时37分 ~ 22时46分]"
         },
         {
           "title": "会晤结束后特朗普送习近平上车",
@@ -157,6 +158,33 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时33分 ~ 19时31分]"
+        },
+        {
+          "title": "特朗普：给中美元首会晤打12分",
+          "url": "https://www.toutiao.com/trending/7566587793552719878/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时40分 ~ 22时46分]"
+        },
+        {
+          "title": "特朗普批准韩国在美建造核动力潜艇",
+          "url": "https://news.ifeng.com/c/8nsFayRT4WM",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时51分 ~ 22时46分]"
         },
         {
           "title": "高市早苗挽特朗普胳膊还蹦蹦跳跳，日本网民：我觉得羞耻",
@@ -173,17 +201,15 @@
           "time_info": "[04时46分 ~ 16时51分]"
         },
         {
-          "title": "特朗普：给中美元首会晤打12分",
-          "url": "https://www.toutiao.com/trending/7566587793552719878/",
-          "source": "今日头条",
+          "title": "特朗普的亚洲行，从东盟和韩日等经济体获得了多少现实利益，美国又为此付出了什么，对其经济有何影响？",
+          "url": "https://www.zhihu.com/question/1966966107974931991",
+          "source": "知乎",
           "ranks": [
-            5,
-            4,
-            1
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时40分 ~ 21时45分]"
+          "appearance_count": 10,
+          "time_info": "[14时54分 ~ 22时46分]"
         },
         {
           "title": "习近平同美国总统特朗普在釜山举行会晤",
@@ -221,19 +247,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时37分 ~ 13时40分]"
-        },
-        {
-          "title": "特朗普批准韩国在美建造核动力潜艇",
-          "url": "https://news.ifeng.com/c/8nsFayRT4WM",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时51分 ~ 21时45分]"
         },
         {
           "title": "特朗普回应会晤",
@@ -304,17 +317,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时46分 ~ 07时33分]"
-        },
-        {
-          "title": "特朗普的亚洲行，从东盟和韩日等经济体获得了多少现实利益，美国又为此付出了什么，对其经济有何影响？",
-          "url": "https://www.zhihu.com/question/1966966107974931991",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时54分 ~ 21时45分]"
         },
         {
           "title": "特朗普称对中美元首会晤持乐观态度，外交部回应",
@@ -440,6 +442,17 @@
           "time_info": "[11时37分 ~ 11时38分]"
         },
         {
+          "title": "习近平与特朗普会晤 完整视频",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4%20%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时46分]"
+        },
+        {
           "title": "习近平同美国总统特朗普会晤开始",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4%E5%BC%80%E5%A7%8B",
           "source": "百度热搜",
@@ -451,6 +464,17 @@
           "time_info": "[11时37分 ~ 11时38分]"
         },
         {
+          "title": "视频丨习近平同美国总统特朗普在釜山举行会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855712",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时46分]"
+        },
+        {
           "title": "美国民主党人报告：特朗普自我挖坑，给了中国底牌",
           "url": "https://news.ifeng.com/c/8nrmtlqWVtM",
           "source": "凤凰网",
@@ -460,6 +484,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时37分 ~ 11时38分]"
+        },
+        {
+          "title": "金正恩为何不见特朗普？",
+          "url": "https://v.ifeng.com/c/8nsXkNaHAu2",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时46分]"
         },
         {
           "title": "特朗普相信中美将建立长期良好关系",
@@ -474,15 +509,16 @@
           "time_info": "[11时37分 ~ 12时42分]"
         },
         {
-          "title": "习近平与特朗普会晤 完整视频",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4%20%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91",
-          "source": "bilibili 热搜",
+          "title": "习近平同美国总统特朗普在釜山举行会晤",
+          "url": "https://wallstreetcn.com/articles/3758273",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时40分 ~ 22时46分]"
         },
         {
           "title": "中方回应“特朗普下令重启核试验”",
@@ -500,15 +536,15 @@
           "time_info": "[16时51分 ~ 21时45分]"
         },
         {
-          "title": "视频丨习近平同美国总统特朗普在釜山举行会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855712",
-          "source": "澎湃新闻",
+          "title": "胡锡进：特朗普是不是把试验运载技术与搞核试爆搞混了？",
+          "url": "https://news.ifeng.com/c/8nsjoFyl6MY",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时45分"
+          "time_info": "22时46分"
         },
         {
           "title": "据Politico：美国总统特朗普国民警卫队华盛顿部署延长至2026年。",
@@ -517,9 +553,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
+        },
+        {
+          "title": "特朗普称将下令美航母改回蒸汽弹射",
+          "url": "https://news.ifeng.com/c/8nsP1iIULjB",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时44分 ~ 22时46分]"
         },
         {
           "title": "美国总统特朗普：可能达成一项规模非常庞大的协议，涉及从阿拉斯加购买石油和天然气。",
@@ -539,7 +586,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -555,17 +602,6 @@
           "time_info": "16时51分"
         },
         {
-          "title": "金正恩为何不见特朗普？",
-          "url": "https://v.ifeng.com/c/8nsXkNaHAu2",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
-        },
-        {
           "title": "金十整理：特朗普10月下旬在贸易方面完成了哪些KPI？",
           "url": "https://flash.jin10.com/detail/20251030162514758800",
           "source": "金十数据",
@@ -577,16 +613,29 @@
           "time_info": "16时51分"
         },
         {
-          "title": "习近平同美国总统特朗普在釜山举行会晤",
-          "url": "https://wallstreetcn.com/articles/3758273",
-          "source": "华尔街见闻",
+          "title": "特朗普给中美会晤打12分",
+          "url": "https://www.douyin.com/hot/2288755",
+          "source": "抖音",
           "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "特朗普批准韩华海洋造船建造核潜艇，外交部：望韩美切实履行核不扩散义务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855444",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
             10,
             9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时40分 ~ 21时45分]"
+          "time_info": "[18时44分 ~ 22时46分]"
         },
         {
           "title": "报告：特朗普在自导自演贸易战中败北",
@@ -614,17 +663,6 @@
           "time_info": "[04时46分 ~ 07时33分]"
         },
         {
-          "title": "特朗普称将下令美航母改回蒸汽弹射",
-          "url": "https://news.ifeng.com/c/8nsP1iIULjB",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时44分 ~ 21时45分]"
-        },
-        {
           "title": "美国总统特朗普：韩国将在费城造船厂建造其核动力潜艇。",
           "url": "https://flash.jin10.com/detail/20251030061319434800",
           "source": "金十数据",
@@ -635,6 +673,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时33分]"
+        },
+        {
+          "title": "特朗普：相信我们将建立长期良好的关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31854436",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时30分 ~ 22时46分]"
         },
         {
           "title": "在美上市韩国ETF美股盘后涨0.8%。 美国总统特朗普称，韩国同意3500亿美元的协议。 韩国将获得更低的关税。",
@@ -686,19 +737,6 @@
           "time_info": "[17时40分 ~ 19时31分]"
         },
         {
-          "title": "特朗普批准韩华海洋造船建造核潜艇，外交部：望韩美切实履行核不扩散义务",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855444",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时44分 ~ 21时45分]"
-        },
-        {
           "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
           "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
           "source": "澎湃新闻",
@@ -748,18 +786,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时54分 ~ 16时51分]"
-        },
-        {
-          "title": "特朗普：相信我们将建立长期良好的关系",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31854436",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时30分 ~ 21时45分]"
         },
         {
           "title": "特朗普为何批准韩国建造核潜艇",
@@ -831,6 +857,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时42分]"
+        },
+        {
+          "title": "特朗普透露计划明年4月访华",
+          "url": "https://www.toutiao.com/trending/7566945252511059482/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时46分]"
         },
         {
           "title": "特朗普：韩国已同意向美国支付3500亿美元 已批准韩国建造核动力潜艇",
@@ -979,17 +1017,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
-        },
-        {
-          "title": "特朗普透露计划明年4月访华",
-          "url": "https://www.toutiao.com/trending/7566945252511059482/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
         },
         {
           "title": "美国总统特朗普：（就印度削减俄罗斯能源进口一事）印度在这方面做得非常好。",

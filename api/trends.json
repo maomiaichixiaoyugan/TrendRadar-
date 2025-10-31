@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T22:50:02.025855+08:00",
-  "total_titles_processed": 1897,
+  "generated_at": "2025-10-31T23:42:30.817735+08:00",
+  "total_titles_processed": 1975,
   "failed_sources": [],
   "trends": [
     {
@@ -18,19 +18,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时52分 ~ 17时39分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
-          "url": "https://www.zhihu.com/question/1967494414290084753",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时35分 ~ 22时50分]"
         },
         {
           "title": "金正恩为何不见特朗普？",
@@ -54,6 +41,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时52分 ~ 07时30分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
+          "url": "https://www.zhihu.com/question/1967494414290084753",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[11时35分 ~ 23时42分]"
         },
         {
           "title": "特朗普：给中美元首会晤打12分",
@@ -90,8 +91,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时35分 ~ 22时50分]"
+          "appearance_count": 15,
+          "time_info": "[11时35分 ~ 23时42分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -103,8 +104,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时35分 ~ 22时50分]"
+          "appearance_count": 15,
+          "time_info": "[11时35分 ~ 23时42分]"
+        },
+        {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时39分 ~ 23时42分]"
         },
         {
           "title": "特朗普给中美会晤打12分",
@@ -147,18 +160,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时52分 ~ 07时30分]"
-        },
-        {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时39分 ~ 22时50分]"
         },
         {
           "title": "特朗普全面关税被参议院批准终止",
@@ -386,17 +387,6 @@
           "time_info": "03时32分"
         },
         {
-          "title": "艾伯维CEO：美国总统特朗普的政府侧重于在IRA（个人退休账户）实施更大力度的（医药）降价。",
-          "url": "https://wallstreetcn.com/livenews/2997792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
           "title": "匈牙利总理欧尔班：预计将与美国总统特朗普达成一项经济协议。",
           "url": "https://flash.jin10.com/detail/20251031144914884800",
           "source": "金十数据",
@@ -490,6 +480,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时31分]"
+        },
+        {
+          "title": "艾伯维CEO：美国总统特朗普的政府侧重于在IRA（个人退休账户）实施更大力度的（医药）降价。",
+          "url": "https://wallstreetcn.com/livenews/2997792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时42分]"
         },
         {
           "title": "美国副总统万斯：测试核武库功能是否正常是美国总统特朗普宣布的测试计划的一部分。",
@@ -796,11 +798,12 @@
             8,
             7,
             6,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时31分 ~ 22时50分]"
+          "appearance_count": 10,
+          "time_info": "[15时31分 ~ 23时42分]"
         },
         {
           "title": "天地剑心抖音追剧团",
@@ -808,11 +811,12 @@
           "source": "抖音",
           "ranks": [
             14,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时28分 ~ 22时50分]"
+          "appearance_count": 6,
+          "time_info": "[19时28分 ~ 23时42分]"
         },
         {
           "title": "抖音双11公演现场直击",
@@ -834,11 +838,12 @@
           "source": "抖音",
           "ranks": [
             25,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时42分 ~ 22时50分]"
+          "appearance_count": 5,
+          "time_info": "[21时42分 ~ 23时42分]"
         }
       ]
     }

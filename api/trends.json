@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T19:30:18.902803+08:00",
-  "total_titles_processed": 1268,
+  "generated_at": "2025-11-01T21:11:20.332396+08:00",
+  "total_titles_processed": 1366,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时34分 ~ 19时30分]"
+          "appearance_count": 13,
+          "time_info": "[11时34分 ~ 21时11分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -74,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时31分 ~ 19时30分]"
+          "appearance_count": 14,
+          "time_info": "[07时31分 ~ 21时11分]"
         },
         {
           "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
@@ -92,8 +93,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时34分 ~ 19时30分]"
+          "appearance_count": 13,
+          "time_info": "[11时34分 ~ 21时11分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
@@ -119,8 +120,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时38分 ~ 19时30分]"
+          "appearance_count": 11,
+          "time_info": "[12时38分 ~ 21时11分]"
         },
         {
           "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
@@ -132,6 +133,29 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时38分 ~ 18时38分]"
+        },
+        {
+          "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
+          "url": "https://news.ifeng.com/c/8nvYkTEOR3A",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时42分 ~ 21时11分]"
+        },
+        {
+          "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
+          "url": "https://news.ifeng.com/c/8nvVRAkK6ND",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时42分 ~ 21时11分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -147,29 +171,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时57分 ~ 06时36分]"
-        },
-        {
-          "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
-          "url": "https://news.ifeng.com/c/8nvYkTEOR3A",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时42分 ~ 19时30分]"
-        },
-        {
-          "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
-          "url": "https://news.ifeng.com/c/8nvVRAkK6ND",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时42分 ~ 19时30分]"
         },
         {
           "title": "加拿大总理卡尼：就（关税相关）广告向美国总统特朗普道歉。",
@@ -285,6 +286,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时37分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
+          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时30分 ~ 21时11分]"
         },
         {
           "title": "据CNN：美国国防部批准向乌克兰提供战斧导弹，最终决策权移交美国总统特朗普。",
@@ -474,17 +486,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
-        },
-        {
-          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
-          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时30分"
         },
         {
           "title": "特朗普：尚未决定是否袭击委内瑞拉境内目标",

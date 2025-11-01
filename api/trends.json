@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T06:35:06.556830+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2025-11-02T07:29:33.425516+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时29分]"
         },
         {
           "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时29分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时29分]"
         },
         {
           "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
@@ -50,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时29分]"
         },
         {
           "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
@@ -63,8 +63,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时29分]"
         },
         {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
@@ -91,11 +91,12 @@
             22,
             27,
             24,
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 05时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 07时29分]"
         }
       ]
     },
@@ -109,11 +110,12 @@
           "source": "抖音",
           "ranks": [
             25,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 07时29分]"
         }
       ]
     }

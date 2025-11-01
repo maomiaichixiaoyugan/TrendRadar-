@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T04:33:45.742944+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2025-11-02T05:27:18.363383+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时27分]"
         },
         {
           "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时27分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -39,19 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时33分]"
-        },
-        {
-          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
-          "url": "https://wallstreetcn.com/articles/3758448",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 01时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时27分]"
         },
         {
           "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
@@ -61,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时27分]"
         },
         {
           "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
@@ -74,8 +63,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时27分]"
+        },
+        {
+          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
+          "url": "https://wallstreetcn.com/articles/3758448",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时36分]"
         }
       ]
     },
@@ -90,11 +90,12 @@
           "ranks": [
             22,
             27,
-            24
+            24,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 05时27分]"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T11:35:09.967074+08:00",
-  "total_titles_processed": 765,
+  "generated_at": "2025-11-01T12:38:37.489523+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -64,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 12时38分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -122,6 +122,18 @@
           "time_info": "[02时57分 ~ 04时37分]"
         },
         {
+          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
+          "url": "https://wallstreetcn.com/articles/3758448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 12时38分]"
+        },
+        {
           "title": "美法官裁定：特朗普政府不得在“停摆”期间暂停食品援助",
           "url": "https://wallstreetcn.com/livenews/2997869",
           "source": "华尔街见闻-快讯",
@@ -158,18 +170,6 @@
           "time_info": "[04时37分 ~ 07时31分]"
         },
         {
-          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
-          "url": "https://wallstreetcn.com/articles/3758448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 11时35分]"
-        },
-        {
           "title": "特朗普：加总理道歉了，没用",
           "url": "https://news.ifeng.com/c/8nv8pIjDqzy",
           "source": "凤凰网",
@@ -177,8 +177,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 12时38分]"
+        },
+        {
+          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 12时38分]"
         },
         {
           "title": "据CNN：美国国防部批准向乌克兰提供战斧导弹，最终决策权移交美国总统特朗普。",
@@ -301,17 +313,6 @@
           "time_info": "[04时37分 ~ 05时26分]"
         },
         {
-          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
-        },
-        {
           "title": "白宫国家经济委员会主任哈塞特：不认可美国法官对“补充营养援助计划”（SNAP）的裁决。 特朗普政府扣留（联邦政府）众多资金显然是有其法理依据的。",
           "url": "https://wallstreetcn.com/livenews/2997871",
           "source": "华尔街见闻-快讯",
@@ -368,6 +369,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
+          "url": "https://news.ifeng.com/c/8nvJX38VYKS",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "美国国务院发言人：美国总统特朗普政府支持废除针对叙利亚的《凯撒法案》制裁。",
           "url": "https://flash.jin10.com/detail/20251101025013494800",
           "source": "金十数据",
@@ -377,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "从东南亚到东北亚，特朗普的核心目标是啥",
+          "url": "https://news.ifeng.com/c/8nvMEROArvE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "特朗普否认已决定对委内瑞拉实施军事打击",
@@ -459,11 +482,12 @@
             19,
             22,
             23,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 11时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 12时38分]"
         },
         {
           "title": "天地剑心抖音追剧团",

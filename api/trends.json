@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T05:28:29.398450+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2025-11-03T06:36:08.438337+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时36分]"
         },
         {
           "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时36分]"
         },
         {
           "title": "奥巴马又怼特朗普政府：无法无天！",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时36分]"
         },
         {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时36分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -60,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时36分]"
         },
         {
           "title": "台名嘴评高市早苗对特朗普进行谄媚外交：失态",
@@ -71,8 +71,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时36分]"
         },
         {
           "title": "特朗普威胁对尼日利亚动武",
@@ -83,22 +83,12 @@
             14,
             15,
             17,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时28分]"
-        },
-        {
-          "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
-          "url": "https://flash.jin10.com/detail/20251103045723386800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时36分]"
         },
         {
           "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
@@ -106,11 +96,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时36分]"
         },
         {
           "title": "美国财长贝森特：特朗普还没有对加拿大征收10%的关税。",
@@ -119,11 +110,12 @@
           "ranks": [
             10,
             11,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时36分]"
         },
         {
           "title": "美国财长贝森特：特朗普政府不会就法官关于“补充营养援助计划”(SNAP)福利的裁决提出上诉。",
@@ -132,22 +124,36 @@
           "ranks": [
             16,
             17,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时36分]"
+        },
+        {
+          "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
+          "url": "https://flash.jin10.com/detail/20251103045723386800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时36分]"
         },
         {
           "title": "据华尔街日报：美国政府停摆即将创下纪录之际，民主党人敦促美国总统特朗普展开谈判。",
           "url": "https://flash.jin10.com/detail/20251103045303406800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时36分]"
         },
         {
           "title": "特朗普主动提“G2” 中国为何不接招",
@@ -174,11 +180,12 @@
           "ranks": [
             30,
             24,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 06时36分]"
         }
       ]
     }

@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-11-02T17:31:09.393996+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2025-11-02T18:36:58.044490+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 17,
       "titles": [
+        {
+          "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
+          "url": "https://wallstreetcn.com/articles/3758488",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时40分 ~ 18时36分]"
+        },
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
           "url": "https://www.cls.cn/detail/2188509",
@@ -22,20 +37,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时45分 ~ 17时31分]"
-        },
-        {
-          "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
-          "url": "https://wallstreetcn.com/articles/3758488",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时40分 ~ 17时31分]"
         },
         {
           "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
@@ -84,17 +85,6 @@
           "time_info": "[00时45分 ~ 07时29分]"
         },
         {
-          "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
-          "url": "https://www.zhihu.com/question/1967205319198372105",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时40分 ~ 17时31分]"
-        },
-        {
           "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
           "source": "澎湃新闻",
@@ -106,6 +96,29 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时45分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
+          "url": "https://www.zhihu.com/question/1967205319198372105",
+          "source": "知乎",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时40分 ~ 18时36分]"
+        },
+        {
+          "title": "特朗普下令“战争部”做好准备",
+          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 18时36分]"
         },
         {
           "title": "美防长：特朗普和我都认为美中关系从未如此之好",
@@ -120,17 +133,6 @@
           "time_info": "[12时41分 ~ 15时31分]"
         },
         {
-          "title": "特朗普下令“战争部”做好准备",
-          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时39分 ~ 17时31分]"
-        },
-        {
           "title": "奥巴马又怼特朗普政府：无法无天！",
           "url": "https://news.ifeng.com/c/8nxDSaDqx8B",
           "source": "凤凰网",
@@ -138,8 +140,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时39分 ~ 17时31分]"
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 18时36分]"
         },
         {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
@@ -167,6 +169,18 @@
           "time_info": "[13时36分 ~ 16时40分]"
         },
         {
+          "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
+          "url": "https://news.ifeng.com/c/8nxFfh4rZIk",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时30分 ~ 18时36分]"
+        },
+        {
           "title": "邵永灵：特朗普又将矛头对准尼日利亚",
           "url": "https://www.toutiao.com/trending/7567991555080850985/",
           "source": "今日头条",
@@ -177,17 +191,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时31分 ~ 16时40分]"
-        },
-        {
-          "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
-          "url": "https://news.ifeng.com/c/8nxFfh4rZIk",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
         },
         {
           "title": "特朗普主动提“G2” 中国为何不接招",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T07:29:33.425516+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2025-11-02T11:40:45.937281+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
@@ -14,22 +14,24 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 11时40分]"
         },
         {
           "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
           "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 11时40分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -76,6 +78,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时45分 ~ 01时36分]"
+        },
+        {
+          "title": "逼近历史最长纪录！美政府“停摆”超31天，特朗普急了",
+          "url": "https://news.ifeng.com/c/8nvnXJwNw8a",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
+          "url": "https://www.zhihu.com/question/1967205319198372105",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
+          "url": "https://wallstreetcn.com/articles/3758488",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T11:43:03.190188+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2025-11-03T12:51:53.020305+08:00",
+  "total_titles_processed": 735,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 11时43分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 12时51分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -94,6 +94,17 @@
           "time_info": "[00时42分 ~ 07时29分]"
         },
         {
+          "title": "特朗普：道歉没用，不谈！",
+          "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 12时51分]"
+        },
+        {
           "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
           "url": "https://wallstreetcn.com/livenews/2998163",
           "source": "华尔街见闻-快讯",
@@ -108,15 +119,15 @@
           "time_info": "[00时43分 ~ 07时29分]"
         },
         {
-          "title": "特朗普：道歉没用，不谈！",
-          "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
+          "title": "特朗普：或向尼日利亚部署美军，以阻止基督徒被屠杀",
+          "url": "https://news.ifeng.com/c/8nyVPcqOvoH",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 12时51分]"
         },
         {
           "title": "美国财长贝森特：特朗普还没有对加拿大征收10%的关税。",
@@ -147,17 +158,6 @@
           "time_info": "[00时43分 ~ 06时36分]"
         },
         {
-          "title": "特朗普：或向尼日利亚部署美军，以阻止基督徒被屠杀",
-          "url": "https://news.ifeng.com/c/8nyVPcqOvoH",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
           "url": "https://flash.jin10.com/detail/20251103045723386800",
           "source": "金十数据",
@@ -184,6 +184,18 @@
           "time_info": "[05时28分 ~ 07时29分]"
         },
         {
+          "title": "核武专家都在猜 特朗普这话什么意思",
+          "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 12时51分]"
+        },
+        {
           "title": "特朗普主动提“G2” 中国为何不接招",
           "url": "https://www.toutiao.com/trending/7567992516465659442/",
           "source": "今日头条",
@@ -194,17 +206,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 07时29分]"
-        },
-        {
-          "title": "核武专家都在猜 特朗普这话什么意思",
-          "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
           "title": "奥巴马怼特朗普政府“无法无天”",
@@ -232,22 +233,24 @@
             24,
             22,
             25,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 11时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 12时51分]"
         },
         {
           "title": "抖音旗下深圳星罗拾光科技公司增资至94.8亿，增幅约437%",
           "url": "https://wallstreetcn.com/livenews/2998311",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时51分]"
         }
       ]
     }

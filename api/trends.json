@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T12:51:53.020305+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2025-11-03T13:47:53.239267+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -51,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 12时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 13时47分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -101,8 +101,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 12时51分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时47分]"
+        },
+        {
+          "title": "特朗普：或向尼日利亚部署美军，以阻止基督徒被屠杀",
+          "url": "https://news.ifeng.com/c/8nyVPcqOvoH",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时47分]"
         },
         {
           "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
@@ -117,17 +128,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时43分 ~ 07时29分]"
-        },
-        {
-          "title": "特朗普：或向尼日利亚部署美军，以阻止基督徒被屠杀",
-          "url": "https://news.ifeng.com/c/8nyVPcqOvoH",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 12时51分]"
         },
         {
           "title": "美国财长贝森特：特朗普还没有对加拿大征收10%的关税。",
@@ -156,6 +156,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时43分 ~ 06时36分]"
+        },
+        {
+          "title": "特朗普称美将干预内塔尼亚胡受审",
+          "url": "https://www.toutiao.com/trending/7567984366324858899/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
@@ -189,11 +200,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 12时51分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时47分]"
         },
         {
           "title": "特朗普主动提“G2” 中国为何不接招",
@@ -217,6 +229,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "特朗普拒绝重启与加拿大的贸易谈判",
+          "url": "https://www.toutiao.com/trending/7567532659673727026/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "特朗普的三角外交玩不转了吗",
+          "url": "https://www.toutiao.com/trending/7568318449886170651/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         }
       ]
     },
@@ -237,8 +271,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 12时51分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 13时47分]"
         },
         {
           "title": "抖音旗下深圳星罗拾光科技公司增资至94.8亿，增幅约437%",

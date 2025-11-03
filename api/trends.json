@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T15:01:33.905781+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2025-11-03T15:40:42.167291+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -51,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 15时01分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 15时40分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -130,6 +130,18 @@
           "time_info": "[00时43分 ~ 07时29分]"
         },
         {
+          "title": "特朗普：中美可以通过合作变得更加强大",
+          "url": "https://news.ifeng.com/c/8nyo3aIzAVP",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时40分]"
+        },
+        {
           "title": "美国财长贝森特：特朗普还没有对加拿大征收10%的关税。",
           "url": "https://flash.jin10.com/detail/20251102221418618800",
           "source": "金十数据",
@@ -158,26 +170,16 @@
           "time_info": "[00时43分 ~ 06时36分]"
         },
         {
-          "title": "特朗普：中美可以通过合作变得更加强大",
-          "url": "https://news.ifeng.com/c/8nyo3aIzAVP",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
-        },
-        {
           "title": "全世界静待美国最高法怎么判，特朗普又改口说“不去了”",
           "url": "https://news.ifeng.com/c/8nyjSz2usjQ",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时40分]"
         },
         {
           "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
@@ -186,9 +188,20 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时40分]"
+        },
+        {
+          "title": "特朗普称中方秘密测试核武器，外交部回应",
+          "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时01分"
+          "time_info": "15时40分"
         },
         {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
@@ -242,6 +255,19 @@
           "time_info": "[11时42分 ~ 13时47分]"
         },
         {
+          "title": "特朗普拒绝重启与加拿大的贸易谈判",
+          "url": "https://www.toutiao.com/trending/7567532659673727026/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 15时40分]"
+        },
+        {
           "title": "特朗普主动提“G2” 中国为何不接招",
           "url": "https://www.toutiao.com/trending/7567992516465659442/",
           "source": "今日头条",
@@ -265,27 +291,26 @@
           "time_info": "[11时42分 ~ 11时43分]"
         },
         {
-          "title": "特朗普拒绝重启与加拿大的贸易谈判",
-          "url": "https://www.toutiao.com/trending/7567532659673727026/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 15时01分]"
-        },
-        {
           "title": "尼日利亚回应：这是特朗普的惯用伎俩",
           "url": "https://news.ifeng.com/c/8nyb8sV86o0",
           "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "特朗普称美将干预内塔尼亚胡受审",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%B9%B2%E9%A2%84%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%8F%97%E5%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "核武专家逐字分析特朗普核试验言论",
@@ -294,7 +319,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },

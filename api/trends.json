@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T13:47:53.239267+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2025-11-03T15:01:33.905781+08:00",
+  "total_titles_processed": 925,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -51,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 13时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 15时01分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -158,15 +158,37 @@
           "time_info": "[00时43分 ~ 06时36分]"
         },
         {
-          "title": "特朗普称美将干预内塔尼亚胡受审",
-          "url": "https://www.toutiao.com/trending/7567984366324858899/",
-          "source": "今日头条",
+          "title": "特朗普：中美可以通过合作变得更加强大",
+          "url": "https://news.ifeng.com/c/8nyo3aIzAVP",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "全世界静待美国最高法怎么判，特朗普又改口说“不去了”",
+          "url": "https://news.ifeng.com/c/8nyjSz2usjQ",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时47分"
+          "time_info": "15时01分"
+        },
+        {
+          "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
+          "url": "https://news.ifeng.com/c/8nyd0LY05uS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
@@ -193,6 +215,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时28分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普称美将干预内塔尼亚胡受审",
+          "url": "https://www.toutiao.com/trending/7567984366324858899/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 15时01分]"
         },
         {
           "title": "核武专家都在猜 特朗普这话什么意思",
@@ -235,11 +269,34 @@
           "url": "https://www.toutiao.com/trending/7567532659673727026/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 15时01分]"
+        },
+        {
+          "title": "尼日利亚回应：这是特朗普的惯用伎俩",
+          "url": "https://news.ifeng.com/c/8nyb8sV86o0",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时47分"
+          "time_info": "15时01分"
+        },
+        {
+          "title": "核武专家逐字分析特朗普核试验言论",
+          "url": "https://www.toutiao.com/trending/7567494416286531625/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "特朗普的三角外交玩不转了吗",
@@ -248,7 +305,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         }
@@ -271,8 +328,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 13时47分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 15时01分]"
         },
         {
           "title": "抖音旗下深圳星罗拾光科技公司增资至94.8亿，增幅约437%",

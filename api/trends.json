@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T16:59:09.758818+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2025-11-03T17:48:52.531355+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -94,6 +94,19 @@
           "time_info": "[00时42分 ~ 07时29分]"
         },
         {
+          "title": "特朗普：中美可以通过合作变得更加强大",
+          "url": "https://news.ifeng.com/c/8nyo3aIzAVP",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时01分 ~ 17时48分]"
+        },
+        {
           "title": "特朗普：道歉没用，不谈！",
           "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
           "source": "凤凰网",
@@ -105,6 +118,17 @@
           "time_info": "[11时42分 ~ 13时47分]"
         },
         {
+          "title": "特朗普称中方秘密测试核武器，外交部回应",
+          "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 17时48分]"
+        },
+        {
           "title": "特朗普：或向尼日利亚部署美军，以阻止基督徒被屠杀",
           "url": "https://news.ifeng.com/c/8nyVPcqOvoH",
           "source": "凤凰网",
@@ -114,30 +138,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时42分 ~ 13时47分]"
-        },
-        {
-          "title": "特朗普：中美可以通过合作变得更加强大",
-          "url": "https://news.ifeng.com/c/8nyo3aIzAVP",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 16时59分]"
-        },
-        {
-          "title": "特朗普称中方秘密测试核武器，外交部回应",
-          "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时40分 ~ 16时59分]"
         },
         {
           "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
@@ -152,6 +152,29 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时43分 ~ 07时29分]"
+        },
+        {
+          "title": "距离史上最长“停摆”纪录只差1天，特朗普回应",
+          "url": "https://news.ifeng.com/c/8nyxD7T9Bvw",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 17时48分]"
+        },
+        {
+          "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
+          "url": "https://news.ifeng.com/c/8nyd0LY05uS",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时01分 ~ 17时48分]"
         },
         {
           "title": "美国财长贝森特：特朗普还没有对加拿大征收10%的关税。",
@@ -192,29 +215,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时01分 ~ 15时40分]"
-        },
-        {
-          "title": "距离史上最长“停摆”纪录只差1天，特朗普回应",
-          "url": "https://news.ifeng.com/c/8nyxD7T9Bvw",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 16时59分]"
-        },
-        {
-          "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
-          "url": "https://news.ifeng.com/c/8nyd0LY05uS",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 16时59分]"
         },
         {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
@@ -304,6 +304,17 @@
           "time_info": "[11时42分 ~ 11时43分]"
         },
         {
+          "title": "美政府停摆特朗普“甩锅”民主党",
+          "url": "https://www.toutiao.com/trending/7567615923956547626/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时48分]"
+        },
+        {
           "title": "尼日利亚回应：这是特朗普的惯用伎俩",
           "url": "https://news.ifeng.com/c/8nyb8sV86o0",
           "source": "凤凰网",
@@ -315,15 +326,26 @@
           "time_info": "15时01分"
         },
         {
-          "title": "美政府停摆特朗普“甩锅”民主党",
-          "url": "https://www.toutiao.com/trending/7567615923956547626/",
-          "source": "今日头条",
+          "title": "特朗普称中方“正在秘密测试核武器”，外交部回应",
+          "url": "https://www.cls.cn/detail/2189459",
+          "source": "财联社热门",
           "ranks": [
-            25
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时59分"
+          "time_info": "17时48分"
+        },
+        {
+          "title": "特朗普：和中国合作能让我们更强大",
+          "url": "https://www.toutiao.com/trending/7567809473297809450/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
         },
         {
           "title": "特朗普称美将干预内塔尼亚胡受审",
@@ -354,7 +376,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },

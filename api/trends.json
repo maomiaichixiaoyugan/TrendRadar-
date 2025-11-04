@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T17:44:05.232896+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2025-11-04T18:50:03.853736+08:00",
+  "total_titles_processed": 1540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -77,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时49分 ~ 17时44分]"
+          "appearance_count": 23,
+          "time_info": "[00时49分 ~ 18时50分]"
         },
         {
           "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
@@ -172,6 +172,28 @@
           "time_info": "[02时48分 ~ 07时32分]"
         },
         {
+          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
+          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时35分 ~ 18时50分]"
+        },
+        {
+          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
+          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 18时50分]"
+        },
+        {
           "title": "日本首相高市早苗：将与特朗普举行更多会晤以深化关系。",
           "url": "https://flash.jin10.com/detail/20251104153456073800",
           "source": "金十数据",
@@ -233,17 +255,6 @@
           "time_info": "[06时39分 ~ 07时32分]"
         },
         {
-          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
-          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时35分 ~ 17时44分]"
-        },
-        {
           "title": "美联储理事库克自特朗普起诉她以来首次公开讲话，称：还没有就12月降息与否做决定。 （在9月份和10月份都）支持FOMC降息，因为就业市场面临的风险超过通胀风险。 当前政策仍然具有适度的限制性。",
           "url": "https://wallstreetcn.com/livenews/2998722",
           "source": "华尔街见闻-快讯",
@@ -254,6 +265,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 04时40分]"
+        },
+        {
+          "title": "特朗普称对中国与其打压不如合作",
+          "url": "https://www.toutiao.com/trending/7568736208902324287/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时43分 ~ 18时50分]"
         },
         {
           "title": "美国总统特朗普：要求交通运输部长Duffee考虑终结纽约市的交通拥堵收费政策。",
@@ -279,6 +302,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时32分 ~ 13时40分]"
+        },
+        {
+          "title": "周泳宏：特朗普想与中国和睦相处",
+          "url": "https://www.toutiao.com/trending/7568747917062704678/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时43分 ~ 18时50分]"
         },
         {
           "title": "特朗普改口不去全球关税合法性听证会",
@@ -413,26 +448,15 @@
           "time_info": "[04时40分 ~ 05时31分]"
         },
         {
-          "title": "周泳宏：特朗普想与中国和睦相处",
-          "url": "https://www.toutiao.com/trending/7568747917062704678/",
+          "title": "中方回应特朗普威胁对尼日利亚动武",
+          "url": "https://www.toutiao.com/trending/7568256133530566719/",
           "source": "今日头条",
           "ranks": [
-            24
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时43分 ~ 17时44分]"
-        },
-        {
-          "title": "特朗普称对中国与其打压不如合作",
-          "url": "https://www.toutiao.com/trending/7568736208902324287/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 17时44分]"
+          "time_info": "[18时49分 ~ 18时50分]"
         },
         {
           "title": "美国总统特朗普的政府官员们表示，将对“补充营养援助计划”（SNAP）提供局部资金。 特朗普的司法部称，11月份将可以获得50%的食品救济资金。 此前，特朗普政府因为联邦政府关门期间的SNAP资金问题而败诉。",
@@ -560,11 +584,12 @@
           "ranks": [
             7,
             9,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时56分 ~ 17时44分]"
+          "appearance_count": 8,
+          "time_info": "[14时56分 ~ 18时50分]"
         },
         {
           "title": "抖音企鹅班火热招新中",
@@ -572,11 +597,12 @@
           "source": "抖音",
           "ranks": [
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时35分 ~ 17时44分]"
+          "appearance_count": 6,
+          "time_info": "[15时35分 ~ 18时50分]"
         }
       ]
     },
@@ -592,8 +618,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 17时44分]"
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 18时50分]"
         }
       ]
     }

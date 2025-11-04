@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T22:46:36.539130+08:00",
-  "total_titles_processed": 1859,
+  "generated_at": "2025-11-04T23:41:24.769033+08:00",
+  "total_titles_processed": 1922,
   "failed_sources": [],
   "trends": [
     {
@@ -94,6 +94,18 @@
           "time_info": "[11时32分 ~ 15时35分]"
         },
         {
+          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
+          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时49分 ~ 23时41分]"
+        },
+        {
           "title": "声称尼日利亚纵容暴力，特朗普威胁动武",
           "url": "https://news.ifeng.com/c/8o00YT3c5ib",
           "source": "凤凰网",
@@ -104,18 +116,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时32分 ~ 14时57分]"
-        },
-        {
-          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
-          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时49分 ~ 22时46分]"
         },
         {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
@@ -196,17 +196,6 @@
           "time_info": "[02时48分 ~ 07时32分]"
         },
         {
-          "title": "佩洛西：特朗普是地表最坏的家伙",
-          "url": "https://www.toutiao.com/trending/7567917613335494699/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 22时46分]"
-        },
-        {
           "title": "日本首相高市早苗：将与特朗普举行更多会晤以深化关系。",
           "url": "https://flash.jin10.com/detail/20251104153456073800",
           "source": "金十数据",
@@ -251,6 +240,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
+        },
+        {
+          "title": "佩洛西：特朗普是地表最坏的家伙",
+          "url": "https://www.toutiao.com/trending/7567917613335494699/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时41分]"
         },
         {
           "title": "奥巴马抨击特朗普释放了什么信号",
@@ -377,6 +378,18 @@
           "time_info": "[16时54分 ~ 17时44分]"
         },
         {
+          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时41分]"
+        },
+        {
           "title": "美国总统特朗普：将要求我们的交通部长考虑取消纽约市拥堵收费。",
           "url": "https://flash.jin10.com/detail/20251104061658652800",
           "source": "金十数据",
@@ -459,18 +472,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时31分]"
-        },
-        {
-          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 22时46分]"
         },
         {
           "title": "美联储理事库克：在法庭审理（美国总统特朗普政府所谓的抵押贷款）官司期间，对各方的支持表示由衷的感谢。 我不会谈论正在进行的庭审，那样做是不合适的。",
@@ -657,11 +658,12 @@
             7,
             9,
             11,
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时56分 ~ 19时33分]"
+          "appearance_count": 11,
+          "time_info": "[14时56分 ~ 23时41分]"
         },
         {
           "title": "杨笠清空抖音",
@@ -705,8 +707,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时35分 ~ 22时46分]"
+          "appearance_count": 11,
+          "time_info": "[15时35分 ~ 23时41分]"
         }
       ]
     },
@@ -723,8 +725,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时54分 ~ 22时46分]"
+          "appearance_count": 10,
+          "time_info": "[16时54分 ~ 23时41分]"
         }
       ]
     }

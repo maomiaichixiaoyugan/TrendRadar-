@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T05:02:07.527596+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2025-11-05T05:32:18.594107+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 05时32分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 05时32分]"
         },
         {
           "title": "白宫新闻秘书Leavitt在新闻发布会上表示：美国总统特朗普的政府在联邦食品救济项目“补充营养援助计划”（SNAP）问题上完全尊重法庭命令。 为SNAP救济金获取资金需要时间。 特朗普在自己社交媒体平台上披露了应急资金的信息。",
@@ -254,7 +254,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -286,8 +286,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 05时32分]"
         },
         {
           "title": "抖音企鹅班火热招新中",
@@ -300,8 +300,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 05时32分]"
         }
       ]
     },
@@ -314,11 +314,12 @@
           "url": "https://www.zhihu.com/question/1968612930045059136",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 05时32分]"
         }
       ]
     }

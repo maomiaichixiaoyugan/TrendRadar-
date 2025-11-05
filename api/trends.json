@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T11:41:27.833159+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2025-11-05T12:43:43.160084+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时43分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -52,7 +53,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -202,6 +203,17 @@
           "time_info": "[01时35分 ~ 02时53分]"
         },
         {
+          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
+          "url": "https://wallstreetcn.com/articles/3758648",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时43分]"
+        },
+        {
           "title": "特朗普称最高法院关税案关乎美国存亡",
           "url": "https://flash.jin10.com/detail/20251105060423187800",
           "source": "金十数据",
@@ -297,17 +309,6 @@
           "time_info": "03时27分"
         },
         {
-          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
-          "url": "https://wallstreetcn.com/articles/3758648",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
           "title": "特朗普的CBS《60分钟》采访吸引约1300万名观众",
           "url": "https://flash.jin10.com/detail/20251105064332489800",
           "source": "金十数据",
@@ -369,7 +370,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -413,7 +414,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },

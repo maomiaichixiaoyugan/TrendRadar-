@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T13:41:20.975270+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2025-11-05T14:54:44.513970+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 13时41分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 14时54分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -138,8 +138,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 13时41分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 14时54分]"
         },
         {
           "title": "匈牙利外交部长Peter Szijjarto：匈牙利计划与美国加强核合作。 总理Viktor Orban将于周五会见美国总统特朗普，匈牙利计划届时提高这方面的合作水平。",
@@ -375,6 +375,17 @@
           "time_info": "11时41分"
         },
         {
+          "title": "如何看待 34 岁马姆达尼成纽约首位千禧一代市长？特朗普曾多次抨击他，他的当选会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1969362121386100394",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
           "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
           "source": "澎湃新闻",
@@ -436,7 +447,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T18:46:46.201075+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2025-11-06T19:31:26.490422+08:00",
+  "total_titles_processed": 1623,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时41分 ~ 18时46分]"
+          "appearance_count": 12,
+          "time_info": "[11时41分 ~ 19时31分]"
         },
         {
           "title": "特朗普：美国第一，俄罗斯第二，中国第三",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时48分 ~ 18时46分]"
+          "appearance_count": 11,
+          "time_info": "[12时48分 ~ 19时31分]"
         },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -44,6 +44,18 @@
           "time_info": "[00时56分 ~ 11时41分]"
         },
         {
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时55分 ~ 19时31分]"
+        },
+        {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
           "url": "https://wallstreetcn.com/articles/3758695",
           "source": "华尔街见闻",
@@ -54,18 +66,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时56分 ~ 07时33分]"
-        },
-        {
-          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
-          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时55分 ~ 18时46分]"
         },
         {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
@@ -89,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[05时32分 ~ 18时46分]"
+          "appearance_count": 17,
+          "time_info": "[05时32分 ~ 19时31分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -511,7 +511,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -665,7 +665,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },

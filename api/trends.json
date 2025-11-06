@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T22:45:23.836757+08:00",
-  "total_titles_processed": 1881,
+  "generated_at": "2025-11-06T23:44:47.823912+08:00",
+  "total_titles_processed": 1957,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时41分 ~ 22时45分]"
+          "appearance_count": 15,
+          "time_info": "[11时41分 ~ 23时44分]"
         },
         {
           "title": "特朗普：美国第一，俄罗斯第二，中国第三",
@@ -137,8 +137,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时45分]"
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时44分]"
         },
         {
           "title": "涉及特朗普，BBC被曝严重造假！",
@@ -487,6 +487,18 @@
           "time_info": "[00时56分 ~ 01时39分]"
         },
         {
+          "title": "特朗普重申不会出席G20峰会",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时44分]"
+        },
+        {
           "title": "美国总统特朗普：可能与俄罗斯等国制定去核化计划。",
           "url": "https://flash.jin10.com/detail/20251106033540610800",
           "source": "金十数据",
@@ -515,7 +527,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -641,13 +653,24 @@
           "time_info": "16时53分"
         },
         {
+          "title": "美国联邦上诉法院为特朗普提供新机会，允其再次举证封口费刑事案应属联邦法院管辖。",
+          "url": "https://flash.jin10.com/detail/20251106231324844800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "据CNN：美国总统特朗普政府认为（对委内瑞拉的）地面打击缺乏法律依据。",
           "url": "https://flash.jin10.com/detail/20251106222508952800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -669,7 +692,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -691,7 +714,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -727,17 +750,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
-        },
-        {
-          "title": "特朗普重申不会出席G20峰会",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
         },
         {
           "title": "如何看待纽约新市长叫板特朗普",

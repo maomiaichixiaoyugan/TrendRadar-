@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-06T16:53:24.473075+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2025-11-06T17:43:14.244436+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 57,
       "titles": [
+        {
+          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
+          "url": "https://wallstreetcn.com/articles/3758755",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时41分 ~ 17时43分]"
+        },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
           "url": "https://wallstreetcn.com/articles/3758705",
@@ -20,15 +32,16 @@
           "time_info": "[00时56分 ~ 11时41分]"
         },
         {
-          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
-          "url": "https://wallstreetcn.com/articles/3758755",
-          "source": "华尔街见闻",
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "source": "凤凰网",
           "ranks": [
+            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时41分 ~ 16时53分]"
+          "appearance_count": 9,
+          "time_info": "[12时48分 ~ 17时43分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -43,18 +56,6 @@
           "time_info": "[00时56分 ~ 07时33分]"
         },
         {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时48分 ~ 16时53分]"
-        },
-        {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
           "url": "https://www.cls.cn/detail/2192410",
           "source": "财联社热门",
@@ -64,6 +65,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时41分 ~ 14时56分]"
+        },
+        {
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 17时43分]"
         },
         {
           "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
@@ -76,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[05时32分 ~ 16时53分]"
+          "appearance_count": 15,
+          "time_info": "[05时32分 ~ 17时43分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -113,17 +126,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时41分 ~ 13时40分]"
-        },
-        {
-          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
-          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时55分 ~ 16时53分]"
         },
         {
           "title": "涉及特朗普，BBC被曝严重造假！",
@@ -165,7 +167,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -575,7 +577,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -641,7 +643,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -663,7 +665,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }

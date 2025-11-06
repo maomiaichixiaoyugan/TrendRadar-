@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T19:31:26.490422+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2025-11-06T21:44:37.739138+08:00",
+  "total_titles_processed": 1772,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时41分 ~ 19时31分]"
+          "appearance_count": 13,
+          "time_info": "[11时41分 ~ 21时44分]"
         },
         {
           "title": "特朗普：美国第一，俄罗斯第二，中国第三",
@@ -25,11 +25,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时48分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[12时48分 ~ 21时44分]"
         },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -137,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "特朗普为什么总是针对南非？",
+          "url": "https://news.ifeng.com/c/8o3ygttojoa",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "美国总统特朗普：（谈最高法院关税听证会）如果我们输掉那起案件，将是一场灾难。",
@@ -378,6 +390,17 @@
           "time_info": "[03时29分 ~ 04时41分]"
         },
         {
+          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
+          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 21时44分]"
+        },
+        {
           "title": "据CNBC：特朗普对西屋电气核能领域的投资，可能会推动该公司上市，而美国政府将成为其股东。",
           "url": "https://flash.jin10.com/detail/20251106025104417800",
           "source": "金十数据",
@@ -505,15 +528,15 @@
           "time_info": "12时49分"
         },
         {
-          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
-          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "美国贸易代表格里尔：美国总统特朗普从未声称自己拥有无限制的关税权力。",
+          "url": "https://flash.jin10.com/detail/20251106210925726800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "21时44分"
         },
         {
           "title": "市场消息：特朗普提名的美国航空航天局局长贾里德·艾萨克曼提议最早于明年发射一次无人火星任务。",
@@ -547,6 +570,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "民主党接连胜选之后 特朗普要求立即通过支出法案以结束停摆",
+          "url": "https://www.cls.cn/detail/2192934",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "美国总统特朗普称赞加密货币，称其减轻了美元压力。",
@@ -695,7 +729,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "曹骏抖音武术班开课啦",
@@ -737,6 +771,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时49分 ~ 13时40分]"
+        },
+        {
+          "title": "抖音：将进一步规范金融账号经营行为",
+          "url": "https://www.cls.cn/detail/2192891",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         }
       ]
     }

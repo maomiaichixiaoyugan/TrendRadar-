@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T16:52:12.311439+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2025-11-07T17:37:40.763316+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -50,11 +50,23 @@
             5,
             25,
             21,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时35分 ~ 16时52分]"
+          "appearance_count": 8,
+          "time_info": "[11时35分 ~ 17时37分]"
+        },
+        {
+          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
+          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 17时37分]"
         },
         {
           "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
@@ -67,17 +79,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时35分 ~ 16时52分]"
-        },
-        {
-          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
-          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时33分 ~ 16时52分]"
         },
         {
           "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
@@ -176,6 +177,18 @@
           "time_info": "11时35分"
         },
         {
+          "title": "关税案开审，特朗普：美国人确实付出代价",
+          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 17时37分]"
+        },
+        {
           "title": "据CNN：消息人士称，特朗普政府正考虑从周五起削减4%的航班，并在此后政府停摆每持续一天，再逐日增加1%的削减幅度。",
           "url": "https://flash.jin10.com/detail/20251107023254631800",
           "source": "金十数据",
@@ -258,17 +271,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时55分]"
-        },
-        {
-          "title": "关税案开审，特朗普：美国人确实付出代价",
-          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时33分 ~ 16时52分]"
         },
         {
           "title": "特朗普官宣降价减肥药企高管当场晕倒",
@@ -587,6 +589,17 @@
           "time_info": "15时33分"
         },
         {
+          "title": "为何说特朗普处于重返白宫后最大困境",
+          "url": "https://www.toutiao.com/trending/7568788294771720243/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "韩国官员：我们目前的设想是从美国获得核动力潜艇的燃料供应。韩国总统李在明告诉美国总统特朗普，韩国将在国内建造核潜艇。",
           "url": "https://flash.jin10.com/detail/20251107144300306800",
           "source": "金十数据",
@@ -788,7 +801,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "恒生科技指数日内跌幅扩大至2%，快手跌超5%，蔚来跌近5%。",
@@ -813,6 +826,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时30分]"
+        },
+        {
+          "title": "终于等到茜拉第一条抖音了",
+          "url": "https://www.douyin.com/hot/2298107",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         }
       ]
     }

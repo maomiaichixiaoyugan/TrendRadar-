@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T19:30:25.037860+08:00",
-  "total_titles_processed": 1617,
+  "generated_at": "2025-11-07T21:36:36.806751+08:00",
+  "total_titles_processed": 1749,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时33分 ~ 19时30分]"
+          "appearance_count": 8,
+          "time_info": "[15时33分 ~ 21时36分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -192,6 +192,17 @@
           "time_info": "11时35分"
         },
         {
+          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
+          "url": "https://news.ifeng.com/c/8o5WciamJwF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 21时36分]"
+        },
+        {
           "title": "据CNN：消息人士称，特朗普政府正考虑从周五起削减4%的航班，并在此后政府停摆每持续一天，再逐日增加1%的削减幅度。",
           "url": "https://flash.jin10.com/detail/20251107023254631800",
           "source": "金十数据",
@@ -276,15 +287,16 @@
           "time_info": "[01时40分 ~ 02时55分]"
         },
         {
-          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
-          "url": "https://news.ifeng.com/c/8o5WciamJwF",
-          "source": "凤凰网",
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 19时30分]"
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 21时36分]"
         },
         {
           "title": "特朗普官宣降价减肥药企高管当场晕倒",
@@ -401,17 +413,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时35分 ~ 13时43分]"
-        },
-        {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 19时30分]"
         },
         {
           "title": "经贸大战背后 特朗普正在包围欧洲吗",
@@ -664,7 +665,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -856,11 +857,12 @@
           "source": "抖音",
           "ranks": [
             26,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时30分]"
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 21时36分]"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至2%，快手跌超5%，蔚来跌近5%。",

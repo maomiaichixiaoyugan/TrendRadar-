@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T05:28:56.378833+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2025-11-08T06:36:19.136669+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普痛骂佩洛西",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时36分]"
         },
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时36分]"
         },
         {
           "title": "特朗普真想对委内瑞拉开战吗？",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时36分]"
         },
         {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
@@ -49,8 +49,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时36分]"
         },
         {
           "title": "美国总统特朗普欢迎匈牙利总理访问白宫。",
@@ -64,15 +64,15 @@
           "time_info": "01时36分"
         },
         {
-          "title": "美国总统特朗普：在达成临时开支立法草案之前，参议院成员们都不应该离开华盛顿特区（国会山所在地）。",
-          "url": "https://wallstreetcn.com/livenews/3001408",
+          "title": "美国总统特朗普：期待2026年在美国迈阿密轮值主办二十国集团（G20）峰会。",
+          "url": "https://wallstreetcn.com/livenews/3001419",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "06时36分"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -98,6 +98,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时48分 ~ 04时33分]"
+        },
+        {
+          "title": "美国总统特朗普：在达成临时开支立法草案之前，参议院成员们都不应该离开华盛顿特区（国会山所在地）。",
+          "url": "https://wallstreetcn.com/livenews/3001408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时36分]"
         },
         {
           "title": "美国总统特朗普：如果共和党废除阻挠议事（冗长辩论）规则，他们将在未来多年赢得胜利；如果他们不这样做，灾难将不可避免！",
@@ -172,6 +184,18 @@
           "time_info": "[02时48分 ~ 03时28分]"
         },
         {
+          "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
+          "url": "https://wallstreetcn.com/livenews/3001405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时36分]"
+        },
+        {
           "title": "美国总统特朗普：不知道政府停摆会持续多久。",
           "url": "https://flash.jin10.com/detail/20251108021803798800",
           "source": "金十数据",
@@ -218,6 +242,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 04时33分]"
+        },
+        {
+          "title": "美国总统特朗普要求司法部调查众多肉联厂（肉类包装公司）。",
+          "url": "https://wallstreetcn.com/livenews/3001393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时36分]"
         },
         {
           "title": "美国总统特朗普：没有哪个国家在经济方面能接近美国。",
@@ -278,28 +314,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时28分]"
-        },
-        {
-          "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
-          "url": "https://wallstreetcn.com/livenews/3001405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "美国总统特朗普要求司法部调查众多肉联厂（肉类包装公司）。",
-          "url": "https://wallstreetcn.com/livenews/3001393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
         },
         {
           "title": "据纽约时报：康奈尔大学与特朗普政府达成协议，将恢复研究经费。",

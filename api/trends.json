@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T15:33:34.480760+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2025-11-07T16:52:12.311439+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -42,6 +42,58 @@
           "time_info": "[00时56分 ~ 07时30分]"
         },
         {
+          "title": "特朗普：美国人正为关税付出代价",
+          "url": "https://www.toutiao.com/trending/7569021464603901971/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            5,
+            25,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时35分 ~ 16时52分]"
+        },
+        {
+          "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
+          "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时35分 ~ 16时52分]"
+        },
+        {
+          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
+          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时33分 ~ 16时52分]"
+        },
+        {
+          "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
+          "url": "https://www.cls.cn/detail/2193664",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时35分 ~ 16时52分]"
+        },
+        {
           "title": "特朗普会否成为“跛脚总统”",
           "url": "https://www.toutiao.com/trending/7569576151731932699/",
           "source": "今日头条",
@@ -69,27 +121,13 @@
           "time_info": "02时55分"
         },
         {
-          "title": "特朗普：美国人正为关税付出代价",
-          "url": "https://www.toutiao.com/trending/7569021464603901971/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            5,
-            25,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 15时33分]"
-        },
-        {
           "title": "特朗普称已与中俄领导人讨论无核化，外交部：中国核力量与美俄完全不在一个量级",
           "url": "https://wallstreetcn.com/livenews/3001047",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -103,29 +141,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
-        },
-        {
-          "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
-          "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 15时33分]"
-        },
-        {
-          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
-          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
         },
         {
           "title": "市场消息：特朗普政府正准备就法官要求在周五前全额支付 补充营养协助计划（SNAP）食品福利的命令提出上诉。",
@@ -159,19 +174,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
-        },
-        {
-          "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
-          "url": "https://www.cls.cn/detail/2193664",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 15时33分]"
         },
         {
           "title": "据CNN：消息人士称，特朗普政府正考虑从周五起削减4%的航班，并在此后政府停摆每持续一天，再逐日增加1%的削减幅度。",
@@ -256,6 +258,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时55分]"
+        },
+        {
+          "title": "关税案开审，特朗普：美国人确实付出代价",
+          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时33分 ~ 16时52分]"
+        },
+        {
+          "title": "特朗普官宣降价减肥药企高管当场晕倒",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7%E5%87%8F%E8%82%A5%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D9%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AE%2598%25E5%25AE%25A3%25E9%2599%258D%25E4%25BB%25B7%25E5%2587%258F%25E8%2582%25A5%25E8%258D%25AF%25E4%25BC%2581%25E9%25AB%2598%25E7%25AE%25A1%25E5%25BD%2593%25E5%259C%25BA%25E6%2599%2595%25E5%2580%2592%2523%26stream_entry_id%3D31%26dgr%3D0%26pos%3D9%26realpos%3D9%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1762500743%26pre_seqid%3D176250074366103328592102&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时33分 ~ 16时52分]"
         },
         {
           "title": "美国总统特朗普：共和党因为经济承受问题而在民主党占优势的地区败选。",
@@ -362,6 +387,18 @@
           "time_info": "[11时35分 ~ 13时43分]"
         },
         {
+          "title": "经贸大战背后 特朗普正在包围欧洲吗",
+          "url": "https://www.toutiao.com/trending/7569784878405783081/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 16时52分]"
+        },
+        {
           "title": "美国总统特朗普：如果最高法院做出不利于关税的裁决，那将是“毁灭性的”。",
           "url": "https://wallstreetcn.com/livenews/3000682",
           "source": "华尔街见闻-快讯",
@@ -372,6 +409,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时55分]"
+        },
+        {
+          "title": "特朗普就美高院激辩关税表态",
+          "url": "https://www.toutiao.com/trending/7569800305303359018/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 16时52分]"
         },
         {
           "title": "美国总统特朗普：我们会安排好去印度的行程，可能是明年。",
@@ -506,17 +554,6 @@
           "time_info": "[11时35分 ~ 12时42分]"
         },
         {
-          "title": "关税案开审，特朗普：美国人确实付出代价",
-          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
           "title": "美国总统特朗普：美国人必须能够以全球最低的价格购买药品，这是他们的权利。",
           "url": "https://flash.jin10.com/detail/20251107013210117800",
           "source": "金十数据",
@@ -545,7 +582,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -570,17 +607,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
-        },
-        {
-          "title": "特朗普官宣降价减肥药企高管当场晕倒",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7%E5%87%8F%E8%82%A5%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D9%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AE%2598%25E5%25AE%25A3%25E9%2599%258D%25E4%25BB%25B7%25E5%2587%258F%25E8%2582%25A5%25E8%258D%25AF%25E4%25BC%2581%25E9%25AB%2598%25E7%25AE%25A1%25E5%25BD%2593%25E5%259C%25BA%25E6%2599%2595%25E5%2580%2592%2523%26stream_entry_id%3D31%26dgr%3D0%26pos%3D9%26realpos%3D9%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1762500743%26pre_seqid%3D176250074366103328592102&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
         },
         {
           "title": "特朗普回应共和党选举失利",
@@ -647,17 +673,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        },
-        {
-          "title": "经贸大战背后 特朗普正在包围欧洲吗",
-          "url": "https://www.toutiao.com/trending/7569784878405783081/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
         },
         {
           "title": "美国众议长约翰逊：我可不会对（总统特朗普的政府关门期间的）医疗保健补贴问题作出投票承诺。",

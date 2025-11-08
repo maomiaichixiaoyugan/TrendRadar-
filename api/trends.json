@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T15:29:03.279876+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2025-11-08T16:42:07.786833+08:00",
+  "total_titles_processed": 1076,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普痛骂佩洛西",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时16分 ~ 15时29分]"
+          "appearance_count": 9,
+          "time_info": "[11时16分 ~ 16时42分]"
         },
         {
           "title": "特朗普真想对委内瑞拉开战吗？",
@@ -71,11 +71,12 @@
           "ranks": [
             20,
             16,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时16分 ~ 15时29分]"
+          "appearance_count": 9,
+          "time_info": "[11时16分 ~ 16时42分]"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -102,6 +103,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://flash.jin10.com/detail/20251108154641553800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时50分 ~ 16时42分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -191,17 +214,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时16分 ~ 14时50分]"
-        },
-        {
-          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
-          "url": "https://wallstreetcn.com/articles/3758942",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时50分 ~ 15时29分]"
         },
         {
           "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
@@ -554,11 +566,12 @@
           "ranks": [
             14,
             10,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时16分 ~ 15时29分]"
+          "appearance_count": 9,
+          "time_info": "[11时16分 ~ 16时42分]"
         },
         {
           "title": "终于等到茜拉第一条抖音了",

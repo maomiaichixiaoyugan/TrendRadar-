@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T19:25:50.699792+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2025-11-08T21:06:35.526047+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普痛骂佩洛西",
@@ -53,6 +53,19 @@
           "time_info": "[00时45分 ~ 07时30分]"
         },
         {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时50分 ~ 21时06分]"
+        },
+        {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
           "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
           "source": "澎湃新闻",
@@ -79,39 +92,16 @@
           "time_info": "[11时16分 ~ 17时31分]"
         },
         {
-          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
-          "url": "https://wallstreetcn.com/articles/3758942",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时50分 ~ 19时25分]"
-        },
-        {
           "title": "南非政府发表声明驳斥特朗普言论",
           "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 19时25分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
-          "url": "https://flash.jin10.com/detail/20251108183318165800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 21时06分]"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -146,9 +136,23 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
+        },
+        {
+          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
+          "url": "https://wallstreetcn.com/articles/3758970",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 21时06分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -175,6 +179,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时35分 ~ 04时33分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
+          "url": "https://flash.jin10.com/detail/20251108183318165800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 21时06分]"
         },
         {
           "title": "美国总统特朗普：在达成临时开支立法草案之前，参议院成员们都不应该离开华盛顿特区（国会山所在地）。",
@@ -214,19 +230,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时16分 ~ 13时38分]"
-        },
-        {
-          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
-          "url": "https://wallstreetcn.com/articles/3758970",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 19时25分]"
         },
         {
           "title": "美国总统特朗普：如果共和党废除阻挠议事（冗长辩论）规则，他们将在未来多年赢得胜利；如果他们不这样做，灾难将不可避免！",
@@ -435,6 +438,18 @@
           "time_info": "[02时48分 ~ 03时28分]"
         },
         {
+          "title": "为关键矿产特朗普再向中亚发力，美国能否缓解“稀土困局”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31917706",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 21时06分]"
+        },
+        {
           "title": "美国总统特朗普：通胀处于一个完美的水平。",
           "url": "https://flash.jin10.com/detail/20251108021030096800",
           "source": "金十数据",
@@ -506,6 +521,17 @@
           "time_info": "[02时48分 ~ 03时28分]"
         },
         {
+          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
+          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
           "title": "惠誉：确认爱尔兰AA评级，前景展望稳定。 美国总统特朗普上调关税和（爱尔兰自身）近期税收立法的影响似乎有限。",
           "url": "https://wallstreetcn.com/livenews/3001426",
           "source": "华尔街见闻-快讯",
@@ -526,17 +552,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
-        },
-        {
-          "title": "为关键矿产特朗普再向中亚发力，美国能否缓解“稀土困局”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31917706",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时36分"
         },
         {
           "title": "专家：特朗普对中国关税战没占到便宜",
@@ -634,8 +649,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时16分 ~ 19时25分]"
+          "appearance_count": 14,
+          "time_info": "[11时16分 ~ 21时06分]"
         },
         {
           "title": "终于等到茜拉第一条抖音了",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T06:33:26.962348+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2025-11-09T07:29:13.024344+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 07时29分]"
         },
         {
           "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 06时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 07时29分]"
         },
         {
           "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 07时29分]"
         },
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
@@ -49,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 07时29分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -60,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 07时29分]"
         },
         {
           "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
@@ -74,8 +74,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 06时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 07时29分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
+          "url": "https://flash.jin10.com/detail/20251108183318165800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 07时29分]"
         },
         {
           "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
@@ -89,15 +100,15 @@
           "time_info": "[00时42分 ~ 04时33分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
-          "url": "https://flash.jin10.com/detail/20251108183318165800",
-          "source": "金十数据",
+          "title": "特朗普又盯上了美国肉价，“铁拳”挥向四巨头",
+          "url": "https://wallstreetcn.com/articles/3758966",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 06时33分]"
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
         }
       ]
     },
@@ -116,8 +127,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 06时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 07时29分]"
         }
       ]
     }

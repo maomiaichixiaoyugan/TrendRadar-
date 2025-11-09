@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T22:34:10.230764+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2025-11-09T23:31:50.513392+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
@@ -20,6 +20,20 @@
           "time_info": "[00时42分 ~ 11时36分]"
         },
         {
+          "title": "拜登狠批特朗普",
+          "url": "https://www.douyin.com/hot/2300132",
+          "source": "抖音",
+          "ranks": [
+            6,
+            1,
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时30分 ~ 23时31分]"
+        },
+        {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
           "url": "https://wallstreetcn.com/articles/3758981",
           "source": "华尔街见闻",
@@ -30,8 +44,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时40分 ~ 22时34分]"
+          "appearance_count": 16,
+          "time_info": "[12时40分 ~ 23时31分]"
+        },
+        {
+          "title": "“特朗普外交政策，万变不离中国”",
+          "url": "https://news.ifeng.com/c/8o8e3UWF1zn",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时31分 ~ 23时31分]"
         },
         {
           "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
@@ -57,20 +83,6 @@
           "time_info": "[15时30分 ~ 19时25分]"
         },
         {
-          "title": "拜登狠批特朗普",
-          "url": "https://www.douyin.com/hot/2300132",
-          "source": "抖音",
-          "ranks": [
-            6,
-            1,
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时30分 ~ 21时07分]"
-        },
-        {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
           "url": "https://wallstreetcn.com/articles/3758973",
           "source": "华尔街见闻",
@@ -82,18 +94,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时42分 ~ 13时35分]"
-        },
-        {
-          "title": "“特朗普外交政策，万变不离中国”",
-          "url": "https://news.ifeng.com/c/8o8e3UWF1zn",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时31分 ~ 22时34分]"
         },
         {
           "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
@@ -212,11 +212,12 @@
           "url": "https://wallstreetcn.com/livenews/3001704",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 23时31分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
@@ -225,11 +226,12 @@
           "ranks": [
             1,
             8,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 22时34分]"
+          "appearance_count": 5,
+          "time_info": "[18时36分 ~ 23时31分]"
         },
         {
           "title": "特朗普疑似在新闻发布会上“打盹”的画面引发热议",
@@ -238,11 +240,23 @@
           "ranks": [
             3,
             10,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 22时34分]"
+          "appearance_count": 5,
+          "time_info": "[18时36分 ~ 23时31分]"
+        },
+        {
+          "title": "特朗普提名约翰·科尔为美国驻白俄罗斯特使",
+          "url": "https://flash.jin10.com/detail/20251109225052216800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "若特朗普关税政策被推翻市场如何反应",
@@ -275,11 +289,25 @@
           "source": "金十数据",
           "ranks": [
             4,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 22时34分]"
+          "appearance_count": 3,
+          "time_info": "[21时07分 ~ 23时31分]"
+        },
+        {
+          "title": "美国总统特朗普：奥巴马医改“糟透了”，这是价格最高但质量最差的医疗体系。",
+          "url": "https://flash.jin10.com/detail/20251109201626112800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时07分 ~ 23时31分]"
         },
         {
           "title": "媒体：未经立法，特朗普团队秘密向超级富有企业提供大规模税收减免",
@@ -294,18 +322,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时35分 ~ 16时41分]"
-        },
-        {
-          "title": "美国总统特朗普：奥巴马医改“糟透了”，这是价格最高但质量最差的医疗体系。",
-          "url": "https://flash.jin10.com/detail/20251109201626112800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 22时34分]"
         },
         {
           "title": "美国民航业陷入灾难 特朗普如何收场",
@@ -325,11 +341,24 @@
           "source": "金十数据",
           "ranks": [
             6,
-            15
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时07分 ~ 23时31分]"
+        },
+        {
+          "title": "特朗普炮轰美最高法院 为自己的关税政策激烈辩护",
+          "url": "https://flash.jin10.com/detail/20251109213351299800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时07分 ~ 22时34分]"
+          "time_info": "[22时34分 ~ 23时31分]"
         },
         {
           "title": "特朗普又盯上了美国肉价，“铁拳”挥向四巨头",
@@ -352,17 +381,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时35分 ~ 11时36分]"
-        },
-        {
-          "title": "特朗普炮轰美最高法院 为自己的关税政策激烈辩护",
-          "url": "https://flash.jin10.com/detail/20251109213351299800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T18:36:08.149499+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2025-11-09T19:25:30.561742+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,20 @@
           "time_info": "[00时42分 ~ 11时36分]"
         },
         {
+          "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
+          "url": "https://wallstreetcn.com/articles/3758981",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时40分 ~ 19时25分]"
+        },
+        {
           "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
           "url": "https://flash.jin10.com/detail/20251108220636044800",
           "source": "金十数据",
@@ -31,17 +45,16 @@
           "time_info": "[00时42分 ~ 07时29分]"
         },
         {
-          "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
-          "url": "https://wallstreetcn.com/articles/3758981",
-          "source": "华尔街见闻",
+          "title": "拜登狠批特朗普：让国家蒙羞",
+          "url": "https://www.toutiao.com/trending/7569666407429324863/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            6,
-            3
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时40分 ~ 18时36分]"
+          "appearance_count": 7,
+          "time_info": "[15时30分 ~ 19时25分]"
         },
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
@@ -57,35 +70,12 @@
           "time_info": "[00时42分 ~ 13时35分]"
         },
         {
-          "title": "拜登狠批特朗普：让国家蒙羞",
-          "url": "https://www.toutiao.com/trending/7569666407429324863/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时30分 ~ 18时36分]"
-        },
-        {
           "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
           "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
           "source": "凤凰网",
           "ranks": [
             6,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 14时51分]"
-        },
-        {
-          "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
-          "source": "凤凰网",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 17,
@@ -101,8 +91,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时30分 ~ 18时36分]"
+          "appearance_count": 7,
+          "time_info": "[15时30分 ~ 19时25分]"
+        },
+        {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时42分 ~ 14时51分]"
         },
         {
           "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
@@ -132,6 +133,20 @@
           "time_info": "[13时35分 ~ 16时41分]"
         },
         {
+          "title": "拜登狠批特朗普：让国家蒙羞",
+          "url": "https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E7%8B%A0%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%AE%A9%E5%9B%BD%E5%AE%B6%E8%92%99%E7%BE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            22,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时30分 ~ 19时25分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
           "url": "https://flash.jin10.com/detail/20251108183318165800",
           "source": "金十数据",
@@ -141,6 +156,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 07时29分]"
+        },
+        {
+          "title": "“特朗普外交政策，万变不离中国”",
+          "url": "https://news.ifeng.com/c/8o8e3UWF1zn",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时25分]"
         },
         {
           "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
@@ -165,53 +192,15 @@
           "time_info": "[14时50分 ~ 15时30分]"
         },
         {
-          "title": "拜登狠批特朗普：让国家蒙羞",
-          "url": "https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E7%8B%A0%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%AE%A9%E5%9B%BD%E5%AE%B6%E8%92%99%E7%BE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            22,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时30分 ~ 18时36分]"
-        },
-        {
-          "title": "叙利亚领导人沙拉抵美开启访问，将前往白宫会见特朗普",
-          "url": "https://wallstreetcn.com/livenews/3001663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时36分]"
-        },
-        {
-          "title": "“特朗普外交政策，万变不离中国”",
-          "url": "https://news.ifeng.com/c/8o8e3UWF1zn",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 18时36分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
           "url": "https://flash.jin10.com/detail/20251109183325380800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 19时25分]"
         },
         {
           "title": "特朗普疑似在新闻发布会上“打盹”的画面引发热议",
@@ -220,9 +209,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 19时25分]"
+        },
+        {
+          "title": "叙利亚领导人沙拉抵美开启访问，将前往白宫会见特朗普",
+          "url": "https://wallstreetcn.com/livenews/3001663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时25分]"
         },
         {
           "title": "若特朗普关税政策被推翻市场如何反应",
@@ -264,6 +266,18 @@
           "time_info": "[13时35分 ~ 16时41分]"
         },
         {
+          "title": "美国民航业陷入灾难 特朗普如何收场",
+          "url": "https://www.toutiao.com/trending/7570649488029650478/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 19时25分]"
+        },
+        {
           "title": "特朗普又盯上了美国肉价，“铁拳”挥向四巨头",
           "url": "https://wallstreetcn.com/articles/3758966",
           "source": "华尔街见闻",
@@ -284,17 +298,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时35分 ~ 11时36分]"
-        },
-        {
-          "title": "美国民航业陷入灾难 特朗普如何收场",
-          "url": "https://www.toutiao.com/trending/7570649488029650478/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
         }
       ]
     },

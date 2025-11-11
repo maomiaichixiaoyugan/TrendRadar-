@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T22:43:32.744929+08:00",
-  "total_titles_processed": 1856,
+  "generated_at": "2025-11-11T23:40:55.261712+08:00",
+  "total_titles_processed": 1938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 72,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时39分 ~ 22时43分]"
+          "appearance_count": 15,
+          "time_info": "[11时39分 ~ 23时40分]"
         },
         {
           "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时40分 ~ 22时43分]"
+          "appearance_count": 7,
+          "time_info": "[17时40分 ~ 23时40分]"
         },
         {
           "title": "获400亿美元援助后米莱大跳特朗普舞",
@@ -72,6 +72,28 @@
           "time_info": "[00时53分 ~ 05时33分]"
         },
         {
+          "title": "换了件“马甲”，他见上特朗普了(图)",
+          "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时40分 ~ 23时40分]"
+        },
+        {
+          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
+          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时40分 ~ 23时40分]"
+        },
+        {
           "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
           "url": "https://news.ifeng.com/c/8oBhZI0ZGcZ",
           "source": "凤凰网",
@@ -83,26 +105,15 @@
           "time_info": "[11时39分 ~ 13时40分]"
         },
         {
-          "title": "换了件“马甲”，他见上特朗普了(图)",
-          "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
-          "source": "凤凰网",
+          "title": "美国众议院民主党领导人Hakeem Jeffries：如果方案中缺少ACA补贴条款，将反对（用于结束特朗普政府关门事件的）临时开支立法草案。",
+          "url": "https://wallstreetcn.com/livenews/3002888",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时40分 ~ 22时43分]"
-        },
-        {
-          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
-          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时40分 ~ 22时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "特朗普的“贸易战”收到了什么结果",
@@ -125,7 +136,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -284,6 +295,30 @@
           "time_info": "[05时33分 ~ 06时40分]"
         },
         {
+          "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31940821",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 23时40分]"
+        },
+        {
+          "title": "特朗普威胁起诉BBC 索赔10亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E8%B5%B7%E8%AF%89BBC+%E7%B4%A2%E8%B5%9410%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 23时40分]"
+        },
+        {
           "title": "特朗普回应高市早苗涉台错误言论",
           "url": "https://www.toutiao.com/trending/7571253212158689290/",
           "source": "今日头条",
@@ -438,29 +473,6 @@
           "time_info": "[19时31分 ~ 21时40分]"
         },
         {
-          "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31940821",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 22时43分]"
-        },
-        {
-          "title": "特朗普威胁起诉BBC 索赔10亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E8%B5%B7%E8%AF%89BBC+%E7%B4%A2%E8%B5%9410%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 22时43分]"
-        },
-        {
           "title": "美国交通部长达菲：“我同意”特朗普的说法，空中交通管制员必须到岗上班。",
           "url": "https://flash.jin10.com/detail/20251111012146992800",
           "source": "金十数据",
@@ -472,6 +484,17 @@
           "time_info": "01时35分"
         },
         {
+          "title": "特朗普宣布美国不再资助乌克兰",
+          "url": "https://www.toutiao.com/trending/7571447279153971246/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "美国总统特朗普要求空中交通控制管理人员立即重返工作岗位。 特朗普在自家社交媒体平台暗示，政府关门期间，空管人员将获得1万美元（“津贴”）。",
           "url": "https://wallstreetcn.com/livenews/3002232",
           "source": "华尔街见闻-快讯",
@@ -481,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "美主播阴阳怪气中国人遭特朗普反驳",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E4%B8%BB%E6%92%AD%E9%98%B4%E9%98%B3%E6%80%AA%E6%B0%94%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E9%A9%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26realpos%3D11%26stream_entry_id%3D31%26cate%3D5001%26c_type%3D31%26lcate%3D5001%26flag%3D1%26pos%3D12%26band_rank%3D11%26filter_type%3Drealtimehot%26q%3D%2523%25E7%25BE%258E%25E4%25B8%25BB%25E6%2592%25AD%25E9%2598%25B4%25E9%2598%25B3%25E6%2580%25AA%25E6%25B0%2594%25E4%25B8%25AD%25E5%259B%25BD%25E4%25BA%25BA%25E9%2581%25AD%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%258F%258D%25E9%25A9%25B3%2523%26display_time%3D1762875566%26pre_seqid%3D176287556648203134955&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "特朗普明年会重启对华贸易战吗",
@@ -637,6 +671,17 @@
           "time_info": "05时33分"
         },
         {
+          "title": "一些航空公司首席执行官敦促特朗普政府官员为削减航班提供理由。",
+          "url": "https://flash.jin10.com/detail/20251111231344801800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "美国总统特朗普：我们将向中低收入人群发放2000美元的补贴，这要归功于关税。",
           "url": "https://flash.jin10.com/detail/20251111045600389800",
           "source": "金十数据",
@@ -646,6 +691,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "特朗普回应高市早苗涉台言论",
+          "url": "https://www.douyin.com/hot/2302972",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国总统特朗普：我们将在某个时候降低对印度的关税。",
@@ -742,7 +798,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -866,7 +922,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         }

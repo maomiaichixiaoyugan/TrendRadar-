@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T18:54:21.200940+08:00",
-  "total_titles_processed": 1517,
+  "generated_at": "2025-11-12T19:36:06.259522+08:00",
+  "total_titles_processed": 1592,
   "failed_sources": [],
   "trends": [
     {
@@ -154,7 +154,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -168,6 +168,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            8,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时56分 ~ 19时36分]"
         },
         {
           "title": "美国总统特朗普谈众议院就结束停摆协议的潜在投票：我认为投票结果会是积极的。",
@@ -193,19 +207,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时32分]"
-        },
-        {
-          "title": "特朗普为何拒为高市涉台谬论撑腰",
-          "url": "https://www.toutiao.com/trending/7571742416873459251/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时56分 ~ 18时54分]"
         },
         {
           "title": "美国总统特朗普：众议长约翰逊与参议院多数党领袖John Thune在临时开支草案协议上“取得重大胜利”。",
@@ -488,7 +489,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -506,27 +507,8 @@
       ]
     },
     {
-      "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "取4万元被报警 反诈加码折腾老百姓",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%964%E4%B8%87%E5%85%83%E8%A2%AB%E6%8A%A5%E8%AD%A6+%E5%8F%8D%E8%AF%88%E5%8A%A0%E7%A0%81%E6%8A%98%E8%85%BE%E8%80%81%E7%99%BE%E5%A7%93",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            28,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时56分 ~ 18时54分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "抖音推出未成年人陪伴计划",
@@ -537,8 +519,50 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时56分 ~ 18时54分]"
+          "appearance_count": 5,
+          "time_info": "[16时56分 ~ 19时36分]"
+        },
+        {
+          "title": "小红书发布双11战报：下单人数同比增长77%、成交额破千万商家增140%",
+          "url": "https://wallstreetcn.com/livenews/3003378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "小红书加强社区属性，内测100MB内“发文件”功能",
+          "url": "https://wallstreetcn.com/livenews/3003374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "取4万元被报警 反诈加码折腾老百姓",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%964%E4%B8%87%E5%85%83%E8%A2%AB%E6%8A%A5%E8%AD%A6+%E5%8F%8D%E8%AF%88%E5%8A%A0%E7%A0%81%E6%8A%98%E8%85%BE%E8%80%81%E7%99%BE%E5%A7%93",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时56分 ~ 19时36分]"
         }
       ]
     }

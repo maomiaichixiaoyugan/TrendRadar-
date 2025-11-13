@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T14:55:17.297720+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2025-11-13T15:35:09.631645+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时59分 ~ 14时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 15时35分]"
         },
         {
           "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 14时55分]"
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 15时35分]"
         },
         {
           "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
@@ -42,8 +42,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 14时55分]"
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 15时35分]"
+        },
+        {
+          "title": "特朗普致信以总统求赦免内塔尼亚胡",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E4%BF%A1%E4%BB%A5%E6%80%BB%E7%BB%9F%E6%B1%82%E8%B5%A6%E5%85%8D%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 15时35分]"
+        },
+        {
+          "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
+          "url": "https://news.ifeng.com/c/8oFRSvaH1ne",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
         },
         {
           "title": "瑞士商业代表团送特朗普金条和劳力士 或为换取低关税",
@@ -52,7 +75,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -66,18 +89,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
-        },
-        {
-          "title": "特朗普致信以总统求赦免内塔尼亚胡",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E4%BF%A1%E4%BB%A5%E6%80%BB%E7%BB%9F%E6%B1%82%E8%B5%A6%E5%85%8D%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 14时55分]"
         },
         {
           "title": "白宫新闻秘书莱维特：美国总统特朗普希望今晚签署结束政府停摆的法案。",
@@ -164,6 +175,19 @@
           "time_info": "[11时38分 ~ 12时46分]"
         },
         {
+          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
+          "url": "https://www.cls.cn/detail/2199299",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 15时35分]"
+        },
+        {
           "title": "特朗普：共和党人从未希望政府停摆，并曾15次投票支持继续拨款。然而，对方政党的极端分子却执意制造美国历史上持续时间最长的政府停摆，他们这样做纯粹是出于政治原因。",
           "url": "https://flash.jin10.com/detail/20251113112722111800",
           "source": "金十数据",
@@ -238,16 +262,15 @@
           "time_info": "[11时38分 ~ 12时46分]"
         },
         {
-          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
-          "url": "https://www.cls.cn/detail/2199299",
-          "source": "财联社热门",
+          "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
+          "url": "https://news.ifeng.com/c/8oFEfoIotGG",
+          "source": "凤凰网",
           "ranks": [
-            12,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时40分 ~ 14时55分]"
+          "time_info": "[15时34分 ~ 15时35分]"
         },
         {
           "title": "特朗普：政府将恢复正常运作。",
@@ -509,7 +532,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         }

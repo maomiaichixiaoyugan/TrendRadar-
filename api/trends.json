@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-14T19:35:33.132082+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2025-11-14T21:43:38.475204+08:00",
+  "total_titles_processed": 1760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 35,
       "titles": [
+        {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://www.cls.cn/detail/2200844",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时55分 ~ 21时43分]"
+        },
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
           "url": "https://news.ifeng.com/c/8oGsK5I0blR",
@@ -15,21 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时36分 ~ 19时35分]"
-        },
-        {
-          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
-          "url": "https://www.cls.cn/detail/2200844",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时55分 ~ 19时35分]"
+          "appearance_count": 12,
+          "time_info": "[11时36分 ~ 21时43分]"
         },
         {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",

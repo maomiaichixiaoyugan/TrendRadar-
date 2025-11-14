@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T13:40:22.698974+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2025-11-14T14:55:25.492594+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "美国总统特朗普的法律团队表示，特朗普尚未对英国广播公司（BBC）提起诉讼。",
@@ -26,8 +26,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 13时40分]"
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 14时55分]"
+        },
+        {
+          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
+          "url": "https://www.cls.cn/detail/2200266",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 14时55分]"
         },
         {
           "title": "人事主管表示，特朗普政府已雇佣了5万名新员工，其中大部分从事国家安全相关工作。",
@@ -40,18 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时36分 ~ 12时43分]"
-        },
-        {
-          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
-          "url": "https://www.cls.cn/detail/2200266",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 13时40分]"
         },
         {
           "title": "特朗普顾问哈塞特：估计美国政府停摆造成6万人失业",
@@ -247,6 +247,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "外媒：受特朗普关税影响 加拿大将改变木材出口路线",
+          "url": "https://flash.jin10.com/detail/20251114133112275800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "BBC就“拼接”视频向特朗普道歉 但拒付赔偿",
           "url": "https://flash.jin10.com/detail/20251114050144667800",
           "source": "金十数据",
@@ -358,7 +369,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         }

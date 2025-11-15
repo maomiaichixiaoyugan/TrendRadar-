@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T05:27:54.837313+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2025-11-16T06:32:32.434623+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 05时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 06时32分]"
         },
         {
           "title": "特朗普：对委内瑞拉“差不多下定决心”",
@@ -26,19 +26,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 05时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 06时32分]"
         },
         {
           "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
           "url": "https://wallstreetcn.com/articles/3759457",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 05时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 06时32分]"
         },
         {
           "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
@@ -48,8 +49,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 05时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 06时32分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
@@ -59,8 +60,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 05时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 06时32分]"
         },
         {
           "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
@@ -70,8 +71,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 05时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 06时32分]"
         },
         {
           "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
@@ -81,8 +82,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 05时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 06时32分]"
         }
       ]
     },
@@ -98,8 +99,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 05时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 06时32分]"
         }
       ]
     }

@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-15T22:33:47.855239+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2025-11-15T23:31:09.288068+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "特朗普：对委内瑞拉“差不多下定决心”",
+          "url": "https://news.ifeng.com/c/8oIojUJad2R",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时41分 ~ 23时31分]"
+        },
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
           "url": "https://news.ifeng.com/c/8oGsK5I0blR",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时50分 ~ 16时41分]"
-        },
-        {
-          "title": "特朗普：对委内瑞拉“差不多下定决心”",
-          "url": "https://news.ifeng.com/c/8oIojUJad2R",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时41分 ~ 22时33分]"
         },
         {
           "title": "特朗普称将向BBC索赔10亿到50亿美元",
@@ -103,6 +103,45 @@
           "time_info": "03时27分"
         },
         {
+          "title": "据CNN：两名以色列消息人士称，特朗普政府正向以色列施压，要求其就拉法赫的哈马斯武装人员问题取得进展。",
+          "url": "https://flash.jin10.com/detail/20251115224710080800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
+          "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3005184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 23时31分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
+          "url": "https://flash.jin10.com/detail/20251115190723061800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 23时31分]"
+        },
+        {
           "title": "美媒爆：美能源部官员将赴白宫，劝阻特朗普重启核武器试验",
           "url": "https://wallstreetcn.com/livenews/3005141",
           "source": "华尔街见闻-快讯",
@@ -133,6 +172,20 @@
           "time_info": "[11时29分 ~ 15时28分]"
         },
         {
+          "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
+          "url": "https://flash.jin10.com/detail/20251115185251753800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 23时31分]"
+        },
+        {
           "title": "特朗普称对委内瑞拉差不多下定决心",
           "url": "https://flash.jin10.com/detail/20251115151858037800",
           "source": "金十数据",
@@ -147,32 +200,6 @@
           "time_info": "[16时41分 ~ 19时26分]"
         },
         {
-          "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3005184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 22时33分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
-          "url": "https://flash.jin10.com/detail/20251115190723061800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 22时33分]"
-        },
-        {
           "title": "美国官员：航空公司正敦促美国总统特朗普政府终止强制性航班削减。",
           "url": "https://flash.jin10.com/detail/20251115004419214800",
           "source": "金十数据",
@@ -185,19 +212,6 @@
           "time_info": "[00时51分 ~ 01时35分]"
         },
         {
-          "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
-          "url": "https://flash.jin10.com/detail/20251115185251753800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 22时33分]"
-        },
-        {
           "title": "特朗普最新任命的美联储理事：根据滞后数据来制定政策和让就业市场走弱都是错误的",
           "url": "https://wallstreetcn.com/livenews/3005014",
           "source": "华尔街见闻-快讯",
@@ -208,6 +222,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 04时40分]"
+        },
+        {
+          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251115183418389800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 23时31分]"
         },
         {
           "title": "美媒：特朗普政府内部曾讨论限制FDA局长职权",
@@ -276,19 +304,6 @@
           "time_info": "[04时40分 ~ 07时32分]"
         },
         {
-          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
-          "url": "https://flash.jin10.com/detail/20251115183418389800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 22时33分]"
-        },
-        {
           "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
           "url": "https://flash.jin10.com/detail/20251115090032024800",
           "source": "金十数据",
@@ -300,6 +315,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时29分 ~ 13时36分]"
+        },
+        {
+          "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
+          "url": "https://wallstreetcn.com/articles/3759457",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时33分 ~ 23时31分]"
         },
         {
           "title": "美国总统特朗普料将下调牛肉、西红柿、咖啡、香蕉关税。",
@@ -456,17 +482,6 @@
           "time_info": "03时27分"
         },
         {
-          "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
-          "url": "https://wallstreetcn.com/articles/3759457",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
           "title": "市场消息：美国参议员沃伦称，特朗普可能在蓄意限制经济数据的发布。",
           "url": "https://flash.jin10.com/detail/20251115010414730800",
           "source": "金十数据",
@@ -591,11 +606,12 @@
             8,
             9,
             15,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 22时33分]"
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 23时31分]"
         }
       ]
     }

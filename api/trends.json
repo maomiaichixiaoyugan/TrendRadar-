@@ -1,107 +1,12 @@
 {
-  "generated_at": "2025-11-15T23:31:09.288068+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2025-11-16T00:40:47.044275+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "特朗普：对委内瑞拉“差不多下定决心”",
-          "url": "https://news.ifeng.com/c/8oIojUJad2R",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时41分 ~ 23时31分]"
-        },
-        {
-          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
-          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时50分 ~ 16时41分]"
-        },
-        {
-          "title": "特朗普称将向BBC索赔10亿到50亿美元",
-          "url": "https://flash.jin10.com/detail/20251115132619706800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8,
-            9,
-            14,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时36分 ~ 18时37分]"
-        },
-        {
-          "title": "特朗普发图：歌剧魅影造型男子手持“TRUMP 2028”",
-          "url": "https://flash.jin10.com/detail/20251115141405832800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            6,
-            11,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时48分 ~ 18时37分]"
-        },
-        {
-          "title": "特朗普指示司法部调查与爱泼斯坦关联的民主党人",
-          "url": "https://wallstreetcn.com/livenews/3005151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            19,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时48分 ~ 18时37分]"
-        },
-        {
-          "title": "特朗普称对委内瑞拉“差不多下定决心”",
-          "url": "https://wallstreetcn.com/livenews/3005157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            19,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时28分 ~ 19时26分]"
-        },
-        {
-          "title": "美国官员表示，美国总统特朗普很可能向沙特出售F-35战斗机。",
-          "url": "https://flash.jin10.com/detail/20251115031611810800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        },
         {
           "title": "据CNN：两名以色列消息人士称，特朗普政府正向以色列施压，要求其就拉法赫的哈马斯武装人员问题取得进展。",
           "url": "https://flash.jin10.com/detail/20251115224710080800",
@@ -109,487 +14,75 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时31分"
+          "time_info": "00时40分"
         },
         {
-          "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3005184",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：对委内瑞拉“差不多下定决心”",
+          "url": "https://news.ifeng.com/c/8oIojUJad2R",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            7,
-            11,
-            14
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 23时31分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
-          "url": "https://flash.jin10.com/detail/20251115190723061800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 23时31分]"
-        },
-        {
-          "title": "美媒爆：美能源部官员将赴白宫，劝阻特朗普重启核武器试验",
-          "url": "https://wallstreetcn.com/livenews/3005141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            13,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时41分 ~ 16时41分]"
-        },
-        {
-          "title": "美国总统特朗普：我的律师表示，我们将起诉BBC，要求赔偿10亿美元或更多。我们可能会在美国起诉BBC。",
-          "url": "https://flash.jin10.com/detail/20251115094016472800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            12,
-            14,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时29分 ~ 15时28分]"
-        },
-        {
-          "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
-          "url": "https://flash.jin10.com/detail/20251115185251753800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 23时31分]"
-        },
-        {
-          "title": "特朗普称对委内瑞拉差不多下定决心",
-          "url": "https://flash.jin10.com/detail/20251115151858037800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 19时26分]"
-        },
-        {
-          "title": "美国官员：航空公司正敦促美国总统特朗普政府终止强制性航班削减。",
-          "url": "https://flash.jin10.com/detail/20251115004419214800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时35分]"
-        },
-        {
-          "title": "特朗普最新任命的美联储理事：根据滞后数据来制定政策和让就业市场走弱都是错误的",
-          "url": "https://wallstreetcn.com/livenews/3005014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 04时40分]"
-        },
-        {
-          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
-          "url": "https://flash.jin10.com/detail/20251115183418389800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 23时31分]"
-        },
-        {
-          "title": "美媒：特朗普政府内部曾讨论限制FDA局长职权",
-          "url": "https://flash.jin10.com/detail/20251115180815888800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            13,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时37分 ~ 22时33分]"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，美国总统特朗普的官员与小罗伯特·F·肯尼迪讨论过削减美国食品药品监督管理局（FDA）局长马卡里的职权。",
-          "url": "https://flash.jin10.com/detail/20251115180113833800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时37分 ~ 22时33分]"
-        },
-        {
-          "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
-          "url": "https://flash.jin10.com/detail/20251115034601291800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时40分 ~ 07时32分]"
-        },
-        {
-          "title": "特朗普：已经书面通知BBC了。 认为（关于）BBC的诉讼会很快结束。",
-          "url": "https://wallstreetcn.com/livenews/3005121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            23,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时29分 ~ 14时48分]"
-        },
-        {
-          "title": "特朗普拟削减部分食品杂货的关税",
-          "url": "https://flash.jin10.com/detail/20251115032227823800",
-          "source": "金十数据",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时40分 ~ 07时32分]"
-        },
-        {
-          "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
-          "url": "https://flash.jin10.com/detail/20251115090032024800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 13时36分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
           "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
           "url": "https://wallstreetcn.com/articles/3759457",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时33分 ~ 23时31分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
-          "title": "美国总统特朗普料将下调牛肉、西红柿、咖啡、香蕉关税。",
-          "url": "https://wallstreetcn.com/livenews/3005012",
+          "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3005184",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            17
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 04时40分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
-          "title": "美国总统特朗普：撤销Donald Korb为财政部官员的提名。",
-          "url": "https://wallstreetcn.com/livenews/3005021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时32分]"
-        },
-        {
-          "title": "特朗普：给我查查克林顿",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BB%99%E6%88%91%E6%9F%A5%E6%9F%A5%E5%85%8B%E6%9E%97%E9%A1%BF",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时37分]"
-        },
-        {
-          "title": "据知情人士透露，美国总统特朗普的中东问题特使Witkoff打算很快会见哈马斯首席谈判员。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3004990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时27分]"
-        },
-        {
-          "title": "美国总统特朗普：瑞士与Liechtenstein（列支敦士登）有意合作，美方将确保供应链。",
-          "url": "https://wallstreetcn.com/livenews/3004988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时27分]"
-        },
-        {
-          "title": "前美国财长萨默斯、高盛律师曾向爱泼斯坦吐槽特朗普：“粗俗”、“恶心”",
-          "url": "https://wallstreetcn.com/livenews/3004961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时35分]"
-        },
-        {
-          "title": "美国官员们表示：各大航司施压总统特朗普的政府，要求结束政府停摆问题引发的“强制性航班削减”做法。",
-          "url": "https://wallstreetcn.com/livenews/3004972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时35分 ~ 02时52分]"
-        },
-        {
-          "title": "美国联邦航空管理局（FAA）：空管人员们11月14日开始部分地获得与特朗普政府关门事件相关的薪酬补充发放。",
-          "url": "https://wallstreetcn.com/livenews/3004971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时35分 ~ 02时52分]"
-        },
-        {
-          "title": "特朗普政府下调美国大豆出口前景预测",
-          "url": "https://wallstreetcn.com/livenews/3005036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时39分]"
-        },
-        {
-          "title": "特朗普抵制G20峰会 南非总统硬刚",
-          "url": "https://www.toutiao.com/trending/7572836123530739748/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 17时31分]"
-        },
-        {
-          "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
-          "url": "https://wallstreetcn.com/livenews/3005113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时41分]"
-        },
-        {
-          "title": "专家谈特朗普重返白宫首次对台军售",
-          "url": "https://www.toutiao.com/trending/7571928334733541430/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 21时07分]"
-        },
-        {
-          "title": "巴西最高法院小组已形成多数意见，将对议员爱德华多·博索纳罗进行审判，理由是他试图让美国总统特朗普介入前总统博索纳罗的刑事案件。",
-          "url": "https://flash.jin10.com/detail/20251115031502911800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
+          "url": "https://flash.jin10.com/detail/20251115190723061800",
           "source": "金十数据",
           "ranks": [
-            6
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时27分"
+          "time_info": "00时40分"
         },
         {
-          "title": "市场消息：美国参议员沃伦称，特朗普可能在蓄意限制经济数据的发布。",
-          "url": "https://flash.jin10.com/detail/20251115010414730800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "美国总统特朗普：寻求调查爱泼斯坦与摩根大通的关系。",
-          "url": "https://wallstreetcn.com/livenews/3004952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "美国总统特朗普：今年感恩节的开销将比去年降低25%。",
-          "url": "https://flash.jin10.com/detail/20251114235126304800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "民主党人要求特朗普政府解释削减航班的原因",
-          "url": "https://flash.jin10.com/detail/20251115015954513800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "美国总统特朗普：在特朗普政府的领导下，各项成本正在大幅下降，这在很大程度上得益于汽油和能源价格的下跌。",
-          "url": "https://flash.jin10.com/detail/20251114235018798800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普准备削减牛肉、西红柿、咖啡和香蕉的关税。",
-          "url": "https://flash.jin10.com/detail/20251115030538098800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
-          "title": "美国能源部官员拟劝阻特朗普恢复爆炸性核试验",
-          "url": "https://flash.jin10.com/detail/20251115014832583800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "美国总统特朗普寻求调查克林顿、萨默斯和爱泼斯坦的关系。",
-          "url": "https://flash.jin10.com/detail/20251114234139157800",
+          "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
+          "url": "https://flash.jin10.com/detail/20251115185251753800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "00时40分"
         },
         {
-          "title": "美国参议院民主党成员Warren再次呼吁特朗普政府发布那些至关重要的经济数据",
-          "url": "https://wallstreetcn.com/livenews/3004985",
-          "source": "华尔街见闻-快讯",
+          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251115183418389800",
+          "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "美国总统特朗普：要求司法部和美国联邦调查局（FBI）也调查摩根大通与爱泼斯坦的关系。",
-          "url": "https://flash.jin10.com/detail/20251114233833371800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "00时40分"
         }
       ]
     },
@@ -602,16 +95,11 @@
           "url": "https://wallstreetcn.com/livenews/3005176",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            8,
-            9,
-            15,
-            19,
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 23时31分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T19:31:30.271891+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2025-11-16T21:12:04.462720+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时40分 ~ 12时45分]"
+        },
+        {
+          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时34分 ~ 21时12分]"
         },
         {
           "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
@@ -89,18 +103,15 @@
           "time_info": "[00时40分 ~ 06时32分]"
         },
         {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            17,
-            15,
-            16
+            10
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时34分 ~ 19时31分]"
+          "time_info": "[16时47分 ~ 21时12分]"
         },
         {
           "title": "特朗普与曾经亲密盟友格林关系破裂，共和党裂痕扩大",
@@ -132,27 +143,17 @@
           "time_info": "[13时37分 ~ 17时38分]"
         },
         {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时47分 ~ 19时31分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-16）",
           "url": "https://flash.jin10.com/detail/20251116182155589800",
           "source": "金十数据",
           "ranks": [
             4,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 19时31分]"
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 21时12分]"
         },
         {
           "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",

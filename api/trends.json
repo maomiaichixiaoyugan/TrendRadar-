@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T14:55:55.959590+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2025-11-16T15:35:17.735231+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 14时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 15时35分]"
         },
         {
           "title": "据CNN：两名以色列消息人士称，特朗普政府正向以色列施压，要求其就拉法赫的哈马斯武装人员问题取得进展。",
@@ -99,8 +99,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 14时55分]"
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 15时35分]"
         },
         {
           "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
@@ -108,11 +108,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 14时55分]"
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 15时35分]"
         },
         {
           "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
@@ -123,8 +124,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 15时35分]"
+        },
+        {
+          "title": "特朗普一个多月购债券逾8千万美元，涉及受益于其政策的行业",
+          "url": "https://news.ifeng.com/c/8oKKiWVdO0C",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时37分 ~ 14时55分]"
+          "time_info": "[15时34分 ~ 15时35分]"
         },
         {
           "title": "特朗普：已对委内瑞拉问题作出决定",
@@ -137,6 +149,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时40分 ~ 12时45分]"
+        },
+        {
+          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
         }
       ]
     },
@@ -162,11 +185,12 @@
           "ranks": [
             24,
             16,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 14时55分]"
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 15时35分]"
         }
       ]
     }

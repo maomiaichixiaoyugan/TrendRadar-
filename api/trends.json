@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T16:48:08.277704+08:00",
-  "total_titles_processed": 886,
+  "generated_at": "2025-11-16T17:38:24.235109+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
@@ -110,11 +110,24 @@
             4,
             6,
             12,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时37分 ~ 16时48分]"
+          "appearance_count": 5,
+          "time_info": "[13时37分 ~ 17时38分]"
+        },
+        {
+          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时34分 ~ 17时38分]"
         },
         {
           "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
@@ -130,16 +143,15 @@
           "time_info": "[13时37分 ~ 16时48分]"
         },
         {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            17
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时34分 ~ 16时48分]"
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 17时38分]"
         },
         {
           "title": "特朗普一个多月购债券逾8千万美元，涉及受益于其政策的行业",
@@ -163,17 +175,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时40分 ~ 12时45分]"
-        },
-        {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时48分]"
         }
       ]
     },

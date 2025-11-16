@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-11-17T04:35:37.850651+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2025-11-17T05:29:02.683299+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 5,
       "titles": [
-        {
-          "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
-          "url": "https://flash.jin10.com/detail/20251116223106128800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时35分]"
-        },
         {
           "title": "10亿至50亿！特朗普开口了",
           "url": "https://news.ifeng.com/c/8oKTyan4q6j",
@@ -27,20 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时35分]"
-        },
-        {
-          "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
-          "url": "https://flash.jin10.com/detail/20251116221017649800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时29分]"
         },
         {
           "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
@@ -50,8 +26,34 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时29分]"
+        },
+        {
+          "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
+          "url": "https://flash.jin10.com/detail/20251116223106128800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 05时29分]"
+        },
+        {
+          "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
+          "url": "https://flash.jin10.com/detail/20251116221017649800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 05时29分]"
         },
         {
           "title": "博主：特朗普正走向众叛亲离",
@@ -59,11 +61,12 @@
           "source": "今日头条",
           "ranks": [
             30,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 05时29分]"
         }
       ]
     },
@@ -79,11 +82,12 @@
             14,
             17,
             19,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时29分]"
         }
       ]
     }

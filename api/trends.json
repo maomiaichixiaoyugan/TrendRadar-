@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T15:35:17.735231+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2025-11-16T16:48:08.277704+08:00",
+  "total_titles_processed": 886,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
@@ -109,11 +109,12 @@
           "ranks": [
             4,
             6,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时37分 ~ 15时35分]"
+          "appearance_count": 4,
+          "time_info": "[13时37分 ~ 16时48分]"
         },
         {
           "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
@@ -121,11 +122,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时37分 ~ 15时35分]"
+          "appearance_count": 4,
+          "time_info": "[13时37分 ~ 16时48分]"
+        },
+        {
+          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时34分 ~ 16时48分]"
         },
         {
           "title": "特朗普一个多月购债券逾8千万美元，涉及受益于其政策的行业",
@@ -151,15 +165,15 @@
           "time_info": "[11时40分 ~ 12时45分]"
         },
         {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "source": "凤凰网",
           "ranks": [
-            19
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时34分 ~ 15时35分]"
+          "time_info": "[16时47分 ~ 16时48分]"
         }
       ]
     },
@@ -167,6 +181,21 @@
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
       "match_count": 2,
       "titles": [
+        {
+          "title": "星辰大海演员集体发抖音",
+          "url": "https://www.douyin.com/hot/2307595",
+          "source": "抖音",
+          "ranks": [
+            24,
+            16,
+            15,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时40分 ~ 16时48分]"
+        },
         {
           "title": "抖音低价茅台集体下线 商家：等待平台研判",
           "url": "https://wallstreetcn.com/livenews/3005176",
@@ -177,20 +206,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时40分 ~ 07时30分]"
-        },
-        {
-          "title": "星辰大海演员集体发抖音",
-          "url": "https://www.douyin.com/hot/2307595",
-          "source": "抖音",
-          "ranks": [
-            24,
-            16,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时40分 ~ 15时35分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T17:44:36.636408+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2025-11-17T18:48:08.824783+08:00",
+  "total_titles_processed": 1364,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "曝特朗普与昔日得力干将决裂",
@@ -19,8 +19,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时39分 ~ 17时44分]"
+          "appearance_count": 11,
+          "time_info": "[11时39分 ~ 18时48分]"
         },
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -59,6 +59,17 @@
           "time_info": "[00时42分 ~ 05时29分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-17）",
+          "url": "https://flash.jin10.com/detail/20251117181905742800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
           "url": "https://flash.jin10.com/detail/20251116221017649800",
           "source": "金十数据",
@@ -86,6 +97,17 @@
           "time_info": "[01时31分 ~ 06时35分]"
         },
         {
+          "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
+          "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 18时48分]"
+        },
+        {
           "title": "特朗普与得力干将反目成仇",
           "url": "https://flash.jin10.com/detail/20251117062945107800",
           "source": "金十数据",
@@ -109,17 +131,6 @@
           "time_info": "[12时47分 ~ 14时55分]"
         },
         {
-          "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
-          "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 17时44分]"
-        },
-        {
           "title": "特朗普豪气“画饼”要发每人2000美元？美财长泼冷水：得先国会同意",
           "url": "https://www.cls.cn/detail/2202033",
           "source": "财联社热门",
@@ -130,6 +141,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时54分 ~ 17时44分]"
+        },
+        {
+          "title": "“生活成本”已成特朗普重点，美银：白宫将加大“价格干预”，贸易战“结束”了",
+          "url": "https://wallstreetcn.com/articles/3759513",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
         },
         {
           "title": "特朗普不到两个月内完成超175笔投资",

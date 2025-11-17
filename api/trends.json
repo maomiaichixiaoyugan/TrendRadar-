@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T23:42:01.661895+08:00",
-  "total_titles_processed": 1747,
+  "generated_at": "2025-11-18T00:54:29.003833+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 5,
       "titles": [
         {
           "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
@@ -15,367 +15,52 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时54分 ~ 23时42分]"
-        },
-        {
-          "title": "曝特朗普与昔日得力干将决裂",
-          "url": "https://www.toutiao.com/trending/7573470510160399923/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            23,
-            16,
-            14,
-            8,
-            17,
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时39分 ~ 23时42分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "“生活成本”已成特朗普重点，美银：白宫将加大“价格干预”，贸易战“结束”了",
           "url": "https://wallstreetcn.com/articles/3759513",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时47分 ~ 23时42分]"
-        },
-        {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时30分]"
-        },
-        {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时30分]"
-        },
-        {
-          "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
-          "url": "https://flash.jin10.com/detail/20251116223106128800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 05时29分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-17）",
-          "url": "https://flash.jin10.com/detail/20251117181905742800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时48分"
+          "time_info": "00时54分"
         },
         {
-          "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
-          "url": "https://flash.jin10.com/detail/20251116221017649800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 05时29分]"
-        },
-        {
-          "title": "博主：特朗普正走向众叛亲离",
-          "url": "https://www.toutiao.com/trending/7573306165895892506/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            26,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 06时35分]"
-        },
-        {
-          "title": "BBC回应特朗普巨额索赔诉讼：毫无依据 将坚决应诉",
-          "url": "https://flash.jin10.com/detail/20251117211805383800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "美国最高法院将听取特朗普政府的辩护，涉及政府限制美墨边境入境口岸处理庇护申请的政府权力。",
-          "url": "https://flash.jin10.com/detail/20251117223900696800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "据Axios：美国商务部延长特朗普时期人工智能出口计划期限。",
-          "url": "https://flash.jin10.com/detail/20251117231526009800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "特朗普与得力干将反目成仇",
-          "url": "https://flash.jin10.com/detail/20251117062945107800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 07时30分]"
-        },
-        {
-          "title": "软硬兼施？特朗普：可能与委内瑞拉总统进行对话",
-          "url": "https://mil.ifeng.com/c/8oLf4PqxV5b",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时47分 ~ 14时55分]"
-        },
-        {
-          "title": "特朗普豪气“画饼”要发每人2000美元？美财长泼冷水：得先国会同意",
-          "url": "https://www.cls.cn/detail/2202033",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 17时44分]"
-        },
-        {
-          "title": "特朗普不到两个月内完成超175笔投资",
-          "url": "https://www.toutiao.com/trending/7573491698903289386/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 14时55分]"
-        },
-        {
-          "title": "美国总统特朗普的助手们正在考虑“允许马杜罗离开委内瑞拉”。",
-          "url": "https://flash.jin10.com/detail/20251117190427318800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "特朗普：可能与委内瑞拉总统进行对话",
-          "url": "https://mil.ifeng.com/c/8oLf4PqxV5b",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美国总统特朗普考虑与沙特签署双边安全协议。",
-          "url": "https://flash.jin10.com/detail/20251117190158344800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "特朗普转变立场 称众议院应投票支持司法部公布爱泼斯坦档案",
-          "url": "https://wallstreetcn.com/livenews/3005595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "文件披露：8月下旬以来 特朗普购买了至少8200万美元的债券",
-          "url": "https://www.cls.cn/detail/2201676",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "特朗普态度转变？支持投票公开爱泼斯坦相关文件",
-          "url": "https://flash.jin10.com/detail/20251117113954366800",
+          "title": "美国总统特朗普：将“强烈”支持反对那些不允许重新划分选区的印第安纳州国会议员。",
+          "url": "https://flash.jin10.com/detail/20251118001800685800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "00时54分"
         },
         {
-          "title": "BBC回应特朗普巨额索赔诉讼：毫无依据 将坚决应诉",
-          "url": "https://wallstreetcn.com/livenews/3005903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "克里姆林宫：俄罗斯对美国总统特朗普表示将制裁与俄罗斯开展业务的任何国家的法案持非常负面的看法。",
-          "url": "https://flash.jin10.com/detail/20251117184112583800",
+          "title": "美国一家上诉法院预计将在周一听取部分家庭的辩论，他们敦促上诉法院恢复超过500起针对泰诺制造商Kenvue（科赴）的索赔诉讼。此前，特朗普政府公开宣传了他们的说法，即这种广泛使用的止痛药与儿童自闭症有关。",
+          "url": "https://flash.jin10.com/detail/20251117234128931800",
           "source": "金十数据",
           "ranks": [
-            18
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时31分"
+          "time_info": "00时54分"
         },
         {
-          "title": "特朗普支持公布爱泼斯坦文件",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E5%85%AC%E5%B8%83%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%96%87%E4%BB%B6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26band_rank%3D19%26lcate%3D5001%26realpos%3D19%26cate%3D5001%26pos%3D20%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%2594%25AF%25E6%258C%2581%25E5%2585%25AC%25E5%25B8%2583%25E7%2588%25B1%25E6%25B3%25BC%25E6%2596%25AF%25E5%259D%25A6%25E6%2596%2587%25E4%25BB%25B6%2523%26dgr%3D0%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26display_time%3D1763362498%26pre_seqid%3D17633624985550714609154&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "克里姆林宫：俄罗斯希望在完成必要准备工作后，能够举行一次美国总统特朗普与俄罗斯总统普京的峰会。",
-          "url": "https://flash.jin10.com/detail/20251117184025534800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普将在“麦当劳影响力峰会上”发表讲话，时间为当地时间晚上6点（北京时间次日早上7点），特朗普或强调进一步降低食品价格的理念。",
-          "url": "https://flash.jin10.com/detail/20251117221426726800",
-          "source": "金十数据",
+          "title": "曝特朗普与昔日得力干将决裂",
+          "url": "https://www.toutiao.com/trending/7573470510160399923/",
+          "source": "今日头条",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "全抖音祝贺易烊千玺金鸡影帝",
-          "url": "https://www.douyin.com/hot/2308437",
-          "source": "抖音",
-          "ranks": [
-            14,
-            17,
-            19,
-            21,
-            18,
-            15,
-            23,
-            27,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 15时33分]"
-        },
-        {
-          "title": "有什么可以很快搞定的快手早餐？",
-          "url": "https://www.zhihu.com/question/49707915",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时43分 ~ 23时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "财政部：1—10月国有土地使用权出让收入24982亿元，同比下降7.4%",
-          "url": "https://wallstreetcn.com/livenews/3005714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时55分"
+          "time_info": "00时54分"
         }
       ]
     }

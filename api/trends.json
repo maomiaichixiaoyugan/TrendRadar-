@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-17T21:43:14.912908+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2025-11-17T22:44:08.293856+08:00",
+  "total_titles_processed": 1669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
+          "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时54分 ~ 22时44分]"
+        },
         {
           "title": "曝特朗普与昔日得力干将决裂",
           "url": "https://www.toutiao.com/trending/7573470510160399923/",
@@ -21,8 +32,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时39分 ~ 21时43分]"
+          "appearance_count": 16,
+          "time_info": "[11时39分 ~ 22时44分]"
         },
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -48,15 +59,16 @@
           "time_info": "[00时42分 ~ 07时30分]"
         },
         {
-          "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
-          "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
-          "source": "凤凰网",
+          "title": "“生活成本”已成特朗普重点，美银：白宫将加大“价格干预”，贸易战“结束”了",
+          "url": "https://wallstreetcn.com/articles/3759513",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时54分 ~ 21时43分]"
+          "appearance_count": 7,
+          "time_info": "[18时47分 ~ 22时44分]"
         },
         {
           "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
@@ -116,21 +128,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
         {
-          "title": "“生活成本”已成特朗普重点，美银：白宫将加大“价格干预”，贸易战“结束”了",
-          "url": "https://wallstreetcn.com/articles/3759513",
-          "source": "华尔街见闻",
+          "title": "美国最高法院将听取特朗普政府的辩护，涉及政府限制美墨边境入境口岸处理庇护申请的政府权力。",
+          "url": "https://flash.jin10.com/detail/20251117223900696800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时47分 ~ 21时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "特朗普与得力干将反目成仇",
@@ -252,7 +263,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -288,29 +299,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "财政部：1—10月国有土地使用权出让收入24982亿元，同比下降7.4%",
-          "url": "https://wallstreetcn.com/livenews/3005714",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：美国总统特朗普将在“麦当劳影响力峰会上”发表讲话，时间为当地时间晚上6点（北京时间次日早上7点），特朗普或强调进一步降低食品价格的理念。",
+          "url": "https://flash.jin10.com/detail/20251117221426726800",
+          "source": "金十数据",
           "ranks": [
-            24
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时55分"
+          "time_info": "22时44分"
         }
       ]
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "全抖音祝贺易烊千玺金鸡影帝",
@@ -330,6 +335,34 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时42分 ~ 15时33分]"
+        },
+        {
+          "title": "有什么可以很快搞定的快手早餐？",
+          "url": "https://www.zhihu.com/question/49707915",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "财政部：1—10月国有土地使用权出让收入24982亿元，同比下降7.4%",
+          "url": "https://wallstreetcn.com/livenews/3005714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         }
       ]
     }

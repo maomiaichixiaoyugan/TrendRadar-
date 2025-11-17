@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T13:41:30.716854+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2025-11-17T14:55:41.556728+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -71,6 +71,18 @@
           "time_info": "[01时31分 ~ 06时35分]"
         },
         {
+          "title": "曝特朗普与昔日得力干将决裂",
+          "url": "https://www.toutiao.com/trending/7573470510160399923/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 14时55分]"
+        },
+        {
           "title": "特朗普与得力干将反目成仇",
           "url": "https://flash.jin10.com/detail/20251117062945107800",
           "source": "金十数据",
@@ -83,18 +95,6 @@
           "time_info": "[06时35分 ~ 07时30分]"
         },
         {
-          "title": "曝特朗普与昔日得力干将决裂",
-          "url": "https://www.toutiao.com/trending/7573470510160399923/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时39分 ~ 13时41分]"
-        },
-        {
           "title": "软硬兼施？特朗普：可能与委内瑞拉总统进行对话",
           "url": "https://mil.ifeng.com/c/8oLf4PqxV5b",
           "source": "凤凰网",
@@ -102,8 +102,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 13时41分]"
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 14时55分]"
+        },
+        {
+          "title": "特朗普不到两个月内完成超175笔投资",
+          "url": "https://www.toutiao.com/trending/7573491698903289386/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 14时55分]"
         },
         {
           "title": "特朗普：可能与委内瑞拉总统进行对话",
@@ -123,7 +135,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -150,15 +162,15 @@
           "time_info": "12时48分"
         },
         {
-          "title": "特朗普不到两个月内完成超175笔投资",
-          "url": "https://www.toutiao.com/trending/7573491698903289386/",
-          "source": "今日头条",
+          "title": "特朗普支持公布爱泼斯坦文件",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E5%85%AC%E5%B8%83%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%96%87%E4%BB%B6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26band_rank%3D19%26lcate%3D5001%26realpos%3D19%26cate%3D5001%26pos%3D20%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%2594%25AF%25E6%258C%2581%25E5%2585%25AC%25E5%25B8%2583%25E7%2588%25B1%25E6%25B3%25BC%25E6%2596%25AF%25E5%259D%25A6%25E6%2596%2587%25E4%25BB%25B6%2523%26dgr%3D0%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26display_time%3D1763362498%26pre_seqid%3D17633624985550714609154&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            23
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "14时55分"
         }
       ]
     },
@@ -178,11 +190,12 @@
             18,
             15,
             23,
-            27
+            27,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 13时41分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 14时55分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T07:30:22.899646+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2025-11-17T11:39:50.681456+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -81,6 +81,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时30分]"
+        },
+        {
+          "title": "特朗普：可能与委内瑞拉总统进行对话",
+          "url": "https://mil.ifeng.com/c/8oLf4PqxV5b",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "曝特朗普与昔日得力干将决裂",
+          "url": "https://www.toutiao.com/trending/7573470510160399923/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "文件披露：8月下旬以来 特朗普购买了至少8200万美元的债券",
+          "url": "https://www.cls.cn/detail/2201676",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "特朗普不到两个月内完成超175笔投资",
+          "url": "https://www.toutiao.com/trending/7573491698903289386/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         }
       ]
     },
@@ -98,11 +142,12 @@
             19,
             21,
             18,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 11时39分]"
         }
       ]
     }

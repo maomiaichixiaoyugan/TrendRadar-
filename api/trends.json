@@ -1,7 +1,11 @@
 {
-  "generated_at": "2025-11-18T18:47:24.790490+08:00",
-  "total_titles_processed": 1520,
-  "failed_sources": [],
+  "generated_at": "2025-11-18T19:33:11.785311+08:00",
+  "total_titles_processed": 1556,
+  "failed_sources": [
+    "jin10",
+    "wallstreetcn-quick",
+    "zhihu"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",

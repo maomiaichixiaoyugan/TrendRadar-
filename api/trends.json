@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T22:43:18.828182+08:00",
-  "total_titles_processed": 1698,
+  "generated_at": "2025-11-18T23:43:39.608553+08:00",
+  "total_titles_processed": 1783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
@@ -601,6 +601,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "特朗普的移民事务负责人汤姆·霍曼：目前团队已经到位，但我们将进一步加强部署。",
+          "url": "https://flash.jin10.com/detail/20251118225023047800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "特朗普的移民事务负责人汤姆·霍曼：计划在不久的将来前往纽约市开展（移民执法）行动。",
+          "url": "https://flash.jin10.com/detail/20251118224959604800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         }
       ]
     },
@@ -613,11 +635,12 @@
           "url": "https://www.douyin.com/hot/2309570",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时43分]"
         },
         {
           "title": "字节跳动内部人士：抖音电商、生活服务和广告的工程技术团队整合",

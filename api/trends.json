@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T22:43:40.829244+08:00",
-  "total_titles_processed": 1590,
+  "generated_at": "2025-11-19T23:36:50.725056+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -31,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时35分 ~ 22时43分]"
+          "appearance_count": 12,
+          "time_info": "[11时35分 ~ 23时36分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -66,6 +66,17 @@
           "time_info": "[07时30分 ~ 15时33分]"
         },
         {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时52分 ~ 23时36分]"
+        },
+        {
           "title": "美国总统特朗普：沙特至少将6000亿美元投资于美国，用于工厂、公司以及华尔街的资金投入。",
           "url": "https://flash.jin10.com/detail/20251119013635315800",
           "source": "金十数据",
@@ -86,17 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
-        },
-        {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时52分 ~ 22时43分]"
         },
         {
           "title": "美国财长贝森特：可以肯定地说，我不会成为美联储主席。 特朗普将在感恩节后会见三位美联储主席候选人。 特朗普可能在圣诞节前宣布下一任美联储主席。",
@@ -193,6 +193,18 @@
           "time_info": "[07时30分 ~ 13时40分]"
         },
         {
+          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
+          "url": "https://wallstreetcn.com/articles/3759658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时31分 ~ 23时36分]"
+        },
+        {
           "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
           "url": "https://www.cls.cn/detail/2204709",
           "source": "财联社热门",
@@ -218,17 +230,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时40分 ~ 16时52分]"
-        },
-        {
-          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
-          "url": "https://wallstreetcn.com/articles/3759658",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 22时43分]"
         },
         {
           "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
@@ -351,6 +352,18 @@
           "time_info": "[02时55分 ~ 03时26分]"
         },
         {
+          "title": "特朗普政府调整零售销售、耐用品等多个经济数据的发布日期",
+          "url": "https://wallstreetcn.com/livenews/3007265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时36分]"
+        },
+        {
           "title": "美国总统特朗普：我从未去过爱泼斯坦的小岛。",
           "url": "https://flash.jin10.com/detail/20251119020557608800",
           "source": "金十数据",
@@ -440,9 +453,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
+        },
+        {
+          "title": "白宫国家经济委员会主任凯文·哈塞特：（美国总统特朗普挑起的）关税对美国通胀的最终影响还有待观察。 未来的数据修正可能会表明生产力更加强劲。 美国85%的经济正经历“大幅的”生产力转变。 生产力繁荣是“空前绝后”的。 失业率“略微高于”均衡水平。",
+          "url": "https://wallstreetcn.com/livenews/3007285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "美国总统特朗普：我不在乎参议院何时通过众议院的（爱泼斯坦）法案，无论是今晚，还是在不久的将来的某个时候，我只是不希望共和党人把他们的目光从我们已经取得的所有胜利上移开。",
@@ -489,17 +513,6 @@
           "time_info": "14时53分"
         },
         {
-          "title": "特朗普政府调整零售销售、耐用品等多个经济数据的发布日期",
-          "url": "https://wallstreetcn.com/livenews/3007265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
           "title": "美国总统特朗普：希望将AI标准纳入NDAA，或者（国会山）单独起草一份法案。",
           "url": "https://wallstreetcn.com/livenews/3006771",
           "source": "华尔街见闻-快讯",
@@ -531,6 +544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "特朗普缺席，美国警告南非不要在峰会上发表G20声明",
+          "url": "https://wallstreetcn.com/livenews/3007268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "美国总统特朗普：我不会签署任何来自国会的医疗保健法案，除非该法案能将资金直接发放给民众，而非通过保险公司的途径进行分配。",
@@ -616,17 +640,6 @@
           "time_info": "16时52分"
         },
         {
-          "title": "快手程一笑：可灵AI将重点聚焦AI影视制作场景 视频生成赛道仍在早期",
-          "url": "https://wallstreetcn.com/livenews/3007274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
           "title": "香港警察入驻抖音两周年",
           "url": "https://www.douyin.com/hot/2311052",
           "source": "抖音",
@@ -635,11 +648,12 @@
             19,
             26,
             16,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时33分 ~ 22时43分]"
+          "appearance_count": 6,
+          "time_info": "[15时33分 ~ 23时36分]"
         },
         {
           "title": "快手科技第三季度营收355.5亿元人民币，预估353.2亿元人民币。 第三季度调整后净利润49.9亿元人民币，预估48.3亿元人民币。 第三季度净利润44.9亿元人民币，预估41.5亿元人民币。 第三季度调整后EBITDA 76.5亿元人民币。 第三季度直播收入95.7亿元人民币，预估97.9亿元人民币。 第三季度平均月活跃用户7.31亿，预估7.3亿。 第三季度线上营销服务收入201.0亿元人民币。",
@@ -652,6 +666,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时52分 ~ 17时40分]"
+        },
+        {
+          "title": "快手程一笑：可灵AI将重点聚焦AI影视制作场景 视频生成赛道仍在早期",
+          "url": "https://wallstreetcn.com/livenews/3007274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时36分]"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1%，小米跌超4%，快手、理想汽车、地平线机器人跌超2%。",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T05:27:54.203961+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2025-11-20T06:38:57.650347+08:00",
+  "total_titles_processed": 641,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时38分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时38分]"
         },
         {
           "title": "美国总统特朗普：今天有数十家公司将签署总价值2700亿美元的协议和销售合同。",
@@ -73,6 +73,33 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "C罗马斯克现身白宫 出席特朗普晚宴",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E9%A9%AC%E6%96%AF%E5%85%8B%E7%8E%B0%E8%BA%AB%E7%99%BD%E5%AE%AB+%E5%87%BA%E5%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%9A%E5%AE%B4",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时50分 ~ 06时38分]"
+        },
+        {
+          "title": "马斯克出席特朗普与沙特王储晚宴",
+          "url": "https://www.toutiao.com/trending/7573762239518228521/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            29,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 06时38分]"
         },
         {
           "title": "据官员们透露，美国总统特朗普的半导体关税计划可能会被推迟。（路透）",
@@ -123,31 +150,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时28分 ~ 05时27分]"
-        },
-        {
-          "title": "C罗马斯克现身白宫 出席特朗普晚宴",
-          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E9%A9%AC%E6%96%AF%E5%85%8B%E7%8E%B0%E8%BA%AB%E7%99%BD%E5%AE%AB+%E5%87%BA%E5%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%9A%E5%AE%B4",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时50分 ~ 05时27分]"
-        },
-        {
-          "title": "马斯克出席特朗普与沙特王储晚宴",
-          "url": "https://www.toutiao.com/trending/7573762239518228521/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 05时27分]"
         },
         {
           "title": "美国总统特朗普：美国与沙特在LNG基础设施领域合作。",
@@ -249,7 +251,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -293,7 +295,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -326,7 +328,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },

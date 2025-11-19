@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T17:40:30.181537+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2025-11-19T18:44:54.551432+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -39,11 +39,12 @@
           "ranks": [
             8,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时35分 ~ 17时40分]"
+          "appearance_count": 8,
+          "time_info": "[11时35分 ~ 18时44分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -59,8 +60,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时35分 ~ 17时40分]"
+          "appearance_count": 8,
+          "time_info": "[11时35分 ~ 18时44分]"
         },
         {
           "title": "美国总统特朗普：沙特至少将6000亿美元投资于美国，用于工厂、公司以及华尔街的资金投入。",
@@ -204,6 +205,30 @@
           "time_info": "[13时40分 ~ 15时33分]"
         },
         {
+          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
+          "url": "https://www.cls.cn/detail/2204709",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时44分]"
+        },
+        {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时44分]"
+        },
+        {
           "title": "美国总统特朗普威胁要吊销ABC的新闻许可，此前特朗普被该公司记者问及爱泼斯坦问题。",
           "url": "https://wallstreetcn.com/livenews/3006687",
           "source": "华尔街见闻-快讯",
@@ -250,29 +275,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时55分 ~ 03时26分]"
-        },
-        {
-          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
-          "url": "https://www.cls.cn/detail/2204709",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时40分]"
-        },
-        {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时40分]"
         },
         {
           "title": "美国总统特朗普：我们必须制定一项人工智能联邦标准，而不是由50个州各自为政的监管体系。",
@@ -395,6 +397,18 @@
           "time_info": "[02时55分 ~ 03时26分]"
         },
         {
+          "title": "沙特王储尴尬语塞回应特朗普问题",
+          "url": "https://www.toutiao.com/trending/7574266887845019686/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时44分]"
+        },
+        {
           "title": "特朗普：希望建立人工智能的统一联邦监管标准",
           "url": "https://flash.jin10.com/detail/20251119064221124800",
           "source": "金十数据",
@@ -434,7 +448,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -459,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁",
+          "url": "https://www.toutiao.com/trending/7574328835857023012/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "美国总统特朗普出席与沙特阿拉伯王储的抵达欢迎仪式。",
@@ -505,17 +530,6 @@
           "time_info": "02时55分"
         },
         {
-          "title": "沙特王储尴尬语塞回应特朗普问题",
-          "url": "https://www.toutiao.com/trending/7574266887845019686/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
           "title": "美国总统特朗普：美国将涉足沙特阿拉伯的人工智能领域。",
           "url": "https://flash.jin10.com/detail/20251119015405489800",
           "source": "金十数据",
@@ -541,7 +555,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "迪丽热巴在抖音散了一天发了",
@@ -600,6 +614,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时33分 ~ 16时52分]"
+        },
+        {
+          "title": "快手科技：可灵AI三季度营收超3亿元",
+          "url": "https://wallstreetcn.com/livenews/3007111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         }
       ]
     }

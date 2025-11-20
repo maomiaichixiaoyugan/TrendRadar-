@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T16:52:37.197378+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2025-11-20T17:39:10.955331+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,17 @@
           "time_info": "[00时53分 ~ 07时32分]"
         },
         {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时41分 ~ 17时39分]"
+        },
+        {
           "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
           "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
           "source": "凤凰网",
@@ -42,6 +53,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时32分 ~ 16时52分]"
+        },
+        {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时54分 ~ 17时39分]"
         },
         {
           "title": "C罗马斯克现身白宫 出席特朗普晚宴",
@@ -70,17 +95,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时53分 ~ 07时32分]"
-        },
-        {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时41分 ~ 16时52分]"
         },
         {
           "title": "美国总统特朗普：今天有数十家公司将签署总价值2700亿美元的协议和销售合同。",
@@ -114,19 +128,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
-          "url": "https://www.cls.cn/detail/2205764",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时54分 ~ 16时52分]"
         },
         {
           "title": "美国总统特朗普：（美国与沙特之间）数十家公司今天签署2700亿美元协议和销售（合同）。",

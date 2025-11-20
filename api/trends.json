@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T19:30:26.487013+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2025-11-20T21:39:29.232615+08:00",
+  "total_titles_processed": 1702,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时41分 ~ 19时30分]"
+          "appearance_count": 12,
+          "time_info": "[12时41分 ~ 21时39分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -448,7 +449,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },

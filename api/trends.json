@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T14:54:32.510508+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2025-11-20T15:33:08.536835+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 07时32分]"
+        },
+        {
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时32分 ~ 15时33分]"
         },
         {
           "title": "C罗马斯克现身白宫 出席特朗普晚宴",
@@ -104,6 +116,17 @@
           "time_info": "01时32分"
         },
         {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 15时33分]"
+        },
+        {
           "title": "美国总统特朗普：正在努力批准向沙特阿拉伯出售飞机。",
           "url": "https://flash.jin10.com/detail/20251120011003291800",
           "source": "金十数据",
@@ -113,18 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
-          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时32分 ~ 14时54分]"
         },
         {
           "title": "据官员们透露，美国总统特朗普的半导体关税计划可能会被推迟。（路透）",
@@ -190,17 +201,6 @@
           "time_info": "[11时32分 ~ 13时40分]"
         },
         {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时54分]"
-        },
-        {
           "title": "特朗普：应起诉鲍威尔",
           "url": "https://news.ifeng.com/c/8oQBc00t0BE",
           "source": "凤凰网",
@@ -210,6 +210,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时32分 ~ 12时41分]"
+        },
+        {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 15时33分]"
         },
         {
           "title": "美国总统特朗普：美国与沙特在LNG基础设施领域合作。",
@@ -370,17 +382,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
-        },
-        {
-          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
-          "url": "https://www.cls.cn/detail/2205764",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
         },
         {
           "title": "马斯克发帖感谢特朗普",
@@ -572,11 +573,12 @@
             11,
             10,
             4,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时32分 ~ 14时54分]"
+          "appearance_count": 7,
+          "time_info": "[11时32分 ~ 15时33分]"
         },
         {
           "title": "银行扎堆入驻小红书，解锁营销新路径",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T07:31:30.627320+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2025-11-21T11:33:10.305136+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普“化缘”21万亿美元意味着啥",
@@ -50,7 +50,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -104,6 +104,17 @@
           "time_info": "[03时28分 ~ 04时39分]"
         },
         {
+          "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
+          "url": "https://news.ifeng.com/c/8oRnabvaRvi",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
           "title": "特朗普政府重组能源部 取消清洁能源办公室",
           "url": "https://flash.jin10.com/detail/20251121025822476800",
           "source": "金十数据",
@@ -138,6 +149,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 04时39分]"
+        },
+        {
+          "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
+          "url": "https://www.cls.cn/detail/2206817",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
         },
         {
           "title": "美国白宫：我们相信乌克兰计划应为双方所接受，特朗普支持该计划，我们正就结束乌克兰冲突与双方进行良好的对话。",
@@ -241,7 +263,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -263,7 +285,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -285,7 +307,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -296,7 +318,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T14:55:56.565635+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2025-11-21T15:34:08.808260+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时30分 ~ 07时31分]"
+        },
+        {
+          "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
+          "url": "https://www.cls.cn/detail/2206817",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时32分 ~ 15时34分]"
         },
         {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
@@ -42,19 +55,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
-        },
-        {
-          "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
-          "url": "https://www.cls.cn/detail/2206817",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时32分 ~ 14时55分]"
         },
         {
           "title": "美国国会预算办公室下调关税收入预估 料难弥补特朗普减税影响",
@@ -126,6 +126,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 04时39分]"
+        },
+        {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 15时34分]"
         },
         {
           "title": "特朗普政府重组能源部 取消清洁能源办公室",
@@ -259,18 +271,6 @@
           "time_info": "[00时54分 ~ 07时31分]"
         },
         {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 14时55分]"
-        },
-        {
           "title": "特朗普政府拟大幅扩张海上钻探 首次开放北极地区",
           "url": "https://flash.jin10.com/detail/20251121034506288800",
           "source": "金十数据",
@@ -288,7 +288,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -428,8 +428,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 14时55分]"
+          "appearance_count": 6,
+          "time_info": "[12时43分 ~ 15时34分]"
         }
       ]
     }

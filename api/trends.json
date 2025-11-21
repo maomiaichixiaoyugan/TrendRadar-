@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-21T19:29:20.588366+08:00",
-  "total_titles_processed": 1664,
+  "generated_at": "2025-11-21T21:35:58.383944+08:00",
+  "total_titles_processed": 1800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时41分 ~ 21时35分]"
+        },
         {
           "title": "特朗普“化缘”21万亿美元意味着啥",
           "url": "https://www.toutiao.com/trending/7574747368273219114/",
@@ -32,19 +45,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时32分 ~ 15时34分]"
-        },
-        {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时41分 ~ 19时29分]"
         },
         {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
@@ -323,7 +323,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -367,7 +367,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -411,9 +411,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
+        },
+        {
+          "title": "特朗普的乌克兰和平计划包括以北约“第5条”为蓝本的安全保障，这将使美国和欧洲盟国将对乌克兰的攻击视为对“跨大西洋共同体”的攻击。",
+          "url": "https://flash.jin10.com/detail/20251121205930155800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "泽连斯基同意与美合作制定和平计划 并将在近期与特朗普会谈",
@@ -447,6 +458,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "特朗普为何取消对巴西40%食品关税",
+          "url": "https://www.toutiao.com/trending/7575096459230449162/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "美国副总统万斯：我认为就业报告让市场“痴狂”。 就业人口增长将汇集到美国公民（而不是总统特朗普正在攻击的移民）。",
@@ -494,11 +516,12 @@
           "ranks": [
             4,
             2,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时43分 ~ 19时29分]"
+          "appearance_count": 11,
+          "time_info": "[12时43分 ~ 21时35分]"
         },
         {
           "title": "抖音生活服务烟火榜发布，首批10城360家小店上榜",

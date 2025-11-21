@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T21:35:58.383944+08:00",
-  "total_titles_processed": 1800,
+  "generated_at": "2025-11-21T22:41:03.601685+08:00",
+  "total_titles_processed": 1921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普批鲍威尔：想立刻炒了你",
@@ -14,11 +14,12 @@
           "ranks": [
             21,
             22,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时41分 ~ 21时35分]"
+          "appearance_count": 11,
+          "time_info": "[13时41分 ~ 22时41分]"
         },
         {
           "title": "特朗普“化缘”21万亿美元意味着啥",
@@ -422,7 +423,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -436,6 +437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "市场消息：特朗普政府希望俄罗斯和乌克兰在2025年底前达成和平协议。",
+          "url": "https://flash.jin10.com/detail/20251121221246314800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "民主党籍联邦通信委员会（FCC）委员Anna Gomez表示，特朗普总统威胁吊销ABC广播执照的做法在法庭上将不会成功。",
@@ -466,7 +478,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -517,11 +529,12 @@
             4,
             2,
             5,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时43分 ~ 21时35分]"
+          "appearance_count": 13,
+          "time_info": "[12时43分 ~ 22时41分]"
         },
         {
           "title": "抖音生活服务烟火榜发布，首批10城360家小店上榜",

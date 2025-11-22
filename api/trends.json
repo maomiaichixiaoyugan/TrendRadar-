@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T21:05:29.520651+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2025-11-22T22:33:21.224167+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -15,11 +15,12 @@
             9,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时16分 ~ 21时05分]"
+          "appearance_count": 14,
+          "time_info": "[11时16分 ~ 22时33分]"
         },
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -33,8 +34,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时28分 ~ 21时05分]"
+          "appearance_count": 9,
+          "time_info": "[15时28分 ~ 22时33分]"
         },
         {
           "title": "特朗普喊话泽连斯基：必须接受，因为你无牌可打",
@@ -54,11 +55,12 @@
           "ranks": [
             16,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时35分 ~ 21时05分]"
+          "appearance_count": 11,
+          "time_info": "[13时35分 ~ 22时33分]"
         },
         {
           "title": "特朗普批鲍威尔：想立刻炒了你",
@@ -114,6 +116,17 @@
           "time_info": "[11时16分 ~ 16时43分]"
         },
         {
+          "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
+          "url": "https://flash.jin10.com/detail/20251122223224197800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "公开决裂后 特朗普铁杆盟友辞职",
           "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%BC%80%E5%86%B3%E8%A3%82%E5%90%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E9%93%81%E6%9D%86%E7%9B%9F%E5%8F%8B%E8%BE%9E%E8%81%8C",
           "source": "百度热搜",
@@ -158,7 +171,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -375,6 +388,18 @@
           "time_info": "[01时35分 ~ 02时48分]"
         },
         {
+          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时33分]"
+        },
+        {
           "title": "据俄新社：俄罗斯总统普京与美国总统特朗普再次会晤已提上议程，一切皆有可能。",
           "url": "https://flash.jin10.com/detail/20251122180507453800",
           "source": "金十数据",
@@ -410,15 +435,26 @@
           "time_info": "[02时47分 ~ 02时48分]"
         },
         {
-          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
-          "source": "澎湃新闻",
+          "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009012",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "22时33分"
+        },
+        {
+          "title": "欧洲称特朗普关于乌克兰的方案仍需”完善”。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
@@ -452,6 +488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "纽约市长在特朗普面前言论“大变脸”",
+          "url": "https://wallstreetcn.com/livenews/3009006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "美国总统特朗普：乌克兰总统泽连斯基将不得不批准（我的）和平计划。",
@@ -542,6 +589,17 @@
           "time_info": "01时35分"
         },
         {
+          "title": "为应对法院裁决 特朗普政府准备关税备用方案",
+          "url": "https://flash.jin10.com/detail/20251122214339953800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "特朗普划红线 泽连斯基会接受吗",
           "url": "https://www.toutiao.com/trending/7575475141363109395/",
           "source": "今日头条",
@@ -587,11 +645,12 @@
           "ranks": [
             20,
             16,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 21时05分]"
+          "appearance_count": 6,
+          "time_info": "[17时32分 ~ 22时33分]"
         },
         {
           "title": "美国总统特朗普：乌克兰正在失去土地。俄罗斯总统普京并不寻求更多冲突。",
@@ -632,8 +691,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时28分 ~ 21时05分]"
+          "appearance_count": 9,
+          "time_info": "[15时28分 ~ 22时33分]"
         }
       ]
     }

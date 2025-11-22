@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T18:37:02.683070+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2025-11-22T19:25:27.098287+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时16分 ~ 18时37分]"
+          "appearance_count": 12,
+          "time_info": "[11时16分 ~ 19时25分]"
         },
         {
           "title": "特朗普喊话泽连斯基：必须接受，因为你无牌可打",
@@ -65,8 +65,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时35分 ~ 18时37分]"
+          "appearance_count": 9,
+          "time_info": "[13时35分 ~ 19时25分]"
         },
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -79,8 +79,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时28分 ~ 18时37分]"
+          "appearance_count": 7,
+          "time_info": "[15时28分 ~ 19时25分]"
         },
         {
           "title": "特朗普见“社会主义者”马姆达尼，两人竟“化干戈为玉帛”",
@@ -124,17 +124,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时35分 ~ 17时32分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-22）",
-          "url": "https://flash.jin10.com/detail/20251122182640033800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
         },
         {
           "title": "美国白宫针对关键矿物发布公告：为某些固定污染源提供“监管减免”，以促进美国焦炉加工安全 总统特朗普向与煤炭相关的产品提供两年监管宽限。",
@@ -199,6 +188,19 @@
           "time_info": "[13时35分 ~ 16时43分]"
         },
         {
+          "title": "据白俄罗斯国家通讯社：白俄罗斯总统卢卡申科根据与美国总统特朗普达成的协议，赦免了31名乌克兰公民。",
+          "url": "https://flash.jin10.com/detail/20251122170834285800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时25分]"
+        },
+        {
           "title": "美国白宫：特朗普总统签署公告，为某些固定污染源提供“监管减免”，以促进美国焦炉加工的安全性。",
           "url": "https://flash.jin10.com/detail/20251122035727750800",
           "source": "金十数据",
@@ -235,16 +237,16 @@
           "time_info": "[02时48分 ~ 03时27分]"
         },
         {
-          "title": "据白俄罗斯国家通讯社：白俄罗斯总统卢卡申科根据与美国总统特朗普达成的协议，赦免了31名乌克兰公民。",
-          "url": "https://flash.jin10.com/detail/20251122170834285800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-22）",
+          "url": "https://flash.jin10.com/detail/20251122182640033800",
           "source": "金十数据",
           "ranks": [
-            2,
-            24
+            3,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时37分]"
+          "time_info": "[18时37分 ~ 19时25分]"
         },
         {
           "title": "美法官叫停特朗普政府削减对多地的联邦拨款",
@@ -358,6 +360,18 @@
           "time_info": "[01时35分 ~ 02时48分]"
         },
         {
+          "title": "据俄新社：俄罗斯总统普京与美国总统特朗普再次会晤已提上议程，一切皆有可能。",
+          "url": "https://flash.jin10.com/detail/20251122180507453800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 19时25分]"
+        },
+        {
           "title": "美国总统特朗普：我并没有向民主党议员发出“死亡/死刑威胁”。",
           "url": "https://wallstreetcn.com/livenews/3008796",
           "source": "华尔街见闻-快讯",
@@ -379,17 +393,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 02时48分]"
-        },
-        {
-          "title": "据俄新社：俄罗斯总统普京与美国总统特朗普再次会晤已提上议程，一切皆有可能。",
-          "url": "https://flash.jin10.com/detail/20251122180507453800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
         },
         {
           "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
@@ -513,6 +516,17 @@
           "time_info": "01时35分"
         },
         {
+          "title": "特朗普划红线 泽连斯基会接受吗",
+          "url": "https://www.toutiao.com/trending/7575475141363109395/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "白宫回应特朗普称女记者为“小猪”",
           "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%A5%B3%E8%AE%B0%E8%80%85%E4%B8%BA%E2%80%9C%E5%B0%8F%E7%8C%AA%E2%80%9D",
           "source": "百度热搜",
@@ -549,8 +563,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 18时37分]"
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 19时25分]"
         },
         {
           "title": "美国总统特朗普：乌克兰正在失去土地。俄罗斯总统普京并不寻求更多冲突。",
@@ -590,8 +604,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时28分 ~ 18时37分]"
+          "appearance_count": 7,
+          "time_info": "[15时28分 ~ 19时25分]"
         }
       ]
     }

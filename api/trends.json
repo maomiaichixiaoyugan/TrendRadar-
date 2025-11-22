@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-22T17:32:21.105708+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2025-11-22T18:37:02.683070+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32019589",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时16分 ~ 18时37分]"
+        },
         {
           "title": "特朗普喊话泽连斯基：必须接受，因为你无牌可打",
           "url": "https://v.ifeng.com/c/8oU2xy9xf53",
@@ -33,19 +46,6 @@
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32019589",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时16分 ~ 17时32分]"
-        },
-        {
-          "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
           "url": "https://www.cls.cn/detail/2207928",
           "source": "财联社热门",
           "ranks": [
@@ -55,6 +55,32 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时16分 ~ 17时32分]"
+        },
+        {
+          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时35分 ~ 18时37分]"
+        },
+        {
+          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
+          "url": "https://wallstreetcn.com/articles/3759912",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时28分 ~ 18时37分]"
         },
         {
           "title": "特朗普见“社会主义者”马姆达尼，两人竟“化干戈为玉帛”",
@@ -100,26 +126,15 @@
           "time_info": "[13时35分 ~ 17时32分]"
         },
         {
-          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时35分 ~ 17时32分]"
-        },
-        {
-          "title": "据白俄罗斯国家通讯社：白俄罗斯总统卢卡申科根据与美国总统特朗普达成的协议，赦免了31名乌克兰公民。",
-          "url": "https://flash.jin10.com/detail/20251122170834285800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-22）",
+          "url": "https://flash.jin10.com/detail/20251122182640033800",
           "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "18时37分"
         },
         {
           "title": "美国白宫针对关键矿物发布公告：为某些固定污染源提供“监管减免”，以促进美国焦炉加工安全 总统特朗普向与煤炭相关的产品提供两年监管宽限。",
@@ -184,19 +199,6 @@
           "time_info": "[13时35分 ~ 16时43分]"
         },
         {
-          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
-          "url": "https://wallstreetcn.com/articles/3759912",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时28分 ~ 17时32分]"
-        },
-        {
           "title": "美国白宫：特朗普总统签署公告，为某些固定污染源提供“监管减免”，以促进美国焦炉加工的安全性。",
           "url": "https://flash.jin10.com/detail/20251122035727750800",
           "source": "金十数据",
@@ -231,6 +233,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时27分]"
+        },
+        {
+          "title": "据白俄罗斯国家通讯社：白俄罗斯总统卢卡申科根据与美国总统特朗普达成的协议，赦免了31名乌克兰公民。",
+          "url": "https://flash.jin10.com/detail/20251122170834285800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 18时37分]"
         },
         {
           "title": "美法官叫停特朗普政府削减对多地的联邦拨款",
@@ -365,6 +379,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 02时48分]"
+        },
+        {
+          "title": "据俄新社：俄罗斯总统普京与美国总统特朗普再次会晤已提上议程，一切皆有可能。",
+          "url": "https://flash.jin10.com/detail/20251122180507453800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
@@ -520,11 +545,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32022223",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 18时37分]"
         },
         {
           "title": "美国总统特朗普：乌克兰正在失去土地。俄罗斯总统普京并不寻求更多冲突。",
@@ -564,8 +590,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时28分 ~ 17时32分]"
+          "appearance_count": 6,
+          "time_info": "[15时28分 ~ 18时37分]"
         }
       ]
     }

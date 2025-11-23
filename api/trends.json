@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T19:11:51.188485+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2025-11-23T20:24:41.690663+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -36,6 +36,23 @@
           "time_info": "[00时42分 ~ 18时14分]"
         },
         {
+          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14,
+            13,
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时49分 ~ 20时24分]"
+        },
+        {
           "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3009010",
           "source": "华尔街见闻-快讯",
@@ -50,22 +67,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时42分 ~ 18时14分]"
-        },
-        {
-          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14,
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时49分 ~ 19时11分]"
         },
         {
           "title": "纽约市长在特朗普面前言论“大变脸”",
@@ -162,15 +163,15 @@
           "time_info": "[12时55分 ~ 17时14分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-23）",
-          "url": "https://flash.jin10.com/detail/20251123182429322800",
-          "source": "金十数据",
+          "title": "特朗普：若泽连斯基不同意，可以继续拼死抵抗",
+          "url": "https://news.ifeng.com/c/8oVo9VsbeqC",
+          "source": "凤凰网",
           "ranks": [
-            2
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 20时24分]"
         },
         {
           "title": "叫停战争、终结通胀、股市新高…特朗普将一切归功于关税",
@@ -187,15 +188,16 @@
           "time_info": "[11时49分 ~ 15时14分]"
         },
         {
-          "title": "特朗普：若泽连斯基不同意，可以继续拼死抵抗",
-          "url": "https://news.ifeng.com/c/8oVo9VsbeqC",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-23）",
+          "url": "https://flash.jin10.com/detail/20251123182429322800",
+          "source": "金十数据",
           "ranks": [
-            10
+            2,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时17分 ~ 19时11分]"
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时24分]"
         },
         {
           "title": "美乌将在瑞士举行会谈，此前特朗普给泽连斯基设最后期限，提出 28 点和平计划，局势或将如何进展？",
@@ -206,8 +208,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 19时11分]"
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 20时24分]"
         },
         {
           "title": "特朗普强硬逼迫 泽连斯基会逃亡吗",
@@ -233,6 +235,18 @@
           "time_info": "[00时42分 ~ 01时31分]"
         },
         {
+          "title": "若泽连斯基拒绝美方和平计划？特朗普：他可以和俄罗斯打个痛快",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32025122",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时24分]"
+        },
+        {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
           "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
           "source": "澎湃新闻",
@@ -244,15 +258,15 @@
           "time_info": "00时42分"
         },
         {
-          "title": "若泽连斯基拒绝美方和平计划？特朗普：他可以和俄罗斯打个痛快",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025122",
-          "source": "澎湃新闻",
+          "title": "泽连斯基只能答应特朗普28条吗",
+          "url": "https://www.toutiao.com/trending/7575877084560494086/",
+          "source": "今日头条",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "20时24分"
         },
         {
           "title": "美国上诉法院驳回特朗普政府扩大快速驱逐移民的请求。",
@@ -269,7 +283,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "抖音生活服务烟火榜发布",
@@ -296,8 +310,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时13分 ~ 19时11分]"
+          "appearance_count": 8,
+          "time_info": "[15时13分 ~ 20时24分]"
         },
         {
           "title": "找到平凡哥的抖音账号了",
@@ -312,6 +326,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时31分 ~ 14时51分]"
+        },
+        {
+          "title": "一条抖音告别全运会",
+          "url": "https://www.douyin.com/hot/2314133",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },

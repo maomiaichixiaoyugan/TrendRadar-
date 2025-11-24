@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T20:29:51.817173+08:00",
-  "total_titles_processed": 1594,
+  "generated_at": "2025-11-24T21:30:53.149705+08:00",
+  "total_titles_processed": 1677,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 20时29分]"
+          "appearance_count": 15,
+          "time_info": "[09时08分 ~ 21时30分]"
         },
         {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
@@ -78,11 +78,12 @@
           "ranks": [
             15,
             5,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时18分 ~ 20时29分]"
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 21时30分]"
         },
         {
           "title": "美国总统特朗普：乌克兰“领导层”对我们所做的一切毫无感激之情，而欧洲仍在继续从俄罗斯购买石油。",
@@ -406,13 +407,24 @@
           "time_info": "19时13分"
         },
         {
+          "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32029092",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
           "title": "德国总理默茨：美国总统特朗普曾表示愿意接受共同制定的和平方案，而这正是昨天在日内瓦所达成的。",
           "url": "https://flash.jin10.com/detail/20251124194617345800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },

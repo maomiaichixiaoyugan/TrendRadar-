@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T01:14:51.739211+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2025-11-25T02:22:20.424303+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时22分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时22分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时22分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时22分]"
         },
         {
           "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
@@ -59,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时22分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -70,41 +70,66 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时22分]"
         },
         {
           "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
           "url": "https://m.thepaper.cn/newsDetail_forward_32029092",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时22分]"
         },
         {
           "title": "曝特朗普最后一刻才知28点计划内容",
           "url": "https://www.toutiao.com/trending/7575287851869323300/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时22分]"
         },
         {
           "title": "“跌疯了”的币圈“阴谋论满天飞”：美国政府“抢钱”，华尔街“做空”，甚至是“摩根大通大战特朗普”",
           "url": "https://wallstreetcn.com/articles/3760011",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时22分]"
+        },
+        {
+          "title": "特朗普政府将裁减约31.7万名雇员，超过原来的预估",
+          "url": "https://wallstreetcn.com/livenews/3009712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
+        {
+          "title": "美国联邦法官驳回了针对特朗普政治对手的起诉",
+          "url": "https://flash.jin10.com/detail/20251125015856912800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -116,6 +141,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "抖音网友也是整上奇迹枭枭了",
+          "url": "https://www.douyin.com/hot/2316733",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T11:19:44.818265+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2025-11-24T12:30:00.533933+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,24 @@
           "url": "https://news.ifeng.com/c/8oXC4wZBeGO",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 11时19分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 12时30分]"
+        },
+        {
+          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
+          "url": "https://wallstreetcn.com/articles/3759963",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 12时30分]"
         },
         {
           "title": "美国总统特朗普：乌克兰“领导层”对我们所做的一切毫无感激之情，而欧洲仍在继续从俄罗斯购买石油。",
@@ -119,18 +132,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
-          "url": "https://wallstreetcn.com/articles/3759963",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 11时19分]"
         },
         {
           "title": "芬兰总统斯图布：美国总统特朗普正在非常努力地寻求解决俄乌冲突的方案。",
@@ -270,7 +271,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -309,6 +310,18 @@
           "time_info": "[00时15分 ~ 07时13分]"
         },
         {
+          "title": "港股快速拉升，恒生科技指数涨幅扩大至2%，恒指涨1.4%。阿里巴巴快速拉升涨超4%，快手涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3009299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时30分]"
+        },
+        {
           "title": "你的抖音已被蔡徐坤翻牌",
           "url": "https://www.douyin.com/hot/2315431",
           "source": "抖音",
@@ -318,17 +331,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 04时16分]"
-        },
-        {
-          "title": "港股快速拉升，恒生科技指数涨幅扩大至2%，恒指涨1.4%。阿里巴巴快速拉升涨超4%，快手涨近5%。",
-          "url": "https://wallstreetcn.com/livenews/3009299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
         }
       ]
     }

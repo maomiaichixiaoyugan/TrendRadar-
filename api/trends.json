@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T15:15:56.591917+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2025-11-24T16:21:59.903824+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时08分 ~ 15时15分]"
+          "appearance_count": 9,
+          "time_info": "[09时08分 ~ 16时21分]"
         },
         {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
@@ -170,6 +170,17 @@
           "time_info": "[05时13分 ~ 07时13分]"
         },
         {
+          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
+          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 16时21分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：与美国代表进行对话是件好事，有迹象表明，美国总统特朗普的团队“听到了我们的声音”。",
           "url": "https://flash.jin10.com/detail/20251124040847744800",
           "source": "金十数据",
@@ -220,17 +231,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 02时19分]"
-        },
-        {
-          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
-          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 15时15分]"
         },
         {
           "title": "特朗普抱怨乌克兰“毫无感激之心”",
@@ -384,7 +384,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         }

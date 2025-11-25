@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T04:17:04.037694+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2025-11-26T05:14:20.991303+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "特朗普与高市早苗通话",
@@ -50,8 +50,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "特朗普：俄乌和平计划只剩少数争议点 特使将赴莫斯科与普京会谈",
@@ -60,29 +60,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "特朗普：已指派美官员与俄乌双方就和平计划展开磋商",
-          "url": "https://wallstreetcn.com/livenews/3010379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "美国总统特朗普的特使Witkoff向俄罗斯总统普京建议，宜在乌克兰总统泽连斯基11月27日前往美国之前与特朗普通话。 Witkoff向普京建议，应赞赏特朗普主张的加沙“和平协议”。 11月14日，Witkoff与普京顾问Ushakov通电话。",
-          "url": "https://wallstreetcn.com/livenews/3010377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -93,20 +71,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
         {
-          "title": "美国总统特朗普：特使Witkoff将在莫斯科会见俄罗斯总统普京。 我期待很快会见普京和乌克兰总统泽连斯基。",
-          "url": "https://wallstreetcn.com/livenews/3010375",
+          "title": "特朗普：俄乌和平协议已“非常接近达成”",
+          "url": "https://wallstreetcn.com/livenews/3010364",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2,
+            13,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 05时14分]"
         },
         {
           "title": "泽连斯基拟于27日与特朗普会面，以达成和平协议",
@@ -159,16 +139,40 @@
           "time_info": "[03时13分 ~ 04时17分]"
         },
         {
-          "title": "特朗普：俄乌和平协议已“非常接近达成”",
-          "url": "https://wallstreetcn.com/livenews/3010364",
+          "title": "特朗普：已指派美官员与俄乌双方就和平计划展开磋商",
+          "url": "https://wallstreetcn.com/livenews/3010379",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            13
+            3,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时13分 ~ 04时17分]"
+          "time_info": "[04时17分 ~ 05时14分]"
+        },
+        {
+          "title": "美国总统特朗普的特使Witkoff向俄罗斯总统普京建议，宜在乌克兰总统泽连斯基11月27日前往美国之前与特朗普通话。 Witkoff向普京建议，应赞赏特朗普主张的加沙“和平协议”。 11月14日，Witkoff与普京顾问Ushakov通电话。",
+          "url": "https://wallstreetcn.com/livenews/3010377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 05时14分]"
+        },
+        {
+          "title": "美国总统特朗普：特使Witkoff将在莫斯科会见俄罗斯总统普京。 我期待很快会见普京和乌克兰总统泽连斯基。",
+          "url": "https://wallstreetcn.com/livenews/3010375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 05时14分]"
         },
         {
           "title": "特朗普主动和高市通话所为何事",
@@ -197,6 +201,18 @@
           "time_info": "[02时22分 ~ 04时17分]"
         },
         {
+          "title": "特朗普：将于明年4月访华",
+          "url": "https://www.douyin.com/hot/2316962",
+          "source": "抖音",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时16分 ~ 05时14分]"
+        },
+        {
           "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
           "url": "https://wallstreetcn.com/livenews/3010309",
           "source": "华尔街见闻-快讯",
@@ -220,17 +236,6 @@
           "time_info": "[00时19分 ~ 00时20分]"
         },
         {
-          "title": "特朗普：将于明年4月访华",
-          "url": "https://www.douyin.com/hot/2316962",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 04时17分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基希望尽快会见美国总统特朗普。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3010321",
           "source": "华尔街见闻-快讯",
@@ -249,7 +254,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -260,7 +265,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -271,7 +276,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -307,6 +312,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "市场消息：英国、法国、德国领导人在出席“意愿联盟”会议后，重申支持美国总统特朗普为结束俄乌冲突所作的努力，并强调任何解决方案都必须充分吸纳乌克兰参与。",
+          "url": "https://flash.jin10.com/detail/20251126044530936800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "白宫否认特朗普考虑撤掉联邦调查局局长卡什·帕特尔。",
+          "url": "https://flash.jin10.com/detail/20251126044053857800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "特朗普：想派国民警卫队进驻芝加哥。",
@@ -353,11 +380,12 @@
           "source": "抖音",
           "ranks": [
             24,
-            29
+            29,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 05时14分]"
         }
       ]
     }

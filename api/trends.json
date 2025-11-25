@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T18:18:05.288087+08:00",
-  "total_titles_processed": 1619,
+  "generated_at": "2025-11-25T19:14:22.633540+08:00",
+  "total_titles_processed": 1706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 75,
       "titles": [
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -60,8 +60,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时13分 ~ 18时18分]"
+          "appearance_count": 17,
+          "time_info": "[07时13分 ~ 19时14分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -72,8 +72,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时16分 ~ 18时18分]"
+          "appearance_count": 24,
+          "time_info": "[00时16分 ~ 19时14分]"
         },
         {
           "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
@@ -128,8 +128,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时10分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[11时10分 ~ 19时14分]"
         },
         {
           "title": "特朗普要求与高市早苗通话",
@@ -172,11 +172,25 @@
             7,
             4,
             8,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 19时14分]"
+        },
+        {
+          "title": "特朗普称明年四月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B9%B4%E5%9B%9B%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时22分 ~ 19时14分]"
         },
         {
           "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
@@ -210,19 +224,6 @@
           "time_info": "[00时16分 ~ 15时15分]"
         },
         {
-          "title": "特朗普称明年四月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B9%B4%E5%9B%9B%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时22分 ~ 18时18分]"
-        },
-        {
           "title": "特朗普：将于明年4月访华",
           "url": "https://www.toutiao.com/trending/7575503024580431379/",
           "source": "今日头条",
@@ -248,6 +249,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时22分 ~ 18时18分]"
+        },
+        {
+          "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32037869",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 19时14分]"
         },
         {
           "title": "特朗普要求跟高市早苗通话",
@@ -311,19 +325,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时21分 ~ 13时15分]"
-        },
-        {
-          "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32037869",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 18时18分]"
         },
         {
           "title": "特朗普在孟菲斯成立的特别工作组已逮捕数千人",
@@ -656,6 +657,17 @@
           "time_info": "09时05分"
         },
         {
+          "title": "打还是不打？美媒曝特朗普打算和马杜罗直接谈",
+          "url": "https://news.ifeng.com/c/8oZVH3UgMjK",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "美对委“炮舰外交”或现缓和信号 特朗普计划与马杜罗直接对话",
           "url": "https://flash.jin10.com/detail/20251125061314901800",
           "source": "金十数据",
@@ -665,6 +677,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-25）",
+          "url": "https://flash.jin10.com/detail/20251125190351498800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "美国总统特朗普将于北京时间今天凌晨五点左右在椭圆形办公室签署一项行政命令。",
@@ -695,7 +718,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -898,11 +921,12 @@
           "source": "抖音",
           "ranks": [
             15,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 19时14分]"
         },
         {
           "title": "抖音网友也是整上奇迹枭枭了",

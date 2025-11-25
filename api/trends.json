@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T19:14:22.633540+08:00",
-  "total_titles_processed": 1706,
+  "generated_at": "2025-11-25T20:30:56.503177+08:00",
+  "total_titles_processed": 1810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 77,
       "titles": [
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -60,8 +60,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时13分 ~ 19时14分]"
+          "appearance_count": 18,
+          "time_info": "[07时13分 ~ 20时30分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -72,8 +72,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时16分 ~ 19时14分]"
+          "appearance_count": 25,
+          "time_info": "[00时16分 ~ 20时30分]"
         },
         {
           "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
@@ -128,8 +128,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时10分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[11时10分 ~ 20时30分]"
         },
         {
           "title": "特朗普要求与高市早苗通话",
@@ -173,11 +173,12 @@
             4,
             8,
             17,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时21分 ~ 19时14分]"
+          "appearance_count": 12,
+          "time_info": "[12时21分 ~ 20时30分]"
         },
         {
           "title": "特朗普称明年四月访华",
@@ -237,6 +238,19 @@
           "time_info": "[09时04分 ~ 13时15分]"
         },
         {
+          "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32037869",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时20分 ~ 20时30分]"
+        },
+        {
           "title": "高市早苗回应与特朗普通话",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D",
           "source": "bilibili 热搜",
@@ -249,19 +263,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时22分 ~ 18时18分]"
-        },
-        {
-          "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32037869",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时20分 ~ 19时14分]"
         },
         {
           "title": "特朗普要求跟高市早苗通话",
@@ -663,7 +664,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -685,7 +686,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -908,6 +909,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "特朗普主动和高市通话所为何事",
+          "url": "https://www.toutiao.com/trending/7576615764908576275/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
+        },
+        {
+          "title": "台评论员称高市可能被特朗普骂了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AF%84%E8%AE%BA%E5%91%98%E7%A7%B0%E9%AB%98%E5%B8%82%E5%8F%AF%E8%83%BD%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%AA%82%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
         }
       ]
     },
@@ -922,11 +945,12 @@
           "ranks": [
             15,
             20,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 19时14分]"
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 20时30分]"
         },
         {
           "title": "抖音网友也是整上奇迹枭枭了",

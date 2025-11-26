@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T20:30:59.410561+08:00",
-  "total_titles_processed": 1815,
+  "generated_at": "2025-11-26T21:31:52.957768+08:00",
+  "total_titles_processed": 1933,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时14分 ~ 20时30分]"
+          "appearance_count": 14,
+          "time_info": "[07时14分 ~ 21时31分]"
         },
         {
           "title": "特朗普电话后，日本沮丧了三次",
@@ -86,6 +86,18 @@
           "time_info": "[09时05分 ~ 15时15分]"
         },
         {
+          "title": "中方是否请特朗普向高市传口信？外交部回应",
+          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 21时31分]"
+        },
+        {
           "title": "俄乌战争转机来了？特朗普：已“非常接近达成”和平协议，仅剩少数细节！",
           "url": "https://www.cls.cn/detail/2210988",
           "source": "财联社热门",
@@ -110,18 +122,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时19分 ~ 07时14分]"
-        },
-        {
-          "title": "中方是否请特朗普向高市传口信？外交部回应",
-          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 20时30分]"
         },
         {
           "title": "特朗普与高市早苗通话",
@@ -151,6 +151,21 @@
           "time_info": "[07时14分 ~ 15时15分]"
         },
         {
+          "title": "中方回应是否请特朗普向高市传口信",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E8%AF%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E9%AB%98%E5%B8%82%E4%BC%A0%E5%8F%A3%E4%BF%A1",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            2,
+            8,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 21时31分]"
+        },
+        {
           "title": "美国财长预告：特朗普“极有可能”在1个月内提名新美联储主席",
           "url": "https://www.cls.cn/detail/2210885",
           "source": "财联社热门",
@@ -164,20 +179,6 @@
           "time_info": "[09时05分 ~ 15时15分]"
         },
         {
-          "title": "中方回应是否请特朗普向高市传口信",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E8%AF%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E9%AB%98%E5%B8%82%E4%BC%A0%E5%8F%A3%E4%BF%A1",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            2,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 20时30分]"
-        },
-        {
           "title": "2026年11月深圳的APEC会议，特朗普要来了？",
           "url": "https://news.ifeng.com/c/8oZweOPfKbO",
           "source": "凤凰网",
@@ -188,6 +189,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时05分 ~ 15时15分]"
+        },
+        {
+          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
+          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 21时31分]"
         },
         {
           "title": "特朗普电话后日本沮丧了三次",
@@ -271,18 +284,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
-        },
-        {
-          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
-          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 20时30分]"
         },
         {
           "title": "美国总统特朗普：陆军部长德里斯科尔将与乌克兰人会面。",
@@ -523,6 +524,18 @@
           "time_info": "[00时20分 ~ 01时16分]"
         },
         {
+          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时30分 ~ 21时31分]"
+        },
+        {
           "title": "台评论员称高市可能被特朗普骂了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AF%84%E8%AE%BA%E5%91%98%E7%A7%B0%E9%AB%98%E5%B8%82%E5%8F%AF%E8%83%BD%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%AA%82%E4%BA%86%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -578,6 +591,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时17分 ~ 18时17分]"
+        },
+        {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.toutiao.com/trending/7576901878579990070/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时30分 ~ 21时31分]"
         },
         {
           "title": "特朗普催拍成龙主演电影《尖峰时刻》",
@@ -679,17 +703,6 @@
           "time_info": "01时16分"
         },
         {
-          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时30分"
-        },
-        {
           "title": "特朗普 先达成协议再说",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%20%E5%85%88%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E5%86%8D%E8%AF%B4",
           "source": "bilibili 热搜",
@@ -707,7 +720,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -831,17 +844,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
-        },
-        {
-          "title": "特朗普一通电话后 高市早苗只有沉默",
-          "url": "https://www.toutiao.com/trending/7576901878579990070/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时30分"
         },
         {
           "title": "特朗普：我们准备进军芝加哥，我们可以在4周内让芝加哥成为一座安全的城市。",
@@ -984,11 +986,12 @@
           "url": "https://www.douyin.com/hot/2318297",
           "source": "抖音",
           "ranks": [
-            27
+            27,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时30分 ~ 21时31分]"
         }
       ]
     }

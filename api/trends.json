@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T17:17:50.254129+08:00",
-  "total_titles_processed": 1509,
+  "generated_at": "2025-11-26T18:17:31.721756+08:00",
+  "total_titles_processed": 1596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 75,
       "titles": [
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -20,19 +20,6 @@
           "time_info": "[00时19分 ~ 09时05分]"
         },
         {
-          "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时14分 ~ 17时17分]"
-        },
-        {
           "title": "特朗普电话后，日本沮丧了三次",
           "url": "https://news.ifeng.com/c/8oaWYOeMQ8b",
           "source": "凤凰网",
@@ -42,8 +29,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时05分 ~ 17时17分]"
+          "appearance_count": 10,
+          "time_info": "[09时05分 ~ 18时17分]"
+        },
+        {
+          "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时14分 ~ 18时17分]"
         },
         {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
@@ -137,6 +138,30 @@
           "time_info": "[07时14分 ~ 15时15分]"
         },
         {
+          "title": "中方是否请特朗普向高市传口信？外交部回应",
+          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 18时17分]"
+        },
+        {
+          "title": "中方回应是否请特朗普向高市传口信",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E8%AF%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E9%AB%98%E5%B8%82%E4%BC%A0%E5%8F%A3%E4%BF%A1",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 18时17分]"
+        },
+        {
           "title": "美国财长预告：特朗普“极有可能”在1个月内提名新美联储主席",
           "url": "https://www.cls.cn/detail/2210885",
           "source": "财联社热门",
@@ -160,30 +185,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时05分 ~ 15时15分]"
-        },
-        {
-          "title": "中方是否请特朗普向高市传口信？外交部回应",
-          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时17分]"
-        },
-        {
-          "title": "中方回应是否请特朗普向高市传口信",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E8%AF%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E9%AB%98%E5%B8%82%E4%BC%A0%E5%8F%A3%E4%BF%A1",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时17分]"
         },
         {
           "title": "特朗普电话后日本沮丧了三次",
@@ -384,6 +385,18 @@
           "time_info": "[04时17分 ~ 06时14分]"
         },
         {
+          "title": "特朗普感恩节特赦火鸡",
+          "url": "https://www.douyin.com/hot/2318026",
+          "source": "抖音",
+          "ranks": [
+            18,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时17分]"
+        },
+        {
           "title": "据MS NOW：特朗普考虑罢免卡什·帕特尔的FBI局长职务。",
           "url": "https://flash.jin10.com/detail/20251126025659614800",
           "source": "金十数据",
@@ -407,6 +420,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时17分 ~ 06时14分]"
+        },
+        {
+          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
+          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 18时17分]"
         },
         {
           "title": "特朗普：俄乌和平协议非常接近达成",
@@ -471,15 +495,16 @@
           "time_info": "[15时15分 ~ 17时17分]"
         },
         {
-          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
-          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
-          "source": "凤凰网",
+          "title": "特朗普作出让步",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%9C%E5%87%BA%E8%AE%A9%E6%AD%A5%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
+            10,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时17分]"
+          "time_info": "[17时17分 ~ 18时17分]"
         },
         {
           "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
@@ -537,6 +562,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时10分 ~ 11时11分]"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：欧洲必须继续向俄罗斯施压。 俄罗斯的策略没有改变。 欢迎美国总统特朗普所领导的努力。 需要更多努力。 不会接受对乌克兰武装部队的限制。 和平条约需要保障长期安全。",
+          "url": "https://wallstreetcn.com/livenews/3010763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时17分]"
         },
         {
           "title": "特朗普催拍成龙主演电影《尖峰时刻》",
@@ -616,17 +653,6 @@
           "time_info": "01时16分"
         },
         {
-          "title": "特朗普作出让步",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%9C%E5%87%BA%E8%AE%A9%E6%AD%A5%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
           "title": "据AXIOS网站：乌克兰总统泽连斯基希望尽快与特朗普会面。",
           "url": "https://flash.jin10.com/detail/20251126001302280800",
           "source": "金十数据",
@@ -638,6 +664,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "特朗普 先达成协议再说",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%20%E5%85%88%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E5%86%8D%E8%AF%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "特朗普为俄乌和谈截止日松绑：问题解决之时即为最后期限",
           "url": "https://flash.jin10.com/detail/20251126081425366800",
           "source": "金十数据",
@@ -647,17 +684,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
-        },
-        {
-          "title": "特朗普感恩节特赦火鸡",
-          "url": "https://www.douyin.com/hot/2318026",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
         },
         {
           "title": "中方是否请特朗普向高市传口信？外交部：没有更多信息提供",
@@ -691,17 +717,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
-        },
-        {
-          "title": "欧盟委员会主席冯德莱恩：欧洲必须继续向俄罗斯施压。 俄罗斯的策略没有改变。 欢迎美国总统特朗普所领导的努力。 需要更多努力。 不会接受对乌克兰武装部队的限制。 和平条约需要保障长期安全。",
-          "url": "https://wallstreetcn.com/livenews/3010763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
         },
         {
           "title": "特朗普：认为我们正非常接近就乌克兰问题达成协议。",
@@ -883,7 +898,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "枭起青壤抖音追剧团",
@@ -903,6 +918,17 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时19分 ~ 15时15分]"
+        },
+        {
+          "title": "抖音电商开启直播诈骗专项治理行动，打击“AI工具转赠”等骗术",
+          "url": "https://wallstreetcn.com/livenews/3010794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     }

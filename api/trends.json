@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T05:13:50.156497+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2025-11-28T06:14:20.329074+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 06时14分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -30,8 +30,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 06时14分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -42,8 +42,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 06时14分]"
         },
         {
           "title": "美国国土安全部：美国总统特朗普政府正在审查前总统拜登任内批准的所有庇护案件。",
@@ -52,11 +52,12 @@
           "ranks": [
             5,
             13,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 05时13分]"
+          "appearance_count": 4,
+          "time_info": "[03时11分 ~ 06时14分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：如果去参加世界杯抽签，可能会考虑与特朗普会面。",
@@ -81,6 +82,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时12分]"
+        },
+        {
+          "title": "国民警卫队枪击案后 特朗普政府宣布将全面审查移民政策",
+          "url": "https://flash.jin10.com/detail/20251128052114993800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         }
       ]
     },
@@ -94,11 +106,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 06时14分]"
         },
         {
           "title": "抖音火锅班沸腾开班",
@@ -109,11 +122,12 @@
             9,
             13,
             14,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 06时14分]"
         },
         {
           "title": "全抖音都在为贵州文化上分",
@@ -124,11 +138,12 @@
             19,
             20,
             18,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 05时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 06时14分]"
         }
       ]
     }

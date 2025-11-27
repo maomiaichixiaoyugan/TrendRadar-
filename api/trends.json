@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T14:23:33.480511+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2025-11-27T15:16:16.464090+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 14时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 15时16分]"
+        },
+        {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.toutiao.com/trending/7576971637803716150/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            2,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 15时16分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -55,21 +69,22 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 14时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 15时16分]"
         },
         {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.toutiao.com/trending/7576971637803716150/",
-          "source": "今日头条",
+          "title": "白宫附近发生枪击 特朗普要求向华盛顿增派数百名士兵 | 环球市场",
+          "url": "https://www.cls.cn/detail/2212154",
+          "source": "财联社热门",
           "ranks": [
-            21,
-            2,
+            12,
+            10,
+            11,
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 14时23分]"
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 15时16分]"
         },
         {
           "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
@@ -97,20 +112,6 @@
           "time_info": "[09时03分 ~ 13时16分]"
         },
         {
-          "title": "白宫附近发生枪击 特朗普要求向华盛顿增派数百名士兵 | 环球市场",
-          "url": "https://www.cls.cn/detail/2212154",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 14时23分]"
-        },
-        {
           "title": "特朗普一通电话后 高市早苗只有沉默",
           "url": "https://www.toutiao.com/trending/7576901878579990070/",
           "source": "今日头条",
@@ -124,6 +125,32 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时19分 ~ 07时13分]"
+        },
+        {
+          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1976945155765465978",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时07分 ~ 15时16分]"
+        },
+        {
+          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时07分 ~ 15时16分]"
         },
         {
           "title": "特朗普称不再给乌克兰设最后期限",
@@ -140,6 +167,19 @@
           "time_info": "[00时19分 ~ 06时15分]"
         },
         {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 15时16分]"
+        },
+        {
           "title": "美国总统特朗普：我们将立即停止向他们支付所有款项和补贴。",
           "url": "https://flash.jin10.com/detail/20251127034310737800",
           "source": "金十数据",
@@ -151,30 +191,15 @@
           "time_info": "04时16分"
         },
         {
-          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1976945155765465978",
-          "source": "知乎",
+          "title": "特朗普下令增兵：行凶者必付出代价",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            11
+            21
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时07分 ~ 14时23分]"
-        },
-        {
-          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时07分 ~ 14时23分]"
+          "time_info": "[12时18分 ~ 15时16分]"
         },
         {
           "title": "特朗普为何称明年G20峰会不邀请南非",
@@ -223,18 +248,6 @@
           "time_info": "04时16分"
         },
         {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时07分 ~ 13时16分]"
-        },
-        {
           "title": "特朗普宣布“特赦”，火鸡突然大叫",
           "url": "https://m.thepaper.cn/newsDetail_forward_32045220",
           "source": "澎湃新闻",
@@ -246,17 +259,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时03分 ~ 12时19分]"
-        },
-        {
-          "title": "特朗普下令增兵：行凶者必付出代价",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时18分 ~ 14时23分]"
         },
         {
           "title": "美财长：特朗普明年或将两次访华",
@@ -379,6 +381,18 @@
           "time_info": "[06时15分 ~ 07时13分]"
         },
         {
+          "title": "特朗普称袭击国民警卫队是恐怖行为",
+          "url": "https://www.toutiao.com/trending/7577218266121224202/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 15时16分]"
+        },
+        {
           "title": "美国佐治亚州法官斯科特·麦卡菲周三宣布驳回针对特朗普涉嫌干预2020年选举的全部剩余刑事指控，为这起因检察官不当行为而夭折的诉讼画上句号。",
           "url": "https://flash.jin10.com/detail/20251127021445354800",
           "source": "金十数据",
@@ -432,17 +446,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
-        },
-        {
-          "title": "特朗普称袭击国民警卫队是恐怖行为",
-          "url": "https://www.toutiao.com/trending/7577218266121224202/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
         },
         {
           "title": "美国总统特朗普：美国必须重新审查所有在美国前总统拜登任内从阿富汗入境的外国人。",
@@ -500,11 +503,12 @@
             29,
             25,
             30,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 14时23分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 15时16分]"
         }
       ]
     },
@@ -521,8 +525,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 14时23分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 15时16分]"
         },
         {
           "title": "要乌方让出的土地太多？特朗普回应",

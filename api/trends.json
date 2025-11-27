@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-28T02:20:27.065473+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2025-11-28T03:11:59.251491+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美国国土安全部：美国总统特朗普政府正在审查前总统拜登任内批准的所有庇护案件。",
+          "url": "https://flash.jin10.com/detail/20251128021209382800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
           "url": "https://www.toutiao.com/trending/7576971637803716150/",
@@ -14,33 +25,36 @@
           "ranks": [
             15,
             9,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时11分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时11分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
           "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时11分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：如果去参加世界杯抽签，可能会考虑与特朗普会面。",
@@ -81,8 +95,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时11分]"
         },
         {
           "title": "抖音火锅班沸腾开班",
@@ -94,8 +108,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时11分]"
         },
         {
           "title": "全抖音都在为贵州文化上分",
@@ -103,11 +117,12 @@
           "source": "抖音",
           "ranks": [
             23,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 03时11分]"
         }
       ]
     }

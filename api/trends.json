@@ -1,25 +1,12 @@
 {
-  "generated_at": "2025-11-28T19:13:28.076344+08:00",
-  "total_titles_processed": 1643,
+  "generated_at": "2025-11-28T20:29:01.749359+08:00",
+  "total_titles_processed": 1728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
-        {
-          "title": "特朗普致电高市：别在台湾问题上挑衅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 11时07分]"
-        },
         {
           "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
           "url": "https://www.cls.cn/detail/2213724",
@@ -31,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时15分 ~ 19时13分]"
+          "appearance_count": 8,
+          "time_info": "[15时15分 ~ 20时29分]"
         },
         {
           "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
@@ -45,8 +32,21 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时07分 ~ 19时13分]"
+          "appearance_count": 11,
+          "time_info": "[11时07分 ~ 20时29分]"
+        },
+        {
+          "title": "特朗普致电高市：别在台湾问题上挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 11时07分]"
         },
         {
           "title": "特朗普称将暂停“第三世界国家”移民",
@@ -369,9 +369,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-28）",
+          "url": "https://flash.jin10.com/detail/20251128192525355800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "为何说特朗普是终极政治实用主义者",
@@ -380,7 +391,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -472,6 +483,20 @@
           "time_info": "[00时18分 ~ 09时03分]"
         },
         {
+          "title": "抖音边画边讲真让我看懂了",
+          "url": "https://www.douyin.com/hot/2320078",
+          "source": "抖音",
+          "ranks": [
+            12,
+            14,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时15分 ~ 20时29分]"
+        },
+        {
           "title": "抖音火锅班沸腾开班",
           "url": "https://www.douyin.com/hot/2319622",
           "source": "抖音",
@@ -503,20 +528,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时12分 ~ 07时13分]"
-        },
-        {
-          "title": "抖音边画边讲真让我看懂了",
-          "url": "https://www.douyin.com/hot/2320078",
-          "source": "抖音",
-          "ranks": [
-            12,
-            14,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时15分 ~ 19时13分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T16:19:04.999373+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2025-11-29T17:14:49.894772+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
@@ -302,6 +302,20 @@
           "time_info": "[11时07分 ~ 16时19分]"
         },
         {
+          "title": "薛之谦新歌农民与土地",
+          "url": "https://www.douyin.com/hot/2320898",
+          "source": "抖音",
+          "ranks": [
+            22,
+            28,
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时14分 ~ 17时14分]"
+        },
+        {
           "title": "薛之谦演唱农民与土地",
           "url": "https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E5%86%9C%E6%B0%91%E4%B8%8E%E5%9C%9F%E5%9C%B0%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -314,19 +328,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 03时11分]"
-        },
-        {
-          "title": "薛之谦新歌农民与土地",
-          "url": "https://www.douyin.com/hot/2320898",
-          "source": "抖音",
-          "ranks": [
-            22,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 16时19分]"
         }
       ]
     }

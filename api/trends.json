@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T16:18:12.032054+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2025-11-30T17:14:36.260946+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
@@ -170,8 +170,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时21分 ~ 16时18分]"
+          "appearance_count": 5,
+          "time_info": "[14时21分 ~ 17时14分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -223,8 +223,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 15时13分]"
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 17时14分]"
         }
       ]
     }

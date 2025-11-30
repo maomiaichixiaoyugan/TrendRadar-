@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T09:12:55.856810+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2025-11-30T11:23:28.202888+08:00",
+  "total_titles_processed": 641,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时16分 ~ 07时13分]"
+        },
+        {
+          "title": "特朗普称委内瑞拉空域应被视为关闭",
+          "url": "https://wallstreetcn.com/livenews/3012482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 11时23分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -40,18 +53,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时16分 ~ 07时13分]"
-        },
-        {
-          "title": "特朗普称委内瑞拉空域应被视为关闭",
-          "url": "https://wallstreetcn.com/livenews/3012482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 09时12分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -178,6 +179,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时16分 ~ 05时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
+          "url": "https://wallstreetcn.com/articles/3760382",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         }
       ]
     }

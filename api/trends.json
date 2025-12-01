@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T18:18:52.337310+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2025-12-01T19:14:10.048059+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "美媒：特朗普直接要求马杜罗下台",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时45分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[11时45分 ~ 19时14分]"
         },
         {
           "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
@@ -177,6 +178,17 @@
           "time_info": "[06时13分 ~ 07时14分]"
         },
         {
+          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
+          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时14分]"
+        },
+        {
           "title": "美国总统特朗普：我做了个核磁共振，但不是大脑方面的问题。",
           "url": "https://flash.jin10.com/detail/20251201055141680800",
           "source": "金十数据",
@@ -248,17 +260,6 @@
           "time_info": "[06时13分 ~ 07时14分]"
         },
         {
-          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
-          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时18分]"
-        },
-        {
           "title": "美国总统特朗普：某些国家的公民可能将长期无法获得美国庇护。",
           "url": "https://flash.jin10.com/detail/20251201054919490800",
           "source": "金十数据",
@@ -317,6 +318,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时24分 ~ 15时19分]"
+        },
+        {
+          "title": "特朗普和马杜罗的通话释放了何信号",
+          "url": "https://www.toutiao.com/trending/7578812536200384006/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
           "title": "特朗普称美乌很可能达成协议",

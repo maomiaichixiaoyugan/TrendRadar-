@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T06:13:42.734420+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2025-12-02T07:14:34.237453+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3760417",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时14分]"
         },
         {
           "title": "特朗普对马杜罗下最后通牒",
@@ -28,11 +29,12 @@
             17,
             16,
             8,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时14分]"
         },
         {
           "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
@@ -44,8 +46,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时14分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
@@ -305,7 +307,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T04:15:30.679584+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2025-12-02T05:13:05.336680+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时13分]"
         },
         {
           "title": "特朗普对马杜罗下最后通牒",
@@ -27,11 +27,12 @@
             27,
             17,
             16,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时13分]"
         },
         {
           "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
@@ -43,8 +44,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时13分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
@@ -52,11 +53,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 05时13分]"
+        },
+        {
+          "title": "美国白宫：总统特朗普将与国家安全团队就委内瑞拉问题举行会议。",
+          "url": "https://flash.jin10.com/detail/20251202025230331800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 05时13分]"
         },
         {
           "title": "美国总统特朗普：任何事情都不应妨碍叙利亚的改变。",
@@ -105,18 +120,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时17分]"
-        },
-        {
-          "title": "美国白宫：总统特朗普将与国家安全团队就委内瑞拉问题举行会议。",
-          "url": "https://flash.jin10.com/detail/20251202025230331800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时15分]"
         },
         {
           "title": "美国总统特朗普：以色列与叙利亚保持强大而真诚的对话非常重要。",
@@ -271,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：特朗普“把加勒比地区变成了一个火药桶”。",
+          "url": "https://flash.jin10.com/detail/20251202043236277800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "乌克兰总统泽连斯基：希望美国中东问题特使威特科夫访问俄罗斯后能与美国总统特朗普举行会谈。",

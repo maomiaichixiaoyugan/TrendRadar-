@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T21:33:29.675506+08:00",
-  "total_titles_processed": 1777,
+  "generated_at": "2025-12-02T22:16:35.646212+08:00",
+  "total_titles_processed": 1855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -65,6 +65,17 @@
           "time_info": "[09时06分 ~ 16时22分]"
         },
         {
+          "title": "白宫：特朗普已终止“无休止”援乌",
+          "url": "https://news.ifeng.com/c/8okzUol0Uy6",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "法巴银行：若最高法院推翻特朗普关税 美元或应声下跌",
           "url": "https://flash.jin10.com/detail/20251202201321333800",
           "source": "金十数据",
@@ -76,15 +87,15 @@
           "time_info": "20时31分"
         },
         {
-          "title": "与特朗普家族有关联的比特币矿商American Bitcoin盘前大跌22%",
-          "url": "https://wallstreetcn.com/livenews/3013757",
-          "source": "华尔街见闻-快讯",
+          "title": "美国清空G20官网南非创建内容，将首页换上特朗普海报(图)",
+          "url": "https://news.ifeng.com/c/8oksAa0SOcr",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时33分"
+          "time_info": "22时16分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
@@ -122,6 +133,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时14分 ~ 12时25分]"
+        },
+        {
+          "title": "与特朗普家族有关联的比特币矿商American Bitcoin盘前大跌22%",
+          "url": "https://wallstreetcn.com/livenews/3013757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时16分]"
         },
         {
           "title": "美国白宫：总统特朗普将与国家安全团队就委内瑞拉问题举行会议。",
@@ -245,6 +268,18 @@
           "time_info": "[03时17分 ~ 04时15分]"
         },
         {
+          "title": "特朗普敦促共和党州长采用纸质选票。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3013749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时16分]"
+        },
+        {
           "title": "法国总统马克龙与美国总统特朗普就实现乌克兰持久和平的条件，以及美国所开展的斡旋工作的下一步举措交换了意见。",
           "url": "https://flash.jin10.com/detail/20251202024618091800",
           "source": "金十数据",
@@ -291,6 +326,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时15分]"
+        },
+        {
+          "title": "戴尔夫妇捐赠62.5亿美元为针对儿童的“特朗普账户”提供资金。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3013734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时16分]"
         },
         {
           "title": "美国白宫：周四，美国总统特朗普将接待卢旺达和刚果总统，签署协议。",
@@ -407,24 +454,13 @@
           "time_info": "05时13分"
         },
         {
-          "title": "特朗普敦促共和党州长采用纸质选票。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3013749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
           "title": "美国总统特朗普敦促共和党州长采用纸质选票。",
           "url": "https://flash.jin10.com/detail/20251202205510063800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -451,26 +487,37 @@
           "time_info": "20时31分"
         },
         {
-          "title": "戴尔夫妇捐赠62.5亿美元为针对儿童的“特朗普账户”提供资金。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3013734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
           "title": "市场消息：戴尔夫妇捐赠62.5亿美元为针对儿童的\"特朗普账户\"提供资金。",
           "url": "https://flash.jin10.com/detail/20251202204735212800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
+        },
+        {
+          "title": "在美国总统特朗普发表评论后，戴尔(DELL.N)美股盘前上涨1.9%。",
+          "url": "https://flash.jin10.com/detail/20251202215812802800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "美国总统特朗普：（戴尔夫妇）是两位伟大的人，我爱戴尔！",
+          "url": "https://flash.jin10.com/detail/20251202215751015800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-02）",
@@ -482,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "据CNN：美国总统特朗普正式赦免前洪都拉斯总统埃尔南德斯。",
+          "url": "https://flash.jin10.com/detail/20251202215603609800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "特朗普将自己画像与华盛顿并列",
@@ -540,11 +598,12 @@
             20,
             21,
             19,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时21分 ~ 21时33分]"
+          "appearance_count": 8,
+          "time_info": "[16时21分 ~ 22时16分]"
         },
         {
           "title": "上海网信办：已指导小红书、哔哩哔哩等网站平台自查清理涉唱衰楼市等违法违规和不良信息4万余条",
@@ -552,11 +611,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时33分]"
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 22时16分]"
         }
       ]
     }

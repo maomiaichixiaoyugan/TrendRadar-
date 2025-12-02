@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T11:14:43.064271+08:00",
-  "total_titles_processed": 886,
+  "generated_at": "2025-12-02T12:25:53.084015+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
@@ -44,22 +44,12 @@
             15,
             16,
             17,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 11时14分]"
-        },
-        {
-          "title": "美国总统特朗普：看起来洪都拉斯似乎正试图篡改其总统选举结果。如果他们这么做了，他们会付出惨重代价。选举委员会必须完成计票工作。",
-          "url": "https://flash.jin10.com/detail/20251202105205419800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时14分"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 12时25分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
@@ -82,9 +72,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
+        },
+        {
+          "title": "美国总统特朗普：看起来洪都拉斯似乎正试图篡改其总统选举结果。如果他们这么做了，他们会付出惨重代价。选举委员会必须完成计票工作。",
+          "url": "https://flash.jin10.com/detail/20251202105205419800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 12时25分]"
         },
         {
           "title": "美国白宫：总统特朗普将与国家安全团队就委内瑞拉问题举行会议。",
@@ -148,6 +150,17 @@
           "time_info": "[02时24分 ~ 03时17分]"
         },
         {
+          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
+          "url": "https://news.ifeng.com/c/8okTPLnScLu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 12时25分]"
+        },
+        {
           "title": "美国总统特朗普：以色列与叙利亚保持强大而真诚的对话非常重要。",
           "url": "https://flash.jin10.com/detail/20251201235722550800",
           "source": "金十数据",
@@ -170,17 +183,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时15分]"
-        },
-        {
-          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
-          "url": "https://news.ifeng.com/c/8okTPLnScLu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 11时14分]"
         },
         {
           "title": "法国总统马克龙在与美国总统特朗普的会谈中强调，对乌克兰所需的安全保障具有核心重要性。",
@@ -308,7 +310,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -368,11 +370,12 @@
           "source": "抖音",
           "ranks": [
             15,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 11时14分]"
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 12时25分]"
         }
       ]
     }

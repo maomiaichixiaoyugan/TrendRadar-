@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T14:23:43.779074+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2025-12-03T15:17:32.275229+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 77,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 15时17分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -52,8 +52,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 15时17分]"
+        },
+        {
+          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
+          "url": "https://wallstreetcn.com/articles/3760565",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时06分 ~ 15时17分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -69,19 +82,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时13分 ~ 14时23分]"
-        },
-        {
-          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
-          "url": "https://wallstreetcn.com/articles/3760565",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时06分 ~ 14时23分]"
         },
         {
           "title": "美国总统特朗普结束在白宫活动上的讲话。",
@@ -842,6 +842,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "特朗普在内阁会议上睡眼惺忪",
+          "url": "https://www.toutiao.com/trending/7579102119777828918/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "市场消息：特朗普将于周三宣布拟对汽车燃油经济性法规进行调整，通用汽车和福特汽车的高管将出席白宫会议。",
           "url": "https://flash.jin10.com/detail/20251203004623208800",
           "source": "金十数据",
@@ -925,8 +936,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 14时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 15时17分]"
         },
         {
           "title": "抖音热门舞蹈计划",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T11:13:30.278441+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2025-12-03T12:24:10.688654+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 75,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -32,6 +32,56 @@
           "time_info": "[00时21分 ~ 09时06分]"
         },
         {
+          "title": "特朗普“点名”日本",
+          "url": "https://news.ifeng.com/c/8omI9QpRNFm",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 12时24分]"
+        },
+        {
+          "title": "特朗普“点名”日本",
+          "url": "https://www.toutiao.com/trending/7579444252149763593/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 12时24分]"
+        },
+        {
+          "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
+          "url": "https://www.cls.cn/detail/2217685",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时13分 ~ 12时24分]"
+        },
+        {
+          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
+          "url": "https://wallstreetcn.com/articles/3760565",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 12时24分]"
+        },
+        {
           "title": "美国总统特朗普结束在白宫活动上的讲话。",
           "url": "https://flash.jin10.com/detail/20251203043755291800",
           "source": "金十数据",
@@ -41,17 +91,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "特朗普“点名”日本",
-          "url": "https://news.ifeng.com/c/8omI9QpRNFm",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
         },
         {
           "title": "美国总统特朗普：我喜欢他（指巴西总统卢拉）。",
@@ -96,30 +135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
-          "url": "https://www.cls.cn/detail/2217685",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时13分 ~ 11时13分]"
-        },
-        {
-          "title": "特朗普“点名”日本",
-          "url": "https://www.toutiao.com/trending/7579444252149763593/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
         },
         {
           "title": "美国农业部长威胁称：要对多个蓝州削减拨款，因为它们在“补充营养援助计划”（SNAP）救济金发放数据上不符合（总统特朗普的）规定。",
@@ -211,18 +226,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时14分]"
-        },
-        {
-          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
-          "url": "https://wallstreetcn.com/articles/3760565",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 11时13分]"
         },
         {
           "title": "美国总统特朗普：任何向美国贩毒的国家都将遭到打击。",
@@ -409,6 +412,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时15分 ~ 05时15分]"
+        },
+        {
+          "title": "特朗普宣布拜登时期文件全部作废",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E6%97%B6%E6%9C%9F%E6%96%87%E4%BB%B6%E5%85%A8%E9%83%A8%E4%BD%9C%E5%BA%9F%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 12时24分]"
         },
         {
           "title": "美国总统特朗普：我们将通过关税向人民发放红利。",
@@ -688,18 +703,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "特朗普宣布拜登时期文件全部作废",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E6%97%B6%E6%9C%9F%E6%96%87%E4%BB%B6%E5%85%A8%E9%83%A8%E4%BD%9C%E5%BA%9F%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         },
@@ -809,7 +813,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         },
@@ -858,6 +862,17 @@
           "time_info": "09时06分"
         },
         {
+          "title": "特朗普支持的共和党人在田纳西州险胜 中期选举前景堪忧",
+          "url": "https://flash.jin10.com/detail/20251203110617903800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "美媒：特朗普取消本周的美联储主席遴选面试",
           "url": "https://flash.jin10.com/detail/20251203075259305800",
           "source": "金十数据",
@@ -897,8 +912,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 11时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 12时24分]"
         },
         {
           "title": "抖音热门舞蹈计划",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T18:18:09.394714+08:00",
-  "total_titles_processed": 1593,
+  "generated_at": "2025-12-03T19:14:59.256265+08:00",
+  "total_titles_processed": 1667,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 93,
+      "match_count": 95,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时06分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[09时06分 ~ 19时14分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -70,6 +70,17 @@
           "time_info": "[11时13分 ~ 16时21分]"
         },
         {
+          "title": "特朗普签署法律以加深美台联系，外交部回应",
+          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时21分 ~ 19时14分]"
+        },
+        {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
           "url": "https://www.cls.cn/detail/2217685",
           "source": "财联社热门",
@@ -85,29 +96,6 @@
           "time_info": "[07时13分 ~ 14时23分]"
         },
         {
-          "title": "特朗普签署法律以加深美台联系，外交部回应",
-          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时21分 ~ 18时18分]"
-        },
-        {
-          "title": "特朗普点名日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时21分 ~ 18时18分]"
-        },
-        {
           "title": "特朗普威胁：将实施陆地打击",
           "url": "https://news.ifeng.com/c/8omGo38Yvg0",
           "source": "凤凰网",
@@ -116,8 +104,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时21分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[16时21分 ~ 19时14分]"
+        },
+        {
+          "title": "特朗普点名日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时21分 ~ 19时14分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -125,11 +126,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时21分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[16时21分 ~ 19时14分]"
         },
         {
           "title": "美国总统特朗普结束在白宫活动上的讲话。",
@@ -163,6 +165,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "中方回应特朗普签署涉台法案",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 19时14分]"
         },
         {
           "title": "美国总统特朗普：与巴西总统卢拉的通话很棒，谈到了贸易与制裁的问题。",
@@ -215,7 +230,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -385,6 +400,18 @@
           "time_info": "[04时18分 ~ 05时15分]"
         },
         {
+          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
+          "url": "https://www.cls.cn/detail/2218308",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 19时14分]"
+        },
+        {
           "title": "美国总统特朗普：我的体检全部得了A。",
           "url": "https://flash.jin10.com/detail/20251203011020121800",
           "source": "金十数据",
@@ -445,16 +472,15 @@
           "time_info": "[04时18分 ~ 05时15分]"
         },
         {
-          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
-          "url": "https://www.cls.cn/detail/2218308",
-          "source": "财联社热门",
+          "title": "特朗普点名日本",
+          "url": "https://www.douyin.com/hot/2324828",
+          "source": "抖音",
           "ranks": [
-            12,
-            7
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 19时14分]"
         },
         {
           "title": "美国总统特朗普：将开始在地面上开展缉毒行动，地面打击要容易得多，很快就会开始。",
@@ -476,18 +502,6 @@
           "ranks": [
             9,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 18时18分]"
-        },
-        {
-          "title": "中方回应特朗普签署涉台法案",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -543,17 +557,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时13分 ~ 12时24分]"
-        },
-        {
-          "title": "特朗普点名日本",
-          "url": "https://www.douyin.com/hot/2324828",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 18时18分]"
         },
         {
           "title": "美国总统特朗普：我们将通过关税向人民发放红利。",
@@ -772,6 +775,17 @@
           "time_info": "[02时23分 ~ 03时15分]"
         },
         {
+          "title": "特朗普开会被拍到多次闭眼",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E8%A2%AB%E6%8B%8D%E5%88%B0%E5%A4%9A%E6%AC%A1%E9%97%AD%E7%9C%BC",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 19时14分]"
+        },
+        {
           "title": "特朗普政府预计将把旅行禁令扩大到约30个国家",
           "url": "https://flash.jin10.com/detail/20251203015450977800",
           "source": "金十数据",
@@ -855,9 +869,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
+          "url": "https://www.cls.cn/detail/2218431",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "特朗普积极暗示哈塞特为下任美联储主席，美国很快将对贩毒集团进行陆地打击，普京威胁切断乌克兰海上通道，亚马逊推出定制AI芯片......美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1025,6 +1050,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-03）",
+          "url": "https://flash.jin10.com/detail/20251203182214815800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "中方回应特朗普签属涉台法律",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%B1%9E%E6%B6%89%E5%8F%B0%E6%B3%95%E5%BE%8B",
           "source": "百度热搜",
@@ -1042,7 +1078,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1067,17 +1103,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
-        },
-        {
-          "title": "特朗普开会被拍到多次闭眼",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E8%A2%AB%E6%8B%8D%E5%88%B0%E5%A4%9A%E6%AC%A1%E9%97%AD%E7%9C%BC",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "美媒：特朗普取消本周的美联储主席遴选面试",
@@ -1120,8 +1145,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时21分 ~ 18时18分]"
+          "appearance_count": 23,
+          "time_info": "[00时21分 ~ 19时14分]"
         },
         {
           "title": "抖音热门舞蹈计划",

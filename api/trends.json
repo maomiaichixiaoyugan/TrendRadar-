@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T22:16:31.067654+08:00",
-  "total_titles_processed": 1925,
+  "generated_at": "2025-12-04T23:17:59.402914+08:00",
+  "total_titles_processed": 2017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 76,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时25分 ~ 22时16分]"
+          "appearance_count": 13,
+          "time_info": "[12时25分 ~ 23时17分]"
         },
         {
           "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
@@ -68,8 +68,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时25分 ~ 22时16分]"
+          "appearance_count": 13,
+          "time_info": "[12时25分 ~ 23时17分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -180,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "俄罗斯总统普京：美国总统特朗普的顾问们认为，实施关税政策最终将有利于美国经济。",
+          "url": "https://flash.jin10.com/detail/20251204230725794800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美国总统特朗普：美国很快将控制芯片市场的大部分份额。",
@@ -302,6 +313,17 @@
           "time_info": "[05时14分 ~ 06时16分]"
         },
         {
+          "title": "哥伦比亚总统警告特朗普：不要惊醒“美洲豹”",
+          "url": "https://news.ifeng.com/c/8oohPdXia4u",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 23时17分]"
+        },
+        {
           "title": "特朗普政府All in！据称考虑明年发机器人行政令，iRobot盘中飙涨近80%",
           "url": "https://wallstreetcn.com/articles/3760664",
           "source": "华尔街见闻",
@@ -336,17 +358,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时23分 ~ 04时17分]"
-        },
-        {
-          "title": "哥伦比亚总统警告特朗普：不要惊醒“美洲豹”",
-          "url": "https://news.ifeng.com/c/8oohPdXia4u",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 22时16分]"
         },
         {
           "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
@@ -563,6 +574,17 @@
           "time_info": "[13时15分 ~ 14时23分]"
         },
         {
+          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了(图)",
+          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-04）",
           "url": "https://flash.jin10.com/detail/20251204183019208800",
           "source": "金十数据",
@@ -580,9 +602,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
+        },
+        {
+          "title": "俄罗斯总统普京：特朗普有自己的议程，有自己的目标，而我们则专注于我们自己的。",
+          "url": "https://flash.jin10.com/detail/20251204230543003800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "俄罗斯总统普京：（谈及美国总统特朗普可能的反应）尽管有外部压力，我和莫迪都没有合作对付某人。",
+          "url": "https://flash.jin10.com/detail/20251204230529976800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "特朗普言论加剧市场担忧 “战争溢价”推高油价",
@@ -706,6 +750,17 @@
           "time_info": "20时31分"
         },
         {
+          "title": "富达国际：特朗普政策下的降息与弱美元 正为2026年新兴市场“大行情”铺路",
+          "url": "https://flash.jin10.com/detail/20251204225744626800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "福特汽车(F.N)CEO：今日将与美国总统特朗普和交通部长达菲会面。",
           "url": "https://flash.jin10.com/detail/20251203235231445800",
           "source": "金十数据",
@@ -778,7 +833,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -841,7 +896,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "全抖音寻找玩法合伙人",
@@ -853,8 +908,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时25分 ~ 22时16分]"
+          "appearance_count": 13,
+          "time_info": "[12时25分 ~ 23时17分]"
         },
         {
           "title": "台媒：台当局称封锁小红书一年",
@@ -879,8 +934,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 22时16分]"
+          "appearance_count": 6,
+          "time_info": "[18时18分 ~ 23时17分]"
         },
         {
           "title": "抖音上线未成年人陪伴周刊",
@@ -890,8 +945,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时16分]"
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 23时17分]"
         },
         {
           "title": "台媒：台当局称封锁小红书一年",
@@ -903,6 +958,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "台当局以涉诈为由封锁小红书一年，郭正亮斥其“双标”",
+          "url": "https://news.ifeng.com/c/8ooj3SSuB2P",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "台媒：台当局称封锁小红书APP一年",

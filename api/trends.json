@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T17:17:22.472242+08:00",
-  "total_titles_processed": 1453,
+  "generated_at": "2025-12-05T18:17:01.762845+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
@@ -290,7 +290,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -332,8 +332,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时20分 ~ 17时17分]"
+          "appearance_count": 24,
+          "time_info": "[00时20分 ~ 18时17分]"
         },
         {
           "title": "抖音上线未成年人陪伴周刊",
@@ -352,11 +352,12 @@
           "source": "微博",
           "ranks": [
             28,
-            1
+            1,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时17分]"
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 18时17分]"
         },
         {
           "title": "台媒：民进党当局宣称封锁小红书一年，郭正亮斥“双标”",

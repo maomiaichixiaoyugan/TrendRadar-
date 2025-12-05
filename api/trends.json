@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T12:25:01.931833+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2025-12-05T13:15:44.472499+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -257,7 +257,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
@@ -310,8 +310,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 12时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 13时15分]"
         },
         {
           "title": "抖音上线未成年人陪伴周刊",

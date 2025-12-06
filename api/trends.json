@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T22:12:58.146069+08:00",
-  "total_titles_processed": 1503,
+  "generated_at": "2025-12-06T23:13:47.272535+08:00",
+  "total_titles_processed": 1560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普世界杯抽签搞抽象",
@@ -17,11 +17,12 @@
             22,
             28,
             6,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时05分 ~ 18时14分]"
+          "appearance_count": 9,
+          "time_info": "[11时05分 ~ 23时13分]"
         },
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -33,8 +34,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时13分 ~ 22时12分]"
+          "appearance_count": 9,
+          "time_info": "[15时13分 ~ 23时13分]"
         },
         {
           "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
@@ -101,6 +102,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时14分 ~ 22时12分]"
+        },
+        {
+          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979961793922167510",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 23时13分]"
         },
         {
           "title": "特朗普提议给美式橄榄球改名",
@@ -219,19 +233,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时19分 ~ 05时14分]"
-        },
-        {
-          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979961793922167510",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 22时12分]"
         },
         {
           "title": "美国总统特朗普抵达2026年世界杯抽签仪式现场，称这是“重要一天”。",
@@ -360,6 +361,17 @@
           "time_info": "[07时14分 ~ 09时03分]"
         },
         {
+          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
+          "url": "https://v.ifeng.com/c/8oreqqskdgg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 23时13分]"
+        },
+        {
           "title": "美国总统特朗普：正在与加拿大和墨西哥合作。",
           "url": "https://flash.jin10.com/detail/20251206004830012800",
           "source": "金十数据",
@@ -436,17 +448,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时14分 ~ 03时12分]"
-        },
-        {
-          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
-          "url": "https://v.ifeng.com/c/8oreqqskdgg",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时26分 ~ 22时12分]"
         },
         {
           "title": "Anthropic的高管Amodei周四会见了美国总统特朗普的政府官员们，并会见了国会参议院的跨党派团体。",
@@ -554,6 +555,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
+        },
+        {
+          "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
+          "url": "https://news.ifeng.com/c/8os5vGpW9R1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "特朗普首次会见辛鲍姆",

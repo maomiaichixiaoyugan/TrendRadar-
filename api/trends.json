@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T16:18:07.538928+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2025-12-07T17:14:34.042814+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
@@ -76,11 +76,12 @@
             1,
             6,
             11,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时18分]"
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 17时14分]"
         },
         {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
@@ -90,11 +91,12 @@
             4,
             9,
             14,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时18分]"
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 17时14分]"
         },
         {
           "title": "特朗普或将给高市早苗放权",
@@ -147,8 +149,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时12分 ~ 16时18分]"
+          "appearance_count": 11,
+          "time_info": "[09时12分 ~ 17时14分]"
         }
       ]
     }

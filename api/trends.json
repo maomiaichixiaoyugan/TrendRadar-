@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T13:18:13.118998+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2025-12-08T14:25:51.931374+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
@@ -21,11 +21,12 @@
             8,
             10,
             22,
-            29
+            29,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 14时25分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -37,11 +38,12 @@
             16,
             17,
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 14时25分]"
         },
         {
           "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
@@ -57,6 +59,18 @@
           "time_info": "[04时15分 ~ 12时29分]"
         },
         {
+          "title": "以总统拒绝特朗普“求情”",
+          "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时06分 ~ 14时25分]"
+        },
+        {
           "title": "市场消息：美国总统特朗普计划于当地时间周一宣布一项价值120亿美元的农业援助计划。",
           "url": "https://flash.jin10.com/detail/20251208111302850800",
           "source": "金十数据",
@@ -68,18 +82,6 @@
           "time_info": "11时17分"
         },
         {
-          "title": "以总统拒绝特朗普“求情”",
-          "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时06分 ~ 13时18分]"
-        },
-        {
           "title": "特朗普长子：特朗普或退出乌和平进程",
           "url": "https://www.toutiao.com/trending/7581096689352572934/",
           "source": "今日头条",
@@ -89,6 +91,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "特朗普：我对泽连斯基有点失望",
+          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 14时25分]"
+        },
+        {
+          "title": "网飞与华纳达成收购协议，特朗普警告",
+          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 14时25分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -124,17 +148,6 @@
           "time_info": "[00时16分 ~ 04时15分]"
         },
         {
-          "title": "特朗普：我对泽连斯基有点失望",
-          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 13时18分]"
-        },
-        {
           "title": "特朗普政府免除西南航空公司1100万美元罚款",
           "url": "https://flash.jin10.com/detail/20251208053436110800",
           "source": "金十数据",
@@ -147,15 +160,16 @@
           "time_info": "[06时14分 ~ 07时13分]"
         },
         {
-          "title": "网飞与华纳达成收购协议，特朗普警告",
-          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
-          "source": "凤凰网",
+          "title": "特朗普称对泽连斯基感到失望",
+          "url": "https://www.toutiao.com/trending/7581294692906716710/",
+          "source": "今日头条",
           "ranks": [
-            11
+            17,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时17分 ~ 13时18分]"
+          "time_info": "[12时29分 ~ 14时25分]"
         },
         {
           "title": "特朗普长子：特朗普可能会因乌克兰的腐败丑闻而退出俄乌和平谈判",
@@ -182,17 +196,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时12分 ~ 07时13分]"
-        },
-        {
-          "title": "特朗普称对泽连斯基感到失望",
-          "url": "https://www.toutiao.com/trending/7581294692906716710/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 13时18分]"
         },
         {
           "title": "贝森特：不会限制儿童使用“特朗普账户”的方式",
@@ -313,8 +316,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 14时25分]"
         }
       ]
     }

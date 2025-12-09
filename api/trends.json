@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T17:19:15.792989+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2025-12-09T18:18:05.094270+08:00",
+  "total_titles_processed": 1678,
   "failed_sources": [],
   "trends": [
     {
@@ -55,6 +55,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时24分 ~ 15时18分]"
+        },
+        {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时18分 ~ 18时18分]"
         },
         {
           "title": "俄总统新闻秘书：目前没有普京与特朗普新年前会晤的消息",
@@ -229,18 +242,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时15分]"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 17时19分]"
         },
         {
           "title": "特朗普宣布允许英伟达向中国出售 H200 芯片，如何评价这一政策转向？将带来哪些影响？",
@@ -676,8 +677,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时20分 ~ 17时19分]"
+          "appearance_count": 24,
+          "time_info": "[00时20分 ~ 18时18分]"
         },
         {
           "title": "抖音“煮蛋仙人”两条评论涨粉百万",
@@ -745,11 +746,12 @@
           "url": "https://www.douyin.com/hot/2331427",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 17时19分]"
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 18时18分]"
         },
         {
           "title": "香港恒生指数开盘涨0.06%，报25780.97点；恒生科技指数跌0.11%。中芯国际、华虹半导体、快手等跌超1%。",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T01:30:36.515527+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2025-12-11T02:23:13.600442+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时30分"
         },
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时23分]"
         },
         {
           "title": "美国总统特朗普：墨西哥必须立即解决水资源问题。",
@@ -47,9 +47,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时30分"
+        },
+        {
+          "title": "法院命令显示，美国法官驳回特朗普政府要求驳回加州对40亿美元高铁资金撤销案的动议。",
+          "url": "https://flash.jin10.com/detail/20251211015008871800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "美国副总统万斯：拜登疯狂的政策让美国家庭在自己的国家都无法过上体面的生活。 特朗普总统通过减税、提供更高薪的工作以及投资美国工业，正一步步地让美国再次成为工薪家庭能够负担得起的地方。",
@@ -58,7 +69,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时30分"
         },
@@ -84,11 +95,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32144599",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时23分]"
         }
       ]
     }

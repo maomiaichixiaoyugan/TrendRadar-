@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T21:33:53.410627+08:00",
-  "total_titles_processed": 1949,
+  "generated_at": "2025-12-10T22:18:23.349017+08:00",
+  "total_titles_processed": 2025,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 73,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -224,17 +224,6 @@
           "time_info": "11时18分"
         },
         {
-          "title": "德国总理默茨：我们希望美国未来成为我们的伙伴，这一点我已向美国总统特朗普表明。",
-          "url": "https://flash.jin10.com/detail/20251210211820992800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
           "title": "日本央行行长植田和男称，美国经济经受住了特朗普关税的考验。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3017988",
           "source": "华尔街见闻-快讯",
@@ -255,17 +244,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
-        },
-        {
-          "title": "德国总理默茨：我下次见到美国总统特朗普时，会告诉他，我们在移民政策上取得了成功。",
-          "url": "https://flash.jin10.com/detail/20251210211806034800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
         },
         {
           "title": "美国总统特朗普：支持奥巴马医保补贴立法草案这个概念。 我喜欢资金流向民众、而不要流向保险行业这个想法。",
@@ -353,15 +331,16 @@
           "time_info": "[12时29分 ~ 13时17分]"
         },
         {
-          "title": "泽连斯基回应特朗普：可在60至90天做好选举准备",
-          "url": "https://news.ifeng.com/c/8oxUGggjWaR",
-          "source": "凤凰网",
+          "title": "德国总理默茨：我们希望美国未来成为我们的伙伴，这一点我已向美国总统特朗普表明。",
+          "url": "https://flash.jin10.com/detail/20251210211820992800",
+          "source": "金十数据",
           "ranks": [
-            6
+            4,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时45分 ~ 06时39分]"
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时18分]"
         },
         {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
@@ -371,8 +350,44 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时56分 ~ 22时18分]"
+        },
+        {
+          "title": "德国总理默茨：我下次见到美国总统特朗普时，会告诉他，我们在移民政策上取得了成功。",
+          "url": "https://flash.jin10.com/detail/20251210211806034800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时18分]"
+        },
+        {
+          "title": "特朗普夸白宫发言人漂亮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时56分 ~ 22时18分]"
+        },
+        {
+          "title": "泽连斯基回应特朗普：可在60至90天做好选举准备",
+          "url": "https://news.ifeng.com/c/8oxUGggjWaR",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时56分 ~ 21时33分]"
+          "time_info": "[05时45分 ~ 06时39分]"
         },
         {
           "title": "特朗普抱怨为什么收垃圾国家移民",
@@ -397,18 +412,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时19分 ~ 03时12分]"
-        },
-        {
-          "title": "特朗普夸白宫发言人漂亮",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时56分 ~ 21时33分]"
         },
         {
           "title": "特朗普演讲中低俗调侃议员老婆",
@@ -480,6 +483,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 14时24分]"
+        },
+        {
+          "title": "特朗普要搞“美联储主席最终面试”，哈塞特尚未“板上钉钉”，贝森特仍有望后续接任？",
+          "url": "https://wallstreetcn.com/articles/3761053",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 22时18分]"
         },
         {
           "title": "美国总统特朗普将于本周启动美联储主席人选的最后一轮面试。",
@@ -617,17 +631,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "特朗普要搞“美联储主席最终面试”，哈塞特尚未“板上钉钉”，贝森特仍有望后续接任？",
-          "url": "https://wallstreetcn.com/articles/3761053",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         },
         {
           "title": "美国总统特朗普：政府拯救了美国钢铁公司 ，这家现在由日本制铁公司拥有的公司“炙手可热”。",
@@ -784,6 +787,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "雪佛龙首席执行官沃斯：雪佛龙在委内瑞拉拥有“重要”的业务。正与美国总统特朗普政府就委内瑞拉问题进行磋商。",
+          "url": "https://flash.jin10.com/detail/20251210212542950800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "俄罗斯外长拉夫罗夫：俄罗斯赞赏美国总统特朗普寻求就乌克兰问题开展对话的意愿。",
           "url": "https://flash.jin10.com/detail/20251210152545435800",
           "source": "金十数据",
@@ -812,7 +826,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -871,11 +885,12 @@
             27,
             24,
             26,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时16分 ~ 21时33分]"
+          "appearance_count": 23,
+          "time_info": "[01时16分 ~ 22时18分]"
         },
         {
           "title": "民进党当局封禁小红书一年，国台办：民进党已成名副其实的“民禁挡”",
@@ -887,11 +902,12 @@
             14,
             12,
             11,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时29分 ~ 21时33分]"
+          "appearance_count": 13,
+          "time_info": "[12时29分 ~ 22时18分]"
         },
         {
           "title": "带得闲谨制主题曲走遍抖音",

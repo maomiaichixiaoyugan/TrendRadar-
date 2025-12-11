@@ -1,236 +1,12 @@
 {
-  "generated_at": "2025-12-11T23:18:22.281256+08:00",
-  "total_titles_processed": 2225,
+  "generated_at": "2025-12-12T00:22:37.157984+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "高市早苗求见特朗普",
-          "url": "https://news.ifeng.com/c/8oz1gOzpqEt",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时28分 ~ 11时21分]"
-        },
-        {
-          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
-          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时20分 ~ 21时35分]"
-        },
-        {
-          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
-          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 09时09分]"
-        },
-        {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时08分 ~ 16时22分]"
-        },
-        {
-          "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
-          "url": "https://news.ifeng.com/c/8ozeTrd98oe",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 16时22分]"
-        },
-        {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时20分 ~ 21时35分]"
-        },
-        {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时14分 ~ 23时18分]"
-        },
-        {
-          "title": "特朗普：被扣押油轮上的石油归美国了",
-          "url": "https://www.toutiao.com/trending/7581744403334086710/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 17时20分]"
-        },
-        {
-          "title": "美国商务部长卢特尼克：（谈英伟达H200芯片）是美国总统特朗普与英伟达CEO之间的交易。",
-          "url": "https://flash.jin10.com/detail/20251211210900621800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "俄罗斯外长拉夫罗夫表示，俄方希望达成一份关于乌克兰问题的长期可持续和平的一揽子文件。 各方都应获得安全保障。 特朗普为解决冲突作出过切实努力。",
-          "url": "https://wallstreetcn.com/livenews/3019085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
-          "url": "https://flash.jin10.com/detail/20251211005314935800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时30分"
-        },
-        {
-          "title": "特朗普警告哥伦比亚总统“最好放聪明点”",
-          "url": "https://wallstreetcn.com/livenews/3018703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "美国总统特朗普：听苹果(AAPL.O)CEO库克说，招聘人才很难。",
-          "url": "https://flash.jin10.com/detail/20251211040650470800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "印度总理莫迪：与美国总统特朗普通话，讨论双边关系进展。",
-          "url": "https://flash.jin10.com/detail/20251211220429597800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "特朗普发飙怒斥记者",
-          "url": "https://www.douyin.com/hot/2332016",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "美国总统特朗普：今天与前美联储官员凯文·沃什会面。",
-          "url": "https://wallstreetcn.com/livenews/3018662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时16分]"
-        },
-        {
-          "title": "华纳收购案再迎变数 特朗普称CNN必须被出售",
-          "url": "https://flash.jin10.com/detail/20251211055914043800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时13分]"
-        },
-        {
-          "title": "特朗普回应美联储降息：幅度太小",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF%EF%BC%9A%E5%B9%85%E5%BA%A6%E5%A4%AA%E5%B0%8F",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 11时21分]"
-        },
-        {
-          "title": "“特朗普黄金卡”开始接受申请",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E9%87%91%E5%8D%A1%E2%80%9D%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AF%B7",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 11时21分]"
-        },
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
           "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
@@ -239,545 +15,48 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 23时18分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
-          "url": "https://flash.jin10.com/detail/20251211054743918800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时13分]"
-        },
-        {
-          "title": "美国总统特朗普：我们有“很好的借口”拦截“委内瑞拉油轮”。",
-          "url": "https://wallstreetcn.com/livenews/3018654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时16分]"
-        },
-        {
-          "title": "印度总理莫迪：与美国总统特朗普讨论了地区和国际局势的发展。",
-          "url": "https://wallstreetcn.com/livenews/3019280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 23时18分]"
-        },
-        {
-          "title": "美威胁国际刑事法院：不要调查特朗普",
-          "url": "https://www.toutiao.com/trending/7582367829178269750/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 16时22分]"
-        },
-        {
-          "title": "“这一点至关重要”，美贸易代表：特朗普非常重视与中国建立“建设性”关系",
-          "url": "https://wallstreetcn.com/livenews/3018939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时25分]"
-        },
-        {
-          "title": "特朗普：被扣押油轮上的石油归美国了",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%A2%AB%E6%89%A3%E6%8A%BC%E6%B2%B9%E8%BD%AE%E4%B8%8A%E7%9A%84%E7%9F%B3%E6%B2%B9%E5%BD%92%E7%BE%8E%E5%9B%BD%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
-        },
-        {
-          "title": "高市早苗求见特朗普",
-          "url": "https://www.toutiao.com/trending/7581648109390921774/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 09时09分]"
-        },
-        {
-          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 09时09分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "高市早苗求见特朗普",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B1%82%E8%A7%81%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 09时09分]"
-        },
-        {
-          "title": "特朗普嫌美联储降息幅度太小",
-          "url": "https://www.toutiao.com/trending/7582129658578193983/",
+          "title": "泰国总理给特朗普“泼冷水”",
+          "url": "https://www.toutiao.com/trending/7582421562226655268/",
           "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 09时09分]"
-        },
-        {
-          "title": "据AXIOS网站：特朗普计划任命一名美国将军领导加沙内部安全部队。",
-          "url": "https://flash.jin10.com/detail/20251211180342849800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "美国总统特朗普：我们刚刚在委内瑞拉附近扣押了一艘油轮。",
-          "url": "https://flash.jin10.com/detail/20251211040624299800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-11）",
-          "url": "https://flash.jin10.com/detail/20251211180126675800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "IBM的CEO要求美国总统特朗普降低对特定国家的管控力度。",
-          "url": "https://wallstreetcn.com/livenews/3018652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美国总统特朗普：墨西哥必须立即解决水资源问题。",
-          "url": "https://flash.jin10.com/detail/20251211004151009800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时30分"
-        },
-        {
-          "title": "法院命令显示，美国法官驳回特朗普政府要求驳回加州对40亿美元高铁资金撤销案的动议。",
-          "url": "https://flash.jin10.com/detail/20251211015008871800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "特朗普称计划在明年初公布“加沙和平委员会”成员名单",
-          "url": "https://flash.jin10.com/detail/20251211064549059800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "特朗普：泽连斯基必须现实一点",
-          "url": "https://flash.jin10.com/detail/20251211064229195800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "美国总统特朗普就柬埔寨-泰国问题表示：我们正安排明天通电话。",
-          "url": "https://flash.jin10.com/detail/20251211050040616800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "德国总理默茨：与美国总统特朗普的电话会谈富有建设性，双方互相尊重。",
-          "url": "https://flash.jin10.com/detail/20251211175511025800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "美国总统特朗普：今天将与美联储前理事凯文·沃什会面。",
-          "url": "https://flash.jin10.com/detail/20251211050012508800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "德国总理默茨：（就与美国总统特朗普的电话会谈表示）我们告诉他，只有乌克兰才能决定自己的领土归属。",
-          "url": "https://flash.jin10.com/detail/20251211175449735800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普将在未来1-2周对美联储主席人选做最终决定。 被列为候选人，我为此感到荣幸。",
-          "url": "https://wallstreetcn.com/livenews/3018582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "美国总统特朗普：美联储利率应降至全球最低。",
-          "url": "https://flash.jin10.com/detail/20251211045950749800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美国总统特朗普就柬埔寨与泰国问题表示：我认为我能让他们停止争斗。",
-          "url": "https://flash.jin10.com/detail/20251211045830104800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美国副总统万斯：拜登疯狂的政策让美国家庭在自己的国家都无法过上体面的生活。 特朗普总统通过减税、提供更高薪的工作以及投资美国工业，正一步步地让美国再次成为工薪家庭能够负担得起的地方。",
-          "url": "https://flash.jin10.com/detail/20251211003604206800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时30分"
-        },
-        {
-          "title": "特朗普继续批评鲍威尔，声称美联储降息幅度本来可以翻倍的",
-          "url": "https://wallstreetcn.com/livenews/3018645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美国总统特朗普：我认为CNN应该被出售。",
-          "url": "https://flash.jin10.com/detail/20251211045339717800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美国总统特朗普：明年将任命加沙和平委员会成员。",
-          "url": "https://flash.jin10.com/detail/20251211051053263800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "周三（12月10日），降息赢家指数涨2.84%，报100.19点，美联储宣布降息之前持稳于98.50点——维持上涨状态，之后持续加速上涨。 “特朗普关税输家”指数涨1.71%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.50%，报16.89点，美联储主席鲍威尔新闻发布会临近结束时还曾涨至17.37点刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3018669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "美国总统特朗普：乌克兰很久没有举行过选举了。",
-          "url": "https://flash.jin10.com/detail/20251211045154571800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美国总统特朗普：（谈乌克兰问题）他们希望我们在周末前往欧洲参加一场会议。我们将根据他们带回的内容做出判断。",
-          "url": "https://flash.jin10.com/detail/20251211045109665800",
-          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "00时22分"
         },
         {
-          "title": "据美国哥伦比亚广播公司（CBS）：特朗普政府正在考虑进行更多与委内瑞拉和伊朗相关油轮的任务。",
-          "url": "https://flash.jin10.com/detail/20251211082401078800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "特朗普百万美元金卡签证开始接受申请",
-          "url": "https://flash.jin10.com/detail/20251211060659681800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "IBM(IBM.N)首席执行官呼吁特朗普放松对某些管制。",
-          "url": "https://flash.jin10.com/detail/20251211044630512800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美国总统特朗普：美国的利率应该是全世界最低的。",
-          "url": "https://wallstreetcn.com/livenews/3018663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "特朗普批评美联储降息力度不够",
-          "url": "https://flash.jin10.com/detail/20251211044538884800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "KPMG首席经济学家Diane Swonk：（美国）价格水平仍然太高。 担心（特朗普政府会通过）退税形式实施财政刺激。",
-          "url": "https://wallstreetcn.com/livenews/3018600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "特朗普为何突然搞“西半球优先”",
-          "url": "https://www.toutiao.com/trending/7581978972871917594/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "美国总统特朗普：有充分理由扣押委内瑞拉附近的船只。",
-          "url": "https://flash.jin10.com/detail/20251211044531960800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "高通、戴尔等科技公司的CEO们出席美国总统特朗普在白宫举办的圆桌会议。",
-          "url": "https://wallstreetcn.com/livenews/3018634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "特朗普证实美国在委内瑞拉附近扣押一艘油轮",
-          "url": "https://flash.jin10.com/detail/20251211044315426800",
+          "title": "特朗普称赞股市再创新高",
+          "url": "https://flash.jin10.com/detail/20251211234650410800",
           "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "英国方面表示，美国总统特朗普与E3领导人认为乌克兰局势正处于“关键时刻”。",
-          "url": "https://flash.jin10.com/detail/20251210234811152800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "美国总统特朗普：据苹果公司CEO库克表示，招聘很难。 今天将讨论科技和人工智能（AI）。 今天与参议院讨论过AI监管问题。",
-          "url": "https://wallstreetcn.com/livenews/3018631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "00时22分"
         }
       ]
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "民进党当局封禁小红书一年，国台办：民进党已成名副其实的“民禁挡”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144599",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 09时09分]"
-        },
-        {
-          "title": "时代少年团在抖音宠粉交作业",
-          "url": "https://www.douyin.com/hot/2333368",
-          "source": "抖音",
-          "ranks": [
-            29,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时17分 ~ 23时18分]"
-        },
-        {
-          "title": "抖音首档律师脱口秀",
-          "url": "https://www.douyin.com/hot/2332717",
-          "source": "抖音",
-          "ranks": [
-            24,
-            16,
-            20,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时28分 ~ 16时22分]"
-        },
         {
           "title": "上抖音免费看CBA",
           "url": "https://www.douyin.com/hot/2333652",
@@ -786,43 +65,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 23时18分]"
-        },
-        {
-          "title": "抖音电商宣布：前11个月为商家降本近290亿元",
-          "url": "https://wallstreetcn.com/livenews/3019284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 23时18分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "抖音也能召唤雪花了",
           "url": "https://www.douyin.com/hot/2333556",
           "source": "抖音",
           "ranks": [
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 23时18分]"
-        },
-        {
-          "title": "抖音电商：使用“千川・乘方”的订单技术服务费减免至0.6%",
-          "url": "https://wallstreetcn.com/livenews/3019042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时22分"
+          "time_info": "00时22分"
+        },
+        {
+          "title": "时代少年团在抖音宠粉交作业",
+          "url": "https://www.douyin.com/hot/2333368",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     }

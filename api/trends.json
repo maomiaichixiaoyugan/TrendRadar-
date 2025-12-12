@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T16:22:17.274628+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2025-12-12T17:19:43.684928+08:00",
+  "total_titles_processed": 1627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -51,11 +51,12 @@
           "ranks": [
             3,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时16分 ~ 16时22分]"
+          "appearance_count": 6,
+          "time_info": "[13时16分 ~ 17时19分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -66,8 +67,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时19分 ~ 16时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时19分 ~ 17时19分]"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -259,6 +260,18 @@
           "time_info": "[00时22分 ~ 02时21分]"
         },
         {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时19分]"
+        },
+        {
           "title": "加州州长再批特朗普：最具破坏性总统",
           "url": "https://news.ifeng.com/c/8p18mDHMrQq",
           "source": "凤凰网",
@@ -280,6 +293,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时16分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时19分]"
         },
         {
           "title": "莫迪同特朗普就贸易和能源等问题通电话",
@@ -390,17 +415,6 @@
           "time_info": "[03时15分 ~ 04时18分]"
         },
         {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
           "title": "特朗普：我们希望人工智能领域只有一个中央审批机构。",
           "url": "https://flash.jin10.com/detail/20251212071237525800",
           "source": "金十数据",
@@ -429,18 +443,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -473,7 +476,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -520,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "据熟悉竞标过程的消息人士透露，派拉蒙在竞标华纳兄弟探索频道的过程中不得不做出一个关键改变——明确承诺其外国合作伙伴和特朗普的女婿库什纳的基金将没有任何投票权或管理权。",
@@ -830,8 +844,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 16时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 17时19分]"
         },
         {
           "title": "yjj官宣抖音首秀",
@@ -867,6 +881,19 @@
           "time_info": "[00时22分 ~ 15时19分]"
         },
         {
+          "title": "扫描“主播”｜涉畸形吃播博主“陈晨辰”小红书账号被禁言，此前承认内容有问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32157566",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时19分 ~ 17时19分]"
+        },
+        {
           "title": "上抖音免费看CBA",
           "url": "https://www.douyin.com/hot/2333652",
           "source": "抖音",
@@ -878,17 +905,17 @@
           "time_info": "[00时22分 ~ 02时21分]"
         },
         {
-          "title": "扫描“主播”｜涉畸形吃播博主“陈晨辰”小红书账号被禁言，此前承认内容有问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32157566",
-          "source": "澎湃新闻",
+          "title": "抖音里的雪看不过来了",
+          "url": "https://www.douyin.com/hot/2334165",
+          "source": "抖音",
           "ranks": [
-            14,
-            11,
-            9
+            13,
+            15,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时19分 ~ 16时22分]"
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 17时19分]"
         },
         {
           "title": "抖音商城年末终极补好价别错过",
@@ -901,18 +928,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时29分 ~ 13时17分]"
-        },
-        {
-          "title": "抖音里的雪看不过来了",
-          "url": "https://www.douyin.com/hot/2334165",
-          "source": "抖音",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 16时22分]"
         },
         {
           "title": "凭煮蛋涨粉356万抖音博主回应爆红",

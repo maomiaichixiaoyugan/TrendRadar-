@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T21:31:26.999455+08:00",
-  "total_titles_processed": 2037,
+  "generated_at": "2025-12-12T22:15:33.450587+08:00",
+  "total_titles_processed": 2115,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时16分 ~ 21时31分]"
+          "appearance_count": 13,
+          "time_info": "[13时16分 ~ 22时15分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -63,6 +64,31 @@
           "time_info": "[11时19分 ~ 20时31分]"
         },
         {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时22分 ~ 22时15分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时22分 ~ 22时15分]"
+        },
+        {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
           "source": "澎湃新闻",
@@ -74,31 +100,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时22分 ~ 07时29分]"
-        },
-        {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时22分 ~ 21时31分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时22分 ~ 21时31分]"
         },
         {
           "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
@@ -854,11 +855,12 @@
             15,
             1,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时19分 ~ 21时31分]"
+          "appearance_count": 10,
+          "time_info": "[15时19分 ~ 22时15分]"
         },
         {
           "title": "扫描“主播”｜涉畸形吃播博主“陈晨辰”小红书账号被禁言，此前承认内容有问题",
@@ -873,8 +875,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时19分 ~ 21时31分]"
+          "appearance_count": 15,
+          "time_info": "[11时19分 ~ 22时15分]"
         },
         {
           "title": "抖音也能召唤雪花了",

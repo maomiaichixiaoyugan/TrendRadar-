@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T13:17:08.370758+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2025-12-12T14:24:25.757179+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -21,6 +21,17 @@
           "time_info": "[00时22分 ~ 11时19分]"
         },
         {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 14时24分]"
+        },
+        {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
           "source": "澎湃新闻",
@@ -34,26 +45,16 @@
           "time_info": "[00时22分 ~ 07时29分]"
         },
         {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 13时17分]"
-        },
-        {
           "title": "特朗普拉小群,想拿C5替代G7",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 14时24分]"
         },
         {
           "title": "特朗普：将很快开始用关税收入来偿还债务。",
@@ -87,6 +88,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 14时24分]"
+        },
+        {
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 14时24分]"
         },
         {
           "title": "据AXIOS网站：特朗普政府计划任命一名美国少将指挥驻加沙国际稳定部队（ISF）。",
@@ -220,28 +243,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 04时18分]"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时19分 ~ 13时17分]"
-        },
-        {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时19分 ~ 13时17分]"
         },
         {
           "title": "泰国总理给特朗普“泼冷水”",
@@ -398,6 +399,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "白宫：特朗普跟中日都能搞好关系",
+          "url": "https://www.toutiao.com/trending/7582430336525828123/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
           "title": "美国政府助理：我们正在采取措施制定一项全国统一的人工智能标准。美国总统特朗普将签署一项行政命令，以确保人工智能能够在单一的国家框架内运行。",
           "url": "https://flash.jin10.com/detail/20251212071134779800",
           "source": "金十数据",
@@ -517,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "泰国外交部：与美国国务卿鲁比奥的通话为美国总统特朗普与泰国总理通话做准备。",
+          "url": "https://flash.jin10.com/detail/20251212132635026800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩表示，特朗普不应该干涉欧洲的民主制度。",
@@ -755,11 +778,12 @@
             12,
             8,
             6,
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 13时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 14时24分]"
         },
         {
           "title": "yjj官宣抖音首秀",
@@ -791,8 +815,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 13时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 14时24分]"
         },
         {
           "title": "上抖音免费看CBA",
@@ -811,11 +835,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时19分 ~ 13时17分]"
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 14时24分]"
         },
         {
           "title": "抖音商城年末终极补好价别错过",
@@ -852,11 +877,12 @@
           "url": "https://flash.jin10.com/detail/20251212124015260800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 14时24分]"
         }
       ]
     }

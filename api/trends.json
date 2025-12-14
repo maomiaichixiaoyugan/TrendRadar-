@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T12:32:35.857827+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2025-12-14T13:16:05.075652+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
@@ -103,6 +103,17 @@
           "time_info": "[00时17分 ~ 09时13分]"
         },
         {
+          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
+          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 13时16分]"
+        },
+        {
           "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
           "url": "https://wallstreetcn.com/articles/3761314",
           "source": "华尔街见闻",
@@ -127,26 +138,38 @@
           "time_info": "[05时13分 ~ 09时13分]"
         },
         {
-          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
-          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时32分]"
-        },
-        {
           "title": "详解特朗普金卡白金卡签证",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%91%E5%8D%A1%E7%99%BD%E9%87%91%E5%8D%A1%E7%AD%BE%E8%AF%81",
           "source": "bilibili 热搜",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
+          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时13分 ~ 13时16分]"
+        },
+        {
+          "title": "特朗普对其经济政策能否助力中期选举存疑",
+          "url": "https://flash.jin10.com/detail/20251214101831272800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时16分]"
         },
         {
           "title": "美布朗大学枪击案已致2死8重伤，特朗普最新发声",
@@ -182,27 +205,28 @@
           "time_info": "[00时17分 ~ 04时15分]"
         },
         {
-          "title": "特朗普对其经济政策能否助力中期选举存疑",
-          "url": "https://flash.jin10.com/detail/20251214101831272800",
-          "source": "金十数据",
+          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
+          "url": "https://www.cls.cn/detail/2228813",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            7
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时32分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 13时16分]"
         },
         {
-          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
-          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
-          "source": "凤凰网",
+          "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
+          "url": "https://flash.jin10.com/detail/20251214100231761800",
+          "source": "金十数据",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时13分 ~ 12时32分]"
+          "time_info": "[11时24分 ~ 13时16分]"
         },
         {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
@@ -217,28 +241,16 @@
           "time_info": "[05时13分 ~ 07时13分]"
         },
         {
-          "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
-          "url": "https://flash.jin10.com/detail/20251214100231761800",
-          "source": "金十数据",
+          "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
+          "url": "https://wallstreetcn.com/livenews/3020317",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            8
+            21,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时32分]"
-        },
-        {
-          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
-          "url": "https://www.cls.cn/detail/2228813",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时32分]"
+          "time_info": "[12时32分 ~ 13时16分]"
         },
         {
           "title": "特朗普说中国团结一心干大事",
@@ -306,17 +318,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
-        },
-        {
-          "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
-          "url": "https://wallstreetcn.com/livenews/3020317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
         }
       ]
     },
@@ -324,6 +325,18 @@
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
       "match_count": 2,
       "titles": [
+        {
+          "title": "小红书最短命项目「小红卡」3 个月关停，商家斥责「交钱后没人管」，问题可能出在哪里？",
+          "url": "https://www.zhihu.com/question/1982049641039094809",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时13分 ~ 13时16分]"
+        },
         {
           "title": "抖音推出“AI时代前沿学科共建计划”，百门名校公开课助推知识普惠",
           "url": "https://wallstreetcn.com/livenews/3020302",
@@ -335,18 +348,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时13分 ~ 11时24分]"
-        },
-        {
-          "title": "小红书最短命项目「小红卡」3 个月关停，商家斥责「交钱后没人管」，问题可能出在哪里？",
-          "url": "https://www.zhihu.com/question/1982049641039094809",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 12时32分]"
         }
       ]
     },
@@ -361,9 +362,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 13时16分]"
         }
       ]
     }

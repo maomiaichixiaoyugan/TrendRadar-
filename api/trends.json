@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T20:27:13.962225+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2025-12-14T21:24:02.504186+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
@@ -138,6 +138,17 @@
           "time_info": "[00时17分 ~ 09时13分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 21时24分]"
+        },
+        {
           "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
           "url": "https://wallstreetcn.com/articles/3761314",
           "source": "华尔街见闻",
@@ -188,17 +199,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时24分 ~ 16时19分]"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "详解特朗普金卡白金卡签证",
@@ -395,8 +395,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时13分 ~ 20时27分]"
+          "appearance_count": 17,
+          "time_info": "[09时13分 ~ 21时24分]"
         },
         {
           "title": "抖音推出“AI时代前沿学科共建计划”，百门名校公开课助推知识普惠",

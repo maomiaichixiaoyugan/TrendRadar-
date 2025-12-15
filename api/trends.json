@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T09:11:15.239048+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2025-12-15T11:26:09.132306+08:00",
+  "total_titles_processed": 745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -91,6 +91,39 @@
           "time_info": "[00时17分 ~ 05时13分]"
         },
         {
+          "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
+          "url": "https://wallstreetcn.com/articles/3761371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 11时26分]"
+        },
+        {
+          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
+          "url": "https://wallstreetcn.com/articles/3761378",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
+          "url": "https://www.cls.cn/detail/2229153",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
           "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
           "url": "https://flash.jin10.com/detail/20251215045241134800",
           "source": "金十数据",
@@ -101,17 +134,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时13分]"
-        },
-        {
-          "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
-          "url": "https://wallstreetcn.com/articles/3761371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
         }
       ]
     },

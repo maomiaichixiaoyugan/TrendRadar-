@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T17:26:37.693076+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2025-12-15T18:20:02.569277+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时25分 ~ 17时26分]"
+          "appearance_count": 13,
+          "time_info": "[11时25分 ~ 18时20分]"
         },
         {
           "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
@@ -57,8 +57,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时10分 ~ 17时26分]"
+          "appearance_count": 15,
+          "time_info": "[09时10分 ~ 18时20分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：如果沃什出任美联储主席，希望他能（在利率政策问题上）与总统特朗普对话。 即便（我）担任美联储主席，也乐意于与特朗普对话。 经济数据表明，美国CPI朝着美联储2%目标靠拢。 美联储的职责是保持独立。 我们不会有10月家庭（就业）调查。",
@@ -76,6 +76,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时12分 ~ 07时13分]"
+        },
+        {
+          "title": "日媒：特朗普曾警告高市早苗“别来添乱”",
+          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 18时20分]"
+        },
+        {
+          "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
+          "url": "https://wallstreetcn.com/articles/3761377",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时25分 ~ 18时20分]"
         },
         {
           "title": "美国总统特朗普：很快就会选择新的美联储主席。 新任美联储主席想要看到利率下降。 虽然（现在还是）是鲍威尔担任美联储主席，但利率正在下降。",
@@ -121,29 +144,6 @@
           "time_info": "[05时13分 ~ 07时13分]"
         },
         {
-          "title": "日媒：特朗普曾警告高市早苗“别来添乱”",
-          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
-          "url": "https://wallstreetcn.com/articles/3761377",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时25分 ~ 17时26分]"
-        },
-        {
           "title": "据AXIOS网站：乌克兰总统泽连斯基将在柏林会见美国中东问题特使威特科夫及特朗普女婿库什纳。之后他将分别会见来自法国、德国和英国的国家安全顾问。",
           "url": "https://flash.jin10.com/detail/20251214211648647800",
           "source": "金十数据",
@@ -176,8 +176,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 17时26分]"
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 18时20分]"
         },
         {
           "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
@@ -192,13 +192,35 @@
           "time_info": "[06时13分 ~ 07时13分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-15）",
+          "url": "https://flash.jin10.com/detail/20251215180602946800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "欧盟官员表示，美国中东问题特使威特科夫和及特朗普高级顾问库什纳通过视频会议向欧盟各国外交部长简要通报加沙局势。",
+          "url": "https://flash.jin10.com/detail/20251215174214172800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
           "url": "https://www.baidu.com/s?wd=%E6%82%89%E5%B0%BC%E6%B0%B4%E6%9E%9C%E5%BA%97%E8%80%81%E6%9D%BF%E5%BE%92%E6%89%8B%E5%A4%BA%E6%9E%AA%E8%8E%B7%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%B5%9E",
           "source": "百度热搜",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         }
@@ -206,7 +228,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "小红书最短命项目「小红卡」3 个月关停，商家斥责「交钱后没人管」，问题可能出在哪里？",
@@ -229,9 +251,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 18时20分]"
+        },
+        {
+          "title": "抖音电商严打假揭黑真牟利",
+          "url": "https://www.douyin.com/hot/2336982",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至2%。华虹半导体跌超7%，百度、快手跌超4%，中芯国际跌近4%。",

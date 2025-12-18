@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T21:33:20.470835+08:00",
-  "total_titles_processed": 1959,
+  "generated_at": "2025-12-18T22:17:45.194108+08:00",
+  "total_titles_processed": 2041,
   "failed_sources": [],
   "trends": [
     {
@@ -160,6 +160,17 @@
           "time_info": "[12时29分 ~ 13时18分]"
         },
         {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时30分 ~ 22时17分]"
+        },
+        {
           "title": "据华尔街日报：玻利维亚押注锂资源以及与美国合作，以摆脱经济低迷。玻利维亚外交部长表示，玻利维亚正寻求从特朗普政府获得金融援助，将向外国投资者开放锂矿储备。",
           "url": "https://flash.jin10.com/detail/20251218021529556800",
           "source": "金十数据",
@@ -207,17 +218,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时19分]"
-        },
-        {
-          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
-          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时30分 ~ 21时33分]"
         },
         {
           "title": "特朗普账户宣传存1千可涨至60万",
@@ -734,8 +734,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时16分 ~ 21时33分]"
+          "appearance_count": 16,
+          "time_info": "[11时16分 ~ 22时17分]"
         },
         {
           "title": "抖音小红书贝壳等平台被约谈",

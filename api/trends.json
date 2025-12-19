@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T09:09:25.207676+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2025-12-19T11:19:57.573653+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 09时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 11时19分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -41,8 +41,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时19分 ~ 09时09分]"
+          "appearance_count": 12,
+          "time_info": "[01时19分 ~ 11时19分]"
+        },
+        {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 11时19分]"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -51,20 +63,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
         },
         {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "title": "特朗普再次向乌克兰施压",
+          "url": "https://news.ifeng.com/c/8pCpqaXsvao",
           "source": "凤凰网",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时09分"
+          "time_info": "11时19分"
         },
         {
           "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
@@ -95,9 +107,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
+          "url": "https://www.cls.cn/detail/2234192",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         },
         {
           "title": "特朗普下令要求美国人2028年登月",
@@ -106,7 +129,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
         },
@@ -117,7 +140,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
         },
@@ -168,6 +191,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时15分]"
+        },
+        {
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 11时19分]"
         },
         {
           "title": "美国商务部长卢特尼克：总统特朗普对美联储主席候选人有不错的人选。",
@@ -302,15 +337,15 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时09分"
+          "time_info": "11时19分"
         },
         {
           "title": "据华盛顿邮报：美国总统特朗普将动用军用住房资金为美国国防部发放奖金。",
@@ -368,6 +403,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
+          "url": "https://www.cls.cn/detail/2233997",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
           "title": "文件显示：如果交易在特定情况下终止，特朗普媒体科技集团(DJT.O)可能需要向核聚变公司TAE支付9000万美元的终止费。",
           "url": "https://flash.jin10.com/detail/20251219061151314800",
           "source": "金十数据",
@@ -377,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "特朗普威胁夺取委内瑞拉石油资源",
+          "url": "https://www.toutiao.com/trending/7585041766777356351/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         },
         {
           "title": "美国总统特朗普：（宣布美联储主席人选）可能要到年底之后。",
@@ -396,7 +453,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
         },
@@ -495,7 +552,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
         },
@@ -528,7 +585,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
         },
@@ -687,6 +744,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "特朗普“关键时刻”发表18分钟讲话",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%E2%80%9D%E5%8F%91%E8%A1%A818%E5%88%86%E9%92%9F%E8%AE%B2%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普今日签署了关于太空优势的行政命令。",
           "url": "https://flash.jin10.com/detail/20251219041242339800",
           "source": "金十数据",
@@ -704,7 +772,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
         }

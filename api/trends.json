@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T18:14:49.981343+08:00",
-  "total_titles_processed": 1313,
+  "generated_at": "2025-12-20T19:12:23.774565+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时04分 ~ 18时14分]"
+          "appearance_count": 16,
+          "time_info": "[09时04分 ~ 19时12分]"
         },
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
@@ -494,11 +494,12 @@
             9,
             7,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时11分 ~ 18时14分]"
+          "appearance_count": 15,
+          "time_info": "[11时11分 ~ 19时12分]"
         },
         {
           "title": "上抖音看樊振东欧冠首秀",

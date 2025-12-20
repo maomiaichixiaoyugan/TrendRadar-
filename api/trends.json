@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T06:13:57.954176+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2025-12-21T07:14:00.489471+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -37,8 +37,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -110,6 +110,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "抖音网友原创短片太会拍了",
+          "url": "https://www.douyin.com/hot/2341835",
+          "source": "抖音",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时13分 ~ 07时14分]"
+        },
+        {
           "title": "尤长靖入驻抖音",
           "url": "https://www.douyin.com/hot/2341728",
           "source": "抖音",
@@ -119,17 +131,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
-        },
-        {
-          "title": "抖音网友原创短片太会拍了",
-          "url": "https://www.douyin.com/hot/2341835",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
         }
       ]
     }

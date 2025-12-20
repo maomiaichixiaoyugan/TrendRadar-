@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T22:13:36.332156+08:00",
-  "total_titles_processed": 1544,
+  "generated_at": "2025-12-20T23:14:11.727391+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
@@ -141,6 +141,30 @@
           "time_info": "[04时17分 ~ 09时04分]"
         },
         {
+          "title": "特朗普提名特战副司令执掌南方司令部",
+          "url": "https://flash.jin10.com/detail/20251220214727409800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时14分]"
+        },
+        {
+          "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
+          "url": "https://flash.jin10.com/detail/20251220214239757800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时14分]"
+        },
+        {
           "title": "美国总统特朗普：保险公司需要降价以继续留在系统中。 将在未来几周召开保险公司会议。",
           "url": "https://wallstreetcn.com/livenews/3024144",
           "source": "华尔街见闻-快讯",
@@ -163,17 +187,6 @@
           "time_info": "09时04分"
         },
         {
-          "title": "特朗普提名特战副司令执掌南方司令部",
-          "url": "https://flash.jin10.com/detail/20251220214727409800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
           "title": "美国总统特朗普：我们正在对极端组织“伊斯兰国”在叙利亚的据点进行非常强烈的打击，叙利亚政府完全支持我们。",
           "url": "https://flash.jin10.com/detail/20251220081426145800",
           "source": "金十数据",
@@ -183,28 +196,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
-        },
-        {
-          "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
-          "url": "https://flash.jin10.com/detail/20251220214239757800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "特朗普提名特战副司令执掌南方司令部",
-          "url": "https://wallstreetcn.com/livenews/3024305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
         },
         {
           "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
@@ -233,6 +224,20 @@
           "time_info": "[04时17分 ~ 09时04分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
+          "url": "https://flash.jin10.com/detail/20251220184219205800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 23时14分]"
+        },
+        {
           "title": "扎克伯格旗下Meta Platforms刚刚履新八个月的董事Dina Powell McCormick将退出。 在美国总统特朗普第一任期内，Powell McCormick曾担任副国家安全顾问。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3024182",
           "source": "华尔街见闻-快讯",
@@ -251,24 +256,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时13分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
-          "url": "https://flash.jin10.com/detail/20251220184219205800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16,
-            22
+            9,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时26分 ~ 22时13分]"
+          "time_info": "[21时23分 ~ 23时14分]"
         },
         {
           "title": "美国总统特朗普：强生下周“将来这里（白宫）”（谈判）。",
@@ -293,6 +286,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 09时04分]"
+        },
+        {
+          "title": "特朗普提名特战副司令执掌南方司令部",
+          "url": "https://wallstreetcn.com/livenews/3024305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时14分]"
+        },
+        {
+          "title": "特朗普为何推出史上最高金额对台军售",
+          "url": "https://www.toutiao.com/trending/7585013065943859238/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时23分 ~ 23时14分]"
         },
         {
           "title": "特朗普政府表示，在铁路检查引发安全担忧后，墨西哥火车乘务组在美国境内的运行距离不得超过10英里。",
@@ -414,18 +432,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 05时14分]"
-        },
-        {
-          "title": "特朗普为何推出史上最高金额对台军售",
-          "url": "https://www.toutiao.com/trending/7585013065943859238/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时13分]"
         },
         {
           "title": "特朗普下令暂停“绿卡抽签”",
@@ -568,11 +574,12 @@
             11,
             14,
             15,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时11分 ~ 22时13分]"
+          "appearance_count": 20,
+          "time_info": "[11时11分 ~ 23时14分]"
         },
         {
           "title": "上抖音看樊振东欧冠首秀",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T07:15:26.187421+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2025-12-20T09:04:49.406854+08:00",
+  "total_titles_processed": 771,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
@@ -68,11 +68,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            3
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 07时15分]"
+          "appearance_count": 5,
+          "time_info": "[04时17分 ~ 09时04分]"
         },
         {
           "title": "美国总统特朗普：保险公司必须赚更少的钱。",
@@ -80,11 +81,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 07时15分]"
+          "appearance_count": 5,
+          "time_info": "[04时17分 ~ 09时04分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -103,11 +105,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 07时15分]"
+          "appearance_count": 5,
+          "time_info": "[04时17分 ~ 09时04分]"
         },
         {
           "title": "美国总统特朗普：保险公司需要降价以继续留在系统中。 将在未来几周召开保险公司会议。",
@@ -121,15 +124,26 @@
           "time_info": "04时17分"
         },
         {
-          "title": "特朗普媒体的核聚变合作伙伴面临欠款指控",
-          "url": "https://wallstreetcn.com/livenews/3024186",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普拟并购的核聚变初创公司TAE面临欠款指控",
+          "url": "https://flash.jin10.com/detail/20251220082409385800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在对极端组织“伊斯兰国”在叙利亚的据点进行非常强烈的打击，叙利亚政府完全支持我们。",
+          "url": "https://flash.jin10.com/detail/20251220081426145800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时15分"
+          "time_info": "09时04分"
         },
         {
           "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
@@ -137,11 +151,25 @@
           "source": "金十数据",
           "ranks": [
             6,
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 07时15分]"
+          "appearance_count": 5,
+          "time_info": "[04时17分 ~ 09时04分]"
+        },
+        {
+          "title": "美国总统特朗普：强生公司和其他四家公司将于下周加入协议，他们已同意提供全球最低价。",
+          "url": "https://flash.jin10.com/detail/20251220035945921800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时17分 ~ 09时04分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms刚刚履新八个月的董事Dina Powell McCormick将退出。 在美国总统特朗普第一任期内，Powell McCormick曾担任副国家安全顾问。（彭博）",
@@ -149,11 +177,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时15分]"
+          "appearance_count": 3,
+          "time_info": "[06时15分 ~ 09时04分]"
         },
         {
           "title": "美国总统特朗普：强生下周“将来这里（白宫）”（谈判）。",
@@ -168,16 +197,16 @@
           "time_info": "[04时17分 ~ 05时14分]"
         },
         {
-          "title": "美国总统特朗普：强生公司和其他四家公司将于下周加入协议，他们已同意提供全球最低价。",
-          "url": "https://flash.jin10.com/detail/20251220035945921800",
-          "source": "金十数据",
+          "title": "特朗普媒体的核聚变合作伙伴面临欠款指控",
+          "url": "https://wallstreetcn.com/livenews/3024186",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            9
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 07时15分]"
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 09时04分]"
         },
         {
           "title": "特朗普政府表示，在铁路检查引发安全担忧后，墨西哥火车乘务组在美国境内的运行距离不得超过10英里。",
@@ -287,6 +316,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时15分]"
+        },
+        {
+          "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
+          "url": "https://wallstreetcn.com/livenews/3024204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
+          "url": "https://wallstreetcn.com/articles/3761733",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "九家制药商与特朗普签署价格协议，以避免关税。 其中包括罗氏、Merck、百时美施贵宝、葛兰素史克、诺华、吉利德科学、安进、赛诺菲。 协议内容与之前和辉瑞、阿斯利康的类似。 艾伯维、强生、再生元制药还没有与特朗普宣布协议。",

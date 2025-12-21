@@ -1,33 +1,35 @@
 {
-  "generated_at": "2025-12-21T07:14:00.489471+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2025-12-21T09:13:20.105511+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
           "url": "https://flash.jin10.com/detail/20251220214727409800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 09时13分]"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
           "url": "https://flash.jin10.com/detail/20251220214239757800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 09时13分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -63,6 +65,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 05时13分]"
+        },
+        {
+          "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
+          "url": "https://news.ifeng.com/c/8pFTv3cncwR",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "特朗普入股核聚变公司",
@@ -107,7 +120,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "抖音网友原创短片太会拍了",
@@ -131,6 +144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "上抖音看樊振东欧冠首秀",
+          "url": "https://www.douyin.com/hot/2341457",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T18:15:26.036793+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2025-12-21T19:12:51.085863+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
@@ -52,11 +52,12 @@
             10,
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时16分 ~ 18时15分]"
+          "appearance_count": 9,
+          "time_info": "[13时16分 ~ 19时12分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -78,11 +79,12 @@
             3,
             9,
             10,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时22分 ~ 18时15分]"
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 19时12分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -130,9 +132,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
+          "url": "https://flash.jin10.com/detail/20251221182933074800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "特朗普入股核聚变公司",
@@ -202,7 +215,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "顺丰退出抖音退货业务，京东、中通、圆通等将接盘，背后涉及哪些市场博弈？会重塑电商退货物流的竞争格局吗？",
@@ -215,8 +228,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时15分 ~ 18时15分]"
+          "appearance_count": 6,
+          "time_info": "[15时15分 ~ 19时12分]"
+        },
+        {
+          "title": "抖音年度哈哈大会",
+          "url": "https://www.douyin.com/hot/2343421",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "上抖音看樊振东欧冠首秀",

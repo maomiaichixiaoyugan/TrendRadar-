@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T16:19:39.481580+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2025-12-21T17:15:08.325812+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,20 @@
           "time_info": "[00时17分 ~ 09时13分]"
         },
         {
+          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
+          "url": "https://wallstreetcn.com/articles/3761784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 17时15分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
           "url": "https://flash.jin10.com/detail/20251220184219205800",
           "source": "金十数据",
@@ -56,31 +70,18 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
-          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
-          "url": "https://wallstreetcn.com/articles/3761784",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时16分 ~ 16时19分]"
-        },
-        {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
           "url": "https://flash.jin10.com/detail/20251221140435040800",
           "source": "金十数据",
           "ranks": [
             2,
             3,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 16时19分]"
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 17时15分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -156,11 +157,12 @@
           "ranks": [
             10,
             12,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 16时19分]"
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 17时15分]"
         },
         {
           "title": "特朗普对华“降调”能持续吗",
@@ -196,11 +198,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时19分]"
+          "appearance_count": 4,
+          "time_info": "[15时15分 ~ 17时15分]"
         },
         {
           "title": "上抖音看樊振东欧冠首秀",

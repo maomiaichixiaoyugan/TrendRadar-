@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T17:22:55.475013+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2025-12-22T18:16:45.026532+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时35分 ~ 17时22分]"
+          "appearance_count": 10,
+          "time_info": "[12时35分 ~ 18时16分]"
         },
         {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
@@ -55,8 +55,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时16分 ~ 17时22分]"
+          "appearance_count": 23,
+          "time_info": "[00时16分 ~ 18时16分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -174,8 +174,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时25分 ~ 17时22分]"
+          "appearance_count": 7,
+          "time_info": "[14时25分 ~ 18时16分]"
+        },
+        {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时16分]"
         },
         {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
@@ -221,11 +232,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 18时16分]"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -239,26 +251,15 @@
           "time_info": "11时27分"
         },
         {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
           "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
           "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时16分]"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -283,6 +284,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "市场消息：在美国总统特朗普任命格陵兰岛特使后，丹麦外交大臣长将召见美国驻丹麦大使。",
+          "url": "https://flash.jin10.com/detail/20251222174043679800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "美国中东问题特使威特科夫：过去两天在佛罗里达州，俄罗斯主权财富基金总裁德米特里耶夫与美国代表团举行了富有成效和建设性的会议，以推进特朗普总统对乌克兰的和平计划。",
           "url": "https://flash.jin10.com/detail/20251222081646625800",
           "source": "金十数据",
@@ -292,6 +304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-22）",
+          "url": "https://flash.jin10.com/detail/20251222173421961800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "特朗普：任命路易斯安那州州长杰夫·兰德里为美国驻格陵兰岛特使。",
@@ -360,11 +383,12 @@
           "source": "抖音",
           "ranks": [
             25,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 18时16分]"
         }
       ]
     }

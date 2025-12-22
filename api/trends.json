@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T21:31:33.561772+08:00",
-  "total_titles_processed": 1734,
+  "generated_at": "2025-12-22T22:16:26.506870+08:00",
+  "total_titles_processed": 1813,
   "failed_sources": [],
   "trends": [
     {
@@ -59,6 +59,17 @@
           "time_info": "[00时16分 ~ 18时16分]"
         },
         {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 22时16分]"
+        },
+        {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
           "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
           "source": "澎湃新闻",
@@ -112,17 +123,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时25分 ~ 16时23分]"
-        },
-        {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 21时31分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
@@ -189,6 +189,17 @@
           "time_info": "[00时17分 ~ 06时14分]"
         },
         {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 22时16分]"
+        },
+        {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
           "url": "https://flash.jin10.com/detail/20251222043841056800",
           "source": "金十数据",
@@ -240,17 +251,6 @@
           "time_info": "[16时22分 ~ 18时16分]"
         },
         {
-          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
-          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 21时31分]"
-        },
-        {
           "title": "特朗普任命美国格陵兰岛特使",
           "url": "https://news.ifeng.com/c/8pHvN8TZ9Jr",
           "source": "凤凰网",
@@ -268,11 +268,12 @@
           "ranks": [
             27,
             17,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 21时31分]"
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 22时16分]"
         },
         {
           "title": "丹麦对特朗普任命格陵兰岛特使深感不满",
@@ -304,7 +305,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -378,7 +379,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "顺丰退出抖音退货业务，京东、中通、圆通等将接盘，背后涉及哪些市场博弈？会重塑电商退货物流的竞争格局吗？",
@@ -414,6 +415,19 @@
           "time_info": "[00时16分 ~ 15时20分]"
         },
         {
+          "title": "抖音热点记忆2025",
+          "url": "https://www.douyin.com/hot/2344398",
+          "source": "抖音",
+          "ranks": [
+            8,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 22时16分]"
+        },
+        {
           "title": "张真源的抖音全是going",
           "url": "https://www.douyin.com/hot/2344185",
           "source": "抖音",
@@ -427,19 +441,6 @@
           "time_info": "[16时22分 ~ 19时14分]"
         },
         {
-          "title": "抖音热点记忆2025",
-          "url": "https://www.douyin.com/hot/2344398",
-          "source": "抖音",
-          "ranks": [
-            8,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 21时31分]"
-        },
-        {
           "title": "抖音年度哈哈大会更新了",
           "url": "https://www.douyin.com/hot/2344439",
           "source": "抖音",
@@ -447,8 +448,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 22时16分]"
+        },
+        {
+          "title": "抖音舞蹈年终盘点",
+          "url": "https://www.douyin.com/hot/2344581",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         }
       ]
     }

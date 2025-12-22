@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T22:16:26.506870+08:00",
-  "total_titles_processed": 1813,
+  "generated_at": "2025-12-22T23:16:53.337036+08:00",
+  "total_titles_processed": 1900,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,17 @@
           "time_info": "[12时35分 ~ 19时14分]"
         },
         {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时22分 ~ 23时16分]"
+        },
+        {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
           "url": "https://wallstreetcn.com/articles/3761799",
           "source": "华尔街见闻",
@@ -57,17 +68,6 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时16分 ~ 18时16分]"
-        },
-        {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时22分 ~ 22时16分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -196,8 +196,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时22分 ~ 22时16分]"
+          "appearance_count": 7,
+          "time_info": "[17时22分 ~ 23时16分]"
         },
         {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
@@ -421,11 +421,12 @@
           "ranks": [
             8,
             5,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 22时16分]"
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 23时16分]"
         },
         {
           "title": "张真源的抖音全是going",
@@ -448,8 +449,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 23时16分]"
         },
         {
           "title": "抖音舞蹈年终盘点",
@@ -458,7 +459,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         }

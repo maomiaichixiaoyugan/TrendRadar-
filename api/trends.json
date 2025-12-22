@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T20:31:21.550652+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2025-12-22T21:31:33.561772+08:00",
+  "total_titles_processed": 1734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -114,6 +114,17 @@
           "time_info": "[14时25分 ~ 16时23分]"
         },
         {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 21时31分]"
+        },
+        {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
           "url": "https://wallstreetcn.com/livenews/3024453",
           "source": "华尔街见闻-快讯",
@@ -178,17 +189,6 @@
           "time_info": "[00时17分 ~ 06时14分]"
         },
         {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 20时31分]"
-        },
-        {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
           "url": "https://flash.jin10.com/detail/20251222043841056800",
           "source": "金十数据",
@@ -240,6 +240,17 @@
           "time_info": "[16时22分 ~ 18时16分]"
         },
         {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 21时31分]"
+        },
+        {
           "title": "特朗普任命美国格陵兰岛特使",
           "url": "https://news.ifeng.com/c/8pHvN8TZ9Jr",
           "source": "凤凰网",
@@ -251,15 +262,17 @@
           "time_info": "11时27分"
         },
         {
-          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
-          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
-          "source": "凤凰网",
+          "title": "特朗普让克林顿成了主角",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
+          "source": "百度热搜",
           "ranks": [
-            7
+            27,
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 20时31分]"
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 21时31分]"
         },
         {
           "title": "丹麦对特朗普任命格陵兰岛特使深感不满",
@@ -268,18 +281,6 @@
           "ranks": [
             8,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时31分]"
-        },
-        {
-          "title": "特朗普让克林顿成了主角",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -295,6 +296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "据华盛顿邮报：特朗普召回驻外使馆及代表团的48名美国大使。",
+          "url": "https://flash.jin10.com/detail/20251222211021305800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "丹麦外交部长：美国总统特朗普任命驻格陵兰岛特别使节，证实美国仍对格陵兰岛感兴趣。",
@@ -420,11 +432,12 @@
           "source": "抖音",
           "ranks": [
             8,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时31分]"
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 21时31分]"
         },
         {
           "title": "抖音年度哈哈大会更新了",
@@ -433,9 +446,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时31分]"
         }
       ]
     }

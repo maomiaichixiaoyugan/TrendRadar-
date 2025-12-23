@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T17:20:09.151488+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2025-12-23T18:17:34.364540+08:00",
+  "total_titles_processed": 1597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 75,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -19,18 +19,6 @@
           "time_info": "[00时18分 ~ 07时15分]"
         },
         {
-          "title": "特朗普将建特朗普级新型战舰",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时22分 ~ 17时20分]"
-        },
-        {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
           "url": "https://wallstreetcn.com/articles/3761868",
           "source": "华尔街见闻",
@@ -39,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时08分 ~ 17时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时08分 ~ 18时17分]"
         },
         {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
@@ -53,6 +41,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[09时08分 ~ 17时20分]"
+        },
+        {
+          "title": "特朗普将建特朗普级新型战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时22分 ~ 18时17分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -86,11 +87,12 @@
             16,
             15,
             9,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时22分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[11时22分 ~ 18时17分]"
         },
         {
           "title": "特朗普提出中美G2概念 日本不安",
@@ -119,8 +121,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时19分 ~ 17时20分]"
+          "appearance_count": 9,
+          "time_info": "[13时19分 ~ 18时17分]"
         },
         {
           "title": "如何看特朗普级战列舰计划",
@@ -130,8 +132,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时17分]"
         },
         {
           "title": "美新型战舰被命名为特朗普级你咋看",
@@ -430,6 +432,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "美国总统特朗普：国防工业需要优先考虑生产支出。",
@@ -853,7 +877,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "快手直播间出现大量色情内容：警方称接到多个报案，快手称遭到黑灰产攻击",
@@ -865,8 +889,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时08分 ~ 17时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时08分 ~ 18时17分]"
         },
         {
           "title": "快手回应直播间出现色情内容：遭到黑灰产攻击，平台坚决抵制违规内容，已报警",
@@ -879,8 +903,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时22分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[11时22分 ~ 18时17分]"
         },
         {
           "title": "抖音热点记忆2025",
@@ -926,11 +950,12 @@
             23,
             17,
             14,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时18分 ~ 17时20分]"
+          "appearance_count": 22,
+          "time_info": "[00时18分 ~ 18时17分]"
         },
         {
           "title": "360专家谈快手被攻击：实名认证与内容审核链路如何被绕过？",
@@ -944,19 +969,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时19分 ~ 17时20分]"
-        },
-        {
-          "title": "被抖音作者的善意感动到了",
-          "url": "https://www.douyin.com/hot/2345308",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
+          "appearance_count": 9,
+          "time_info": "[13时19分 ~ 18时17分]"
         },
         {
           "title": "快手耗资2995.7万港元回购44.9万股",
@@ -971,6 +985,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时33分 ~ 15时20分]"
+        },
+        {
+          "title": "被抖音作者的善意感动到了",
+          "url": "https://www.douyin.com/hot/2345308",
+          "source": "抖音",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时17分]"
         },
         {
           "title": "恒生指数收盘跌0.11%，恒生科技指数跌0.69%。中国中免跌4.4%，快手跌3.52%，紫金矿业跌1.53%。华芢生物跌18.89%，印象大红袍跌7.73%。",
@@ -1018,6 +1044,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "马上评｜快手被攻陷，安全升维成平台当务之急",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32235292",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     },
@@ -1034,11 +1071,12 @@
             13,
             12,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 17时20分]"
+          "appearance_count": 7,
+          "time_info": "[14时24分 ~ 18时17分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T09:08:46.592117+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2025-12-23T11:22:52.619933+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 66,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -85,6 +85,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "特朗普将建特朗普级新型战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
           "title": "美国总统特朗普：将为新战舰使用美国钢铁。",
           "url": "https://flash.jin10.com/detail/20251223063925012800",
           "source": "金十数据",
@@ -105,17 +116,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
-          "url": "https://news.ifeng.com/c/8pJISSb6yhX",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
         },
         {
           "title": "美国总统特朗普重申即将开始“陆地”打击。",
@@ -181,6 +181,30 @@
           "time_info": "[00时19分 ~ 02时22分]"
         },
         {
+          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
+          "url": "https://wallstreetcn.com/articles/3761868",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时22分]"
+        },
+        {
+          "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
+          "url": "https://news.ifeng.com/c/8pJISSb6yhX",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时22分]"
+        },
+        {
           "title": "据华尔街日报：美国新级别军舰将以美国总统特朗普命名。",
           "url": "https://flash.jin10.com/detail/20251223044243476800",
           "source": "金十数据",
@@ -219,6 +243,17 @@
           "time_info": "[02时22分 ~ 04时17分]"
         },
         {
+          "title": "特朗普叫停美国最大海上风电项目",
+          "url": "https://news.ifeng.com/c/8pJPGPs1kBK",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时22分]"
+        },
+        {
           "title": "内塔尼亚胡：将与特朗普讨论伊朗问题及加沙计划下阶段行动",
           "url": "https://flash.jin10.com/detail/20251223034156652800",
           "source": "金十数据",
@@ -255,17 +290,6 @@
           "time_info": "[02时22分 ~ 03时14分]"
         },
         {
-          "title": "特朗普叫停美国最大海上风电项目",
-          "url": "https://news.ifeng.com/c/8pJPGPs1kBK",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
           "title": "美国总统特朗普：15艘潜艇正在建造或即将开工。",
           "url": "https://flash.jin10.com/detail/20251223062620577800",
           "source": "金十数据",
@@ -288,15 +312,15 @@
           "time_info": "07时15分"
         },
         {
-          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
-          "url": "https://wallstreetcn.com/articles/3761868",
-          "source": "华尔街见闻",
+          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
+          "url": "https://www.toutiao.com/trending/7586636403350556196/",
+          "source": "今日头条",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时08分"
+          "time_info": "11时22分"
         },
         {
           "title": "美国总统特朗普：国防工业需要优先考虑生产支出。",
@@ -338,7 +362,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -376,6 +400,28 @@
           "time_info": "07时15分"
         },
         {
+          "title": "美新型战舰被命名为特朗普级你咋看",
+          "url": "https://www.toutiao.com/trending/7586859203608772635/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%81%A2%E5%A4%8D+%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E9%95%9C%E4%B8%A4%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
           "title": "美国总统特朗普：我们正在建造三艘大型航空母舰。",
           "url": "https://flash.jin10.com/detail/20251223062429316800",
           "source": "金十数据",
@@ -404,7 +450,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -486,6 +532,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "特朗普称其目标是迫使马杜罗下台",
+          "url": "https://flash.jin10.com/detail/20251223105717775800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
           "title": "美国总统特朗普：他们需要建造新工厂。",
           "url": "https://flash.jin10.com/detail/20251223061948490800",
           "source": "金十数据",
@@ -517,6 +574,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "马杜罗：特朗普，请管好美国自己的问题",
+          "url": "https://flash.jin10.com/detail/20251223105624900800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "马杜罗：特朗普最好把精力放在美国",
+          "url": "https://www.toutiao.com/trending/7586368106948493362/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "美国总统特朗普：下周我将与国防主承包商会面。",
@@ -668,7 +747,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         }
@@ -676,7 +755,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "抖音热点记忆2025",
@@ -717,19 +796,31 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 11时22分]"
         },
         {
           "title": "快手直播间出现大量色情内容：警方称接到多个报案，快手称遭到黑灰产攻击",
           "url": "https://m.thepaper.cn/newsDetail_forward_32233989",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时22分]"
+        },
+        {
+          "title": "快手回应直播间出现色情内容：遭到黑灰产攻击，平台坚决抵制违规内容，已报警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32234690",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时08分"
+          "time_info": "11时22分"
         },
         {
           "title": "快手直播间出现大量色情内容，海淀警方称接到多个群众报案，快手回应：平台遭到黑灰产攻击，已报警",

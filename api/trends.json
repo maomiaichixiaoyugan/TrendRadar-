@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T20:31:09.170101+08:00",
-  "total_titles_processed": 1712,
+  "generated_at": "2025-12-24T21:28:54.241693+08:00",
+  "total_titles_processed": 1797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -21,6 +21,18 @@
           "time_info": "[00时19分 ~ 07时14分]"
         },
         {
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时19分 ~ 21时28分]"
+        },
+        {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
           "url": "https://wallstreetcn.com/articles/3761946",
           "source": "华尔街见闻",
@@ -31,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时20分 ~ 20时31分]"
+          "appearance_count": 15,
+          "time_info": "[11时20分 ~ 21时28分]"
         },
         {
           "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
@@ -97,8 +109,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时19分 ~ 20时31分]"
+          "appearance_count": 26,
+          "time_info": "[00时19分 ~ 21时28分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -112,18 +124,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时19分 ~ 09时07分]"
-        },
-        {
-          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
-          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时19分 ~ 20时31分]"
         },
         {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
@@ -212,6 +212,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 21时28分]"
+        },
+        {
           "title": "特朗普再谈格陵兰问题 还提到中国",
           "url": "https://www.toutiao.com/trending/7586746209667239443/",
           "source": "今日头条",
@@ -272,17 +283,6 @@
           "time_info": "[03时14分 ~ 06时15分]"
         },
         {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 20时31分]"
-        },
-        {
           "title": "克林顿大尺度照被公布 特朗普回应",
           "url": "https://www.baidu.com/s?wd=%E5%85%8B%E6%9E%97%E9%A1%BF%E5%A4%A7%E5%B0%BA%E5%BA%A6%E7%85%A7%E8%A2%AB%E5%85%AC%E5%B8%83+%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -293,6 +293,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时24分 ~ 15时20分]"
+        },
+        {
+          "title": "评论员：特朗普级战舰可能造不出来",
+          "url": "https://www.toutiao.com/trending/7587325146696781348/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时30分 ~ 21时28分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普有大量关于住房经适性（可担负能力）计划的选项。",
@@ -391,15 +402,15 @@
           "time_info": "[11时20分 ~ 12时31分]"
         },
         {
-          "title": "评论员：特朗普级战舰可能造不出来",
-          "url": "https://www.toutiao.com/trending/7587325146696781348/",
-          "source": "今日头条",
+          "title": "俄罗斯总统新闻秘书佩斯科夫：目前没有安排普京和特朗普通话的计划。",
+          "url": "https://flash.jin10.com/detail/20251224204509848800",
+          "source": "金十数据",
           "ranks": [
-            30
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时30分 ~ 20时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "解析美军制造特朗普级战舰",
@@ -466,6 +477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "以色列总理办公室：哈马斯继续违反停火协议和特朗普总统的20点计划。今天，他们引爆简易爆炸装置，导致一名以色列国防军军官受伤，再次证实了他们的暴力意图和违法行为。以色列将作出相应回应。",
+          "url": "https://flash.jin10.com/detail/20251224203421132800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-24）",
@@ -657,6 +679,21 @@
           "time_info": "[00时19分 ~ 06时15分]"
         },
         {
+          "title": "抖音搜索年度报告",
+          "url": "https://www.douyin.com/hot/2346135",
+          "source": "抖音",
+          "ranks": [
+            11,
+            16,
+            8,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时19分 ~ 21时28分]"
+        },
+        {
           "title": "丽江公开发函喊话小红书",
           "url": "https://www.baidu.com/s?wd=%E4%B8%BD%E6%B1%9F%E5%85%AC%E5%BC%80%E5%8F%91%E5%87%BD%E5%96%8A%E8%AF%9D%E5%B0%8F%E7%BA%A2%E4%B9%A6",
           "source": "百度热搜",
@@ -683,20 +720,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时19分 ~ 14时24分]"
-        },
-        {
-          "title": "抖音搜索年度报告",
-          "url": "https://www.douyin.com/hot/2346135",
-          "source": "抖音",
-          "ranks": [
-            11,
-            16,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时19分 ~ 20时31分]"
         },
         {
           "title": "骄阳似我抖音追剧团",
@@ -728,6 +751,21 @@
           "time_info": "[11时20分 ~ 15时20分]"
         },
         {
+          "title": "盘点2025年抖音手搓大神",
+          "url": "https://www.douyin.com/hot/2346167",
+          "source": "抖音",
+          "ranks": [
+            19,
+            28,
+            26,
+            25,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时19分 ~ 21时28分]"
+        },
+        {
           "title": "没人能笑着走出抖音白描文学",
           "url": "https://www.douyin.com/hot/2346316",
           "source": "抖音",
@@ -741,18 +779,16 @@
           "time_info": "[18时16分 ~ 20时31分]"
         },
         {
-          "title": "盘点2025年抖音手搓大神",
-          "url": "https://www.douyin.com/hot/2346167",
-          "source": "抖音",
+          "title": "丽江旅拍协会：将起诉小红书",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BD%E6%B1%9F%E6%97%85%E6%8B%8D%E5%8D%8F%E4%BC%9A%EF%BC%9A%E5%B0%86%E8%B5%B7%E8%AF%89%E5%B0%8F%E7%BA%A2%E4%B9%A6",
+          "source": "百度热搜",
           "ranks": [
-            19,
-            28,
-            26,
-            25
+            30,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时19分 ~ 20时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时30分 ~ 21时28分]"
         },
         {
           "title": "来抖音看张真源的娃娃脸",
@@ -776,17 +812,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时14分 ~ 06时15分]"
-        },
-        {
-          "title": "丽江旅拍协会：将起诉小红书",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BD%E6%B1%9F%E6%97%85%E6%8B%8D%E5%8D%8F%E4%BC%9A%EF%BC%9A%E5%B0%86%E8%B5%B7%E8%AF%89%E5%B0%8F%E7%BA%A2%E4%B9%A6",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时30分 ~ 20时31分]"
         }
       ]
     },

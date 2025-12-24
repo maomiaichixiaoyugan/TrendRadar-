@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T06:15:26.380008+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2025-12-25T07:14:47.479465+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时14分]"
         },
         {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时14分]"
         },
         {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时14分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -125,11 +125,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[03时12分 ~ 07时14分]"
         },
         {
           "title": "学者：特朗普锚定“第四处战场”",
@@ -157,8 +158,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时14分]"
         },
         {
           "title": "抖音搜索年度报告",
@@ -170,8 +171,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时14分]"
         },
         {
           "title": "丽江旅拍协会：将起诉小红书",
@@ -186,8 +187,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时14分]"
         },
         {
           "title": "巴西前总统博索纳罗离开监狱入院接受手术当地时间12月24日，巴西前总统博索纳罗被判刑后首次离开监狱，入院接受手术。此前，巴西联邦最高法院法官亚历山大·德莫赖斯批准了博索纳罗辩护团队提出的手术申请，但驳回了转为居家监禁的申请。巴西联邦警察医疗小组诊断博索纳罗患有双侧腹股沟疝，建议尽快手术。",
@@ -195,11 +196,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时15分]"
+          "appearance_count": 3,
+          "time_info": "[05时14分 ~ 07时14分]"
         }
       ]
     }

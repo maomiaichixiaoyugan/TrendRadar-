@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T15:20:03.638600+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2025-12-24T16:22:08.895714+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "[00时19分 ~ 13时20分]"
         },
         {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时07分 ~ 16时22分]"
+        },
+        {
           "title": "特朗普将建特朗普级新型战舰",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
           "source": "bilibili 热搜",
@@ -45,11 +57,12 @@
             24,
             12,
             11,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 15时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 16时22分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -61,11 +74,12 @@
             19,
             20,
             21,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 15时20分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 16时22分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -93,6 +107,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时07分 ~ 15时20分]"
+        },
+        {
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 16时22分]"
         },
         {
           "title": "布林肯为何对特朗普发出严厉警告",
@@ -126,30 +153,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时07分 ~ 15时19分]"
-        },
-        {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时07分 ~ 15时20分]"
-        },
-        {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时20分 ~ 15时20分]"
         },
         {
           "title": "“特朗普级”新型战列舰命名打破惯例",
@@ -530,6 +533,17 @@
           "time_info": "[00时19分 ~ 07时14分]"
         },
         {
+          "title": "网络安全专家复盘“快手被攻击”：史无前例的攻击，没有应急措施才是最严重问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32235282",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 16时22分]"
+        },
+        {
           "title": "360专家谈快手被攻击：实名认证与内容审核链路如何被绕过？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32235101",
           "source": "澎湃新闻",
@@ -552,17 +566,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时19分 ~ 05时14分]"
-        },
-        {
-          "title": "网络安全专家复盘“快手被攻击”：史无前例的攻击，没有应急措施才是最严重问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32235282",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时20分 ~ 15时20分]"
         },
         {
           "title": "丽江公开发函喊话小红书",
@@ -637,6 +640,18 @@
           "time_info": "[11时20分 ~ 15时20分]"
         },
         {
+          "title": "抖音搜索年度报告",
+          "url": "https://www.douyin.com/hot/2346135",
+          "source": "抖音",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 16时22分]"
+        },
+        {
           "title": "来抖音看张真源的娃娃脸",
           "url": "https://www.douyin.com/hot/2346087",
           "source": "抖音",
@@ -658,17 +673,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时14分 ~ 06时15分]"
-        },
-        {
-          "title": "抖音搜索年度报告",
-          "url": "https://www.douyin.com/hot/2346135",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
         }
       ]
     },

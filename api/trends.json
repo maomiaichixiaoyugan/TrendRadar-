@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T16:22:08.895714+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2025-12-24T17:19:33.033913+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -19,6 +19,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时20分 ~ 17时19分]"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -40,8 +54,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时07分 ~ 16时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时07分 ~ 17时19分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -58,11 +72,12 @@
             12,
             11,
             17,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 16时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 17时19分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -78,8 +93,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时19分 ~ 16时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时19分 ~ 17时19分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -107,19 +122,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时07分 ~ 15时20分]"
-        },
-        {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时20分 ~ 16时22分]"
         },
         {
           "title": "布林肯为何对特朗普发出严厉警告",
@@ -192,6 +194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "特朗普再谈格陵兰问题 还提到中国",
@@ -518,7 +531,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "快手回应直播间出现色情内容：遭到黑灰产攻击，平台坚决抵制违规内容，已报警",
@@ -645,11 +658,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            16
+            16,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时19分 ~ 16时22分]"
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 17时19分]"
         },
         {
           "title": "来抖音看张真源的娃娃脸",
@@ -673,6 +687,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时14分 ~ 06时15分]"
+        },
+        {
+          "title": "盘点2025年抖音手搓大神",
+          "url": "https://www.douyin.com/hot/2346167",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     },

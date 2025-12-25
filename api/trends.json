@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T14:24:24.826054+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2025-12-25T15:18:37.762070+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
@@ -219,11 +219,12 @@
             4,
             13,
             19,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 14时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 15时18分]"
         },
         {
           "title": "丽江旅拍协会：将起诉小红书",
@@ -252,8 +253,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 14时24分]"
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 15时18分]"
+        },
+        {
+          "title": "丽江市古城区旅拍协会回应“文旅局喊话小红书”：此前曾与平台沟通现已放弃，计划起诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32248307",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 15时18分]"
         },
         {
           "title": "巴西前总统博索纳罗离开监狱入院接受手术当地时间12月24日，巴西前总统博索纳罗被判刑后首次离开监狱，入院接受手术。此前，巴西联邦最高法院法官亚历山大·德莫赖斯批准了博索纳罗辩护团队提出的手术申请，但驳回了转为居家监禁的申请。巴西联邦警察医疗小组诊断博索纳罗患有双侧腹股沟疝，建议尽快手术。",
@@ -267,18 +281,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时14分 ~ 07时14分]"
-        },
-        {
-          "title": "丽江市古城区旅拍协会回应“文旅局喊话小红书”：此前曾与平台沟通现已放弃，计划起诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32248307",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 14时24分]"
         },
         {
           "title": "体育评论员杨毅称抖音与 CBA 电商带货保底金额仅小几千万，这透露出 CBA 联赛怎样的商业价值？",
@@ -297,11 +299,12 @@
           "url": "https://www.douyin.com/hot/2346167",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 15时18分]"
         }
       ]
     }

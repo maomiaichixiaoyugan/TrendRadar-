@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T07:14:47.479465+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2025-12-25T09:08:46.922597+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
@@ -19,23 +19,24 @@
           "time_info": "[00时19分 ~ 07时14分]"
         },
         {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时14分]"
-        },
-        {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
           "url": "https://wallstreetcn.com/articles/3761983",
           "source": "华尔街见闻",
           "ranks": [
             9,
             8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时08分]"
+        },
+        {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
             7
           ],
           "is_new": false,
@@ -147,7 +148,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "没人能笑着走出抖音白描文学",
@@ -158,8 +159,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时08分]"
         },
         {
           "title": "抖音搜索年度报告",
@@ -171,8 +172,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时08分]"
         },
         {
           "title": "丽江旅拍协会：将起诉小红书",
@@ -184,11 +185,12 @@
             16,
             8,
             6,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时08分]"
         },
         {
           "title": "巴西前总统博索纳罗离开监狱入院接受手术当地时间12月24日，巴西前总统博索纳罗被判刑后首次离开监狱，入院接受手术。此前，巴西联邦最高法院法官亚历山大·德莫赖斯批准了博索纳罗辩护团队提出的手术申请，但驳回了转为居家监禁的申请。巴西联邦警察医疗小组诊断博索纳罗患有双侧腹股沟疝，建议尽快手术。",
@@ -202,6 +204,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时14分 ~ 07时14分]"
+        },
+        {
+          "title": "体育评论员杨毅称抖音与 CBA 电商带货保底金额仅小几千万，这透露出 CBA 联赛怎样的商业价值？",
+          "url": "https://www.zhihu.com/question/1985092743446423063",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         }
       ]
     }

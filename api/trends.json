@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T18:16:57.038548+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2025-12-25T19:13:55.737184+08:00",
+  "total_titles_processed": 1575,
   "failed_sources": [],
   "trends": [
     {
@@ -45,17 +45,6 @@
           "time_info": "[00时19分 ~ 07时14分]"
         },
         {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时12分]"
-        },
-        {
           "title": "高市早苗：想尽快与特朗普会晤",
           "url": "https://news.ifeng.com/c/8pNHf17pGd9",
           "source": "凤凰网",
@@ -64,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时16分]"
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时13分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -76,30 +65,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时16分]"
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时13分]"
         },
         {
-          "title": "特朗普这一年如何搅乱全球",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E4%B8%80%E5%B9%B4%E5%A6%82%E4%BD%95%E6%90%85%E4%B9%B1%E5%85%A8%E7%90%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
-          "url": "https://flash.jin10.com/detail/20251225173408748800",
-          "source": "金十数据",
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 03时12分]"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -168,6 +146,18 @@
           "time_info": "[03时12分 ~ 05时14分]"
         },
         {
+          "title": "特朗普这一年如何搅乱全球",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E4%B8%80%E5%B9%B4%E5%A6%82%E4%BD%95%E6%90%85%E4%B9%B1%E5%85%A8%E7%90%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时13分]"
+        },
+        {
           "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
           "url": "https://flash.jin10.com/detail/20251225121328471800",
           "source": "金十数据",
@@ -178,6 +168,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时33分 ~ 13时19分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
+          "url": "https://flash.jin10.com/detail/20251225173408748800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时13分]"
         },
         {
           "title": "特朗普为何强调新战列舰不针对中国",
@@ -260,11 +262,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时22分 ~ 18时16分]"
+          "appearance_count": 10,
+          "time_info": "[11时22分 ~ 19时13分]"
         },
         {
           "title": "没人能笑着走出抖音白描文学",
@@ -292,11 +295,12 @@
             18,
             14,
             25,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 18时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 19时13分]"
         },
         {
           "title": "丽江旅拍协会：将起诉小红书",
@@ -323,11 +327,12 @@
           "ranks": [
             17,
             18,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时22分 ~ 18时16分]"
+          "appearance_count": 10,
+          "time_info": "[11时22分 ~ 19时13分]"
         },
         {
           "title": "盘点2025年抖音手搓大神",
@@ -366,6 +371,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时08分 ~ 11时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "以色列国防部长：我们永远不会离开加沙的土地。我们将在加沙设立一个安全缓冲区。",
+          "url": "https://flash.jin10.com/detail/20251225181524750800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         }
       ]
     }

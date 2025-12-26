@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:16:45.408252+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2025-12-26T19:14:24.071131+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时20分 ~ 18时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时20分 ~ 19时14分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -155,8 +155,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时16分]"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时14分]"
         },
         {
           "title": "Marko Papic万字访谈：委内瑞拉救不了油价，特朗普或在2026年“压榨”美联储，股市迎来“YOLO时刻”",
@@ -187,7 +187,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },

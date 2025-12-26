@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T22:15:42.667237+08:00",
-  "total_titles_processed": 1759,
+  "generated_at": "2025-12-26T23:15:31.517035+08:00",
+  "total_titles_processed": 1838,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -25,11 +25,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时20分 ~ 22时15分]"
+          "appearance_count": 15,
+          "time_info": "[11时20分 ~ 23时15分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -41,6 +42,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时20分 ~ 16时21分]"
+        },
+        {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时17分 ~ 23时15分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -70,17 +82,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时12分 ~ 07时15分]"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 22时15分]"
         },
         {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
@@ -164,11 +165,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时15分]"
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时15分]"
         },
         {
           "title": "Marko Papic万字访谈：委内瑞拉救不了油价，特朗普或在2026年“压榨”美联储，股市迎来“YOLO时刻”",
@@ -214,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
+        },
+        {
+          "title": "乌总统：乌美安全保障协议接近完成 签署取决于与特朗普会晤",
+          "url": "https://flash.jin10.com/detail/20251226230113914800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
@@ -362,7 +375,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "丽江市古城区旅拍协会回应“文旅局喊话小红书”：此前曾与平台沟通现已放弃，计划起诉",
@@ -401,11 +414,12 @@
           "url": "https://www.douyin.com/hot/2348169",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时29分 ~ 22时15分]"
+          "appearance_count": 4,
+          "time_info": "[20时29分 ~ 23时15分]"
         },
         {
           "title": "抖音上线长图文功能",
@@ -415,8 +429,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时15分]"
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时15分]"
+        },
+        {
+          "title": "影视飓风抖音粉丝破千万",
+          "url": "https://www.douyin.com/hot/2348615",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     }

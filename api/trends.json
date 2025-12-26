@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T19:14:24.071131+08:00",
-  "total_titles_processed": 1503,
+  "generated_at": "2025-12-26T20:29:31.659162+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时20分 ~ 19时14分]"
+          "appearance_count": 12,
+          "time_info": "[11时20分 ~ 20时29分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -134,6 +134,17 @@
           "time_info": "[00时18分 ~ 04时17分]"
         },
         {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 20时29分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
           "url": "https://flash.jin10.com/detail/20251226001306612800",
           "source": "金十数据",
@@ -146,17 +157,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时14分 ~ 04时17分]"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 19时14分]"
         },
         {
           "title": "Marko Papic万字访谈：委内瑞拉救不了油价，特朗普或在2026年“压榨”美联储，股市迎来“YOLO时刻”",
@@ -283,7 +283,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "丽江市古城区旅拍协会回应“文旅局喊话小红书”：此前曾与平台沟通现已放弃，计划起诉",
@@ -316,6 +316,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时18分 ~ 13时17分]"
+        },
+        {
+          "title": "抖音美好跨年季",
+          "url": "https://www.douyin.com/hot/2348169",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         }
       ]
     }

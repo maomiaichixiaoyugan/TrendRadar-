@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T09:07:18.628413+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2025-12-27T11:19:12.051320+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -58,13 +58,24 @@
           "time_info": "[01时13分 ~ 07时15分]"
         },
         {
+          "title": "将见泽连斯基，特朗普放话：未经我批准，他无法敲定任何事",
+          "url": "https://news.ifeng.com/c/8pQ4NhlD6Ve",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 11时19分]"
+        },
+        {
           "title": "泽连斯基：将与特朗普会晤，讨论“敏感”问题",
           "url": "https://news.ifeng.com/c/8pPc87WsghO",
           "source": "凤凰网",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -146,7 +157,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         }

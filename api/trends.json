@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T20:28:29.498753+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2025-12-28T21:26:20.498487+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时40分 ~ 20时28分]"
+          "appearance_count": 12,
+          "time_info": "[12时40分 ~ 21时26分]"
         },
         {
           "title": "特朗普海湖庄园将上演“鸿门宴”吗",
@@ -119,8 +119,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 20时28分]"
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 21时26分]"
         },
         {
           "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
@@ -235,7 +235,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "欧亨利赛道也让抖音闯进去了",
@@ -246,11 +246,12 @@
             9,
             7,
             8,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时20分 ~ 20时28分]"
+          "appearance_count": 7,
+          "time_info": "[16时20分 ~ 21时26分]"
         },
         {
           "title": "抖音美好惊喜夜",
@@ -259,11 +260,23 @@
           "ranks": [
             29,
             7,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 20时28分]"
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 21时26分]"
+        },
+        {
+          "title": "宋威龙赵今麦第93条抖音",
+          "url": "https://www.douyin.com/hot/2350225",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "抖音美好跨年季",

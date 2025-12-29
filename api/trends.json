@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T22:16:49.672060+08:00",
-  "total_titles_processed": 1744,
+  "generated_at": "2025-12-29T23:16:53.689012+08:00",
+  "total_titles_processed": 1862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 84,
       "titles": [
         {
           "title": "特朗普：不排除亲自前往乌克兰",
@@ -37,11 +37,12 @@
           "ranks": [
             15,
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时21分 ~ 22时16分]"
+          "appearance_count": 11,
+          "time_info": "[15时21分 ~ 23时16分]"
         },
         {
           "title": "泽连斯基：我想跟特朗普谈5个问题",
@@ -575,6 +576,17 @@
           "time_info": "19时14分"
         },
         {
+          "title": "美政治：特朗普回归一年强势色彩趋黯",
+          "url": "https://www.toutiao.com/trending/7589266725988732462/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "美国总统特朗普：乌克兰可能需要通过全民公投或议会批准才能通过相关方案。",
           "url": "https://flash.jin10.com/detail/20251229060056558800",
           "source": "金十数据",
@@ -867,7 +879,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -985,7 +997,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "作家余华入驻抖音",
@@ -999,8 +1011,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时26分 ~ 22时16分]"
+          "appearance_count": 12,
+          "time_info": "[14时26分 ~ 23时16分]"
         },
         {
           "title": "欧亨利赛道也让抖音闯进去了",
@@ -1083,6 +1095,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 14时26分]"
+        },
+        {
+          "title": "罚罪2抖音追剧团",
+          "url": "https://www.douyin.com/hot/2351082",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "2025抖音ACG年度作者揭晓",
+          "url": "https://www.douyin.com/hot/2350685",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         }
       ]
     }

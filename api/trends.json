@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T19:14:40.613871+08:00",
-  "total_titles_processed": 1502,
+  "generated_at": "2025-12-29T20:32:05.851214+08:00",
+  "total_titles_processed": 1595,
   "failed_sources": [],
   "trends": [
     {
@@ -128,6 +128,19 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时21分 ~ 20时32分]"
+        },
+        {
           "title": "特朗普当众施压泽连斯基",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
           "source": "百度热搜",
@@ -244,18 +257,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时12分 ~ 07时14分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时21分 ~ 19时14分]"
         },
         {
           "title": "美国总统特朗普在与乌克兰总统泽连斯基会面之前表示：已经与俄罗斯总统普京进行富有成效的对话。",
@@ -569,7 +570,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -756,7 +757,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -976,6 +977,19 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "作家余华入驻抖音",
+          "url": "https://www.douyin.com/hot/2350618",
+          "source": "抖音",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时26分 ~ 20时32分]"
+        },
+        {
           "title": "欧亨利赛道也让抖音闯进去了",
           "url": "https://www.douyin.com/hot/2349884",
           "source": "抖音",
@@ -987,11 +1001,12 @@
             10,
             4,
             30,
-            29
+            29,
+            18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 17时24分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 20时32分]"
         },
         {
           "title": "抖音美好惊喜夜",
@@ -1009,11 +1024,12 @@
             20,
             19,
             18,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时17分 ~ 18时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时17分 ~ 20时32分]"
         },
         {
           "title": "宋威龙赵今麦第93条抖音",
@@ -1029,18 +1045,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时17分 ~ 09时14分]"
-        },
-        {
-          "title": "作家余华入驻抖音",
-          "url": "https://www.douyin.com/hot/2350618",
-          "source": "抖音",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时26分 ~ 19时14分]"
         },
         {
           "title": "我的诺贝尔人脉在抖音",

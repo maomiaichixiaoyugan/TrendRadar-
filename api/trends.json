@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T16:22:09.819109+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2025-12-30T17:20:07.521069+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 97,
+      "match_count": 100,
       "titles": [
         {
           "title": "普京官邸遇袭，俄官员称特朗普感到“震惊和愤怒”",
@@ -41,8 +41,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时08分 ~ 16时22分]"
+          "appearance_count": 13,
+          "time_info": "[09时08分 ~ 17时20分]"
+        },
+        {
+          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
+          "url": "https://wallstreetcn.com/articles/3762270",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时34分 ~ 17时20分]"
         },
         {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
@@ -60,6 +74,31 @@
           "time_info": "[00时18分 ~ 12时35分]"
         },
         {
+          "title": "普京称官邸遭袭 特朗普回应",
+          "url": "https://www.douyin.com/hot/2351475",
+          "source": "抖音",
+          "ranks": [
+            7,
+            1,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时19分 ~ 17时20分]"
+        },
+        {
+          "title": "外交部回应特朗普涉中国军演言论",
+          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 17时20分]"
+        },
+        {
           "title": "得知普京官邸遭袭 特朗普：很生气",
           "url": "https://www.baidu.com/s?wd=%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E7%94%9F%E6%B0%94",
           "source": "百度热搜",
@@ -73,30 +112,15 @@
           "time_info": "[09时08分 ~ 13时20分]"
         },
         {
-          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
-          "url": "https://wallstreetcn.com/articles/3762270",
-          "source": "华尔街见闻",
+          "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
+          "url": "https://news.ifeng.com/c/8pVTEbBDKdx",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时34分 ~ 16时22分]"
-        },
-        {
-          "title": "普京称官邸遭袭 特朗普回应",
-          "url": "https://www.douyin.com/hot/2351475",
-          "source": "抖音",
-          "ranks": [
-            7,
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时19分 ~ 16时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 17时20分]"
         },
         {
           "title": "解放军封岛军演，特朗普表态",
@@ -108,17 +132,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时23分 ~ 15时19分]"
-        },
-        {
-          "title": "外交部回应特朗普涉中国军演言论",
-          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "特朗普称得知普京官邸遭袭很生气",
@@ -141,17 +154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时08分 ~ 09时09分]"
-        },
-        {
-          "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
-          "url": "https://news.ifeng.com/c/8pVTEbBDKdx",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "特朗普回应解放军在台岛附近军演",
@@ -185,6 +187,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时24分 ~ 17时20分]"
         },
         {
           "title": "美国总统特朗普：我们对约旦河西岸定居者暴力问题的看法并不100%完全一致。",
@@ -298,6 +313,17 @@
           "time_info": "[03时13分 ~ 05时14分]"
         },
         {
+          "title": "俄称乌无人机袭击普京官邸，扎哈罗娃：泽连斯基“打脸”特朗普",
+          "url": "https://news.ifeng.com/c/8pVV1ZtFrwe",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 17时20分]"
+        },
+        {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡有时较难相处。希望内塔尼亚胡与叙利亚保持友好关系。",
           "url": "https://flash.jin10.com/detail/20251230024226042800",
           "source": "金十数据",
@@ -373,6 +399,17 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
+          "title": "泽连斯基希望美国保护乌克兰50年，特朗普：将予以考虑",
+          "url": "https://news.ifeng.com/c/8pV90njbrp6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 17时20分]"
+        },
+        {
           "title": "特朗普：若伊朗发展核武器，支持对伊朗发动快速打击",
           "url": "https://flash.jin10.com/detail/20251230030508660800",
           "source": "金十数据",
@@ -407,19 +444,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 01时14分]"
-        },
-        {
-          "title": "得知普京官邸遭袭，特朗普：我很生气！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 16时22分]"
         },
         {
           "title": "美国总统特朗普：俄罗斯总统普京告诉我，他的官邸遭到乌克兰袭击。（就该事件）我不认同此类行为。",
@@ -577,17 +601,6 @@
           "time_info": "[11时23分 ~ 12时35分]"
         },
         {
-          "title": "俄称乌无人机袭击普京官邸，扎哈罗娃：泽连斯基“打脸”特朗普",
-          "url": "https://news.ifeng.com/c/8pVV1ZtFrwe",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
-        },
-        {
           "title": "以色列总统办公室：自数周前提交对以色列总理内塔尼亚胡的赦免请求以来，以色列总统赫尔佐格与特朗普之间尚未进行任何对话。",
           "url": "https://flash.jin10.com/detail/20251230030257604800",
           "source": "金十数据",
@@ -600,17 +613,6 @@
           "time_info": "[04时18分 ~ 05时14分]"
         },
         {
-          "title": "泽连斯基希望美国保护乌克兰50年，特朗普：将予以考虑",
-          "url": "https://news.ifeng.com/c/8pV90njbrp6",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
-        },
-        {
           "title": "得知普京官邸遭乌无人机袭击 特朗普“很生气”",
           "url": "https://wallstreetcn.com/livenews/3028316",
           "source": "华尔街见闻-快讯",
@@ -621,6 +623,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时15分]"
+        },
+        {
+          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
+          "url": "https://wallstreetcn.com/articles/3762272",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
           "title": "据AXIOS：特朗普及其高级幕僚已要求内塔尼亚胡改变其在被占领的约旦河西岸所推行的政策。",
@@ -669,6 +682,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 02时22分]"
+        },
+        {
+          "title": "特朗普称对中方此次军演不担忧，外交部回应",
+          "url": "https://www.cls.cn/detail/2244032",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
           "title": "美国总统特朗普：我们将与内塔尼亚胡讨论五个主要议题。",
@@ -753,6 +777,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 02时22分]"
+        },
+        {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.douyin.com/hot/2351614",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：俄罗斯认为，特朗普和泽连斯基取得的一些成果，让乌克兰有逃避其义务的空间。",

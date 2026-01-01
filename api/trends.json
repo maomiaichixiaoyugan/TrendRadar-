@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T20:31:17.536794+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-01-01T21:31:22.996842+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
@@ -59,6 +59,19 @@
           "time_info": "[11时45分 ~ 13时23分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 21时31分]"
+        },
+        {
           "title": "美国总统特朗普：共和党人别再给保险公司钱了。资金必须直接流向民众，让他们自行购买医疗保险。",
           "url": "https://flash.jin10.com/detail/20260101043557341800",
           "source": "金十数据",
@@ -81,18 +94,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
-          "url": "https://flash.jin10.com/detail/20260101184638613800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时31分]"
         },
         {
           "title": "美国白宫：特朗普总统签署公告，将软包家具、厨房橱柜和浴室柜的关税上调计划推迟一年。",
@@ -239,8 +240,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 20时31分]"
+          "appearance_count": 7,
+          "time_info": "[18时17分 ~ 21时31分]"
         },
         {
           "title": "全抖音最抽象的新年祝福来了",

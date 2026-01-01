@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T21:31:22.996842+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2026-01-01T22:15:01.495793+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,20 @@
           "time_info": "05时14分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 22时15分]"
+        },
+        {
           "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
           "url": "https://flash.jin10.com/detail/20260101113737125800",
           "source": "金十数据",
@@ -57,19 +71,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时45分 ~ 13时23分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
-          "url": "https://flash.jin10.com/detail/20260101184638613800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 21时31分]"
         },
         {
           "title": "美国总统特朗普：共和党人别再给保险公司钱了。资金必须直接流向民众，让他们自行购买医疗保险。",
@@ -240,8 +241,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时17分 ~ 21时31分]"
+          "appearance_count": 9,
+          "time_info": "[18时17分 ~ 22时15分]"
         },
         {
           "title": "全抖音最抽象的新年祝福来了",

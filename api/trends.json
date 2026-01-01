@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T18:17:19.424105+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2026-01-01T19:14:08.995893+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
@@ -217,7 +228,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "2026的第一条抖音",
@@ -226,9 +237,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时14分]"
         },
         {
           "title": "全抖音最抽象的新年祝福来了",
@@ -241,6 +252,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时18分 ~ 02时21分]"
+        },
+        {
+          "title": "杨紫的2026年第一条抖音来了",
+          "url": "https://www.douyin.com/hot/2354202",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
         }
       ]
     }

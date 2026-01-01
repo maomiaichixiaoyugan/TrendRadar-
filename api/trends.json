@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T17:19:56.079447+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-01-01T18:17:19.424105+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
@@ -217,8 +217,19 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "2026的第一条抖音",
+          "url": "https://www.douyin.com/hot/2354369",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
         {
           "title": "全抖音最抽象的新年祝福来了",
           "url": "https://www.douyin.com/hot/2353161",

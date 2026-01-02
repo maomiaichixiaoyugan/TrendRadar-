@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T12:36:00.812538+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-01-02T13:20:54.036454+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
@@ -156,8 +156,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时19分 ~ 12时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 13时20分]"
         },
         {
           "title": "请查收明星2026第一条抖音",
@@ -165,11 +165,12 @@
           "source": "抖音",
           "ranks": [
             29,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时20分]"
         }
       ]
     }

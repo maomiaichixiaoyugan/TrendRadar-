@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-03T15:15:33.033182+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-01-03T16:20:09.013707+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "通话后，高市都笑裂了，特朗普转头就见美驻华大使",
+          "url": "https://news.ifeng.com/c/8pbpH4jJoYi",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时28分 ~ 16时20分]"
+        },
         {
           "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
           "url": "https://www.zhihu.com/question/1990382764189508847",
@@ -22,16 +34,48 @@
           "time_info": "[00时18分 ~ 13时16分]"
         },
         {
-          "title": "通话后，高市都笑裂了，特朗普转头就见美驻华大使",
-          "url": "https://news.ifeng.com/c/8pbpH4jJoYi",
+          "title": "特朗普又下黑手，强制“与中国有关联公司”剥离涉美芯片资产",
+          "url": "https://news.ifeng.com/c/8pbhuK7HgiN",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 15时15分]"
+          "appearance_count": 9,
+          "time_info": "[11时17分 ~ 16时20分]"
+        },
+        {
+          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302492",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时17分 ~ 16时20分]"
+        },
+        {
+          "title": "沃旭能源Orsted AS与Equinor ASA起诉美国总特朗普政府阻挠它们在美国多个海上风电项目建设的决定。",
+          "url": "https://wallstreetcn.com/livenews/3029951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            9,
+            11,
+            12,
+            14,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时14分 ~ 16时20分]"
         },
         {
           "title": "特朗普发文猛烈抨击乔治·克鲁尼",
@@ -64,23 +108,6 @@
           "time_info": "[00时18分 ~ 09时06分]"
         },
         {
-          "title": "沃旭能源Orsted AS与Equinor ASA起诉美国总特朗普政府阻挠它们在美国多个海上风电项目建设的决定。",
-          "url": "https://wallstreetcn.com/livenews/3029951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            9,
-            11,
-            12,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时14分 ~ 15时15分]"
-        },
-        {
           "title": "Empire Offshore Wind LLC.起诉美国总统特朗普的内政部，指控后者阻挠其纽约周边海域风电场的行政命令非法、威胁到项目进展。",
           "url": "https://wallstreetcn.com/livenews/3029929",
           "source": "华尔街见闻-快讯",
@@ -98,29 +125,37 @@
           "time_info": "[05时12分 ~ 13时17分]"
         },
         {
-          "title": "特朗普又下黑手，强制“与中国有关联公司”剥离涉美芯片资产",
-          "url": "https://news.ifeng.com/c/8pbhuK7HgiN",
-          "source": "凤凰网",
+          "title": "特朗普下令空袭委内瑞拉",
+          "url": "https://www.toutiao.com/trending/7591020324596564014/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            8
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时17分 ~ 15时15分]"
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
         },
         {
-          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302492",
-          "source": "澎湃新闻",
+          "title": "特朗普下令打击委内瑞拉境内目标",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%89%93%E5%87%BB%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
-            12,
-            11
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时17分 ~ 15时15分]"
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
+        },
+        {
+          "title": "特朗普下令空袭委内瑞拉",
+          "url": "https://www.douyin.com/hot/2356137",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
         },
         {
           "title": "伊朗外交部强烈谴责美国总统特朗普和其他美国官员对伊朗内政的干涉主义言论。",
@@ -134,6 +169,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时12分 ~ 11时18分]"
+        },
+        {
+          "title": "特朗普下令空袭委内瑞拉",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
         },
         {
           "title": "特朗普与高市早苗通话，推进对方首次访美安排",
@@ -153,9 +199,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司：据两名美国官员透露，特朗普在实际行动发生前几天就批准了美军对委内瑞拉进行陆地打击。",
+          "url": "https://flash.jin10.com/detail/20260103160316191800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "与高市通话后特朗普转头就见驻华大使",
@@ -169,6 +226,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时28分 ~ 15时15分]"
+        },
+        {
+          "title": "美媒：美国官员证实特朗普已下令对委内瑞拉进行空袭",
+          "url": "https://wallstreetcn.com/livenews/3029985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "特朗普宣称本土劳工就业市场一片繁荣，数据却无从佐证",
@@ -222,6 +290,30 @@
           "time_info": "[01时14分 ~ 03时11分]"
         },
         {
+          "title": "骚乱持续蔓延，伊朗高官警告特朗普：干涉之手“必被砍掉”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302834",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 16时20分]"
+        },
+        {
+          "title": "特朗普解释手背瘀青：阿司匹林吃多了，剂量高于医生建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302530",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 16时20分]"
+        },
+        {
           "title": "特朗普又对中国在半导体领域下黑手",
           "url": "https://www.toutiao.com/trending/7590946966054391342/",
           "source": "今日头条",
@@ -269,26 +361,37 @@
           "time_info": "[02时22分 ~ 05时12分]"
         },
         {
-          "title": "骚乱持续蔓延，伊朗高官警告特朗普：干涉之手“必被砍掉”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302834",
-          "source": "澎湃新闻",
+          "title": "美媒称特朗普政府已获悉委内瑞拉首都发生爆炸",
+          "url": "https://wallstreetcn.com/livenews/3029983",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时15分"
+          "time_info": "16时20分"
         },
         {
-          "title": "特朗普解释手背瘀青：阿司匹林吃多了，剂量高于医生建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302530",
-          "source": "澎湃新闻",
+          "title": "美媒：美官员证实特朗普下令打击委内瑞拉境内目标",
+          "url": "https://flash.jin10.com/detail/20260103153558768800",
+          "source": "金十数据",
           "ranks": [
-            20
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时15分"
+          "time_info": "16时20分"
+        },
+        {
+          "title": "美媒称特朗普政府已获悉委内瑞拉首都发生爆炸",
+          "url": "https://flash.jin10.com/detail/20260103150823763800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "马杜罗称与特朗普只进行过一次通话",

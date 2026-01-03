@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T09:06:17.511589+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2026-01-03T11:18:14.772786+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 09时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 11时18分]"
         },
         {
           "title": "特朗普发文猛烈抨击乔治·克鲁尼",
@@ -55,11 +56,23 @@
           "source": "金十数据",
           "ranks": [
             1,
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时12分 ~ 09时06分]"
+          "appearance_count": 5,
+          "time_info": "[05时12分 ~ 11时18分]"
+        },
+        {
+          "title": "特朗普与高市早苗通话，推进对方首次访美安排",
+          "url": "https://news.ifeng.com/c/8pbf7hkGDkK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
         },
         {
           "title": "Empire Offshore Wind LLC.起诉美国总统特朗普的内政部，指控后者阻挠其纽约周边海域风电场的行政命令非法、威胁到项目进展。",
@@ -69,11 +82,12 @@
             2,
             12,
             19,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时12分 ~ 09时06分]"
+          "appearance_count": 5,
+          "time_info": "[05时12分 ~ 11时18分]"
         },
         {
           "title": "沃旭能源Orsted AS与Equinor ASA起诉美国总特朗普政府阻挠它们在美国多个海上风电项目建设的决定。",
@@ -81,11 +95,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 09时06分]"
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 11时18分]"
         },
         {
           "title": "特朗普宣称本土劳工就业市场一片繁荣，数据却无从佐证",
@@ -126,6 +141,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时14分 ~ 03时11分]"
+        },
+        {
+          "title": "特朗普又下黑手，强制“与中国有关联公司”剥离涉美芯片资产",
+          "url": "https://news.ifeng.com/c/8pbhuK7HgiN",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "特朗普承认没少吃药，否认开会睡觉",
+          "url": "https://news.ifeng.com/c/8pacnklL11I",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302492",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "特朗普又对中国在半导体领域下黑手",
+          "url": "https://www.toutiao.com/trending/7590946966054391342/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
         },
         {
           "title": "新加坡总理黄循财于1月2日与特朗普通了电话。（彭博）",
@@ -170,7 +229,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },

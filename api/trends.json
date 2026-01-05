@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T18:19:16.794162+08:00",
-  "total_titles_processed": 1435,
+  "generated_at": "2026-01-05T19:15:16.738917+08:00",
+  "total_titles_processed": 1544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 96,
+      "match_count": 100,
       "titles": [
         {
           "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
@@ -32,6 +32,21 @@
           "time_info": "[00时17分 ~ 09时16分]"
         },
         {
+          "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
+          "url": "https://wallstreetcn.com/articles/3762529",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时50分 ~ 19时15分]"
+        },
+        {
           "title": "特朗普为美企进军委内瑞拉“吹号”：准备好“为美国赚钱”",
           "url": "https://news.ifeng.com/c/8peBKHvPx8Z",
           "source": "凤凰网",
@@ -52,21 +67,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 02时21分]"
-        },
-        {
-          "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
-          "url": "https://wallstreetcn.com/articles/3762529",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时50分 ~ 18时19分]"
         },
         {
           "title": "特朗普威胁古巴哥伦比亚",
@@ -108,6 +108,30 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时17分 ~ 12时52分]"
+        },
+        {
+          "title": "“如果她不做正确的事，可能比马杜罗更惨”！特朗普警告委内瑞拉“代总统”：必须听美国的",
+          "url": "https://wallstreetcn.com/articles/3762521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时50分 ~ 19时15分]"
+        },
+        {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://news.ifeng.com/c/8pfVwlEUPag",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 19时15分]"
         },
         {
           "title": "特朗普威胁委内瑞拉代总统：若不配合美国 将付出更惨痛代价",
@@ -152,19 +176,6 @@
           "time_info": "[00时17分 ~ 07时15分]"
         },
         {
-          "title": "“如果她不做正确的事，可能比马杜罗更惨”！特朗普警告委内瑞拉“代总统”：必须听美国的",
-          "url": "https://wallstreetcn.com/articles/3762521",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时50分 ~ 18时19分]"
-        },
-        {
           "title": "特朗普威胁委代理总统，还称“绝对需要格陵兰岛”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32315820",
           "source": "澎湃新闻",
@@ -178,15 +189,19 @@
           "time_info": "[09时16分 ~ 17时26分]"
         },
         {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://news.ifeng.com/c/8pfVwlEUPag",
-          "source": "凤凰网",
+          "title": "“特马”重修旧好？美国突袭委内瑞拉后 特朗普和马斯克共进晚餐",
+          "url": "https://www.cls.cn/detail/2247636",
+          "source": "财联社热门",
           "ranks": [
-            1
+            12,
+            10,
+            8,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 18时19分]"
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 19时15分]"
         },
         {
           "title": "外交部回应特朗普谈格陵兰岛时涉华言论",
@@ -211,6 +226,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时13分 ~ 07时15分]"
+        },
+        {
+          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
+          "url": "https://www.zhihu.com/question/1991053595043390487",
+          "source": "知乎",
+          "ranks": [
+            17,
+            19,
+            14,
+            18,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时50分 ~ 19时15分]"
         },
         {
           "title": "格陵兰岛总理回应特朗普言论",
@@ -274,20 +304,6 @@
           "time_info": "[15时24分 ~ 16时24分]"
         },
         {
-          "title": "“特马”重修旧好？美国突袭委内瑞拉后 特朗普和马斯克共进晚餐",
-          "url": "https://www.cls.cn/detail/2247636",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 18时19分]"
-        },
-        {
           "title": "美国总统特朗普：不相信所谓的乌克兰袭击俄罗斯总统普京住所的事件真的发生过。",
           "url": "https://flash.jin10.com/detail/20260105091352495800",
           "source": "金十数据",
@@ -297,20 +313,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
-        },
-        {
-          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
-          "url": "https://www.zhihu.com/question/1991053595043390487",
-          "source": "知乎",
-          "ranks": [
-            17,
-            19,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时50分 ~ 18时19分]"
         },
         {
           "title": "特朗普改口称不相信乌袭击普京官邸",
@@ -326,6 +328,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时31分 ~ 18时19分]"
+        },
+        {
+          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
+          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "美国总统特朗普：与马杜罗还没有所谓的“终局”，我们将走完整个审判程序。",
@@ -370,6 +383,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "中方回应特朗普谈格陵兰岛涉华言论",
+          "url": "https://www.toutiao.com/trending/7591783882828431398/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时15分]"
         },
         {
           "title": "美国总统特朗普：马杜罗举起双手投降了。",
@@ -461,18 +486,6 @@
           "time_info": "[09时16分 ~ 14时31分]"
         },
         {
-          "title": "中方回应特朗普谈格陵兰岛涉华言论",
-          "url": "https://www.toutiao.com/trending/7591783882828431398/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时19分]"
-        },
-        {
           "title": "美国国务卿鲁比奥：特朗普在委内瑞拉行动上始终拥有多种选择",
           "url": "https://flash.jin10.com/detail/20260105042758533800",
           "source": "金十数据",
@@ -536,6 +549,18 @@
           "time_info": "[00时17分 ~ 03时12分]"
         },
         {
+          "title": "委内瑞拉代总统喊话特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时15分]"
+        },
+        {
           "title": "特朗普称美国“掌控着委内瑞拉”",
           "url": "https://www.toutiao.com/trending/7591367635717373988/",
           "source": "今日头条",
@@ -548,6 +573,17 @@
           "time_info": "[12时52分 ~ 14时31分]"
         },
         {
+          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
+          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时15分]"
+        },
+        {
           "title": "美前检察官警告称特朗普还有三年任期",
           "url": "https://www.toutiao.com/trending/7591039861809954852/",
           "source": "今日头条",
@@ -558,18 +594,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时24分 ~ 17时26分]"
-        },
-        {
-          "title": "委内瑞拉代总统喊话特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时19分]"
         },
         {
           "title": "特朗普接连向多国发出威胁",
@@ -737,15 +761,15 @@
           "time_info": "09时16分"
         },
         {
-          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
-          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
-          "source": "凤凰网",
+          "title": "特朗普多次威胁，尼尔森发文回击：够了！不要再幻想吞并了",
+          "url": "https://wallstreetcn.com/livenews/3030821",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时19分"
+          "time_info": "19时15分"
         },
         {
           "title": "美国总统特朗普：如果印度不在俄罗斯石油问题上提供帮助，我们可能会提高对印度的关税。",
@@ -831,7 +855,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -963,7 +987,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -977,6 +1001,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "匈牙利总理欧尔班：此前在华盛顿向特朗普政府请求的财政援助类型未能获得认可。",
+          "url": "https://flash.jin10.com/detail/20260105183718033800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "高志凯：特朗普诺奖妄想被彻底打碎",
@@ -1062,7 +1097,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1098,6 +1133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "哥伦比亚总统：特朗普请停止诽谤",
+          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B7%E5%81%9C%E6%AD%A2%E8%AF%BD%E8%B0%A4",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "美国总统特朗普：我们正在考虑在加拉加斯开设大使馆，有人要求我们这样做。",
@@ -1146,49 +1192,8 @@
       ]
     },
     {
-      "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "同江作废农民《土地证》引争议",
-          "url": "https://www.baidu.com/s?wd=%E5%90%8C%E6%B1%9F%E4%BD%9C%E5%BA%9F%E5%86%9C%E6%B0%91%E3%80%8A%E5%9C%9F%E5%9C%B0%E8%AF%81%E3%80%8B%E5%BC%95%E4%BA%89%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 09时16分]"
-        },
-        {
-          "title": "村民有权证 百万亩土地却“被国有”",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E6%9C%89%E6%9D%83%E8%AF%81+%E7%99%BE%E4%B8%87%E4%BA%A9%E5%9C%9F%E5%9C%B0%E5%8D%B4%E2%80%9C%E8%A2%AB%E5%9B%BD%E6%9C%89%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时24分]"
-        },
-        {
-          "title": "媒体：百万亩集体土地被变更亟待说法",
-          "url": "https://www.toutiao.com/trending/7591792197456891446/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "沪指重回4000点，创业板涨超2%，脑机接口掀涨停潮，恒指微跌0.1%，快手涨近10%，钯金、铂金大涨",
@@ -1203,6 +1208,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时31分 ~ 18时19分]"
+        },
+        {
+          "title": "2026开门红！沪指重回4000点，创33年最长连阳纪录，脑机接口掀起涨停潮，恒指震荡微涨，快手涨超11%",
+          "url": "https://wallstreetcn.com/articles/3762532",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "小红书内测长文付费功能，进军付费网文市场",
@@ -1227,6 +1243,48 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时24分 ~ 17时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "同江作废农民《土地证》引争议",
+          "url": "https://www.baidu.com/s?wd=%E5%90%8C%E6%B1%9F%E4%BD%9C%E5%BA%9F%E5%86%9C%E6%B0%91%E3%80%8A%E5%9C%9F%E5%9C%B0%E8%AF%81%E3%80%8B%E5%BC%95%E4%BA%89%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 09时16分]"
+        },
+        {
+          "title": "媒体：百万亩集体土地被变更亟待说法",
+          "url": "https://www.toutiao.com/trending/7591792197456891446/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时15分]"
+        },
+        {
+          "title": "村民有权证 百万亩土地却“被国有”",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E6%9C%89%E6%9D%83%E8%AF%81+%E7%99%BE%E4%B8%87%E4%BA%A9%E5%9C%9F%E5%9C%B0%E5%8D%B4%E2%80%9C%E8%A2%AB%E5%9B%BD%E6%9C%89%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时24分]"
         }
       ]
     }

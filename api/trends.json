@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T15:21:57.773974+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-01-06T16:22:43.822478+08:00",
+  "total_titles_processed": 1469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 09时10分]"
+        },
+        {
+          "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
+          "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时24分 ~ 16时22分]"
         },
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
@@ -32,15 +44,16 @@
           "time_info": "[00时21分 ~ 09时10分]"
         },
         {
-          "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
-          "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
-          "source": "凤凰网",
+          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
+          "url": "https://www.zhihu.com/question/1991570437310740440",
+          "source": "知乎",
           "ranks": [
-            4
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时24分 ~ 15时21分]"
+          "appearance_count": 10,
+          "time_info": "[09时09分 ~ 16时22分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -53,8 +66,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 15时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 16时22分]"
         },
         {
           "title": "特朗普接连向多国发出威胁",
@@ -96,18 +109,6 @@
           "time_info": "[11时24分 ~ 15时21分]"
         },
         {
-          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
-          "url": "https://www.zhihu.com/question/1991570437310740440",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时09分 ~ 15时21分]"
-        },
-        {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
           "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
           "source": "凤凰网",
@@ -147,6 +148,20 @@
           "time_info": "[00时21分 ~ 07时15分]"
         },
         {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
+          "ranks": [
+            14,
+            21,
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时24分 ~ 16时22分]"
+        },
+        {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
           "url": "https://m.thepaper.cn/newsDetail_forward_32318660",
           "source": "澎湃新闻",
@@ -165,20 +180,6 @@
           "source": "凤凰网",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时24分 ~ 15时21分]"
-        },
-        {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://www.douyin.com/hot/2358268",
-          "source": "抖音",
-          "ranks": [
-            14,
-            21,
-            29,
-            20
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -217,6 +218,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "特朗普：美国将深度介入委内瑞拉",
+          "url": "https://www.cls.cn/detail/2248692",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时34分 ~ 16时22分]"
+        },
+        {
+          "title": "丹麦首相警告特朗普涉格陵兰岛言论",
+          "url": "https://www.toutiao.com/trending/7592114928259285042/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "据NBC：美国总统特朗普表示，美国可能会资助石油公司重建该国能源基础设施。",
@@ -307,17 +332,16 @@
           "time_info": "14时25分"
         },
         {
-          "title": "特朗普：美国将深度介入委内瑞拉",
-          "url": "https://www.cls.cn/detail/2248692",
-          "source": "财联社热门",
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            12,
-            11
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时34分 ~ 15时21分]"
+          "time_info": "[13时20分 ~ 16时22分]"
         },
         {
           "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
@@ -381,17 +405,6 @@
           "time_info": "[05时15分 ~ 06时15分]"
         },
         {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 15时21分]"
-        },
-        {
           "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
           "url": "https://www.cls.cn/detail/2248057",
           "source": "财联社热门",
@@ -424,6 +437,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时24分 ~ 12时34分]"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            29,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 16时22分]"
         },
         {
           "title": "墨总统回应特朗普：合作可以干预不行",
@@ -505,17 +530,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时24分 ~ 11时25分]"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
         },
         {
           "title": "ICC原检察官：特朗普犯了“侵略罪”",
@@ -718,11 +732,12 @@
             4,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 15时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 16时22分]"
         },
         {
           "title": "南向资金追踪｜单日净买入超187亿港元创近阶段新高 减持腾讯加仓快手和小米",

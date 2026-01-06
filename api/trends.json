@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T05:16:13.278309+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2026-01-07T06:16:08.522878+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普不到1年对7国动武",
@@ -15,30 +15,46 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
           "url": "https://wallstreetcn.com/articles/3762615",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "特朗普支持格陵兰岛独立",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时17分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[04时17分 ~ 06时16分]"
+        },
+        {
+          "title": "曝特朗普对委动手前曾暗示油企高管",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            16,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -56,17 +72,15 @@
           "time_info": "[00时20分 ~ 05时16分]"
         },
         {
-          "title": "曝特朗普对委动手前曾暗示油企高管",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
-          "source": "百度热搜",
+          "title": "美媒：鲁比奥透露特朗普意欲购买格陵兰岛 淡化军事行动考量",
+          "url": "https://flash.jin10.com/detail/20260107060405066800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            16,
-            27
+            2
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
           "title": "特朗普：将与国防承包商对话。",
@@ -78,6 +92,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "据华尔街日报：美国国务卿鲁比奥向议员们透露，特朗普有意购买格陵兰岛，并淡化了军事行动的可能性。鲁比奥称，白宫正利用言辞向丹麦施压，促使其展开谈判。",
+          "url": "https://flash.jin10.com/detail/20260107055329321800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
           "title": "美国总统特朗普重申对国防承包商的批评。",
@@ -97,18 +122,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "白宫：特朗普谋划获取格陵兰岛的方案 美军开路是可行选项",
-          "url": "https://flash.jin10.com/detail/20260107045536947800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -163,6 +177,18 @@
           "time_info": "[04时17分 ~ 05时16分]"
         },
         {
+          "title": "白宫：特朗普谋划获取格陵兰岛的方案 美军开路是可行选项",
+          "url": "https://flash.jin10.com/detail/20260107045536947800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时16分]"
+        },
+        {
           "title": "美国参议院Rick Scott：已经与委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）对话。 Machado感谢总统特朗普对委总统马杜罗采取的行动。",
           "url": "https://wallstreetcn.com/livenews/3031862",
           "source": "华尔街见闻-快讯",
@@ -173,6 +199,54 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 05时16分]"
+        },
+        {
+          "title": "美国高级官员表示，美国总统特朗普希望在其现任期内获取格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260107043813100800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时16分]"
+        },
+        {
+          "title": "美国高级官员表示，美国总统特朗普及其顾问正在讨论各种选项，包括从丹麦手中购买该领土，或与该岛建立自由联合协定。",
+          "url": "https://flash.jin10.com/detail/20260107043749113800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时16分]"
+        },
+        {
+          "title": "据白宫声明，美国总统特朗普已明确表示，获取格陵兰岛是“国家安全优先事项”。",
+          "url": "https://flash.jin10.com/detail/20260107043656571800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时16分]"
+        },
+        {
+          "title": "美国高级官员表示，美国获取格陵兰岛的问题“不会消失”，尽管北约领导人提出反对，美国总统特朗普仍迫切希望达成协议。",
+          "url": "https://flash.jin10.com/detail/20260107043636513800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时16分]"
         },
         {
           "title": "特朗普警告：若共和党在美国中期选举中失利，他将被弹劾",
@@ -198,6 +272,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "美国国务卿卢比奥告知议员们：总统特朗普希望能收购格陵兰岛。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3031911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
           "title": "巴西副总统：巴西总统卢拉与美国总统特朗普关系良好。",
           "url": "https://flash.jin10.com/detail/20260107025800176800",
           "source": "金十数据",
@@ -209,39 +294,6 @@
           "time_info": "03时12分"
         },
         {
-          "title": "美国高级官员表示，美国总统特朗普希望在其现任期内获取格陵兰岛。",
-          "url": "https://flash.jin10.com/detail/20260107043813100800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美国高级官员表示，美国总统特朗普及其顾问正在讨论各种选项，包括从丹麦手中购买该领土，或与该岛建立自由联合协定。",
-          "url": "https://flash.jin10.com/detail/20260107043749113800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "据白宫声明，美国总统特朗普已明确表示，获取格陵兰岛是“国家安全优先事项”。",
-          "url": "https://flash.jin10.com/detail/20260107043656571800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
           "title": "美国总统特朗普：除了纽约那边，所有人都支持我们在委内瑞拉的行动。",
           "url": "https://flash.jin10.com/detail/20260106234406802800",
           "source": "金十数据",
@@ -251,17 +303,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "美国高级官员表示，美国获取格陵兰岛的问题“不会消失”，尽管北约领导人提出反对，美国总统特朗普仍迫切希望达成协议。",
-          "url": "https://flash.jin10.com/detail/20260107043636513800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
         },
         {
           "title": "美国总统特朗普：希望最高法院（围绕关税官司）做出对国家有利的决定。",
@@ -281,7 +322,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -394,6 +435,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "特朗普政府正在讨论获取格陵兰岛的方案，包括军事选项",
+          "url": "https://wallstreetcn.com/livenews/3031894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
           "title": "美国总统特朗普：希望最高法院做出有利于我国的裁决。",
@@ -565,8 +617,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时16分]"
         }
       ]
     }

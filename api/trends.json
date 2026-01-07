@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T18:18:24.273152+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2026-01-07T19:15:44.152659+08:00",
+  "total_titles_processed": 1803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 90,
+      "match_count": 91,
       "titles": [
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时11分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时11分 ~ 19时15分]"
         },
         {
           "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
@@ -90,8 +90,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时24分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[11时24分 ~ 19时15分]"
         },
         {
           "title": "特朗普不到1年对7国动武",
@@ -189,26 +189,16 @@
           "time_info": "[09时11分 ~ 14时24分]"
         },
         {
-          "title": "特朗普政府正讨论获取格陵兰岛方案",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%AE%A8%E8%AE%BA%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
-        },
-        {
           "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
           "url": "https://www.cls.cn/detail/2250493",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时15分]"
         },
         {
           "title": "“除掉马杜罗”，特朗普早就下了决心",
@@ -218,8 +208,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时15分]"
+        },
+        {
+          "title": "特朗普政府正讨论获取格陵兰岛方案",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%AE%A8%E8%AE%BA%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时18分]"
+          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
           "title": "哈马斯于加沙废墟中重塑统治 对特朗普和平计划构成挑战",
@@ -374,6 +375,19 @@
           "time_info": "[05时16分 ~ 06时16分]"
         },
         {
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时15分]"
+        },
+        {
           "title": "美国高院更新日程表 最早于9日宣布特朗普关税案裁决",
           "url": "https://www.cls.cn/detail/2249866",
           "source": "财联社热门",
@@ -415,18 +429,6 @@
           "ranks": [
             7,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时18分]"
-        },
-        {
-          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
-          "url": "https://wallstreetcn.com/articles/3762696",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -479,6 +481,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时16分]"
+        },
+        {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时15分]"
         },
         {
           "title": "特朗普警告：若共和党在美国中期选举中失利，他将被弹劾",
@@ -637,17 +651,6 @@
           "time_info": "05时16分"
         },
         {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
           "title": "美国总统特朗普：将加快武器生产速度。 F-35战斗机和阿帕奇直升机的生产时间太长。",
           "url": "https://wallstreetcn.com/livenews/3031774",
           "source": "华尔街见闻-快讯",
@@ -731,7 +734,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -888,6 +891,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-07）",
+          "url": "https://flash.jin10.com/detail/20260107180801342800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "美国总统特朗普：F-35和阿帕奇直升机制造时间太长。",
@@ -1065,8 +1079,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时20分 ~ 18时18分]"
+          "appearance_count": 24,
+          "time_info": "[00时20分 ~ 19时15分]"
         },
         {
           "title": "抖音第二总部落子深圳南山，将同步建设字节跳动AI lab研究中心",

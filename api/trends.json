@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T20:32:50.672173+08:00",
-  "total_titles_processed": 1920,
+  "generated_at": "2026-01-07T21:36:08.810239+08:00",
+  "total_titles_processed": 2023,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时11分 ~ 20时32分]"
+          "appearance_count": 16,
+          "time_info": "[09时11分 ~ 21时36分]"
         },
         {
           "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
@@ -70,6 +71,19 @@
           "time_info": "[09时11分 ~ 14时24分]"
         },
         {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时23分 ~ 21时36分]"
+        },
+        {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
           "url": "https://wallstreetcn.com/articles/3762615",
           "source": "华尔街见闻",
@@ -90,8 +104,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时24分 ~ 20时32分]"
+          "appearance_count": 15,
+          "time_info": "[11时24分 ~ 21时36分]"
         },
         {
           "title": "特朗普不到1年对7国动武",
@@ -176,18 +190,6 @@
           "time_info": "[14时24分 ~ 17时23分]"
         },
         {
-          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
-          "url": "https://www.cls.cn/detail/2250493",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 20时32分]"
-        },
-        {
           "title": "“除掉马杜罗”，特朗普早就下了决心",
           "url": "https://news.ifeng.com/c/8pitP5OMhKi",
           "source": "凤凰网",
@@ -213,6 +215,18 @@
           "time_info": "[09时11分 ~ 14时24分]"
         },
         {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 21时36分]"
+        },
+        {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%AE%A8%E8%AE%BA%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88",
           "source": "bilibili 热搜",
@@ -222,6 +236,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时23分 ~ 21时36分]"
         },
         {
           "title": "哈马斯于加沙废墟中重塑统治 对特朗普和平计划构成挑战",
@@ -290,15 +317,17 @@
           "time_info": "05时16分"
         },
         {
-          "title": "特朗普的下一步，难了",
-          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
-          "source": "凤凰网",
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            15,
+            17,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时18分 ~ 21时36分]"
         },
         {
           "title": "哥伦比亚就特朗普言论向美国发出外交照会",
@@ -375,19 +404,6 @@
           "time_info": "[04时17分 ~ 05时16分]"
         },
         {
-          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
-          "url": "https://wallstreetcn.com/articles/3762696",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 20时32分]"
-        },
-        {
           "title": "白宫：特朗普谋划获取格陵兰岛的方案 美军开路是可行选项",
           "url": "https://flash.jin10.com/detail/20260107045536947800",
           "source": "金十数据",
@@ -411,17 +427,16 @@
           "time_info": "[09时11分 ~ 11时25分]"
         },
         {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            17,
-            14
+            18,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时18分 ~ 20时32分]"
+          "time_info": "[20时32分 ~ 21时36分]"
         },
         {
           "title": "美国国务卿卢比奥告知议员们：总统特朗普希望能收购格陵兰岛。（华尔街日报）",
@@ -730,17 +745,6 @@
           "time_info": "07时15分"
         },
         {
-          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
           "title": "美国特使威特科夫：特朗普坚决支持安全协议，这些协议将用于抵御任何针对乌克兰的攻击，并保护乌克兰。",
           "url": "https://flash.jin10.com/detail/20260107032038128800",
           "source": "金十数据",
@@ -934,7 +938,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1111,11 +1115,12 @@
             16,
             15,
             22,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时20分 ~ 20时32分]"
+          "appearance_count": 27,
+          "time_info": "[00时20分 ~ 21时36分]"
         },
         {
           "title": "抖音第二总部落子深圳南山，将同步建设字节跳动AI lab研究中心",

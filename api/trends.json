@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T09:11:05.400048+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2026-01-08T11:25:26.453389+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 72,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 09时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 11时25分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 09时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 11时25分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -53,6 +54,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 07时15分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
+          "url": "https://www.cls.cn/detail/2251170",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时15分 ~ 11时25分]"
         },
         {
           "title": "美国总统特朗普：Raytheon必须停止回购股票。",
@@ -83,21 +97,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
         {
-          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
-          "url": "https://www.cls.cn/detail/2251170",
-          "source": "财联社热门",
+          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
+          "url": "https://www.zhihu.com/question/1992497349604438807",
+          "source": "知乎",
           "ranks": [
-            12,
-            5
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时15分 ~ 09时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "特朗普发表涉住房言论 住宅租赁股遭重创 地产股上涨",
@@ -412,6 +425,17 @@
           "time_info": "[09时10分 ~ 09时11分]"
         },
         {
+          "title": "美国扣押两艘油轮升级对委石油禁运，无视俄海军护航；美媒曝特朗普筹划控制委国有石油公司，欲将油价压至更低的每桶50美元，以实现降低美国能源价格的承诺……美油多日呈现卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260108103607005800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
           "title": "特朗普：委内瑞拉石油收入将只买美国制造的产品",
           "url": "https://flash.jin10.com/detail/20260108062001008800",
           "source": "金十数据",
@@ -478,6 +502,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
+          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
           "title": "美国总统特朗普：他们将用从我们新的石油协议中获得的资金来支付。",
           "url": "https://flash.jin10.com/detail/20260108060622273800",
           "source": "金十数据",
@@ -506,7 +541,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -520,6 +555,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "美国总统特朗普：我们2027年的军费预算不应该是1万亿美元，而应该是1.5万亿美元。",
@@ -542,6 +588,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "美媒：特朗普筹划控制委国有石油公司 目标是将油价压低至50美元/桶",
+          "url": "https://flash.jin10.com/detail/20260108101132148800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "美国总统特朗普：我们2027年的军费预算不应该是1万亿美元，而应该是1.5万亿美元。",
@@ -621,6 +678,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "据华尔街日报：美国总统特朗普团队拟定控制委内瑞拉石油的计划，消息人士称特朗普希望将油价降至每桶50美元，并将对委内瑞拉石油公司PDVSA实施部分控制。",
+          "url": "https://flash.jin10.com/detail/20260108100300956800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
           "title": "雷神科技(RTX.N)美股盘后一度跌超3%，特朗普抨击该公司乐于分红。",
           "url": "https://flash.jin10.com/detail/20260108050553680800",
           "source": "金十数据",
@@ -638,7 +706,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -660,7 +728,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -671,7 +739,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -693,9 +761,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "特朗普希望将油价降至每桶50美元。 特朗普政府计划将对委内瑞拉国家石油公司施加一定控制。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3032854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普总统采取了历史性的行动，以确保药品价格最低。",
@@ -715,7 +794,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -765,9 +844,26 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒指、恒生科技指数跌幅扩大至1%。华虹半导体逆市涨超5%，中芯国际涨超2%；联想集团、快手跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3032842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         }
       ]
     }

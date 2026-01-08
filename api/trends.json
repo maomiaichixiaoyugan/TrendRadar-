@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T20:32:24.431543+08:00",
-  "total_titles_processed": 1874,
+  "generated_at": "2026-01-08T21:37:37.483897+08:00",
+  "total_titles_processed": 1981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 95,
+      "match_count": 98,
       "titles": [
         {
           "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时34分 ~ 20时32分]"
+          "appearance_count": 12,
+          "time_info": "[12时34分 ~ 21时37分]"
         },
         {
           "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
@@ -79,11 +79,12 @@
             14,
             15,
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时25分 ~ 20时32分]"
+          "appearance_count": 13,
+          "time_info": "[11时25分 ~ 21时37分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -165,6 +166,17 @@
           "time_info": "[13时20分 ~ 16时22分]"
         },
         {
+          "title": "美国最高法院即将裁决特朗普关税案 或引发进口商“讨钱大战”",
+          "url": "https://flash.jin10.com/detail/20260108211933533800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "美国总统特朗普：Raytheon必须停止回购股票。",
           "url": "https://wallstreetcn.com/livenews/3032696",
           "source": "华尔街见闻-快讯",
@@ -217,8 +229,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 20时32分]"
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 21时37分]"
         },
         {
           "title": "特朗普发表涉住房言论 住宅租赁股遭重创 地产股上涨",
@@ -387,6 +399,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时34分 ~ 12时35分]"
+        },
+        {
+          "title": "特朗普“炮轰”美国军火商",
+          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时37分]"
         },
         {
           "title": "白宫：特朗普政府正在“积极”讨论购买格陵兰岛的可能性",
@@ -670,15 +693,26 @@
           "time_info": "14时25分"
         },
         {
-          "title": "特朗普“炮轰”美国军火商",
-          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
-          "source": "凤凰网",
+          "title": "特朗普要加军费，全球军工股大涨，纳指期货盘前跌0.5%，美债强势，金银继续回调，白银失守75美元",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "21时37分"
+        },
+        {
+          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2252232",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美国总统特朗普：采购的设备将改善委内瑞拉的电网和能源设施。",
@@ -1113,8 +1147,19 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "抖音商城年货节将于1月16日正式开启。",
+          "url": "https://wallstreetcn.com/livenews/3033336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
         {
           "title": "快手发布关于“AI魔改”视频专项治理公告",
           "url": "https://wallstreetcn.com/livenews/3033302",
@@ -1122,7 +1167,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },

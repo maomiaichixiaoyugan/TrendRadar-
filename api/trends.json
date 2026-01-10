@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-11T00:18:07.054318+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-11T01:13:29.678639+08:00",
+  "total_titles_processed": 341,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 13,
       "titles": [
+        {
+          "title": "特朗普放话：我可不要中俄当邻居",
+          "url": "https://news.ifeng.com/c/8pnjeKLWxbZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时13分]"
+        },
         {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
           "url": "https://wallstreetcn.com/articles/3762987",
@@ -19,48 +30,39 @@
           "time_info": "[00时17分 ~ 00时18分]"
         },
         {
-          "title": "特朗普放话：我可不要中俄当邻居",
-          "url": "https://news.ifeng.com/c/8pnjeKLWxbZ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
-        },
-        {
           "title": "特朗普暗示：突袭式军事行动，或成美未来海外用兵主要模式",
           "url": "https://wallstreetcn.com/livenews/3034570",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
         },
         {
           "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
           "url": "https://wallstreetcn.com/articles/3762989",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "信号比规模重要--高盛解读“特朗普版QE”",
           "url": "https://wallstreetcn.com/articles/3763012",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
@@ -70,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "从“房贷QE”到“信用卡限价”：当特朗普开始亲自定价利率",
@@ -81,8 +83,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
@@ -92,30 +94,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "特朗普执政不到一年打 7 国，第二任期以来已下令实施超 620 次空袭，下一个是谁？谁能给他踩下刹车？",
           "url": "https://www.zhihu.com/question/1991889804833599714",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "俄罗斯回应特朗普释放俄船员",
           "url": "https://www.douyin.com/hot/2362921",
           "source": "抖音",
           "ranks": [
-            29
+            29,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "意大利总理说很多问题上不同意特朗普做法",
@@ -124,9 +128,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
         },
         {
           "title": "G7峰会据悉系为特朗普而改期",
@@ -135,9 +139,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
         },
         {
           "title": "特朗普：很快打击墨境内",
@@ -146,9 +150,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
         }
       ]
     },
@@ -164,8 +168,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时13分]"
         }
       ]
     }

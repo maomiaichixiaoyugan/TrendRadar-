@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T14:25:31.571357+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-01-13T15:21:25.109382+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时12分 ~ 14时25分]"
+          "appearance_count": 9,
+          "time_info": "[07时12分 ~ 15时21分]"
+        },
+        {
+          "title": "伊朗局势突然反转，特朗普又心生一计",
+          "url": "https://news.ifeng.com/c/8psBaLzCORr",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 15时21分]"
         },
         {
           "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
@@ -64,19 +75,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 14时25分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 15时21分]"
         },
         {
-          "title": "伊朗局势突然反转，特朗普又心生一计",
-          "url": "https://news.ifeng.com/c/8psBaLzCORr",
+          "title": "特朗普：最高法若作出对美不利裁决，我们就完蛋了",
+          "url": "https://news.ifeng.com/c/8prryx4FgQx",
           "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时07分 ~ 14时25分]"
+          "time_info": "[11时23分 ~ 15时21分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -91,17 +102,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时21分 ~ 13时21分]"
-        },
-        {
-          "title": "特朗普：最高法若作出对美不利裁决，我们就完蛋了",
-          "url": "https://news.ifeng.com/c/8prryx4FgQx",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 14时25分]"
         },
         {
           "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
@@ -134,11 +134,64 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367387",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 15时21分]"
+        },
+        {
+          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
+          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
+          "source": "凤凰网",
+          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时07分 ~ 14时25分]"
+          "time_info": "[11时23分 ~ 15时21分]"
+        },
+        {
+          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
+          "url": "https://wallstreetcn.com/articles/3763132",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 15时21分]"
+        },
+        {
+          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
+          "url": "https://wallstreetcn.com/articles/3763119",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 15时21分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。",
@@ -163,66 +216,17 @@
           "time_info": "05时15分"
         },
         {
-          "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32367387",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 14时25分]"
-        },
-        {
-          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
-          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 14时25分]"
-        },
-        {
-          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
-          "url": "https://wallstreetcn.com/articles/3763132",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 14时25分]"
-        },
-        {
-          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
-          "url": "https://wallstreetcn.com/articles/3763119",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 14时25分]"
-        },
-        {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
           "url": "https://www.cls.cn/detail/2255560",
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 14时25分]"
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 15时21分]"
         },
         {
           "title": "诺和诺德(NVO.N)CEO：与特朗普政府的沟通非常顺畅。",
@@ -305,8 +309,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 15时21分]"
         },
         {
           "title": "美媒：白宫权衡伊朗核提议 建议特朗普“先礼后兵”",
@@ -716,7 +720,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -936,8 +940,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 14时25分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 15时21分]"
         },
         {
           "title": "轧戏抖音追剧团",
@@ -952,8 +956,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 14时25分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 15时21分]"
         },
         {
           "title": "全抖音帮你春节不被骗",
@@ -968,8 +972,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 14时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 15时21分]"
         }
       ]
     },

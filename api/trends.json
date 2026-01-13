@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T18:18:20.154993+08:00",
-  "total_titles_processed": 1600,
+  "generated_at": "2026-01-13T19:15:55.876943+08:00",
+  "total_titles_processed": 1703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 87,
+      "match_count": 89,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -93,8 +93,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时23分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[11时23分 ~ 19时15分]"
         },
         {
           "title": "特朗普：最高法若作出对美不利裁决，我们就完蛋了",
@@ -119,8 +119,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时07分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[09时07分 ~ 19时15分]"
         },
         {
           "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
@@ -128,11 +128,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时23分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[11时23分 ~ 19时15分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -159,8 +160,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时23分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[11时23分 ~ 19时15分]"
         },
         {
           "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
@@ -173,6 +174,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时21分 ~ 09时07分]"
+        },
+        {
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时35分 ~ 19时15分]"
         },
         {
           "title": "民调称美民众不爱听特朗普对华叫嚷",
@@ -188,18 +203,16 @@
           "time_info": "[01时18分 ~ 06时15分]"
         },
         {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
-          "source": "澎湃新闻",
+          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            15,
-            13,
-            12
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时35分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时15分]"
         },
         {
           "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
@@ -214,17 +227,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时07分 ~ 16时22分]"
-        },
-        {
-          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
-          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 18时18分]"
         },
         {
           "title": "美国两州把特朗普政府告了",
@@ -271,6 +273,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时23分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
+          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "诺和诺德(NVO.N)CEO：与特朗普政府的沟通非常顺畅。",
@@ -644,7 +657,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -831,7 +844,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -990,6 +1003,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "美油企对“投资委内瑞拉”犹疑 特朗普威胁施以“禁入令”",
+          "url": "https://wallstreetcn.com/livenews/3036032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "特朗普对女秘书开尴尬玩笑",
           "url": "https://www.toutiao.com/trending/7594013018623639578/",
           "source": "今日头条",
@@ -1026,7 +1050,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "2025抖音年度爆款剧综公布",
@@ -1056,11 +1080,12 @@
             23,
             20,
             12,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时21分 ~ 17时23分]"
+          "appearance_count": 23,
+          "time_info": "[00时21分 ~ 19时15分]"
         },
         {
           "title": "全抖音帮你春节不被骗",
@@ -1086,11 +1111,23 @@
           "source": "抖音",
           "ranks": [
             8,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时15分]"
+        },
+        {
+          "title": "跟着抖音学画画",
+          "url": "https://www.douyin.com/hot/2366224",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     },

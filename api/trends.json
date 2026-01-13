@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T20:33:04.628995+08:00",
-  "total_titles_processed": 1821,
+  "generated_at": "2026-01-13T21:37:49.324993+08:00",
+  "total_titles_processed": 1938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 91,
+      "match_count": 92,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -93,8 +93,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时23分 ~ 20时33分]"
+          "appearance_count": 14,
+          "time_info": "[11时23分 ~ 21时37分]"
         },
         {
           "title": "特朗普：最高法若作出对美不利裁决，我们就完蛋了",
@@ -109,6 +109,18 @@
           "time_info": "[11时23分 ~ 16时22分]"
         },
         {
+          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时22分 ~ 21时37分]"
+        },
+        {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
           "url": "https://wallstreetcn.com/articles/3763124",
           "source": "华尔街见闻",
@@ -119,20 +131,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时07分 ~ 20时33分]"
-        },
-        {
-          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
-          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时22分 ~ 20时33分]"
+          "appearance_count": 15,
+          "time_info": "[09时07分 ~ 21时37分]"
         },
         {
           "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
@@ -144,8 +144,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时23分 ~ 20时33分]"
+          "appearance_count": 14,
+          "time_info": "[11时23分 ~ 21时37分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -172,8 +172,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时23分 ~ 20时33分]"
+          "appearance_count": 14,
+          "time_info": "[11时23分 ~ 21时37分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -216,6 +216,17 @@
           "time_info": "[01时18分 ~ 06时15分]"
         },
         {
+          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
+          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时37分]"
+        },
+        {
           "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
           "url": "https://m.thepaper.cn/newsDetail_forward_32367387",
           "source": "澎湃新闻",
@@ -228,17 +239,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时07分 ~ 16时22分]"
-        },
-        {
-          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
-          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 20时33分]"
         },
         {
           "title": "美国两州把特朗普政府告了",
@@ -680,7 +680,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -903,6 +903,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "特朗普政府终止了数千名在美索马里人的临时保护身份。",
+          "url": "https://flash.jin10.com/detail/20260113210215549800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "诺和诺德(NVO.N)CEO：特朗普政府的“直言不讳”方式有利于达成协议。",
@@ -1137,11 +1148,12 @@
             8,
             11,
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时22分 ~ 20时33分]"
+          "appearance_count": 7,
+          "time_info": "[17时22分 ~ 21时37分]"
         },
         {
           "title": "跟着抖音学画画",

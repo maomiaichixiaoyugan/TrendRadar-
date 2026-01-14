@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T21:37:04.357967+08:00",
-  "total_titles_processed": 2013,
+  "generated_at": "2026-01-14T22:21:03.379166+08:00",
+  "total_titles_processed": 2118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 123,
+      "match_count": 124,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时23分 ~ 07时15分]"
+        },
+        {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时23分 ~ 22时21分]"
         },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -40,18 +52,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时23分 ~ 07时15分]"
-        },
-        {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时23分 ~ 21时37分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -91,6 +91,22 @@
           "time_info": "[09时13分 ~ 14时25分]"
         },
         {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时23分 ~ 22时21分]"
+        },
+        {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
           "url": "https://wallstreetcn.com/articles/3763222",
           "source": "华尔街见闻",
@@ -128,21 +144,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时41分 ~ 17时23分]"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时23分 ~ 21时37分]"
         },
         {
           "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
@@ -213,6 +214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
+        },
+        {
+          "title": "花旗：期待与美国总统特朗普在可负担性方面展开合作。",
+          "url": "https://flash.jin10.com/detail/20260114215311366800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "据AXIOS网站：特朗普今晚从底特律返回后，参加了由副总统万斯主持、国家安全核心团队出席的伊朗问题会议。知情人士透露，特朗普听取了有关伊朗局势的简报。",
@@ -682,7 +694,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -946,7 +958,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1331,7 +1343,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1431,11 +1443,12 @@
             19,
             20,
             26,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 17时23分]"
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 22时21分]"
         },
         {
           "title": "抖音首播KPL",
@@ -1445,11 +1458,12 @@
             17,
             19,
             16,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时21分 ~ 20时32分]"
+          "appearance_count": 9,
+          "time_info": "[15时21分 ~ 22时21分]"
         },
         {
           "title": "花旗：快手旗下可灵AI的12月收入高于预期 预示公司今年营收前景稳健",

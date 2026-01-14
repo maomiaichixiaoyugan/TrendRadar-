@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T19:16:45.034938+08:00",
-  "total_titles_processed": 1782,
+  "generated_at": "2026-01-14T20:32:08.280353+08:00",
+  "total_titles_processed": 1893,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 113,
+      "match_count": 120,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -54,6 +54,18 @@
           "time_info": "[00时23分 ~ 06时16分]"
         },
         {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时23分 ~ 20时32分]"
+        },
+        {
           "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
           "url": "https://wallstreetcn.com/articles/3763119",
           "source": "华尔街见闻",
@@ -87,8 +99,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时42分 ~ 19时16分]"
+          "appearance_count": 15,
+          "time_info": "[11时42分 ~ 20时32分]"
         },
         {
           "title": "特朗普建议盟友“撤离”伊朗",
@@ -118,17 +130,6 @@
           "time_info": "[12时41分 ~ 17时23分]"
         },
         {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 19时16分]"
-        },
-        {
           "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
           "url": "https://www.cls.cn/detail/2256871",
           "source": "财联社热门",
@@ -151,6 +152,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时23分 ~ 20时32分]"
         },
         {
           "title": "中方回应“特朗普称不需要国际法”",
@@ -186,6 +201,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "特朗普喊话最高法院：在重大裁决前请先看我们史无前例的经济上成功",
+          "url": "https://flash.jin10.com/detail/20260114201722365800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "据AXIOS网站：特朗普今晚从底特律返回后，参加了由副总统万斯主持、国家安全核心团队出席的伊朗问题会议。知情人士透露，特朗普听取了有关伊朗局势的简报。",
@@ -388,19 +414,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时17分]"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 19时16分]"
         },
         {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
@@ -827,6 +840,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "英媒：特朗普政府已获50个伊朗高价值军事目标清单",
+          "url": "https://flash.jin10.com/detail/20260114200542021800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "据AXIOS：特朗普政府国家安全委员会负责人今天就伊朗问题举行了讨论。特朗普没有参加。",
           "url": "https://flash.jin10.com/detail/20260114015201758800",
           "source": "金十数据",
@@ -882,6 +906,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "美国总统特朗普：国内生产总值（GDP）预计将增长超过5%。",
+          "url": "https://flash.jin10.com/detail/20260114200207252800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "Warren敦促特朗普的财政部限制对冲基金等对储备金的利用",
           "url": "https://wallstreetcn.com/livenews/3036329",
           "source": "华尔街见闻-快讯",
@@ -915,6 +950,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "美国总统特朗普：今天公布的数据显示，美国贸易逆差降至2009年以来的最低水平，并且还在持续下降。",
+          "url": "https://flash.jin10.com/detail/20260114200129386800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "美国总统特朗普：我听说氢燃料汽车的测试结果不太理想。",
           "url": "https://flash.jin10.com/detail/20260114033614703800",
           "source": "金十数据",
@@ -946,6 +992,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "在特朗普考虑是否对伊朗发动袭击之际，特朗普政府已收到一份详细的伊朗军事目标清单，其中包括50个目标。",
+          "url": "https://flash.jin10.com/detail/20260114195925033800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "特朗普称已取消所有与伊朗官员的会谈",
@@ -1003,6 +1060,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "美国总统特朗普：自2月1日起，联邦政府将不再向各州支付用于其腐败的犯罪保护中心（即所谓的“庇护城市”）的款项。",
+          "url": "https://flash.jin10.com/detail/20260114195407071800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "美国众议院议长约翰逊：已经与总统特朗普讨论10%的信用卡利率上限方案。 在这个问题上（的立法）需要大量沟通。 必须在信用卡利率上限方案方面非常深思熟虑。",
           "url": "https://wallstreetcn.com/livenews/3036287",
           "source": "华尔街见闻-快讯",
@@ -1012,6 +1080,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "美国总统特朗普：美国出于国家安全需要格陵兰岛。 格陵兰岛对“金穹”导弹防御系统至关重要。 北约应当牵头以便美国取得格陵兰。 如果格陵兰在美国手中，北约将强大得多。",
+          "url": "https://wallstreetcn.com/livenews/3037002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "美国总统特朗普：希望看到油价出现在53美元/桶。",
@@ -1284,7 +1363,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1325,6 +1404,20 @@
           "time_info": "[00时23分 ~ 17时23分]"
         },
         {
+          "title": "抖音首播KPL",
+          "url": "https://www.douyin.com/hot/2367317",
+          "source": "抖音",
+          "ranks": [
+            17,
+            19,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时21分 ~ 20时32分]"
+        },
+        {
           "title": "花旗：快手旗下可灵AI的12月收入高于预期 预示公司今年营收前景稳健",
           "url": "https://wallstreetcn.com/livenews/3036521",
           "source": "华尔街见闻-快讯",
@@ -1334,19 +1427,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
-        },
-        {
-          "title": "抖音首播KPL",
-          "url": "https://www.douyin.com/hot/2367317",
-          "source": "抖音",
-          "ranks": [
-            17,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 19时16分]"
         },
         {
           "title": "恒生科技指数涨超1%。阿里健康涨超10%，华虹半导体、快手涨超5%。",

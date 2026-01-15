@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T18:18:12.268599+08:00",
-  "total_titles_processed": 1748,
+  "generated_at": "2026-01-15T19:15:32.783715+08:00",
+  "total_titles_processed": 1844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
@@ -53,8 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时09分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[09时09分 ~ 19时15分]"
         },
         {
           "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
@@ -68,8 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时35分 ~ 18时18分]"
+          "appearance_count": 9,
+          "time_info": "[12时35分 ~ 19时15分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -79,8 +79,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 19时15分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -141,6 +141,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "美军航母开往中东，特朗普要“速战速决”？",
+          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "德国财长：敦促欧洲在特朗普时代展现强硬立场",
           "url": "https://wallstreetcn.com/livenews/3037193",
           "source": "华尔街见闻-快讯",
@@ -158,7 +169,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -219,8 +230,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时15分]"
         },
         {
           "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
@@ -230,8 +241,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时15分]"
         },
         {
           "title": "哥伦比亚总统称将于2月3日同特朗普会晤",
@@ -429,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "民调显示，特朗普支持率从1月初的42%下滑至41%。",
+          "url": "https://flash.jin10.com/detail/20260115190107698800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
@@ -896,7 +918,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "贺娇龙最后一条抖音",
@@ -910,16 +932,28 @@
           "time_info": "[02时25分 ~ 06时16分]"
         },
         {
+          "title": "抖音未成年人模式产品能力升级",
+          "url": "https://wallstreetcn.com/livenews/3037949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "U23国脚集体在抖音庆祝出线",
           "url": "https://www.douyin.com/hot/2368334",
           "source": "抖音",
           "ranks": [
             8,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 19时15分]"
         },
         {
           "title": "聂卫平最后一条抖音：感谢围棋",

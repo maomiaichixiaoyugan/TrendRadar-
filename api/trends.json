@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T22:18:56.494456+08:00",
-  "total_titles_processed": 2038,
+  "generated_at": "2026-01-16T23:18:56.389981+08:00",
+  "total_titles_processed": 2124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 100,
+      "match_count": 103,
       "titles": [
         {
           "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
@@ -65,8 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时25分 ~ 22时18分]"
+          "appearance_count": 12,
+          "time_info": "[14时25分 ~ 23时18分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -92,8 +92,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时25分 ~ 22时18分]"
+          "appearance_count": 14,
+          "time_info": "[11时25分 ~ 23时18分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -109,6 +109,18 @@
           "time_info": "[09时11分 ~ 19时15分]"
         },
         {
+          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
+          "url": "https://www.zhihu.com/question/1995430633518944539",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时21分 ~ 23时18分]"
+        },
+        {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
           "url": "https://wallstreetcn.com/articles/3763320",
           "source": "华尔街见闻",
@@ -120,29 +132,18 @@
           "time_info": "[00时27分 ~ 05时16分]"
         },
         {
-          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
-          "url": "https://www.zhihu.com/question/1995430633518944539",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时21分 ~ 22时18分]"
-        },
-        {
           "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
           "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
           "source": "澎湃新闻",
           "ranks": [
             18,
             17,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时21分 ~ 22时18分]"
+          "appearance_count": 8,
+          "time_info": "[17时21分 ~ 23时18分]"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。",
@@ -173,9 +174,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
+        },
+        {
+          "title": "马查多“献诺奖”，特朗普“笑纳”，颁奖方尴尬",
+          "url": "https://wallstreetcn.com/livenews/3038897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美国总统特朗普：我们已经正式进入加沙“20点和平计划”的下一阶段。",
@@ -217,7 +229,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -231,6 +243,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 23时18分]"
         },
         {
           "title": "白宫发布关于美国总统特朗普医疗保健计划的清单。 特朗普希望降低保费。 特朗普要求国会山编纂关于降低医药成本的（立法）协议。",
@@ -308,18 +332,6 @@
           "time_info": "[11时26分 ~ 12时35分]"
         },
         {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时18分]"
-        },
-        {
           "title": "特朗普直播打瞌睡被小女孩发现",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%B4%E6%92%AD%E6%89%93%E7%9E%8C%E7%9D%A1%E8%A2%AB%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%8F%91%E7%8E%B0%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -373,11 +385,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时18分]"
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 23时18分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -574,7 +587,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -585,7 +598,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -640,7 +653,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -695,7 +708,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -805,7 +818,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -893,7 +906,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -929,6 +942,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "Vistra（VST）跌7.3%，星牌能源（CEG）跌6.9%。 美国总统特朗普推动通过电力拍卖，让数据中心承担飙涨的电力成本。",
+          "url": "https://wallstreetcn.com/livenews/3038883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美国总统特朗普称赞低油气价格。",
@@ -1096,6 +1120,17 @@
           "time_info": "21时34分"
         },
         {
+          "title": "特朗普政府或将签署一项遏制电价的协议，美国电力公司股价下跌，Talen能源(TLN.O)下跌8%，Vistra能源(VST.N)下跌6.9%，星座能源(CEG.O)下跌6.3%。",
+          "url": "https://flash.jin10.com/detail/20260116223126356800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普已经与以色列总理内塔尼亚胡通话。",
           "url": "https://flash.jin10.com/detail/20260116022949055800",
           "source": "金十数据",
@@ -1162,11 +1197,12 @@
           "source": "抖音",
           "ranks": [
             15,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时34分]"
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 23时18分]"
         },
         {
           "title": "快手发行6亿美元于2031年到期的4.125%优先票据。 发行9亿美元于2036年到期的4.750%优先票据。 及35亿元人民币于2031年到期的2.450%优先票据。",
@@ -1192,7 +1228,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         }

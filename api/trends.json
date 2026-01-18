@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T15:15:59.875714+08:00",
-  "total_titles_processed": 880,
+  "generated_at": "2026-01-18T16:20:06.603626+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普：对欧洲8国加征关税，直至完全收购格陵兰岛",
@@ -80,8 +80,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 15时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 16时20分]"
         },
         {
           "title": "哈梅内伊：特朗普应被视为犯罪",
@@ -209,6 +209,19 @@
           "time_info": "[07时14分 ~ 09时17分]"
         },
         {
+          "title": "特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 16时20分]"
+        },
+        {
           "title": "英媒：特朗普羡慕中国",
           "url": "https://www.toutiao.com/trending/7596316947638128154/",
           "source": "今日头条",
@@ -244,6 +257,21 @@
           "time_info": "[03时11分 ~ 07时14分]"
         },
         {
+          "title": "特朗普威胁起诉摩根大通，指控其对其进行“去银行化”",
+          "url": "https://wallstreetcn.com/livenews/3039177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            14,
+            16,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 16时20分]"
+        },
+        {
           "title": "目前仍不清楚特朗普是否会兑现格陵兰岛关税威胁",
           "url": "https://flash.jin10.com/detail/20260118101323623800",
           "source": "金十数据",
@@ -259,16 +287,15 @@
           "time_info": "[11时41分 ~ 15时15分]"
         },
         {
-          "title": "特朗普因格陵兰岛向欧洲8国加税",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
-          "source": "bilibili 热搜",
+          "title": "特朗普发黑白照：我是关税之王(图)",
+          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时41分 ~ 15时15分]"
+          "time_info": "[13时19分 ~ 16时20分]"
         },
         {
           "title": "特朗普开价：永久席位10亿美元",
@@ -280,6 +307,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
+          "url": "https://wallstreetcn.com/articles/3763532",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 16时20分]"
         },
         {
           "title": "荷兰国际银行：欧洲国家不应对特朗普的关税威胁做出仓促反应",
@@ -325,31 +366,6 @@
           "time_info": "[12时37分 ~ 15时15分]"
         },
         {
-          "title": "特朗普威胁起诉摩根大通，指控其对其进行“去银行化”",
-          "url": "https://wallstreetcn.com/livenews/3039177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            14,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 15时15分]"
-        },
-        {
-          "title": "特朗普发黑白照：我是关税之王(图)",
-          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 15时15分]"
-        },
-        {
           "title": "哈梅内伊：特朗普是罪犯",
           "url": "https://news.ifeng.com/c/8pzabzvCx7D",
           "source": "凤凰网",
@@ -359,19 +375,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 01时13分]"
-        },
-        {
-          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
-          "url": "https://wallstreetcn.com/articles/3763532",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 15时15分]"
         },
         {
           "title": "美国总统特朗普表示，他从未向摩根大通CEO戴蒙提供美联储主席职位。",
@@ -452,6 +455,18 @@
           "time_info": "[11时41分 ~ 13时19分]"
         },
         {
+          "title": "美媒：特朗普为所谓“和平委员会”永久席位开价10亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32410157",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 16时20分]"
+        },
+        {
           "title": "为了格陵兰特朗普再挥关税大棒：“不支持我的话就加征关税”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32405652",
           "source": "澎湃新闻",
@@ -473,6 +488,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时37分 ~ 14时23分]"
+        },
+        {
+          "title": "特朗普称将对部分国家加征关税，直至“完全收购格陵兰岛”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32408980",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 16时20分]"
+        },
+        {
+          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
+          "url": "https://wallstreetcn.com/articles/3763529",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
+        },
+        {
+          "title": "特朗普和平委员会是什么机构",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%BA%E6%9E%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
         },
         {
           "title": "法国总统马克龙：将对特朗普的格陵兰岛关税作出回应",
@@ -527,7 +575,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -554,17 +602,6 @@
           "time_info": "09时17分"
         },
         {
-          "title": "美媒：特朗普为所谓“和平委员会”永久席位开价10亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32410157",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        },
-        {
           "title": "得罪特朗普的福特员工获众筹80万美元",
           "url": "https://www.toutiao.com/trending/7595479498318069823/",
           "source": "今日头条",
@@ -574,17 +611,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "特朗普称将对部分国家加征关税，直至“完全收购格陵兰岛”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32408980",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时15分"
         },
         {
           "title": "特朗普因格陵兰岛向欧洲8国加税",

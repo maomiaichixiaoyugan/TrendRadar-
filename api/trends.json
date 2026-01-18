@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T20:28:23.680632+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-01-18T21:25:52.135545+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普：对欧洲8国加征关税，直至完全收购格陵兰岛",
@@ -54,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时19分 ~ 20时28分]"
+          "appearance_count": 12,
+          "time_info": "[13时19分 ~ 21时25分]"
         },
         {
           "title": "特朗普发黑白照：我是关税之王(图)",
@@ -65,8 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时19分 ~ 20时28分]"
+          "appearance_count": 12,
+          "time_info": "[13时19分 ~ 21时25分]"
         },
         {
           "title": "特朗普因格陵兰岛向欧洲8国加税",
@@ -250,6 +250,18 @@
           "time_info": "[07时14分 ~ 09时17分]"
         },
         {
+          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
+          "url": "https://wallstreetcn.com/articles/3763529",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时19分 ~ 21时25分]"
+        },
+        {
           "title": "特朗普威胁起诉摩根大通，指控其对其进行“去银行化”",
           "url": "https://wallstreetcn.com/livenews/3039177",
           "source": "华尔街见闻-快讯",
@@ -299,18 +311,6 @@
           "time_info": "19时13分"
         },
         {
-          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
-          "url": "https://wallstreetcn.com/articles/3763529",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时19分 ~ 20时28分]"
-        },
-        {
           "title": "特朗普谈中加签协议",
           "url": "https://www.douyin.com/hot/2370724",
           "source": "抖音",
@@ -339,26 +339,15 @@
           "time_info": "[11时41分 ~ 15时15分]"
         },
         {
-          "title": "德国财政部长谈特朗普关税威胁：这一点我们无法认同，不会接受胁迫。我们始终愿向美国伸出合作之手，期待共同寻求解决方案。",
-          "url": "https://flash.jin10.com/detail/20260118193942749800",
+          "title": "加拿大总理卡尼：（当被问及为何接受特朗普的邀请加入加沙和平委员会时）加拿大将尽一切努力解决加沙的苦难。",
+          "url": "https://flash.jin10.com/detail/20260118210000996800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "特朗普发布个人黑白照",
-          "url": "https://wallstreetcn.com/livenews/3039253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "21时25分"
         },
         {
           "title": "特朗普开价：永久席位10亿美元",
@@ -372,15 +361,15 @@
           "time_info": "14时23分"
         },
         {
-          "title": "文件显示，特朗普的和平委员会章程规定，成员任期为三年，但那些捐赠10亿美元资金的成员除外。",
-          "url": "https://flash.jin10.com/detail/20260118191109864800",
-          "source": "金十数据",
+          "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”，我已跟他通电话",
+          "url": "https://wallstreetcn.com/livenews/3039260",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "21时25分"
         },
         {
           "title": "荷兰国际银行：欧洲国家不应对特朗普的关税威胁做出仓促反应",
@@ -426,6 +415,33 @@
           "time_info": "[12时37分 ~ 15时15分]"
         },
         {
+          "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 21时25分]"
+        },
+        {
+          "title": "特朗普竞选团队前顾问也怕被ICE抓：我随身携带护照和身份证",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32408146",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 21时25分]"
+        },
+        {
           "title": "美媒：特朗普为所谓“和平委员会”永久席位开价10亿美元",
           "url": "https://m.thepaper.cn/newsDetail_forward_32410157",
           "source": "澎湃新闻",
@@ -456,24 +472,48 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            18
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时25分]"
+        },
+        {
+          "title": "德国财政部长谈特朗普关税威胁：这一点我们无法认同，不会接受胁迫。我们始终愿向美国伸出合作之手，期待共同寻求解决方案。",
+          "url": "https://flash.jin10.com/detail/20260118193942749800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时28分]"
+          "time_info": "[20时28分 ~ 21时25分]"
         },
         {
-          "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
-          "source": "澎湃新闻",
+          "title": "特朗普发布个人黑白照",
+          "url": "https://wallstreetcn.com/livenews/3039253",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            10,
-            9
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时16分 ~ 20时28分]"
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 21时25分]"
+        },
+        {
+          "title": "文件显示，特朗普的和平委员会章程规定，成员任期为三年，但那些捐赠10亿美元资金的成员除外。",
+          "url": "https://flash.jin10.com/detail/20260118191109864800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 21时25分]"
         },
         {
           "title": "特朗普和平委员会是什么机构",
@@ -486,18 +526,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时19分 ~ 17时16分]"
-        },
-        {
-          "title": "特朗普竞选团队前顾问也怕被ICE抓：我随身携带护照和身份证",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32408146",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 20时28分]"
         },
         {
           "title": "哈梅内伊：特朗普是罪犯",
@@ -589,6 +617,19 @@
           "time_info": "[13时19分 ~ 15时15分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-18）",
+          "url": "https://flash.jin10.com/detail/20260118181223418800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时25分]"
+        },
+        {
           "title": "特朗普拟对加沙和平委员会常任席位收取逾十亿美元会费",
           "url": "https://flash.jin10.com/detail/20260118093517443800",
           "source": "金十数据",
@@ -626,16 +667,16 @@
           "time_info": "[00时16分 ~ 01时13分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-18）",
-          "url": "https://flash.jin10.com/detail/20260118181223418800",
-          "source": "金十数据",
+          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://www.cls.cn/detail/2261399",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            16
+            12,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时28分]"
+          "time_info": "[20时28分 ~ 21时25分]"
         },
         {
           "title": "法国总统马克龙：将对特朗普的格陵兰岛关税作出回应",
@@ -693,17 +734,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
-          "url": "https://www.cls.cn/detail/2261399",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
         },
         {
           "title": "特朗普宣布将对欧洲八国商品加征最高 25% 的新关税，这一政策可能带来哪些影响？",
@@ -764,7 +794,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "U23国脚们发抖音称计划有变",
@@ -780,6 +810,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时16分 ~ 11时41分]"
+        },
+        {
+          "title": "梁小龙抖音账号发告别信",
+          "url": "https://www.toutiao.com/trending/7596671053452135963/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "梁小龙最后一条抖音",

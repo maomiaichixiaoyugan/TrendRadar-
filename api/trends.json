@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T22:22:22.327647+08:00",
-  "total_titles_processed": 1776,
+  "generated_at": "2026-01-19T23:21:04.211207+08:00",
+  "total_titles_processed": 1870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 94,
+      "match_count": 99,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时15分 ~ 22时22分]"
+          "appearance_count": 19,
+          "time_info": "[09时15分 ~ 23时21分]"
         },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -90,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时46分 ~ 22时22分]"
+          "appearance_count": 17,
+          "time_info": "[12时46分 ~ 23时21分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -104,6 +104,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时13分 ~ 09时15分]"
+        },
+        {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时28分 ~ 23时21分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -119,20 +133,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时17分 ~ 14时30分]"
-        },
-        {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时28分 ~ 22时22分]"
         },
         {
           "title": "联合国秘书长古特雷斯：（当被问及特朗普提出的和平委员会倡议时）会员国可以自由组成不同的团体。",
@@ -315,6 +315,17 @@
           "time_info": "[00时18分 ~ 05时14分]"
         },
         {
+          "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
+          "url": "https://news.ifeng.com/c/8q2mrUjZSWs",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "杰富瑞：随着欧美展开谈判 特朗普或将推迟关税征收时间",
           "url": "https://flash.jin10.com/detail/20260119161106127800",
           "source": "金十数据",
@@ -324,6 +335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "克罗地亚总统乱抖包袱：特朗普还不如占领斯瓦尔巴群岛",
+          "url": "https://news.ifeng.com/c/8q2uSgRf3ld",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "欧洲被特朗普打脸了",
@@ -343,7 +365,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -357,6 +379,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "美媒爆料：特朗普私下“密集谈论”加拿大",
+          "url": "https://wallstreetcn.com/livenews/3039838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "布莱尔与特朗普“和平委员会”10亿美元成员费划清界限",
@@ -753,6 +786,17 @@
           "time_info": "[15时25分 ~ 16时24分]"
         },
         {
+          "title": "普京被邀请加入特朗普“和平委员会”",
+          "url": "https://news.ifeng.com/c/8q2yFHRzsKV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "英国首相斯塔默：英国正就特朗普政府的关税威胁与欧盟展开密切协调。",
           "url": "https://flash.jin10.com/detail/20260119174959047800",
           "source": "金十数据",
@@ -814,7 +858,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -891,7 +935,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -973,13 +1017,24 @@
           "time_info": "19时18分"
         },
         {
+          "title": "分析师：若特朗普任命过于听话的美联储主席，债市将迅速惩罚美国",
+          "url": "https://wallstreetcn.com/livenews/3039827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "荷兰经济大臣：特朗普在格陵兰岛问题上的表现不负责任。",
           "url": "https://flash.jin10.com/detail/20260119215216307800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -1012,7 +1067,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T07:15:45.196522+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2026-01-20T09:10:51.944439+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
@@ -30,19 +30,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时10分]"
         },
         {
           "title": "会武力夺岛？特朗普：无可奉告",
           "url": "https://news.ifeng.com/c/8q3HDvDloum",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时23分 ~ 07时15分]"
+          "appearance_count": 8,
+          "time_info": "[02时23分 ~ 09时10分]"
+        },
+        {
+          "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
+          "url": "https://news.ifeng.com/c/8q3GKEPO18N",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时23分 ~ 09时10分]"
         },
         {
           "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
@@ -58,17 +70,6 @@
           "time_info": "[00时21分 ~ 07时15分]"
         },
         {
-          "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
-          "url": "https://news.ifeng.com/c/8q3GKEPO18N",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时23分 ~ 07时15分]"
-        },
-        {
           "title": "普京被邀请加入特朗普“和平委员会”",
           "url": "https://news.ifeng.com/c/8q2yFHRzsKV",
           "source": "凤凰网",
@@ -76,8 +77,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时10分]"
         },
         {
           "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
@@ -85,11 +86,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时10分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -114,6 +116,17 @@
           "time_info": "[00时21分 ~ 01时20分]"
         },
         {
+          "title": "特朗普写了一封信，杀气腾腾，槽点满满",
+          "url": "https://news.ifeng.com/c/8q3qn0KjEks",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "丹麦外交部长：相信英国首相斯塔默已与美国总统特朗普直接通话。",
           "url": "https://flash.jin10.com/detail/20260120000400334800",
           "source": "金十数据",
@@ -123,6 +136,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
+          "url": "https://www.cls.cn/detail/2262874",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 09时10分]"
         },
         {
           "title": "欧盟将召开特别峰会应对特朗普“夺岛”关税",
@@ -248,15 +273,26 @@
           "time_info": "[02时23分 ~ 03时16分]"
         },
         {
-          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
-          "url": "https://www.cls.cn/detail/2262874",
-          "source": "财联社热门",
+          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
+          "url": "https://wallstreetcn.com/articles/3763591",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时15分"
+          "time_info": "09时10分"
+        },
+        {
+          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
+          "url": "https://www.zhihu.com/question/1995879633401374340",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "芬兰总统：欧盟拥有多种工具说服特朗普撤销格陵兰岛威胁",
@@ -331,7 +367,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },

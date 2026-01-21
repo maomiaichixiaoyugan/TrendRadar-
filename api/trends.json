@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T11:29:04.573522+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-01-21T12:40:12.039896+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 116,
+      "match_count": 120,
       "titles": [
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 11时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 12时40分]"
         },
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 11时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 12时40分]"
         },
         {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
@@ -57,6 +57,51 @@
           "time_info": "[00时27分 ~ 07时16分]"
         },
         {
+          "title": "特朗普和马克龙，直接开干了",
+          "url": "https://news.ifeng.com/c/8q5SVoWM0NJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时12分 ~ 12时40分]"
+        },
+        {
+          "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
+          "url": "https://news.ifeng.com/c/8q5TLuwIzXC",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时12分 ~ 12时40分]"
+        },
+        {
+          "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
+          "url": "https://news.ifeng.com/c/8q4kJoceknE",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时12分 ~ 12时40分]"
+        },
+        {
+          "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
+          "url": "https://news.ifeng.com/c/8q5VLcoKihU",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时12分 ~ 12时40分]"
+        },
+        {
           "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
           "url": "https://www.zhihu.com/question/1996980159144801247",
           "source": "知乎",
@@ -81,49 +126,15 @@
           "time_info": "[00时27分 ~ 07时16分]"
         },
         {
-          "title": "特朗普和马克龙，直接开干了",
-          "url": "https://news.ifeng.com/c/8q5SVoWM0NJ",
+          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
+          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 11时29分]"
-        },
-        {
-          "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
-          "url": "https://news.ifeng.com/c/8q5TLuwIzXC",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 11时29分]"
-        },
-        {
-          "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
-          "url": "https://news.ifeng.com/c/8q4kJoceknE",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 11时29分]"
-        },
-        {
-          "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
-          "url": "https://news.ifeng.com/c/8q5VLcoKihU",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 11时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 12时40分]"
         },
         {
           "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
@@ -150,17 +161,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
-          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
         },
         {
           "title": "美国总统特朗普：（谈庇护城市）庇护城市将不再获得资金，他们可以起诉我们，也许他们会赢。",
@@ -194,17 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "美国总统特朗普：允许人工智能公司自行发电。 用关税收入取代所得税是一个选项。",
-          "url": "https://wallstreetcn.com/livenews/3040916",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
         },
         {
           "title": "特朗普：将很快开始打击陆路毒品走私",
@@ -251,6 +240,19 @@
           "time_info": "05时16分"
         },
         {
+          "title": "达利欧：特朗普或引爆“资本战争” 海外资金正重估美元资产",
+          "url": "https://www.cls.cn/detail/2264207",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时12分 ~ 12时40分]"
+        },
+        {
           "title": "特朗普公开马克龙给他的私信",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E9%A9%AC%E5%85%8B%E9%BE%99%E7%BB%99%E4%BB%96%E7%9A%84%E7%A7%81%E4%BF%A1%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -289,6 +291,29 @@
           "time_info": "[05时16分 ~ 06时17分]"
         },
         {
+          "title": "美国总统特朗普：允许人工智能公司自行发电。 用关税收入取代所得税是一个选项。",
+          "url": "https://wallstreetcn.com/livenews/3040916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 12时40分]"
+        },
+        {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 12时40分]"
+        },
+        {
           "title": "据华尔街日报：美国参议员沃伦、德宾致信司法部长邦迪和美国联邦住房金融局局长普尔特，寻求获取美联储主席鲍威尔调查相关记录。信件直接要求两名特朗普官员保存文件并将其提供给参议院。",
           "url": "https://flash.jin10.com/detail/20260121043924701800",
           "source": "金十数据",
@@ -325,16 +350,27 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
-          "title": "达利欧：特朗普或引爆“资本战争” 海外资金正重估美元资产",
-          "url": "https://www.cls.cn/detail/2264207",
-          "source": "财联社热门",
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            9
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 11时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 12时40分]"
+        },
+        {
+          "title": "特朗普晒马克龙私信",
+          "url": "https://www.douyin.com/hot/2374658",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 12时40分]"
         },
         {
           "title": "特朗普：不排除以武力夺取格陵兰岛可能性",
@@ -349,15 +385,15 @@
           "time_info": "[02时27分 ~ 04时09分]"
         },
         {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
+          "title": "特朗普发插旗图有何目的",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%8F%92%E6%97%97%E5%9B%BE%E6%9C%89%E4%BD%95%E7%9B%AE%E7%9A%84",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
+          "time_info": "[12时39分 ~ 12时40分]"
         },
         {
           "title": "特朗普和马克龙吵翻",
@@ -406,6 +442,17 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
+          "title": "马克龙在达沃斯喊话特朗普",
+          "url": "https://www.douyin.com/hot/2374693",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 12时40分]"
+        },
+        {
           "title": "周二（1月20日），降息赢家指数跌2.89%，报104.40点。 “特朗普关税输家”指数跌3.08%，报114.88点，跳空低开之后平滑地持续走低。 “特朗普金融指数”跌2.89%，报171.02点。 散户抱团概念股指数/迷因股（meme stock）指数跌3.69%，报15.55点。",
           "url": "https://wallstreetcn.com/livenews/3040687",
           "source": "华尔街见闻-快讯",
@@ -452,28 +499,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 02时27分]"
-        },
-        {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
-        },
-        {
-          "title": "特朗普晒马克龙私信",
-          "url": "https://www.douyin.com/hot/2374658",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
         },
         {
           "title": "纽森怒批特朗普：他就是个破坏王",
@@ -526,7 +551,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -548,7 +573,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -636,7 +661,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -680,7 +705,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -861,6 +886,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "巴西总统：特朗普想用社交媒体“统治世界”",
+          "url": "https://wallstreetcn.com/livenews/3040936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "美国总统特朗普：如果一个国家不接受人们返回家园，那它就有问题。",
           "url": "https://flash.jin10.com/detail/20260121031830393800",
           "source": "金十数据",
@@ -881,6 +917,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "特朗普：不去G7峰会，因为马克龙干不长了",
+          "url": "https://flash.jin10.com/detail/20260121114444643800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "美国总统特朗普：明年我们将不会出现贸易逆差。",
@@ -911,7 +958,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -955,7 +1002,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -1043,7 +1090,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -1315,7 +1362,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "小红书发通牒:谁搞对立我打谁",
@@ -1324,11 +1371,12 @@
           "ranks": [
             15,
             16,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 11时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 12时40分]"
         },
         {
           "title": "王玉雯新剧就这样手搓抖音",
@@ -1338,11 +1386,23 @@
             19,
             26,
             27,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 11时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 12时40分]"
+        },
+        {
+          "title": "抖音正开发App“抖省省”？知情人士：或主打超值省钱",
+          "url": "https://wallstreetcn.com/livenews/3040933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     }

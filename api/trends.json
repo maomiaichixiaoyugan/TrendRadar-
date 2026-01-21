@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T13:24:56.646038+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-01-21T14:27:53.803471+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 121,
+      "match_count": 124,
       "titles": [
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 13时24分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 14时27分]"
         },
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 13时24分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 14时27分]"
         },
         {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
@@ -65,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时12分 ~ 14时27分]"
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
@@ -81,6 +81,18 @@
           "time_info": "[09时12分 ~ 13时24分]"
         },
         {
+          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
+          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 14时27分]"
+        },
+        {
           "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
           "url": "https://news.ifeng.com/c/8q5VLcoKihU",
           "source": "凤凰网",
@@ -90,18 +102,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时12分 ~ 13时24分]"
-        },
-        {
-          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
-          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时28分 ~ 13时24分]"
         },
         {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
@@ -165,6 +165,18 @@
           "time_info": "[00时27分 ~ 07时16分]"
         },
         {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 14时27分]"
+        },
+        {
           "title": "美国总统特朗普：（谈庇护城市）庇护城市将不再获得资金，他们可以起诉我们，也许他们会赢。",
           "url": "https://flash.jin10.com/detail/20260121034907075800",
           "source": "金十数据",
@@ -188,6 +200,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时12分 ~ 13时24分]"
+        },
+        {
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 14时27分]"
         },
         {
           "title": "美国总统特朗普：我本该获得诺贝尔和平奖。",
@@ -223,6 +248,19 @@
           "time_info": "04时09分"
         },
         {
+          "title": "马克龙在达沃斯喊话特朗普",
+          "url": "https://www.douyin.com/hot/2374693",
+          "source": "抖音",
+          "ranks": [
+            11,
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 14时27分]"
+        },
+        {
           "title": "美国总统特朗普：我们占领了墨西哥湾，现在它成了美国湾。我们拥有92%的海岸线。这事儿一直让我耿耿于怀……我本来想把它叫做“特朗普湾”。我开玩笑的。不过这名字听起来确实不错。",
           "url": "https://flash.jin10.com/detail/20260121033913590800",
           "source": "金十数据",
@@ -232,30 +270,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
-        },
-        {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时28分 ~ 13时24分]"
-        },
-        {
-          "title": "马克龙在达沃斯喊话特朗普",
-          "url": "https://www.douyin.com/hot/2374693",
-          "source": "抖音",
-          "ranks": [
-            11,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 13时24分]"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉领导人相处融洽。",
@@ -292,19 +306,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时09分 ~ 07时16分]"
-        },
-        {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时28分 ~ 13时24分]"
         },
         {
           "title": "特朗普晒马克龙私信",
@@ -396,11 +397,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 14时27分]"
         },
         {
           "title": "暗示动武？特朗普：若关税工具受限 可采用其他手段夺取格陵兰岛！",
@@ -408,11 +410,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 14时27分]"
         },
         {
           "title": "特朗普：不排除以武力夺取格陵兰岛可能性",
@@ -522,6 +525,17 @@
           "time_info": "[01时24分 ~ 02时27分]"
         },
         {
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时27分]"
+        },
+        {
           "title": "纽森怒批特朗普：他就是个破坏王",
           "url": "https://www.toutiao.com/trending/7596509098209984518/",
           "source": "今日头条",
@@ -553,6 +567,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "空军一号因电路故障返航 导致特朗普的达沃斯之行延迟",
+          "url": "https://wallstreetcn.com/livenews/3041004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "美国总统特朗普：（谈及关于美国留在北约的承诺）如果北约没有美国，北约就不够强大。",
@@ -806,6 +831,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "欧盟官员：欧盟不应在对特朗普采取报复措施方面有所保留",
+          "url": "https://flash.jin10.com/detail/20260121140459089800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "美国总统特朗普：还没有与法国总统马克龙和英国首相斯塔默对话，但我们相处得很好。 我对挪威的尊重已经大打折扣。 我坚信，挪威控制着诺贝尔奖。 不会参加七国集团（G7）紧急会议。 新闻发布会后与土耳其总统埃尔多安通话。",
@@ -1105,17 +1141,6 @@
           "time_info": "11时29分"
         },
         {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
           "title": "美国总统特朗普：不会前往巴黎参加G7会议。",
           "url": "https://flash.jin10.com/detail/20260121041942470800",
           "source": "金十数据",
@@ -1180,6 +1205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "据国际文传电讯社：阿塞拜疆同意加入美国总统特朗普的和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260121134843317800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "美国总统特朗普：我反对英国出售查戈斯群岛。",
@@ -1383,7 +1419,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "小红书发通牒:谁搞对立我打谁",
@@ -1393,11 +1429,12 @@
             15,
             16,
             22,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 13时24分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 14时27分]"
         },
         {
           "title": "王玉雯新剧就这样手搓抖音",
@@ -1415,6 +1452,28 @@
           "time_info": "[00时27分 ~ 12时40分]"
         },
         {
+          "title": "快手可灵AI月活突破1200万",
+          "url": "https://wallstreetcn.com/livenews/3041010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "抖音发布2025直播治理白皮书，违规曝光量减少37%",
+          "url": "https://wallstreetcn.com/livenews/3041007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "抖音正开发App“抖省省”？知情人士：或主打超值省钱",
           "url": "https://wallstreetcn.com/livenews/3040933",
           "source": "华尔街见闻-快讯",
@@ -1425,6 +1484,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时40分 ~ 13时24分]"
+        },
+        {
+          "title": "一场A股大V的“清朗行动”！雪球、蚂蚁、抖音、腾讯都在行动",
+          "url": "https://www.cls.cn/detail/2264754",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         }
       ]
     }

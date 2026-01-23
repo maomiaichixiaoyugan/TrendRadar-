@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T22:20:19.515530+08:00",
-  "total_titles_processed": 2133,
+  "generated_at": "2026-01-23T23:19:44.795845+08:00",
+  "total_titles_processed": 2244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 120,
+      "match_count": 121,
       "titles": [
         {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
@@ -69,6 +69,18 @@
           "time_info": "[00时26分 ~ 06时17分]"
         },
         {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时24分 ~ 23时19分]"
+        },
+        {
           "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
           "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
           "source": "凤凰网",
@@ -82,16 +94,15 @@
           "time_info": "[11时28分 ~ 19时16分]"
         },
         {
-          "title": "特朗普称将于4月访问中国，外交部回应",
-          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
+          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
+          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
           "source": "凤凰网",
           "ranks": [
-            5,
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[17时24分 ~ 22时20分]"
+          "time_info": "[18时18分 ~ 23时19分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -152,17 +163,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时26分 ~ 09时12分]"
-        },
-        {
-          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
-          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时18分 ~ 22时20分]"
         },
         {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
@@ -249,6 +249,18 @@
           "time_info": "[00时26分 ~ 07时16分]"
         },
         {
+          "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
+          "url": "https://news.ifeng.com/c/8q9ZlzBzIxe",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时33分 ~ 23时19分]"
+        },
+        {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
           "url": "https://wallstreetcn.com/articles/3763892",
           "source": "华尔街见闻",
@@ -290,15 +302,16 @@
           "time_info": "[16时22分 ~ 22时20分]"
         },
         {
-          "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
-          "url": "https://news.ifeng.com/c/8q9ZlzBzIxe",
-          "source": "凤凰网",
+          "title": "外交部回应特朗普称将于4月访华",
+          "url": "https://www.toutiao.com/trending/7597610597631033407/",
+          "source": "今日头条",
           "ranks": [
-            3
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 22时20分]"
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 23时19分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -324,16 +337,17 @@
           "time_info": "[02时23分 ~ 09时12分]"
         },
         {
-          "title": "外交部回应特朗普称将于4月访华",
-          "url": "https://www.toutiao.com/trending/7597610597631033407/",
-          "source": "今日头条",
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            2
+            27,
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 22时20分]"
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 23时19分]"
         },
         {
           "title": "特朗普为啥时隔一天态度变了",
@@ -347,6 +361,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时24分 ~ 07时16分]"
+        },
+        {
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://www.douyin.com/hot/2377206",
+          "source": "抖音",
+          "ranks": [
+            6,
+            2,
+            8,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 23时19分]"
         },
         {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
@@ -392,20 +421,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
-        },
-        {
-          "title": "中方回应特朗普称将于4月访华",
-          "url": "https://www.douyin.com/hot/2377206",
-          "source": "抖音",
-          "ranks": [
-            6,
-            2,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 22时20分]"
         },
         {
           "title": "美国总统特朗普声称：我并不热衷于401K计划 。",
@@ -505,18 +520,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时17分]"
-        },
-        {
-          "title": "中方回应特朗普称将于4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 22时20分]"
         },
         {
           "title": "美国总统特朗普：（谈及委内瑞拉）我们很快就要开始钻探了。",
@@ -791,9 +794,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
+        },
+        {
+          "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
+          "url": "https://news.ifeng.com/c/8q9ns1tf1Fj",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "据国际文传电讯社：美国特朗普女婿库什纳、美国总统特使威特科夫抵达莫斯科。",
@@ -1044,7 +1058,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1110,7 +1124,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1441,8 +1455,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 22时20分]"
+          "appearance_count": 4,
+          "time_info": "[20时33分 ~ 23时19分]"
         },
         {
           "title": "彭于晏本尊回应全抖音彭于晏",
@@ -1450,11 +1464,12 @@
           "source": "抖音",
           "ranks": [
             23,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时20分]"
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时19分]"
         }
       ]
     },

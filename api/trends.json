@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T13:23:22.438897+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-01-23T14:26:00.247144+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 95,
+      "match_count": 96,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 13时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 14时26分]"
         },
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -57,6 +57,18 @@
           "time_info": "[00时26分 ~ 06时17分]"
         },
         {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时12分 ~ 14时26分]"
+        },
+        {
           "title": "特朗普达沃斯演讲，被群嘲了",
           "url": "https://news.ifeng.com/c/8q7oOaAst69",
           "source": "凤凰网",
@@ -68,6 +80,17 @@
           "time_info": "[00时26分 ~ 13时23分]"
         },
         {
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 14时26分]"
+        },
+        {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
           "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
           "source": "凤凰网",
@@ -76,8 +99,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 13时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 14时26分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -91,17 +114,6 @@
           "time_info": "[00时26分 ~ 09时12分]"
         },
         {
-          "title": "特朗普称加拿大因美国而存在，加总理回应",
-          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 13时23分]"
-        },
-        {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
           "url": "https://news.ifeng.com/c/8q88cGpXCla",
           "source": "凤凰网",
@@ -110,8 +122,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 13时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 14时26分]"
         },
         {
           "title": "马克龙戴太阳镜亮相遭特朗普调侃",
@@ -171,26 +183,16 @@
           "time_info": "[00时26分 ~ 06时17分]"
         },
         {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 13时23分]"
-        },
-        {
           "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
           "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 14时26分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -227,6 +229,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时24分 ~ 07时16分]"
+        },
+        {
+          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
+          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 14时26分]"
         },
         {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
@@ -303,6 +316,17 @@
           "time_info": "[02时23分 ~ 07时16分]"
         },
         {
+          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
+          "url": "https://www.cls.cn/detail/2267102",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 14时26分]"
+        },
+        {
           "title": "美国总统特朗普：听取了关于美联储理事库克被解雇案的最高法院部分庭审。",
           "url": "https://flash.jin10.com/detail/20260123060712333800",
           "source": "金十数据",
@@ -374,17 +398,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时19分]"
-        },
-        {
-          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
-          "url": "https://www.cls.cn/detail/2267102",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 13时23分]"
         },
         {
           "title": "特朗普起诉美国最大银行",
@@ -1149,7 +1162,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "李微漪抖音回应重返狼群版权",
@@ -1161,6 +1174,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时26分 ~ 04时19分]"
+        },
+        {
+          "title": "李昊在线给抖音网友送祝福",
+          "url": "https://www.douyin.com/hot/2376933",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 14时26分]"
         }
       ]
     }

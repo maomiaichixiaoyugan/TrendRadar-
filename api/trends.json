@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T21:42:18.003138+08:00",
-  "total_titles_processed": 1956,
+  "generated_at": "2026-01-27T22:24:41.249977+08:00",
+  "total_titles_processed": 2024,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -63,8 +63,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时16分 ~ 21时42分]"
+          "appearance_count": 16,
+          "time_info": "[07时16分 ~ 22时24分]"
         },
         {
           "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
@@ -118,6 +118,18 @@
           "time_info": "[09时16分 ~ 15时23分]"
         },
         {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时27分 ~ 22时24分]"
+        },
+        {
           "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
           "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
           "source": "澎湃新闻",
@@ -131,18 +143,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时23分 ~ 20时34分]"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时27分 ~ 21时42分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -168,23 +168,12 @@
         },
         {
           "title": "加拿大总理卡尼：与特朗普总统进行了良好的对话。",
-          "url": "https://wallstreetcn.com/livenews/3044806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "加拿大总理卡尼：与特朗普总统进行了良好的对话。",
           "url": "https://flash.jin10.com/detail/20260127212721886800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -236,6 +225,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时16分]"
+        },
+        {
+          "title": "加拿大总理卡尼：与特朗普总统进行了良好的对话。",
+          "url": "https://wallstreetcn.com/livenews/3044806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时24分]"
         },
         {
           "title": "特朗普：与明州州长“想法相近” 将处理执法枪击事件",
@@ -736,6 +737,28 @@
           "time_info": "07时17分"
         },
         {
+          "title": "美国总统特朗普：格陵兰岛的情况进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260127215902817800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美国总统特朗普：庞大的舰队正驶往伊朗，希望我们不必动用它。",
+          "url": "https://flash.jin10.com/detail/20260127215541311800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美媒称边境巡逻队高级官员将离开明尼阿波利斯市，特朗普与明州州长通话",
           "url": "https://wallstreetcn.com/livenews/3044390",
           "source": "华尔街见闻-快讯",
@@ -802,6 +825,17 @@
           "time_info": "09时16分"
         },
         {
+          "title": "美国总统特朗普：与明尼阿波利斯市长进行了精彩的对话。",
+          "url": "https://flash.jin10.com/detail/20260127215213078800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "韩元兑美元跌0.7%。特朗普威胁将韩国商品关税从15%提高至25%。",
           "url": "https://wallstreetcn.com/livenews/3044266",
           "source": "华尔街见闻-快讯",
@@ -811,6 +845,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "大外交｜“一切都与土地有关”：俄美乌三方首次会谈难解“一个问题”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466151",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 20时34分]"
+        },
+        {
+          "title": "刘强东老家村委会喊村民骑三轮拉年货",
+          "url": "https://www.baidu.com/s?wd=%E5%88%98%E5%BC%BA%E4%B8%9C%E8%80%81%E5%AE%B6%E6%9D%91%E5%A7%94%E4%BC%9A%E5%96%8A%E6%9D%91%E6%B0%91%E9%AA%91%E4%B8%89%E8%BD%AE%E6%8B%89%E5%B9%B4%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     },
@@ -828,8 +892,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 21时42分]"
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 22时24分]"
         },
         {
           "title": "抖音电商开展跨境膳食补充剂专项治理 公示三大典型违规问题",
@@ -841,25 +905,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "大外交｜“一切都与土地有关”：俄美乌三方首次会谈难解“一个问题”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466151",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 20时34分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T19:19:12.827638+08:00",
-  "total_titles_processed": 1748,
+  "generated_at": "2026-01-27T20:34:32.782784+08:00",
+  "total_titles_processed": 1853,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时16分 ~ 19时19分]"
+          "appearance_count": 14,
+          "time_info": "[07时16分 ~ 20时34分]"
         },
         {
           "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
@@ -118,6 +118,21 @@
           "time_info": "[09时16分 ~ 15时23分]"
         },
         {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时23分 ~ 20时34分]"
+        },
+        {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
           "url": "https://wallstreetcn.com/articles/3764157",
           "source": "华尔街见闻",
@@ -127,20 +142,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时26分 ~ 05时18分]"
-        },
-        {
-          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时23分 ~ 19时19分]"
         },
         {
           "title": "特朗普为何对韩国加征关税",
@@ -163,6 +164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 20时34分]"
         },
         {
           "title": "特朗普：提高对韩国多种商品关税税率至25%",
@@ -213,17 +225,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时18分]"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 19时19分]"
         },
         {
           "title": "美国白宫：总统特朗普并未承诺允许进行地方调查。",
@@ -799,11 +800,12 @@
           "url": "https://www.douyin.com/hot/2381279",
           "source": "抖音",
           "ranks": [
-            29
+            29,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 20时34分]"
         },
         {
           "title": "抖音电商开展跨境膳食补充剂专项治理 公示三大典型违规问题",
@@ -828,11 +830,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 19时19分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 20时34分]"
         }
       ]
     }

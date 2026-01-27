@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-01-28T01:24:03.102635+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-01-28T02:31:05.455713+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 17,
       "titles": [
         {
-          "title": "美国总统特朗普：（谈美联储）希望利率下降。",
-          "url": "https://flash.jin10.com/detail/20260128010825738800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "美国总统特朗普：与叙利亚总统进行了精彩对话。",
-          "url": "https://flash.jin10.com/detail/20260128010748956800",
-          "source": "金十数据",
+          "title": "特朗普称国土安全部部长诺姆不会辞职",
+          "url": "https://wallstreetcn.com/livenews/3044932",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "02时31分"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -37,8 +26,54 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时31分]"
+        },
+        {
+          "title": "美国总统特朗普所谓“和平委员会”料将让（开发商出身的）特朗普掌握对加沙的广泛权力。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3044930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "特朗普就美国明尼苏达州枪击案致死事件发表评论：“你不能带着枪走进去”",
+          "url": "https://wallstreetcn.com/livenews/3044928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美国总统特朗普：（谈美联储）希望利率下降。",
+          "url": "https://flash.jin10.com/detail/20260128010825738800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 02时31分]"
+        },
+        {
+          "title": "美国总统特朗普：与叙利亚总统进行了精彩对话。",
+          "url": "https://flash.jin10.com/detail/20260128010748956800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 02时31分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
@@ -63,6 +98,39 @@
           "time_info": "00时23分"
         },
         {
+          "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3044921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰和俄罗斯之间正在发生非常好的事情。",
+          "url": "https://flash.jin10.com/detail/20260128011246828800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美国总统特朗普：希望看到利率下降。",
+          "url": "https://wallstreetcn.com/livenews/3044916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：纽约市价值 172 亿美元的隧道项目因特朗普政府在去年十月暂停拨款而面临风险。",
           "url": "https://flash.jin10.com/detail/20260127232506292800",
           "source": "金十数据",
@@ -74,13 +142,57 @@
           "time_info": "00时23分"
         },
         {
+          "title": "美国总统特朗普：霍曼（边境事务协调员）稍后将在明尼阿波利斯会见州长和市长。",
+          "url": "https://flash.jin10.com/detail/20260128010909664800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美国总统特朗普谈及联邦执法人员在明尼苏达州枪杀Pretti事件，声称：正进行“大规模的”调查。 我将观看调查（过程/结果）。",
+          "url": "https://wallstreetcn.com/livenews/3044915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "拜登批评特朗普政府在明州的移民执法行动",
+          "url": "https://wallstreetcn.com/livenews/3044911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "德国央行行长：欧洲央行在制定货币政策时必须密切留意特朗普论调的外溢性",
+          "url": "https://wallstreetcn.com/livenews/3044929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
           "title": "波音(BA.N)首席执行官：特朗普政府理解商业航空航天产业对美国经济的重要性。",
           "url": "https://flash.jin10.com/detail/20260128002342619800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         }
@@ -91,6 +203,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "刘强东老家村委会喊村民骑三轮拉年货",
+          "url": "https://www.baidu.com/s?wd=%E5%88%98%E5%BC%BA%E4%B8%9C%E8%80%81%E5%AE%B6%E6%9D%91%E5%A7%94%E4%BC%9A%E5%96%8A%E6%9D%91%E6%B0%91%E9%AA%91%E4%B8%89%E8%BD%AE%E6%8B%89%E5%B9%B4%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时31分]"
+        },
+        {
           "title": "美国农业部（USDA）更新政策，加速联邦石油与天然气（土地/水域）的租赁（审批）。",
           "url": "https://wallstreetcn.com/livenews/3044878",
           "source": "华尔街见闻-快讯",
@@ -100,17 +224,6 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时24分]"
-        },
-        {
-          "title": "刘强东老家村委会喊村民骑三轮拉年货",
-          "url": "https://www.baidu.com/s?wd=%E5%88%98%E5%BC%BA%E4%B8%9C%E8%80%81%E5%AE%B6%E6%9D%91%E5%A7%94%E4%BC%9A%E5%96%8A%E6%9D%91%E6%B0%91%E9%AA%91%E4%B8%89%E8%BD%AE%E6%8B%89%E5%B9%B4%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
           "time_info": "[00时23分 ~ 01时24分]"
         }
       ]
@@ -127,8 +240,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时31分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T22:24:41.249977+08:00",
-  "total_titles_processed": 2024,
+  "generated_at": "2026-01-27T23:25:55.153699+08:00",
+  "total_titles_processed": 2126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -60,11 +60,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时16分 ~ 22时24分]"
+          "appearance_count": 17,
+          "time_info": "[07时16分 ~ 23时25分]"
         },
         {
           "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
@@ -126,8 +127,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时27分 ~ 22时24分]"
+          "appearance_count": 8,
+          "time_info": "[17时27分 ~ 23时25分]"
         },
         {
           "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
@@ -743,7 +744,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -754,7 +755,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -779,6 +780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "市场消息：特朗普政府因委内瑞拉海岸附近一起船只袭击事件造成两人死亡而遭起诉。",
+          "url": "https://flash.jin10.com/detail/20260127225034479800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "美国财长贝森特：特朗普今天已与加拿大总理卡尼通话，卡尼正从先前在达沃斯世界经济论坛上的言论“大踏步回撤”。",
@@ -831,7 +843,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -872,9 +884,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时25分]"
         }
       ]
     },
@@ -892,8 +904,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时18分 ~ 22时24分]"
+          "appearance_count": 6,
+          "time_info": "[19时18分 ~ 23时25分]"
         },
         {
           "title": "抖音电商开展跨境膳食补充剂专项治理 公示三大典型违规问题",

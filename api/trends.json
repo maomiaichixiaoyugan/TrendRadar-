@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T07:17:03.376105+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2026-01-28T09:12:31.197537+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 57,
       "titles": [
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -19,13 +19,35 @@
           "time_info": "[00时23分 ~ 07时17分]"
         },
         {
+          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
+          "url": "https://www.cls.cn/detail/2271933",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
+          "url": "https://news.ifeng.com/c/8qGeeqb7QRE",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
           "url": "https://flash.jin10.com/detail/20260128070752669800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -39,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "特朗普：将很快宣布新的美联储主席人选",
+          "url": "https://news.ifeng.com/c/8qH7ZqPC79B",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "美国总统特朗普：听说伊拉克可能会做出非常糟糕的选择，重新任命努里·马利基为总理。如果他当选，美利坚合众国将不再援助伊拉克。",
@@ -58,7 +91,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -69,7 +102,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -234,6 +267,17 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
+          "title": "特朗普，两天内动手？",
+          "url": "https://news.ifeng.com/c/8qGwey6pidp",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
           "title": "美国法官判定Martha旗下Vineyard风电项目胜诉，此前该国总统特朗普叫停其风电项目。",
           "url": "https://wallstreetcn.com/livenews/3044972",
           "source": "华尔街见闻-快讯",
@@ -251,7 +295,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -262,7 +306,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -317,9 +361,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
+          "url": "https://www.cls.cn/detail/2271889",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "美国总统特朗普：乌克兰和俄罗斯之间正在发生非常好的事情。",
@@ -350,7 +405,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -474,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "特朗普称还有一支舰队正驶向伊朗",
+          "url": "https://flash.jin10.com/detail/20260128083925051800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "德国央行行长：欧洲央行在制定货币政策时必须密切留意特朗普论调的外溢性",
@@ -601,11 +667,12 @@
             25,
             22,
             18,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 09时12分]"
         },
         {
           "title": "美国农业部（USDA）更新政策，加速联邦石油与天然气（土地/水域）的租赁（审批）。",
@@ -632,11 +699,12 @@
           "ranks": [
             20,
             18,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 09时12分]"
         }
       ]
     }

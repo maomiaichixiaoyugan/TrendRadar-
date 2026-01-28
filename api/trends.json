@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T14:28:17.006303+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-01-28T15:22:01.407661+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 14时28分]"
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 15时22分]"
         },
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 14时28分]"
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 15时22分]"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -39,6 +39,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时23分 ~ 07时17分]"
+        },
+        {
+          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+          "url": "https://wallstreetcn.com/articles/3764299",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时40分 ~ 15时22分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -53,17 +66,31 @@
           "time_info": "[09时12分 ~ 13时23分]"
         },
         {
-          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
-          "url": "https://wallstreetcn.com/articles/3764299",
-          "source": "华尔街见闻",
+          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
+          "url": "https://www.cls.cn/detail/2271977",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            5,
-            4
+            9,
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 14时28分]"
+          "appearance_count": 7,
+          "time_info": "[11时40分 ~ 15时22分]"
+        },
+        {
+          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
+          "url": "https://www.cls.cn/detail/2271889",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时12分 ~ 15时22分]"
         },
         {
           "title": "特朗普，两天内动手？",
@@ -143,33 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
-          "url": "https://www.cls.cn/detail/2271977",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 14时28分]"
-        },
-        {
-          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
-          "url": "https://www.cls.cn/detail/2271889",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 14时28分]"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -283,6 +283,19 @@
           "time_info": "[03时22分 ~ 04时18分]"
         },
         {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 15时22分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡未否认曾要求特朗普不要攻击伊朗。",
           "url": "https://flash.jin10.com/detail/20260128030532843800",
           "source": "金十数据",
@@ -306,18 +319,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时22分 ~ 05时14分]"
-        },
-        {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 14时28分]"
         },
         {
           "title": "叙利亚总统府表示，总统沙拉向美国总统特朗普强调，必须统一国际努力，以阻止包括“伊斯兰国”在内的“恐怖组织”卷土重来。",
@@ -430,7 +431,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -743,6 +744,17 @@
           "time_info": "06时18分"
         },
         {
+          "title": "“美元微笑理论”提出者称特朗普言论或意味着美元新一轮跌势的开始",
+          "url": "https://wallstreetcn.com/livenews/3045330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
           "title": "美国总统特朗普：农民将是关税的最大受益者。",
           "url": "https://flash.jin10.com/detail/20260128053757706800",
           "source": "金十数据",
@@ -803,11 +815,12 @@
             18,
             19,
             13,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 14时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 15时22分]"
         },
         {
           "title": "恒生科技指数日内涨超1%，华虹半导体涨近4%，阿里健康涨超3%，快手涨近3%。",

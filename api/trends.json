@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T16:23:47.639312+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-01-28T17:29:33.194677+08:00",
+  "total_titles_processed": 1578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时12分 ~ 16时23分]"
+          "appearance_count": 10,
+          "time_info": "[09时12分 ~ 17时29分]"
         },
         {
           "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 17时29分]"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -76,8 +76,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 17时29分]"
         },
         {
           "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
@@ -104,6 +104,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时12分 ~ 14时28分]"
+        },
+        {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 17时29分]"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -171,19 +184,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时23分 ~ 16时23分]"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -388,7 +388,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -443,7 +443,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -457,6 +457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "特朗普乐见贬值，美元跌至四年低位，亚洲货币走强，现货黄金站上5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
@@ -624,6 +635,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "惠誉评级：越南不断扩大的贸易顺差可能引发特朗普政府的更严格审查，增加了美国采取额外贸易措施的风险。",
+          "url": "https://flash.jin10.com/detail/20260128165630688800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "拜登批评特朗普政府在明州的移民执法行动",
           "url": "https://wallstreetcn.com/livenews/3044911",
           "source": "华尔街见闻-快讯",
@@ -718,7 +740,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -851,11 +873,12 @@
             13,
             16,
             17,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时23分 ~ 16时23分]"
+          "appearance_count": 23,
+          "time_info": "[00时23分 ~ 17时29分]"
         },
         {
           "title": "恒生科技指数日内涨超1%，华虹半导体涨近4%，阿里健康涨超3%，快手涨近3%。",

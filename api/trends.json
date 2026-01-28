@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T18:22:34.450157+08:00",
-  "total_titles_processed": 1667,
+  "generated_at": "2026-01-28T19:19:29.522024+08:00",
+  "total_titles_processed": 1767,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时40分 ~ 18时22分]"
+          "appearance_count": 11,
+          "time_info": "[11时40分 ~ 19时19分]"
         },
         {
           "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
@@ -89,8 +89,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时23分 ~ 18时22分]"
+          "appearance_count": 8,
+          "time_info": "[13时23分 ~ 19时19分]"
+        },
+        {
+          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
+          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时19分]"
         },
         {
           "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
@@ -117,17 +128,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时12分 ~ 14时28分]"
-        },
-        {
-          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
-          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -438,6 +438,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "美国总统特朗普：正在努力就E15混合燃料达成协议。我会毫不犹豫地签署相关法案。",
           "url": "https://flash.jin10.com/detail/20260128065145858800",
           "source": "金十数据",
@@ -631,9 +642,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-28）",
+          "url": "https://flash.jin10.com/detail/20260128183238468800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",

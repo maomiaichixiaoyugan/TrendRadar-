@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T22:19:43.450709+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2026-01-31T23:17:59.104309+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时31分 ~ 22时19分]"
+          "appearance_count": 26,
+          "time_info": "[00时31分 ~ 23时17分]"
         },
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -82,8 +82,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时30分 ~ 22时19分]"
+          "appearance_count": 12,
+          "time_info": "[14时30分 ~ 23时17分]"
         },
         {
           "title": "沃什胜出！特朗普为何提名他任美联储主席？对市场有何影响？",
@@ -124,8 +124,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时18分 ~ 22时19分]"
+          "appearance_count": 16,
+          "time_info": "[09时18分 ~ 23时17分]"
         },
         {
           "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
@@ -160,8 +160,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时01分 ~ 22时19分]"
+          "appearance_count": 14,
+          "time_info": "[12时01分 ~ 23时17分]"
         },
         {
           "title": "特朗普起诉美政府部门",
@@ -216,8 +216,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时18分 ~ 22时19分]"
+          "appearance_count": 19,
+          "time_info": "[06时18分 ~ 23时17分]"
         },
         {
           "title": "特朗普：提名凯文·沃什出任美联储主席",
@@ -258,8 +258,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时22分 ~ 22时19分]"
+          "appearance_count": 9,
+          "time_info": "[16时22分 ~ 23时17分]"
         },
         {
           "title": "谁是沃什？其岳父第一个建议特朗普买下格陵兰岛",
@@ -320,17 +320,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
-        },
-        {
-          "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
-          "url": "https://wallstreetcn.com/livenews/3047706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
         },
         {
           "title": "美国总统特朗普赞赏标普500指数创历史新高。",
@@ -394,17 +383,6 @@
           "time_info": "01时28分"
         },
         {
-          "title": "特朗普：明尼苏达州州长要么是腐败之人，要么能力不足",
-          "url": "https://flash.jin10.com/detail/20260131213021035800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
           "title": "斯塔默回击特朗普涉中英合作言论：忽视中国是“不明智的”",
           "url": "https://wallstreetcn.com/livenews/3047643",
           "source": "华尔街见闻-快讯",
@@ -434,6 +412,17 @@
           "time_info": "[07时20分 ~ 13时04分]"
         },
         {
+          "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
+          "url": "https://news.ifeng.com/c/8qMdkARYmOZ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 23时17分]"
+        },
+        {
           "title": "特朗普起诉美国财政部和国税局，索赔至少 100 亿美元，如何看待此举？他持续起诉的核心目的是什么？",
           "url": "https://www.zhihu.com/question/2000500598013911312",
           "source": "知乎",
@@ -458,6 +447,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时01分 ~ 16时22分]"
+        },
+        {
+          "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
+          "url": "https://wallstreetcn.com/livenews/3047706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时17分]"
         },
         {
           "title": "美国参议院民主党领导人Schumer：如果总统特朗普对美联储继续“仇深似海”（vendetta），参议院就不可以推动他的美联储主席提名人沃什的确认程序。",
@@ -509,6 +510,18 @@
           "time_info": "[04时22分 ~ 05时22分]"
         },
         {
+          "title": "特朗普：明尼苏达州州长要么是腐败之人，要么能力不足",
+          "url": "https://flash.jin10.com/detail/20260131213021035800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时17分]"
+        },
+        {
           "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
           "url": "https://wallstreetcn.com/livenews/3047616",
           "source": "华尔街见闻-快讯",
@@ -521,17 +534,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时19分 ~ 14时31分]"
-        },
-        {
-          "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
-          "url": "https://news.ifeng.com/c/8qMdkARYmOZ",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时19分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-31）",
@@ -877,8 +879,25 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "抖音年味舞蹈大赏",
+          "url": "https://www.douyin.com/hot/2385102",
+          "source": "抖音",
+          "ranks": [
+            18,
+            15,
+            17,
+            16,
+            19,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时24分 ~ 23时17分]"
+        },
         {
           "title": "抖音ACG新春会下猛料了",
           "url": "https://www.douyin.com/hot/2383974",
@@ -898,22 +917,6 @@
           "time_info": "[00时31分 ~ 12时01分]"
         },
         {
-          "title": "抖音年味舞蹈大赏",
-          "url": "https://www.douyin.com/hot/2385102",
-          "source": "抖音",
-          "ranks": [
-            18,
-            15,
-            17,
-            16,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时24分 ~ 22时19分]"
-        },
-        {
           "title": "在抖音追生命树有问必答",
           "url": "https://www.douyin.com/hot/2385192",
           "source": "抖音",
@@ -922,11 +925,23 @@
             12,
             11,
             16,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时21分 ~ 22时19分]"
+          "appearance_count": 8,
+          "time_info": "[17时21分 ~ 23时17分]"
+        },
+        {
+          "title": "这个冬天被抖音网友的善意暖到了",
+          "url": "https://www.douyin.com/hot/2385605",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "谁还没玩到抖音仔仔啊",

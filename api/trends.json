@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T21:39:20.175664+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-02-01T22:20:54.038605+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
@@ -84,6 +84,19 @@
           "time_info": "[00时20分 ~ 09时45分]"
         },
         {
+          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时25分 ~ 22时20分]"
+        },
+        {
           "title": "特朗普：美委将“分享”石油收益",
           "url": "https://wallstreetcn.com/livenews/3047762",
           "source": "华尔街见闻-快讯",
@@ -109,19 +122,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时25分 ~ 21时39分]"
         },
         {
           "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
@@ -162,6 +162,19 @@
           "time_info": "[12时25分 ~ 17时25分]"
         },
         {
+          "title": "特朗普：正与伊朗进行对话",
+          "url": "https://www.cls.cn/detail/2276668",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 22时20分]"
+        },
+        {
           "title": "特朗普称就格陵兰岛的谈判即将达成一致",
           "url": "https://wallstreetcn.com/livenews/3047752",
           "source": "华尔街见闻-快讯",
@@ -189,6 +202,17 @@
           "time_info": "[00时20分 ~ 01时19分]"
         },
         {
+          "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
+          "url": "https://news.ifeng.com/c/8qOFedymx0W",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时20分]"
+        },
+        {
           "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
           "url": "https://wallstreetcn.com/livenews/3047726",
           "source": "华尔街见闻-快讯",
@@ -201,19 +225,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时16分 ~ 13时57分]"
-        },
-        {
-          "title": "特朗普：正与伊朗进行对话",
-          "url": "https://www.cls.cn/detail/2276668",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 21时39分]"
         },
         {
           "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
@@ -229,6 +240,31 @@
           "time_info": "[16时25分 ~ 21时39分]"
         },
         {
+          "title": "美国众议院议长约翰逊：特朗普在移民政策上可能会进行“重新调整”。",
+          "url": "https://wallstreetcn.com/livenews/3047823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
+          "url": "https://flash.jin10.com/detail/20260201190247560800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 22时20分]"
+        },
+        {
           "title": "特朗普上任一周年做了什么",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8A%E4%BB%BB%E4%B8%80%E5%91%A8%E5%B9%B4%E5%81%9A%E4%BA%86%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -240,15 +276,18 @@
           "time_info": "15时34分"
         },
         {
-          "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
-          "url": "https://news.ifeng.com/c/8qOFedymx0W",
-          "source": "凤凰网",
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
+          "url": "https://flash.jin10.com/detail/20260201190211010800",
+          "source": "金十数据",
           "ranks": [
-            5
+            3,
+            8,
+            13,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 22时20分]"
         },
         {
           "title": "特朗普称伊朗正“严肃”与美国对话",
@@ -264,6 +303,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时25分 ~ 16时25分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-01）",
+          "url": "https://flash.jin10.com/detail/20260201185420868800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 22时20分]"
         },
         {
           "title": "特朗普谈及古巴 称将达成协议",
@@ -311,45 +364,6 @@
           "time_info": "[09时45分 ~ 15时34分]"
         },
         {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
-          "url": "https://flash.jin10.com/detail/20260201190247560800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 21时39分]"
-        },
-        {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
-          "url": "https://flash.jin10.com/detail/20260201190211010800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 21时39分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-01）",
-          "url": "https://flash.jin10.com/detail/20260201185420868800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 21时39分]"
-        },
-        {
           "title": "特朗普：伊朗正“严肃”地与美国进行对话",
           "url": "https://flash.jin10.com/detail/20260201110314645800",
           "source": "金十数据",
@@ -384,6 +398,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时25分 ~ 13时57分]"
+        },
+        {
+          "title": "据以色列第12频道：以色列总参谋长与美国官员举行会谈，讨论了有关对伊朗进行潜在打击的军事协调问题。以色列方面尚不清楚特朗普对伊朗的意图，但他们正在为各种可能性做好准备。",
+          "url": "https://flash.jin10.com/detail/20260201181510875800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 22时20分]"
         },
         {
           "title": "特朗普：已下令国土安全部，暂不介入民主党主政城市的抗议",
@@ -424,17 +452,27 @@
           "time_info": "[12时25分 ~ 14时44分]"
         },
         {
-          "title": "据以色列第12频道：以色列总参谋长与美国官员举行会谈，讨论了有关对伊朗进行潜在打击的军事协调问题。以色列方面尚不清楚特朗普对伊朗的意图，但他们正在为各种可能性做好准备。",
-          "url": "https://flash.jin10.com/detail/20260201181510875800",
-          "source": "金十数据",
+          "title": "特朗普：美委将“分享”石油收益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            15,
-            20
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时17分 ~ 21时39分]"
+          "time_info": "[20时34分 ~ 22时20分]"
+        },
+        {
+          "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
+          "url": "https://news.ifeng.com/c/8qOL2MAnXO8",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时20分]"
         },
         {
           "title": "特朗普：认为格陵兰岛协议已基本达成",
@@ -449,16 +487,15 @@
           "time_info": "[12时25分 ~ 13时57分]"
         },
         {
-          "title": "特朗普：美委将“分享”石油收益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
-          "source": "澎湃新闻",
+          "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
+          "url": "https://news.ifeng.com/c/8qOLT943YcA",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时34分 ~ 21时39分]"
+          "time_info": "[21时39分 ~ 22时20分]"
         },
         {
           "title": "特朗普称正与伊朗进行对话",
@@ -482,28 +519,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
-        },
-        {
-          "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
-          "url": "https://news.ifeng.com/c/8qOL2MAnXO8",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
-          "url": "https://news.ifeng.com/c/8qOLT943YcA",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
         },
         {
           "title": "美国总统特朗普：认为我们即将就古巴达成一项协议。",
@@ -636,8 +651,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 19时17分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 22时20分]"
         }
       ]
     }

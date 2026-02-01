@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T07:16:47.028255+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-02-01T09:45:44.452282+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时45分]"
         },
         {
           "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时45分]"
         },
         {
           "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
@@ -50,8 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时22分 ~ 07时16分]"
+          "appearance_count": 10,
+          "time_info": "[02时22分 ~ 09时45分]"
         },
         {
           "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
@@ -61,11 +61,12 @@
             6,
             7,
             8,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 09时45分]"
         },
         {
           "title": "特朗普：明尼苏达州州长要么是腐败之人，要么能力不足",
@@ -96,22 +97,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时15分 ~ 07时16分]"
-        },
-        {
-          "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
-          "url": "https://wallstreetcn.com/livenews/3047726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时16分]"
+          "appearance_count": 4,
+          "time_info": "[05时15分 ~ 09时45分]"
         },
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
@@ -125,6 +116,18 @@
           "time_info": "[00时20分 ~ 01时19分]"
         },
         {
+          "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
+          "url": "https://wallstreetcn.com/livenews/3047726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 09时45分]"
+        },
+        {
           "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
           "url": "https://wallstreetcn.com/articles/3764621",
           "source": "华尔街见闻",
@@ -135,6 +138,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时20分 ~ 02时23分]"
+        },
+        {
+          "title": "特朗普称美伊正谈判",
+          "url": "https://wallstreetcn.com/livenews/3047731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "特朗普称正与伊朗进行对话",
+          "url": "https://flash.jin10.com/detail/20260201082730474800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         }
       ]
     },
@@ -148,11 +173,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时45分]"
         },
         {
           "title": "在抖音追生命树有问必答",
@@ -165,11 +191,12 @@
             28,
             21,
             18,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时45分]"
         },
         {
           "title": "抖音年味舞蹈大赏",
@@ -180,11 +207,12 @@
             27,
             30,
             29,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时45分]"
         }
       ]
     }

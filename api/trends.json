@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T15:40:38.512721+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-02-04T16:33:13.636826+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,35 @@
           "source": "凤凰网",
           "ranks": [
             5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时06分 ~ 16时33分]"
+        },
+        {
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "source": "凤凰网",
+          "ranks": [
+            6,
             4
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时06分 ~ 16时33分]"
+        },
+        {
+          "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
+          "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时06分 ~ 15时40分]"
+          "time_info": "[13时43分 ~ 16时33分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -53,26 +77,16 @@
           "time_info": "[00时44分 ~ 06时30分]"
         },
         {
-          "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
-          "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
-          "source": "凤凰网",
+          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
+          "url": "https://www.cls.cn/detail/2280009",
+          "source": "财联社热门",
           "ranks": [
+            11,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 15时40分]"
-        },
-        {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时06分 ~ 15时40分]"
+          "time_info": "[13时43分 ~ 16时33分]"
         },
         {
           "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
@@ -85,18 +99,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时06分 ~ 15时40分]"
-        },
-        {
-          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
-          "url": "https://www.cls.cn/detail/2280009",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 15时40分]"
         },
         {
           "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
@@ -353,7 +355,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -573,7 +575,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },

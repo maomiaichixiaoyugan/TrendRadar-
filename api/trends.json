@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T09:22:44.834037+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-02-05T12:09:17.484213+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 09时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 12时09分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -63,11 +63,12 @@
             15,
             9,
             6,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时41分 ~ 09时22分]"
+          "appearance_count": 10,
+          "time_info": "[01时41分 ~ 12时09分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -100,9 +101,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时09分]"
         },
         {
           "title": "美国总统特朗普：美联储将下调利率，这是毫无疑问的。 我认为，美联储主席提名人沃什无论如何都想要降息。",
@@ -126,6 +127,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时20分 ~ 09时22分]"
+        },
+        {
+          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
+          "url": "https://www.cls.cn/detail/2281033",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         },
         {
           "title": "美国财长贝森特：已有超过100万美国家庭为2025年至2028年出生的儿童注册了“特朗普账户”。",
@@ -346,7 +358,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -360,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "特朗普降息言论难抵金银抛售潮 流动性匮乏放大波动",
+          "url": "https://flash.jin10.com/detail/20260205113340203800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         },
         {
           "title": "据Politico：美国众议院议长约翰逊计划今天下午会见美国总统特朗普。",
@@ -379,7 +402,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -401,7 +424,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -412,7 +435,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -434,7 +457,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }

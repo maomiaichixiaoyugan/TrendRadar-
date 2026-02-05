@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T14:50:31.780707+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-02-05T15:46:08.950680+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 14时50分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 15时46分]"
+        },
+        {
+          "title": "特朗普：中美元首通话内容详实，气氛积极",
+          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 15时46分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -67,19 +78,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时41分 ~ 14时50分]"
+          "appearance_count": 15,
+          "time_info": "[01时41分 ~ 15时46分]"
         },
         {
-          "title": "特朗普：中美元首通话内容详实，气氛积极",
-          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
-          "source": "凤凰网",
+          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
+          "url": "https://www.cls.cn/detail/2281033",
+          "source": "财联社热门",
           "ranks": [
-            1
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 14时50分]"
+          "appearance_count": 6,
+          "time_info": "[12时09分 ~ 15时46分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -93,18 +105,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时39分 ~ 09时22分]"
-        },
-        {
-          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
-          "url": "https://www.cls.cn/detail/2281033",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 14时50分]"
         },
         {
           "title": "习近平同特朗普通电话",

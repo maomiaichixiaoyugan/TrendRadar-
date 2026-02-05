@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T05:22:50.660030+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-02-06T06:21:11.118126+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 05时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 06时21分]"
         },
         {
           "title": "阿根廷宣布与特朗普政府签署贸易协议",
@@ -90,6 +90,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时22分]"
+        },
+        {
+          "title": "贝森特听证“火星四射”：否认关税导致通胀，重申强美元，问责美联储，被喷当特朗普走狗",
+          "url": "https://wallstreetcn.com/articles/3764992",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 06时21分]"
         },
         {
           "title": "沃什未上任已被特朗普施压",
@@ -220,17 +231,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
-        },
-        {
-          "title": "贝森特听证“火星四射”：否认关税导致通胀，重申强美元，问责美联储，被喷当特朗普走狗",
-          "url": "https://wallstreetcn.com/articles/3764992",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
         },
         {
           "title": "唐宁街发言人：英国首相斯塔默与美国总统特朗普一致认为，达成一项协议以确保在迪戈加西亚岛建立英美联合基地至关重要，而该基地对双方共同的安全利益依然至关重要。",

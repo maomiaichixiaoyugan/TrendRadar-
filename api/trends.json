@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T13:52:01.049953+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-02-05T14:50:31.780707+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 13时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 14时50分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -67,8 +67,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时41分 ~ 13时52分]"
+          "appearance_count": 13,
+          "time_info": "[01时41分 ~ 14时50分]"
+        },
+        {
+          "title": "特朗普：中美元首通话内容详实，气氛积极",
+          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 14时50分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -84,17 +95,6 @@
           "time_info": "[00时39分 ~ 09时22分]"
         },
         {
-          "title": "特朗普：中美元首通话内容详实，气氛积极",
-          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 13时52分]"
-        },
-        {
           "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
           "url": "https://www.cls.cn/detail/2281033",
           "source": "财联社热门",
@@ -103,8 +103,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 14时50分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -473,11 +473,12 @@
           "url": "https://wallstreetcn.com/livenews/3050374",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时50分]"
         }
       ]
     }

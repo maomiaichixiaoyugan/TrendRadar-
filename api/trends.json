@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T06:21:11.118126+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-02-06T07:18:48.895133+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 07时18分]"
         },
         {
           "title": "阿根廷宣布与特朗普政府签署贸易协议",
@@ -92,6 +92,19 @@
           "time_info": "[04时27分 ~ 05时22分]"
         },
         {
+          "title": "沃什未上任已被特朗普施压",
+          "url": "https://www.douyin.com/hot/2390169",
+          "source": "抖音",
+          "ranks": [
+            17,
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 07时18分]"
+        },
+        {
           "title": "贝森特听证“火星四射”：否认关税导致通胀，重申强美元，问责美联储，被喷当特朗普走狗",
           "url": "https://wallstreetcn.com/articles/3764992",
           "source": "华尔街见闻",
@@ -101,18 +114,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 06时21分]"
-        },
-        {
-          "title": "沃什未上任已被特朗普施压",
-          "url": "https://www.douyin.com/hot/2390169",
-          "source": "抖音",
-          "ranks": [
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 02时40分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：（美国总统特朗普的政府）愿意讨论民主党在国土安全部（DHS）预算拨款问题上的某些要求。",

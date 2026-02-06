@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T21:58:35.119813+08:00",
-  "total_titles_processed": 1980,
+  "generated_at": "2026-02-06T22:39:13.232357+08:00",
+  "total_titles_processed": 2063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时22分 ~ 21时58分]"
+          "appearance_count": 14,
+          "time_info": "[09时22分 ~ 22时39分]"
+        },
+        {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时34分 ~ 22时39分]"
         },
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -31,19 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时09分 ~ 21时58分]"
-        },
-        {
-          "title": "中方回应特朗普公开支持高市早苗",
-          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 21时58分]"
+          "appearance_count": 12,
+          "time_info": "[12时09分 ~ 22时39分]"
         },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -100,6 +100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        },
+        {
+          "title": "美国亚特兰大联储主席Bostic：不知道（总统特朗普的美联储主席提名人）凯文·沃什脑子里对于美联储“管理层变动”的想法。",
+          "url": "https://wallstreetcn.com/livenews/3051489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "阿根廷宣布与特朗普政府签署贸易协议",
@@ -199,6 +210,18 @@
           "time_info": "[05时22分 ~ 06时21分]"
         },
         {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 22时39分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：（美国总统特朗普的政府）愿意讨论民主党在国土安全部（DHS）预算拨款问题上的某些要求。",
           "url": "https://wallstreetcn.com/livenews/3050862",
           "source": "华尔街见闻-快讯",
@@ -293,6 +316,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时40分]"
+        },
+        {
+          "title": "特朗普为何不愿保护乌克兰",
+          "url": "https://www.toutiao.com/trending/7603690740530548250/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 22时39分]"
         },
         {
           "title": "外交部回应特朗普支持高市赢得大选",
@@ -526,17 +560,6 @@
           "time_info": "02时40分"
         },
         {
-          "title": "美伊谈判前特朗普发李小龙视频",
-          "url": "https://www.douyin.com/hot/2391580",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
           "title": "美国总统特朗普：我完全且坚定地支持欧尔班再次担任匈牙利总理。",
           "url": "https://flash.jin10.com/detail/20260206020145026800",
           "source": "金十数据",
@@ -572,8 +595,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时36分 ~ 21时58分]"
+          "appearance_count": 7,
+          "time_info": "[17时36分 ~ 22时39分]"
         },
         {
           "title": "邓超终于有抖音了",
@@ -585,8 +608,22 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时48分 ~ 21时58分]"
+          "appearance_count": 11,
+          "time_info": "[13时48分 ~ 22时39分]"
+        },
+        {
+          "title": "抖音ACG新春会年味拉满",
+          "url": "https://www.douyin.com/hot/2391404",
+          "source": "抖音",
+          "ranks": [
+            8,
+            7,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时36分 ~ 22时39分]"
         },
         {
           "title": "网信部门对快手平台处警告、1.191亿元人民币罚款处罚",
@@ -600,17 +637,18 @@
           "time_info": "17时36分"
         },
         {
-          "title": "抖音ACG新春会年味拉满",
-          "url": "https://www.douyin.com/hot/2391404",
-          "source": "抖音",
+          "title": "快手被罚1.191亿",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E6%89%8B%E8%A2%AB%E7%BD%9A1.191%E4%BA%BF",
+          "source": "bilibili 热搜",
           "ranks": [
             8,
-            7,
-            6
+            11,
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时36分 ~ 21时58分]"
+          "appearance_count": 6,
+          "time_info": "[18时33分 ~ 22时39分]"
         },
         {
           "title": "港股科技板块卖空显著升温 快手卖空金额增超10倍",
@@ -638,18 +676,28 @@
           "time_info": "[17时36分 ~ 18时33分]"
         },
         {
-          "title": "快手被罚1.191亿",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E6%89%8B%E8%A2%AB%E7%BD%9A1.191%E4%BA%BF",
-          "source": "bilibili 热搜",
+          "title": "徐杰在抖音带你去CBA全明星",
+          "url": "https://www.douyin.com/hot/2392118",
+          "source": "抖音",
           "ranks": [
-            8,
-            11,
             15,
-            17
+            13,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时33分 ~ 21时58分]"
+          "time_info": "[20时43分 ~ 22时39分]"
+        },
+        {
+          "title": "网信部门对快手平台依法作出处罚",
+          "url": "https://www.cls.cn/detail/2282993",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 22时39分]"
         },
         {
           "title": "网信部门对快手平台依法作出处罚",
@@ -661,18 +709,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时36分 ~ 18时33分]"
-        },
-        {
-          "title": "徐杰在抖音带你去CBA全明星",
-          "url": "https://www.douyin.com/hot/2392118",
-          "source": "抖音",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时58分]"
         },
         {
           "title": "网信部门对快手平台依法作出处罚",
@@ -706,17 +742,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
-        },
-        {
-          "title": "网信部门对快手平台依法作出处罚",
-          "url": "https://www.cls.cn/detail/2282993",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
         },
         {
           "title": "快手回应被处罚：诚恳接受，坚决整改",

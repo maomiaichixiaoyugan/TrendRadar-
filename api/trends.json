@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T16:34:18.950748+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2026-02-06T17:36:46.594284+08:00",
+  "total_titles_processed": 1561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时22分 ~ 17时36分]"
         },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -29,6 +29,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时39分 ~ 07时18分]"
+        },
+        {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时09分 ~ 17时36分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -43,18 +58,15 @@
           "time_info": "[12时09分 ~ 15时42分]"
         },
         {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            7,
-            4,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 16时34分]"
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时36分]"
         },
         {
           "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
@@ -66,17 +78,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "中方回应特朗普公开支持高市早苗",
-          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
         },
         {
           "title": "特朗普称支持高市早苗赢得日本大选，外交部：不作评论",
@@ -289,7 +290,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -415,6 +416,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "据伊朗国家电视台报道：特朗普高级顾问库什纳也将出席伊美会谈。",
+          "url": "https://flash.jin10.com/detail/20260206164225309800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "白宫发言人：美国总统特朗普将于周四推出TrumpRX网站。",
           "url": "https://flash.jin10.com/detail/20260206000842000800",
           "source": "金十数据",
@@ -483,6 +495,92 @@
       ]
     },
     {
+      "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "色情管不住,快手被罚1个亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350330&amp;topic_name=%E8%89%B2%E6%83%85%E7%AE%A1%E4%B8%8D%E4%BD%8F%2C%E5%BF%AB%E6%89%8B%E8%A2%AB%E7%BD%9A1%E4%B8%AA%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "网信部门对快手平台处警告、1.191亿元人民币罚款处罚",
+          "url": "https://wallstreetcn.com/livenews/3051299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "快手被罚1.191亿元人民币",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BF%AB%E6%89%8B%E8%A2%AB%E7%BD%9A1.191%E4%BA%BF%E5%85%83%E4%BA%BA%E6%B0%91%E5%B8%81%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "邓超终于有抖音了",
+          "url": "https://www.douyin.com/hot/2391408",
+          "source": "抖音",
+          "ranks": [
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时48分 ~ 17时36分]"
+        },
+        {
+          "title": "港股科技板块卖空显著升温 快手卖空金额增超10倍",
+          "url": "https://www.cls.cn/detail/2282576",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 17时36分]"
+        },
+        {
+          "title": "抖音ACG新春会年味拉满",
+          "url": "https://www.douyin.com/hot/2391404",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "网信部门对快手平台依法作出处罚",
+          "url": "https://www.douyin.com/hot/2391852",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
       "match_count": 3,
       "titles": [
@@ -518,36 +616,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "邓超终于有抖音了",
-          "url": "https://www.douyin.com/hot/2391408",
-          "source": "抖音",
-          "ranks": [
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 16时34分]"
-        },
-        {
-          "title": "港股科技板块卖空显著升温 快手卖空金额增超10倍",
-          "url": "https://www.cls.cn/detail/2282576",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时34分]"
         }
       ]
     }

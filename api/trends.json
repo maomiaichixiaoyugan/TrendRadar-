@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T12:09:39.852733+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-02-06T13:48:58.107441+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 12时09分]"
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 13时48分]"
         },
         {
           "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
@@ -47,9 +47,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 13时48分]"
         },
         {
           "title": "阿根廷宣布与特朗普政府签署贸易协议",
@@ -159,6 +159,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时22分]"
+        },
+        {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 13时48分]"
         },
         {
           "title": "美国白宫：（就古巴问题）特朗普始终乐于开展外交活动。",
@@ -289,17 +301,6 @@
           "time_info": "00时40分"
         },
         {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
           "title": "美国总统特朗普：从今晚开始，数十种最常用的处方药将在一个新网站上（TrumpRx）以大幅折扣的价格面向所有消费者供应。",
           "url": "https://flash.jin10.com/detail/20260206084843211800",
           "source": "金十数据",
@@ -328,7 +329,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -469,6 +470,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "邓超终于有抖音了",
+          "url": "https://www.douyin.com/hot/2391408",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         }
       ]
     }

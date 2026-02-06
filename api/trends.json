@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-07T05:25:30.955093+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-02-07T06:17:43.114176+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
           "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 06时17分]"
         },
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -27,8 +28,35 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 06时17分]"
+        },
+        {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            21,
+            15,
+            10,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 06时17分]"
+        },
+        {
+          "title": "美媒：特朗普特使在阿曼与伊朗外长进行了直接会面",
+          "url": "https://flash.jin10.com/detail/20260207030824403800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时34分 ~ 06时17分]"
         },
         {
           "title": "中方回应特朗普公开支持高市早苗",
@@ -53,32 +81,6 @@
           "time_info": "01时37分"
         },
         {
-          "title": "美伊谈判前特朗普发李小龙视频",
-          "url": "https://www.douyin.com/hot/2391580",
-          "source": "抖音",
-          "ranks": [
-            21,
-            15,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时25分]"
-        },
-        {
-          "title": "美媒：特朗普特使在阿曼与伊朗外长进行了直接会面",
-          "url": "https://flash.jin10.com/detail/20260207030824403800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 05时25分]"
-        },
-        {
           "title": "白宫官员回应特朗普发布针对奥巴马夫妇的种族主义视频：这是白宫工作人员误发该帖，现已删除。",
           "url": "https://flash.jin10.com/detail/20260207010541292800",
           "source": "金十数据",
@@ -88,6 +90,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "特朗普“下场”支持日本首相",
+          "url": "https://www.douyin.com/hot/2391219",
+          "source": "抖音",
+          "ranks": [
+            17,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时39分 ~ 06时17分]"
         },
         {
           "title": "贝森特驳斥关于他与特朗普美元言论存在分歧的说法",
@@ -129,6 +144,18 @@
           "time_info": "[02时39分 ~ 04时26分]"
         },
         {
+          "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
+          "url": "https://flash.jin10.com/detail/20260207024944141800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时34分 ~ 06时17分]"
+        },
+        {
           "title": "据CBS：特朗普下令将阿根廷的牛肉进口量增至四倍。",
           "url": "https://flash.jin10.com/detail/20260207021259349800",
           "source": "金十数据",
@@ -139,31 +166,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时34分]"
-        },
-        {
-          "title": "特朗普“下场”支持日本首相",
-          "url": "https://www.douyin.com/hot/2391219",
-          "source": "抖音",
-          "ranks": [
-            17,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时39分 ~ 05时25分]"
-        },
-        {
-          "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
-          "url": "https://flash.jin10.com/detail/20260207024944141800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 05时25分]"
         },
         {
           "title": "一名官员称，美国总统特朗普下令，从阿根廷进口的牛肉将增加三倍。（CBS）",
@@ -177,6 +179,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时39分 ~ 04时26分]"
+        },
+        {
+          "title": "美国总统特朗普：道琼斯工业平均指数历史上首次突破50,000点。祝贺美国！",
+          "url": "https://flash.jin10.com/detail/20260207034858058800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 06时17分]"
         },
         {
           "title": "贝森特重申：特朗普有关解雇沃什的言论是个玩笑",
@@ -217,17 +230,6 @@
           "time_info": "[01时37分 ~ 02时39分]"
         },
         {
-          "title": "美国总统特朗普：道琼斯工业平均指数历史上首次突破50,000点。祝贺美国！",
-          "url": "https://flash.jin10.com/detail/20260207034858058800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时25分]"
-        },
-        {
           "title": "美国纽约-新泽西隧道项目被迫停工，此前特朗普政府冻结资金",
           "url": "https://wallstreetcn.com/livenews/3051532",
           "source": "华尔街见闻-快讯",
@@ -238,6 +240,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时37分]"
+        },
+        {
+          "title": "白宫：美国总统特朗普签署关于扩大进口阿根廷牛肉的命令是为了美国消费者。",
+          "url": "https://wallstreetcn.com/livenews/3051632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "美国财长贝森特：特朗普账户或是其最伟大的政治遗产。",
@@ -287,7 +300,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "色情管不住,快手被罚1个亿",
@@ -297,8 +310,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 06时17分]"
+        },
+        {
+          "title": "邓超终于有抖音了",
+          "url": "https://www.douyin.com/hot/2391408",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 06时17分]"
         },
         {
           "title": "网信部门对快手平台依法作出处罚",
@@ -307,17 +331,6 @@
           "ranks": [
             11,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时25分]"
-        },
-        {
-          "title": "邓超终于有抖音了",
-          "url": "https://www.douyin.com/hot/2391408",
-          "source": "抖音",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -333,6 +346,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时36分 ~ 02时39分]"
+        },
+        {
+          "title": "抖音ACG新春会年味拉满",
+          "url": "https://www.douyin.com/hot/2391404",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     }

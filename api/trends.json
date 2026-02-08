@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T17:25:37.814924+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2026-02-08T18:20:08.171173+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
@@ -67,11 +67,12 @@
             8,
             9,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 17时25分]"
+          "appearance_count": 22,
+          "time_info": "[00时21分 ~ 18时20分]"
         },
         {
           "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
@@ -252,6 +253,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时58分 ~ 16时25分]"
+        },
+        {
+          "title": "内塔尼亚胡将于下周三与特朗普会面，讨论伊朗问题",
+          "url": "https://flash.jin10.com/detail/20260208174127645800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",

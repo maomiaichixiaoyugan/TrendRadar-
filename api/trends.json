@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T20:34:05.343610+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2026-02-08T21:40:21.244040+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
@@ -289,11 +289,12 @@
           "ranks": [
             2,
             12,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时34分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 21时40分]"
         },
         {
           "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
@@ -314,11 +315,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时34分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时40分]"
         },
         {
           "title": "特朗普拒为种族主义视频道歉",
@@ -335,7 +337,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "色情管不住,快手被罚1个亿",
@@ -372,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "跟着抖音颜值天团新年美出圈",
+          "url": "https://www.douyin.com/hot/2393819",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         }
       ]
     }

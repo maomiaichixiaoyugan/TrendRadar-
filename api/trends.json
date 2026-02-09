@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-09T20:54:01.499014+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2026-02-09T22:12:09.722268+08:00",
+  "total_titles_processed": 1691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "高市早苗“奇葩式获胜”与特朗普二次当选情况相似",
+          "url": "https://news.ifeng.com/c/8qbQFf1tpNt",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时52分 ~ 22时12分]"
+        },
         {
           "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
           "url": "https://flash.jin10.com/detail/20260208234419221800",
@@ -31,22 +42,12 @@
             15,
             14,
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时03分 ~ 20时54分]"
-        },
-        {
-          "title": "高市早苗“奇葩式获胜”与特朗普二次当选情况相似",
-          "url": "https://news.ifeng.com/c/8qbQFf1tpNt",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时52分 ~ 20时54分]"
+          "appearance_count": 13,
+          "time_info": "[14时03分 ~ 22时12分]"
         },
         {
           "title": "美国总统特朗普对美国滑雪运动员亨特·赫斯发出批评，并称他为“彻头彻尾的失败者”。",
@@ -133,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "美国政府声明显示，特朗普寻求缩小被解雇联邦雇员复职的法律途径。",
+          "url": "https://flash.jin10.com/detail/20260209220003353800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "日本前参选人称高市是特朗普的应声虫，担忧中日关系会再恶化",
@@ -297,8 +309,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时22分 ~ 20时54分]"
+          "appearance_count": 26,
+          "time_info": "[00时22分 ~ 22时12分]"
         },
         {
           "title": "跟着抖音颜值天团新年美出圈",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T12:22:12.706282+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-02-09T14:04:03.254314+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
@@ -66,13 +66,24 @@
           "time_info": "[00时22分 ~ 06时20分]"
         },
         {
+          "title": "特朗普大骂美国冬奥运动员",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E7%BE%8E%E5%9B%BD%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 14时04分]"
+        },
+        {
           "title": "日本首相高市早苗：我由衷感谢美国总统特朗普的暖心之言。",
           "url": "https://flash.jin10.com/detail/20260209115712332800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -124,6 +135,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时20分]"
+        },
+        {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 14时04分]"
         }
       ]
     },
@@ -145,8 +167,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 12时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 14时04分]"
         },
         {
           "title": "跟着抖音颜值天团新年美出圈",
@@ -161,19 +183,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 12时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 14时04分]"
         },
         {
           "title": "河北一中学寒假手机封机仪式引热议，要求学生注销微信抖音账号，这种管理方式合理吗？",
           "url": "https://www.zhihu.com/question/15791911263",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 14时04分]"
         }
       ]
     }

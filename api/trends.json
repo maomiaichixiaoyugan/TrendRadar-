@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T01:45:30.830919+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-10T02:49:49.780461+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -15,8 +15,41 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时49分]"
+        },
+        {
+          "title": "特朗普力推投资者独栋住宅购买禁令 遭国会共和党阻力",
+          "url": "https://flash.jin10.com/detail/20260210022934003800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "02时49分"
+        },
+        {
+          "title": "据华尔街日报：特朗普政府官员最近几周向国会共和党人施压，要求将投资者禁令作为修正案纳入目前正在众议院和参议院审议的两项主要住房法案中。",
+          "url": "https://flash.jin10.com/detail/20260210021604727800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，美国总统特朗普的官员正施压共和党人，在住房法案中加入禁止华尔街购买独栋住宅的条款。",
+          "url": "https://flash.jin10.com/detail/20260210021529965800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         },
         {
           "title": "美民调：多数人不认可特朗普关税政策",
@@ -28,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "市场消息：一名美国法官暂时中止了一项法院裁定，该裁定此前要求特朗普政府解冻用于纽约市“门户隧道”项目的资金。",
+          "url": "https://flash.jin10.com/detail/20260210020706988800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         },
         {
           "title": "美国汽车工人联合会：1月13日冲撞美国总统特朗普的工人未受纪律处分，仍保留工作。",

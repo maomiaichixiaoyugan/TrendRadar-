@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T07:24:18.944457+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-02-09T09:28:06.819216+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
   "trends": [
     {
@@ -121,21 +121,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "跟着抖音颜值天团新年美出圈",
-          "url": "https://www.douyin.com/hot/2393819",
-          "source": "抖音",
-          "ranks": [
-            19,
-            26,
-            29,
-            30,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时24分]"
-        },
-        {
           "title": "邓超入驻抖音",
           "url": "https://www.douyin.com/hot/2393626",
           "source": "抖音",
@@ -144,11 +129,28 @@
             25,
             22,
             21,
-            29
+            29,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 09时28分]"
+        },
+        {
+          "title": "跟着抖音颜值天团新年美出圈",
+          "url": "https://www.douyin.com/hot/2393819",
+          "source": "抖音",
+          "ranks": [
+            19,
+            26,
+            29,
+            30,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 09时28分]"
         }
       ]
     }

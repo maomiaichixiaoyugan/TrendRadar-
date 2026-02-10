@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T15:56:10.602809+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-02-10T16:43:28.268084+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 15时56分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 16时43分]"
         },
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -52,22 +53,25 @@
           "ranks": [
             1,
             11,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 15时56分]"
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 16时43分]"
         },
         {
-          "title": "加拿大谴责特朗普阻挠美加跨国大桥项目",
-          "url": "https://wallstreetcn.com/livenews/3052839",
-          "source": "华尔街见闻-快讯",
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://www.toutiao.com/trending/7605068464549744178/",
+          "source": "今日头条",
           "ranks": [
-            3
+            6,
+            11,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 16时43分]"
         },
         {
           "title": "美国总统特朗普：如果美联储主席提名人凯文·沃什能够发挥自己的能力，美国经济可以增长15%。（福克斯商业新闻）",
@@ -81,19 +85,6 @@
           "time_info": "06时31分"
         },
         {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://www.toutiao.com/trending/7605068464549744178/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 15时56分]"
-        },
-        {
           "title": "美媒：丹麦另一领地或成特朗普的新目标",
           "url": "https://news.ifeng.com/c/8qcjl7IoRYq",
           "source": "凤凰网",
@@ -103,6 +94,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时51分 ~ 14时08分]"
+        },
+        {
+          "title": "加拿大谴责特朗普阻挠美加跨国大桥项目",
+          "url": "https://wallstreetcn.com/livenews/3052839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 16时43分]"
         },
         {
           "title": "美国总统特朗普：如果沃什能胜任他的工作，美国经济可以增长15%。",

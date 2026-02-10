@@ -1,93 +1,12 @@
 {
-  "generated_at": "2026-02-10T22:21:27.306810+08:00",
-  "total_titles_processed": 1808,
+  "generated_at": "2026-02-11T00:02:13.076359+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
-          "url": "https://www.cls.cn/detail/2285295",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时51分 ~ 16时43分]"
-        },
-        {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://www.toutiao.com/trending/7605068464549744178/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            11,
-            13,
-            14,
-            26,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时27分 ~ 20时58分]"
-        },
-        {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时45分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普：我犯了大错",
-          "url": "https://news.ifeng.com/c/8qctqBdiVbv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 14时08分]"
-        },
-        {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时54分 ~ 22时21分]"
-        },
-        {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            11,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时27分 ~ 16时43分]"
-        },
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
           "url": "https://news.ifeng.com/c/8qdRnTGCb87",
@@ -95,367 +14,53 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "美国总统特朗普的贸易顾问纳瓦罗：我们需要调整对月度就业数字的预期。 并未预期就业数据疲软。 劳工遣返影响就业数据。",
-          "url": "https://wallstreetcn.com/livenews/3053082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗、加沙和地区问题。",
-          "url": "https://flash.jin10.com/detail/20260210182252680800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 00时02分]"
         },
         {
-          "title": "美国总统特朗普：如果美联储主席提名人凯文·沃什能够发挥自己的能力，美国经济可以增长15%。（福克斯商业新闻）",
-          "url": "https://wallstreetcn.com/livenews/3052529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美媒：丹麦另一领地或成特朗普的新目标",
-          "url": "https://news.ifeng.com/c/8qcjl7IoRYq",
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
           "source": "凤凰网",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 14时08分]"
-        },
-        {
-          "title": "加拿大谴责特朗普阻挠美加跨国大桥项目",
-          "url": "https://wallstreetcn.com/livenews/3052839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 16时43分]"
-        },
-        {
-          "title": "美国总统特朗普：如果沃什能胜任他的工作，美国经济可以增长15%。",
-          "url": "https://flash.jin10.com/detail/20260210055913441800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时31分]"
-        },
-        {
-          "title": "再翻一倍？特朗普豪言：我任期结束前 道指将站上10万点！",
-          "url": "https://www.cls.cn/detail/2284508",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时59分 ~ 05时34分]"
-        },
-        {
-          "title": "美民调：多数人不认可特朗普关税政策",
-          "url": "https://www.toutiao.com/trending/7604360239181807658/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 05时34分]"
-        },
-        {
-          "title": "特朗普威胁要阻止美加跨国大桥通车",
-          "url": "https://www.toutiao.com/trending/7604069122414231606/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-10）",
-          "url": "https://flash.jin10.com/detail/20260210181924005800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "特朗普设定15%增长目标 沃什入主美联储压力倍增",
-          "url": "https://flash.jin10.com/detail/20260210070836785800",
-          "source": "金十数据",
-          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 00时02分]"
         },
         {
-          "title": "美国总统特朗普：共和党应该在中期选举中“大获全胜”。 美国形势不错，将不得不在中期选举中“推销它”。",
-          "url": "https://wallstreetcn.com/livenews/3052547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "美国总统特朗普声称：将与加拿大启动关于密歇根大桥的磋商。",
-          "url": "https://wallstreetcn.com/livenews/3052545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "特朗普力推投资者独栋住宅购买禁令 遭国会共和党阻力",
-          "url": "https://flash.jin10.com/detail/20260210022934003800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        },
-        {
-          "title": "美联储理事米兰：美联储缩减资产负债表（缩表）之前还需采取许多步骤。 如果货币政策没有（被总统特朗普）政治化，会有更好的结果。 如果保留美联储独立性，美联储就应该坚持其核心使命。",
-          "url": "https://wallstreetcn.com/livenews/3052543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "美国总统特朗普：在获得“全额补偿”之前，将不允许安大略省与密歇根州之间的大桥通车。",
-          "url": "https://flash.jin10.com/detail/20260210065107652800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "美联储理事沃勒：加密货币法案的细节（出台）似乎被卡在了国会山。 随着特朗普第二次当选为美国总统而出现的加密货币（投资）热潮已经在一定程度上消退。 风险造成主流公司卖出比特币。",
-          "url": "https://wallstreetcn.com/livenews/3052476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "美国总统特朗普：将立即就双边问题与加拿大展开谈判。",
-          "url": "https://flash.jin10.com/detail/20260210064635825800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "据华尔街日报：特朗普政府官员最近几周向国会共和党人施压，要求将投资者禁令作为修正案纳入目前正在众议院和参议院审议的两项主要住房法案中。",
-          "url": "https://flash.jin10.com/detail/20260210021604727800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        },
-        {
-          "title": "美国贸易代表格里尔：美国与加拿大的谈判主要针对跨国大桥议题。特朗普总统对这一问题存在合理关切。",
-          "url": "https://flash.jin10.com/detail/20260210201654942800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，美国总统特朗普的官员正施压共和党人，在住房法案中加入禁止华尔街购买独栋住宅的条款。",
-          "url": "https://flash.jin10.com/detail/20260210021529965800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        },
-        {
-          "title": "美媒：特朗普称首个任期内在美联储主席人选决策上“犯了大错”",
-          "url": "https://wallstreetcn.com/livenews/3052671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "市场消息：一名美国法官暂时中止了一项法院裁定，该裁定此前要求特朗普政府解冻用于纽约市“门户隧道”项目的资金。",
-          "url": "https://flash.jin10.com/detail/20260210020706988800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        },
-        {
-          "title": "美联储理事沃勒：特朗普引发的加密货币热潮可能正在消退",
-          "url": "https://wallstreetcn.com/livenews/3052476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "特朗普：若沃什履职得当，美国经济可增长15%",
-          "url": "https://wallstreetcn.com/livenews/3052529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "报道：特朗普计划废除奥巴马政府时期一项气候危害认定",
-          "url": "https://wallstreetcn.com/livenews/3052654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "美国众议院共和党人试图继续推迟对特朗普关税的投票",
-          "url": "https://wallstreetcn.com/livenews/3052653",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普表面祝贺高市私下大发雷霆",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E9%9D%A2%E7%A5%9D%E8%B4%BA%E9%AB%98%E5%B8%82%E7%A7%81%E4%B8%8B%E5%A4%A7%E5%8F%91%E9%9B%B7%E9%9C%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "美国汽车工人联合会：1月13日冲撞美国总统特朗普的工人未受纪律处分，仍保留工作。",
-          "url": "https://flash.jin10.com/detail/20260210003111533800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "山东一村委会腾出会议室带娃",
-          "url": "https://www.toutiao.com/trending/7604439940131045439/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 14时08分]"
-        },
-        {
-          "title": "英国政府：强烈谴责以色列安全内阁决定扩大以色列对约旦河西岸的控制。拟在西岸实施的土地、执法和行政权力重大调整将损害推动和平与稳定的努力。",
-          "url": "https://flash.jin10.com/detail/20260210045919445800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 1,
-      "titles": [
+          "time_info": "[00时01分 ~ 00时02分]"
+        },
         {
-          "title": "抖音电商：严打虚假价格宣传，严禁制造低价错觉",
-          "url": "https://wallstreetcn.com/livenews/3052897",
+          "title": "特朗普的商务部长卢特尼克承认：与妻子共同会见过爱泼斯坦",
+          "url": "https://wallstreetcn.com/livenews/3053128",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时55分"
+          "time_info": "00时02分"
+        },
+        {
+          "title": "加拿大总理卡尼：特朗普要求特使Hoekstra参与大桥磋商。",
+          "url": "https://wallstreetcn.com/livenews/3053126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     }

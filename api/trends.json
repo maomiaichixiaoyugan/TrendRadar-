@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T18:49:09.499790+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2026-02-10T19:45:25.922841+08:00",
+  "total_titles_processed": 1580,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             6,
             11,
             13,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时27分 ~ 18时49分]"
+          "appearance_count": 11,
+          "time_info": "[12时27分 ~ 19时45分]"
         },
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -75,13 +76,24 @@
           "time_info": "[12时27分 ~ 16时43分]"
         },
         {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时54分 ~ 19时45分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗、加沙和地区问题。",
           "url": "https://flash.jin10.com/detail/20260210182252680800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -106,17 +118,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时51分 ~ 14时08分]"
-        },
-        {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时54分 ~ 18时49分]"
         },
         {
           "title": "加拿大谴责特朗普阻挠美加跨国大桥项目",
@@ -183,7 +184,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },

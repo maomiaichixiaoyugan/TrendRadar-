@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T09:48:10.330345+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-02-11T12:26:03.463603+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时26分]"
         },
         {
           "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说说的。",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时01分 ~ 07时33分]"
+        },
+        {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时26分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
@@ -129,6 +140,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时57分 ~ 04时45分]"
+        },
+        {
+          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
+          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时26分]"
+        },
+        {
+          "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
+          "url": "https://www.cls.cn/detail/2286509",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时26分]"
         },
         {
           "title": "美国总统特朗普：（就伊朗问题）要么我们达成协议，要么我们将不得不采取非常强硬的措施。",
@@ -206,17 +240,6 @@
           "time_info": "[07时33分 ~ 09时48分]"
         },
         {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
           "title": "美国总统特朗普：我认为2026年将会很棒。",
           "url": "https://flash.jin10.com/detail/20260211050353108800",
           "source": "金十数据",
@@ -251,28 +274,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时34分]"
-        },
-        {
-          "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
-          "url": "https://www.cls.cn/detail/2286509",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
-          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
         },
         {
           "title": "美国总统特朗普：伊朗希望达成协议。",
@@ -333,6 +334,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时34分 ~ 07时33分]"
+        },
+        {
+          "title": "特朗普对伊朗释放强硬信号 欧洲议会通过2040年减排90%目标 | 环球市场",
+          "url": "https://www.cls.cn/detail/2286531",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
         },
         {
           "title": "美国总统特朗普：我们的利率应该比现在低2个百分点。",
@@ -404,6 +416,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时34分 ~ 07时33分]"
+        },
+        {
+          "title": "爱泼斯坦文件中特朗普出现超百万次",
+          "url": "https://www.toutiao.com/trending/7605393743562149395/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
         },
         {
           "title": "当地时间10日，美国总统特朗普表示，“伊朗不会拥有核武器或者导弹”。",
@@ -494,6 +517,28 @@
           "time_info": "02时57分"
         },
         {
+          "title": "美众议院以微弱优势否决动议 特朗普关税决议可提全院表决",
+          "url": "https://flash.jin10.com/detail/20260211111638705800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "据Punchbowl：美国众议院否决了一项旨在阻止议员提出挑战特朗普关税决议的规则。",
+          "url": "https://flash.jin10.com/detail/20260211110924095800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
           "title": "美国白宫：特朗普将于明日在白宫与以色列总理内塔尼亚胡举行双边会晤。",
           "url": "https://flash.jin10.com/detail/20260211024859257800",
           "source": "金十数据",
@@ -503,6 +548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "约翰逊阻挠失败，美国众议院本周稍晚料推进针对特朗普关税的相关投票",
+          "url": "https://wallstreetcn.com/livenews/3053410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         },
         {
           "title": "美国白宫：特朗普将于周五前往北卡罗来纳州。",
@@ -536,6 +592,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "报道：特朗普将指示五角大楼与燃煤发电厂签订合同，以期重振煤炭行业",
+          "url": "https://wallstreetcn.com/livenews/3053396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     },
@@ -573,26 +640,27 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "邓超真的把入驻抖音当个事办",
+          "url": "https://www.douyin.com/hot/2395420",
+          "source": "抖音",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时33分 ~ 12时26分]"
+        },
+        {
           "title": "恒指高开0.23%，报27246.18点；恒生科技指数涨0.21%。腾讯音乐涨超3%，商汤涨超2%，哔哩哔哩、蔚来、快手等涨超1%；中芯国际跌2.4%，此前公布财报。",
           "url": "https://wallstreetcn.com/livenews/3053342",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "邓超真的把入驻抖音当个事办",
-          "url": "https://www.douyin.com/hot/2395420",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "09时48分"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T06:26:04.824592+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-02-13T07:22:59.746476+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 06时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时22分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 06时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时22分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 06时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时22分]"
         },
         {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
@@ -50,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 06时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时22分]"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -70,6 +70,21 @@
           "time_info": "[01时53分 ~ 06时26分]"
         },
         {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
+          "ranks": [
+            24,
+            28,
+            25,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时53分 ~ 07时22分]"
+        },
+        {
           "title": "美国总统特朗普：环保署废除了美国气候监管的基础，此举将消除1.3 万亿美元的监管成本。",
           "url": "https://flash.jin10.com/detail/20260213024705661800",
           "source": "金十数据",
@@ -79,20 +94,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://www.douyin.com/hot/2398243",
-          "source": "抖音",
-          "ranks": [
-            24,
-            28,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时53分 ~ 05时28分]"
         },
         {
           "title": "以色列总理办公室：内塔尼亚胡将远程参加美国以色列公共事务委员会（AIPAC）年会，因此下周不会飞往华盛顿。内塔尼亚胡也不会参加特朗普组织的和平委员会会议。",
@@ -250,6 +251,18 @@
           "time_info": "[03时46分 ~ 04时28分]"
         },
         {
+          "title": "特朗普希望美伊“一个月左右”达成协议",
+          "url": "https://wallstreetcn.com/livenews/3054744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时22分]"
+        },
+        {
           "title": "美国总统特朗普：必须与伊朗达成一份协议。 “只要我喜欢”，就会与伊朗对话。 如果伊朗不达成协议，对他们来说将是非常痛苦的。 与伊朗的协议最终取决于我。",
           "url": "https://wallstreetcn.com/livenews/3054693",
           "source": "华尔街见闻-快讯",
@@ -403,17 +416,6 @@
           "time_info": "02时54分"
         },
         {
-          "title": "特朗普希望美伊“一个月左右”达成协议",
-          "url": "https://wallstreetcn.com/livenews/3054744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
           "title": "美国官员：美国总统特朗普将于下周在首次和平委员会会议上宣布一项针对加沙的数十亿美元资助计划。",
           "url": "https://flash.jin10.com/detail/20260213023254034800",
           "source": "金十数据",
@@ -434,6 +436,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "美国白宫：煤炭让美国保持灯火通明。特朗普已经结束了激进左翼对煤炭行业的围剿，他正让煤炭行业以更强的姿态回归。",
+          "url": "https://flash.jin10.com/detail/20260213064914521800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "特朗普：美国“必须”与伊朗达成协议 否则局势将“非常严重”",
@@ -570,11 +583,12 @@
             18,
             17,
             16,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 06时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时22分]"
         },
         {
           "title": "在抖音读上名家春节作文选了",
@@ -584,11 +598,12 @@
             26,
             24,
             23,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 06时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 07时22分]"
         }
       ]
     }

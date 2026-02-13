@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T20:42:08.716582+08:00",
-  "total_titles_processed": 1845,
+  "generated_at": "2026-02-13T21:58:58.667894+08:00",
+  "total_titles_processed": 1974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -86,6 +86,18 @@
           "time_info": "[00时51分 ~ 17时37分]"
         },
         {
+          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
+          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时35分 ~ 21时58分]"
+        },
+        {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
           "url": "https://news.ifeng.com/c/8qhwigwSERf",
           "source": "凤凰网",
@@ -126,18 +138,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时53分 ~ 06时26分]"
-        },
-        {
-          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
-          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时35分 ~ 20时42分]"
         },
         {
           "title": "特朗普称期待4月访华",
@@ -200,7 +200,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -236,17 +236,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
-        },
-        {
-          "title": "美国财长贝森特（谈金属关税）：这是特朗普的决定。 今天早上与美国贸易代表进行了沟通，将看看是否会有范围收窄。 如果有任何措施，将只是对附带物品的澄清。",
-          "url": "https://wallstreetcn.com/livenews/3055194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
         },
         {
           "title": "特朗普：美国“必须”与伊朗达成协议，否则局势将“非常严重”",
@@ -333,6 +322,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 02时54分]"
+        },
+        {
+          "title": "美国财长贝森特（谈金属关税）：这是特朗普的决定。 今天早上与美国贸易代表进行了沟通，将看看是否会有范围收窄。 如果有任何措施，将只是对附带物品的澄清。",
+          "url": "https://wallstreetcn.com/livenews/3055194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时58分]"
         },
         {
           "title": "美国总统特朗普：并不知晓美国商务部长卢特尼克访问爱泼斯坦岛。",
@@ -590,7 +591,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -749,6 +750,17 @@
           "time_info": "19时26分"
         },
         {
+          "title": "美国财长贝森特：关于加密货币法案的一些明确说明将为市场带来信心。 尽快推动该法案通过非常重要，预计今年春季提交给特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3055202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "美国总统特朗普：我们基本上已经叫停了美国所有的风力发电机项目。",
           "url": "https://flash.jin10.com/detail/20260213025752447800",
           "source": "金十数据",
@@ -782,6 +794,17 @@
           "time_info": "00时51分"
         },
         {
+          "title": "美国财长贝森特：（谈就业问题）这是特朗普重归私有化经济计划的一部分。 （谈美国赤字）我更相信市场，而不是国会预算办公室（CBO）的预测。 债券市场如此平静，是因为我们正在整顿财政。 2025年GDP增长率很有可能达到3%。 通胀可能在2026年年中回到2%左右。",
+          "url": "https://wallstreetcn.com/livenews/3055197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "据知情人士透露，派拉蒙天舞（Paramount SkyDance）的CEO David Ellison上周在白宫秘密会见了美国总统特朗普。（CNN）",
           "url": "https://wallstreetcn.com/livenews/3054631",
           "source": "华尔街见闻-快讯",
@@ -809,11 +832,12 @@
             6,
             8,
             10,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时30分 ~ 20时42分]"
+          "appearance_count": 13,
+          "time_info": "[09时30分 ~ 21时58分]"
         },
         {
           "title": "春节迷上在抖音看视频播客了",
@@ -833,8 +857,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时51分 ~ 20时42分]"
+          "appearance_count": 24,
+          "time_info": "[00时51分 ~ 21时58分]"
         },
         {
           "title": "在抖音读上名家春节作文选了",
@@ -857,11 +881,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 20时42分]"
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 21时58分]"
         },
         {
           "title": "欢迎碧梨入驻抖音",
@@ -887,11 +912,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时15分 ~ 20时42分]"
+          "appearance_count": 11,
+          "time_info": "[12时15分 ~ 21时58分]"
         }
       ]
     }

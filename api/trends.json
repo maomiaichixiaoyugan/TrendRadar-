@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T15:45:51.493320+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-02-13T16:35:39.331145+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 15时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时51分 ~ 16时35分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -50,22 +50,24 @@
             3,
             9,
             25,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 14时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 16时35分]"
         },
         {
           "title": "特朗普答凤凰：中美关系良好，两国元首今年实现互访",
           "url": "https://news.ifeng.com/c/8qhfIw9PImo",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时30分 ~ 15时45分]"
+          "appearance_count": 7,
+          "time_info": "[09时30分 ~ 16时35分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
@@ -73,11 +75,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时30分 ~ 15时45分]"
+          "appearance_count": 7,
+          "time_info": "[09时30分 ~ 16时35分]"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -100,11 +103,12 @@
           "url": "https://news.ifeng.com/c/8qhwigwSERf",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 15时45分]"
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 16时35分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -158,6 +162,17 @@
           "time_info": "01时53分"
         },
         {
+          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
+          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "市场消息：特朗普领导下的美国环境保护署采取行动，推翻了前总统拜登此前制定的汽车尾气排放规定，这些规定原本旨在推动电动汽车产量提升。",
           "url": "https://flash.jin10.com/detail/20260213023947090800",
           "source": "金十数据",
@@ -178,6 +193,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "特朗普称期待4月访华",
+          "url": "https://www.douyin.com/hot/2398935",
+          "source": "抖音",
+          "ranks": [
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时15分 ~ 16时35分]"
         },
         {
           "title": "特朗普：美国“必须”与伊朗达成协议，否则局势将“非常严重”",
@@ -290,29 +318,17 @@
           "time_info": "[13时55分 ~ 14时52分]"
         },
         {
-          "title": "特朗普称期待4月访华",
-          "url": "https://www.douyin.com/hot/2398935",
-          "source": "抖音",
-          "ranks": [
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时15分 ~ 15时45分]"
-        },
-        {
           "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
           "url": "https://www.cls.cn/detail/2289315",
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 15时45分]"
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 16时35分]"
         },
         {
           "title": "美国总统特朗普：就业报告在某些方面非常出色。",
@@ -726,8 +742,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 15时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时51分 ~ 16时35分]"
         },
         {
           "title": "抖音非遗联欢会好戏登场了",
@@ -737,11 +753,12 @@
             18,
             5,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时30分 ~ 15时45分]"
+          "appearance_count": 7,
+          "time_info": "[09时30分 ~ 16时35分]"
         },
         {
           "title": "在抖音读上名家春节作文选了",
@@ -773,8 +790,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时15分 ~ 15时45分]"
+          "appearance_count": 5,
+          "time_info": "[12时15分 ~ 16时35分]"
         }
       ]
     }

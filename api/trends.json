@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T14:52:44.464083+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2026-02-13T15:45:51.493320+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 14时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 15时45分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -64,8 +64,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时30分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 15时45分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
@@ -76,8 +76,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时30分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 15时45分]"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -96,6 +96,17 @@
           "time_info": "[01时53分 ~ 06时26分]"
         },
         {
+          "title": "路透社：特朗普访华前暂停对华科技禁令",
+          "url": "https://news.ifeng.com/c/8qhwigwSERf",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 15时45分]"
+        },
+        {
           "title": "中方回应特朗普或将4月访华",
           "url": "https://www.douyin.com/hot/2398243",
           "source": "抖音",
@@ -111,15 +122,18 @@
           "time_info": "[02时53分 ~ 07时22分]"
         },
         {
-          "title": "路透社：特朗普访华前暂停对华科技禁令",
-          "url": "https://news.ifeng.com/c/8qhwigwSERf",
-          "source": "凤凰网",
+          "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
+          "url": "https://www.cls.cn/detail/2289062",
+          "source": "财联社热门",
           "ranks": [
-            3
+            10,
+            8,
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 15时45分]"
         },
         {
           "title": "美国总统特朗普：环保署废除了美国气候监管的基础，此举将消除1.3 万亿美元的监管成本。",
@@ -164,19 +178,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
-        },
-        {
-          "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
-          "url": "https://www.cls.cn/detail/2289062",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时30分 ~ 14时52分]"
         },
         {
           "title": "特朗普：美国“必须”与伊朗达成协议，否则局势将“非常严重”",
@@ -298,8 +299,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 15时45分]"
+        },
+        {
+          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
+          "url": "https://www.cls.cn/detail/2289315",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时15分 ~ 14时52分]"
+          "time_info": "[13时55分 ~ 15时45分]"
         },
         {
           "title": "美国总统特朗普：就业报告在某些方面非常出色。",
@@ -384,17 +397,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 04时28分]"
-        },
-        {
-          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
-          "url": "https://www.cls.cn/detail/2289315",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 14时52分]"
         },
         {
           "title": "美国总统特朗普：如果伊朗不达成协议，将会遭受非常严重的创伤。与伊朗的谈判最终取决于我。",
@@ -720,11 +722,12 @@
             21,
             25,
             22,
-            23
+            23,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 14时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 15时45分]"
         },
         {
           "title": "抖音非遗联欢会好戏登场了",
@@ -733,11 +736,12 @@
           "ranks": [
             18,
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时30分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 15时45分]"
         },
         {
           "title": "在抖音读上名家春节作文选了",
@@ -769,8 +773,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 14时52分]"
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 15时45分]"
         }
       ]
     }

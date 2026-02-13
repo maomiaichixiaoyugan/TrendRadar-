@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T12:15:21.765339+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-02-13T13:55:40.070462+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 59,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 12时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 13时55分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -48,11 +48,23 @@
             1,
             2,
             3,
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 12时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 13时55分]"
+        },
+        {
+          "title": "特朗普答凤凰：中美关系良好，两国元首今年实现互访",
+          "url": "https://news.ifeng.com/c/8qhfIw9PImo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 13时55分]"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -71,17 +83,6 @@
           "time_info": "[01时53分 ~ 06时26分]"
         },
         {
-          "title": "特朗普答凤凰：中美关系良好，两国元首今年实现互访",
-          "url": "https://news.ifeng.com/c/8qhfIw9PImo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 12时15分]"
-        },
-        {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
           "url": "https://news.ifeng.com/c/8qhhXKN0MhC",
           "source": "凤凰网",
@@ -90,8 +91,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 13时55分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -131,6 +132,39 @@
           "time_info": "01时53分"
         },
         {
+          "title": "伦铝期货短线下挫，日内由涨转跌，现报3092美元/吨。消息面上，特朗普准备取消对金属和铝制品征收的关税。",
+          "url": "https://flash.jin10.com/detail/20260213131109290800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "路透社：特朗普访华前暂停对华科技禁令",
+          "url": "https://news.ifeng.com/c/8qhwigwSERf",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "英媒：特朗普拟缩减部分钢铁和铝制品关税 以缓解“可负担性危机”",
+          "url": "https://flash.jin10.com/detail/20260213130819738800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "市场消息：特朗普领导下的美国环境保护署采取行动，推翻了前总统拜登此前制定的汽车尾气排放规定，这些规定原本旨在推动电动汽车产量提升。",
           "url": "https://flash.jin10.com/detail/20260213023947090800",
           "source": "金十数据",
@@ -151,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "据英国金融时报：特朗普准备取消对金属和铝制品征收的关税。",
+          "url": "https://flash.jin10.com/detail/20260213130325770800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "特朗普：美国“必须”与伊朗达成协议，否则局势将“非常严重”",
@@ -232,11 +277,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 13时55分]"
         },
         {
           "title": "美国总统特朗普：就业报告在某些方面非常出色。",
@@ -297,6 +343,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普称期待4月访华",
+          "url": "https://www.douyin.com/hot/2398935",
+          "source": "抖音",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时55分]"
         },
         {
           "title": "美国总统特朗普：必须与伊朗达成一份协议。 “只要我喜欢”，就会与伊朗对话。 如果伊朗不达成协议，对他们来说将是非常痛苦的。 与伊朗的协议最终取决于我。",
@@ -485,17 +543,6 @@
           "time_info": "00时51分"
         },
         {
-          "title": "特朗普称期待4月访华",
-          "url": "https://www.douyin.com/hot/2398935",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
           "title": "美国白宫：煤炭让美国保持灯火通明。特朗普已经结束了激进左翼对煤炭行业的围剿，他正让煤炭行业以更强的姿态回归。",
           "url": "https://flash.jin10.com/detail/20260213064914521800",
           "source": "金十数据",
@@ -505,6 +552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
+          "url": "https://www.cls.cn/detail/2289315",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "特朗普：美国“必须”与伊朗达成协议 否则局势将“非常严重”",
@@ -549,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "释新闻｜内塔尼亚胡紧急提前访美，说动特朗普打击伊朗了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32591114",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "美国能源部长Wright：雪佛龙已经加大在委内瑞拉的投资。 雪佛龙在委内瑞拉的设施的产量将翻倍。 美国（政府）不会向企业提供经济安全保障。 （特朗普政府强行掳走总统马杜罗之后）委内瑞拉第一年（石油）产量将提高30%-40%。",
@@ -644,11 +713,12 @@
             14,
             11,
             21,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 12时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 13时55分]"
         },
         {
           "title": "在抖音读上名家春节作文选了",
@@ -671,11 +741,12 @@
           "source": "抖音",
           "ranks": [
             18,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 13时55分]"
         }
       ]
     },
@@ -688,11 +759,12 @@
           "url": "https://www.zhihu.com/question/2004949444588757656",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时55分]"
         }
       ]
     }

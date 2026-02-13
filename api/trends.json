@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T21:58:58.667894+08:00",
-  "total_titles_processed": 1974,
+  "generated_at": "2026-02-13T22:40:48.951844+08:00",
+  "total_titles_processed": 2037,
   "failed_sources": [],
   "trends": [
     {
@@ -79,11 +79,12 @@
             9,
             25,
             29,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 17时37分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 22时40分]"
         },
         {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
@@ -94,8 +95,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 21时58分]"
+          "appearance_count": 8,
+          "time_info": "[16时35分 ~ 22时40分]"
         },
         {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
@@ -756,7 +757,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -800,7 +801,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -836,8 +837,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时30分 ~ 21时58分]"
+          "appearance_count": 14,
+          "time_info": "[09时30分 ~ 22时40分]"
         },
         {
           "title": "春节迷上在抖音看视频播客了",
@@ -854,11 +855,12 @@
             22,
             23,
             13,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时51分 ~ 21时58分]"
+          "appearance_count": 25,
+          "time_info": "[00时51分 ~ 22时40分]"
         },
         {
           "title": "在抖音读上名家春节作文选了",
@@ -882,11 +884,12 @@
           "ranks": [
             9,
             10,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 21时58分]"
+          "appearance_count": 5,
+          "time_info": "[19时26分 ~ 22时40分]"
         },
         {
           "title": "欢迎碧梨入驻抖音",
@@ -913,11 +916,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时15分 ~ 21时58分]"
+          "appearance_count": 12,
+          "time_info": "[12时15分 ~ 22时40分]"
         }
       ]
     }

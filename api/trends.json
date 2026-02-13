@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T09:31:13.443712+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-02-13T12:15:21.765339+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 09时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 12时15分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -24,19 +24,6 @@
           "source": "凤凰网",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时22分]"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            3
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -52,6 +39,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时51分 ~ 09时31分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 12时15分]"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -77,8 +78,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时30分 ~ 12时15分]"
+        },
+        {
+          "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
+          "url": "https://news.ifeng.com/c/8qhhXKN0MhC",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时30分 ~ 12时15分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -94,17 +107,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时53分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
-          "url": "https://news.ifeng.com/c/8qhhXKN0MhC",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
         },
         {
           "title": "美国总统特朗普：环保署废除了美国气候监管的基础，此举将消除1.3 万亿美元的监管成本。",
@@ -225,6 +227,18 @@
           "time_info": "[03时46分 ~ 04时28分]"
         },
         {
+          "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
+          "url": "https://www.cls.cn/detail/2289062",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时30分 ~ 12时15分]"
+        },
+        {
           "title": "美国总统特朗普：就业报告在某些方面非常出色。",
           "url": "https://flash.jin10.com/detail/20260213031034911800",
           "source": "金十数据",
@@ -259,17 +273,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 04时28分]"
-        },
-        {
-          "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
-          "url": "https://www.cls.cn/detail/2289062",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
         },
         {
           "title": "特朗普宣布美国环境保护署“温室气体危害认定”正式撤销",
@@ -482,6 +485,17 @@
           "time_info": "00时51分"
         },
         {
+          "title": "特朗普称期待4月访华",
+          "url": "https://www.douyin.com/hot/2398935",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
           "title": "美国白宫：煤炭让美国保持灯火通明。特朗普已经结束了激进左翼对煤炭行业的围剿，他正让煤炭行业以更强的姿态回归。",
           "url": "https://flash.jin10.com/detail/20260213064914521800",
           "source": "金十数据",
@@ -629,11 +643,12 @@
             16,
             14,
             11,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 09时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 12时15分]"
         },
         {
           "title": "在抖音读上名家春节作文选了",
@@ -655,11 +670,29 @@
           "url": "https://www.douyin.com/hot/2398666",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时30分 ~ 12时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷爱凌滑雪服上徽章和龙纹元素堆砌，让网友感慨这片土地缺乏审美教育，这件雪服设计是否存在问题？",
+          "url": "https://www.zhihu.com/question/2004949444588757656",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         }
       ]
     }

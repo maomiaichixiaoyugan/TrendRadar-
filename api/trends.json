@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T05:18:43.949522+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-02-15T06:17:14.253755+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
@@ -39,8 +39,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 05时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 06时17分]"
         },
         {
           "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
@@ -50,8 +50,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 05时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 06时17分]"
         },
         {
           "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
@@ -61,8 +61,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 05时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 06时17分]"
         },
         {
           "title": "特朗普：北约看在我的份上付了5%国防支出",
@@ -99,11 +99,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "抖音ACG拜年晚会",
@@ -116,8 +117,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时17分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T22:21:57.240794+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2026-02-15T23:19:47.364607+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时19分 ~ 22时21分]"
+          "appearance_count": 8,
+          "time_info": "[18时19分 ~ 23时19分]"
+        },
+        {
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时26分 ~ 23时19分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -55,21 +70,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[12时15分 ~ 19时18分]"
-        },
-        {
-          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时26分 ~ 22时21分]"
         },
         {
           "title": "王毅：特朗普尊重中方 有人想打压中国",
@@ -119,18 +119,6 @@
           "time_info": "[00时22分 ~ 07时18分]"
         },
         {
-          "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
-          "url": "https://flash.jin10.com/detail/20260215212555860800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 22时21分]"
-        },
-        {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
           "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%BF%E7%8C%B4+%E5%A5%A5%E5%B7%B4%E9%A9%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -145,16 +133,45 @@
           "time_info": "[15时34分 ~ 19时18分]"
         },
         {
+          "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
+          "url": "https://flash.jin10.com/detail/20260215212555860800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 23时19分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
+          "url": "https://flash.jin10.com/detail/20260215183847434800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6,
+            12,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 23时19分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：相信美国总统特朗普的助手威特科夫和特朗普女婿库什纳“此刻”正前往伊朗，举行有关伊朗的重要会议。",
           "url": "https://flash.jin10.com/detail/20260215211009575800",
           "source": "金十数据",
           "ranks": [
             3,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 22时21分]"
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 23时19分]"
         },
         {
           "title": "特朗普：北约看在我的份上付了5%国防支出",
@@ -177,20 +194,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 03时19分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
-          "url": "https://flash.jin10.com/detail/20260215183847434800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            6,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 22时21分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -233,6 +236,18 @@
           "time_info": "[17时25分 ~ 18时20分]"
         },
         {
+          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时19分]"
+        },
+        {
           "title": "2026慕安会｜王毅：特朗普非常尊重中方，但还有人想打压中国",
           "url": "https://m.thepaper.cn/newsDetail_forward_32610423",
           "source": "澎湃新闻",
@@ -242,17 +257,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时34分 ~ 21时41分]"
-        },
-        {
-          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
         },
         {
           "title": "奥巴马回应被特朗普恶搞成猴",
@@ -292,8 +296,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时52分 ~ 22时21分]"
+          "appearance_count": 14,
+          "time_info": "[13时52分 ~ 23时19分]"
         },
         {
           "title": "市场监管总局约谈阿里巴巴、抖音、百度、腾讯、京东、美团、淘宝闪购等平台企业",
@@ -310,6 +314,20 @@
           "time_info": "[00时21分 ~ 16时26分]"
         },
         {
+          "title": "市场监管总局约谈阿里巴巴、抖音、百度等 7 家平台企业，能治住大厂们「内卷式」竞争的老毛病吗？",
+          "url": "https://www.zhihu.com/question/2006053589701908350",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时26分 ~ 23时19分]"
+        },
+        {
           "title": "抖音ACG拜年晚会",
           "url": "https://www.douyin.com/hot/2400555",
           "source": "抖音",
@@ -324,19 +342,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时21分 ~ 12时16分]"
-        },
-        {
-          "title": "市场监管总局约谈阿里巴巴、抖音、百度等 7 家平台企业，能治住大厂们「内卷式」竞争的老毛病吗？",
-          "url": "https://www.zhihu.com/question/2006053589701908350",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时26分 ~ 22时21分]"
         },
         {
           "title": "过个抖音新轻年",
@@ -377,11 +382,12 @@
             8,
             12,
             16,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时25分 ~ 22时21分]"
+          "appearance_count": 7,
+          "time_info": "[17时25分 ~ 23时19分]"
         },
         {
           "title": "抖音机器人联欢会先演上了",
@@ -393,8 +399,25 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时25分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[17时25分 ~ 23时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "巴勒斯坦总统府：以土地新规构成对巴领土的“事实吞并”",
+          "url": "https://flash.jin10.com/detail/20260215222956998800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         }
       ]
     }

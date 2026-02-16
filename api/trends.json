@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T06:21:50.082985+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-02-17T07:23:44.234130+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             4,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时29分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[03时29分 ~ 07时23分]"
         },
         {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
@@ -175,6 +176,17 @@
           "time_info": "[03时29分 ~ 04时23分]"
         },
         {
+          "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
           "url": "https://flash.jin10.com/detail/20260217040455048800",
           "source": "金十数据",
@@ -197,11 +209,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时21分]"
+          "appearance_count": 3,
+          "time_info": "[05时23分 ~ 07时23分]"
         },
         {
           "title": "联合国敦促以色列撤销约旦河西岸土地登记措施。",
@@ -220,7 +233,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "抖音网友集体上春晚",
@@ -234,6 +247,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时35分 ~ 04时23分]"
+        },
+        {
+          "title": "春晚机器人齐聚抖音",
+          "url": "https://www.douyin.com/hot/2403438",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         }
       ]
     }

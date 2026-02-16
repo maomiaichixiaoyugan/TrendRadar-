@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T15:49:39.858294+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-02-16T16:39:19.683375+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
@@ -91,11 +91,12 @@
           "url": "https://news.ifeng.com/c/8qn5bb5LeJE",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时39分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
@@ -247,8 +248,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[14时02分 ~ 16时39分]"
         },
         {
           "title": "抖音李亮谈Seedance 2.0：数字分身暂不支持真人人脸参考和IP形象生成，团队投入最多的就是不断维护和加强反侵权策略",

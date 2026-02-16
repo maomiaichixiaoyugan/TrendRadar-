@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T09:26:51.337674+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-02-16T12:18:49.173941+08:00",
+  "total_titles_processed": 749,
   "failed_sources": [],
   "trends": [
     {
@@ -143,9 +143,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时18分]"
         },
         {
           "title": "特朗普在全美推动核能部署 美军首次空运微型核反应堆",
@@ -154,7 +154,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -165,7 +165,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -176,7 +176,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         }
@@ -193,11 +193,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 12时18分]"
         },
         {
           "title": "抖音机器人联欢会先演上了",

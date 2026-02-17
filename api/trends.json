@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T16:37:52.897675+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-02-17T17:41:33.429508+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 17时41分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -252,6 +252,18 @@
           "time_info": "[03时29分 ~ 04时23分]"
         },
         {
+          "title": "特朗普反应低调 日本怕中美搞大动作",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 17时41分]"
+        },
+        {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
           "url": "https://flash.jin10.com/detail/20260217040455048800",
           "source": "金十数据",
@@ -261,17 +273,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
-        },
-        {
-          "title": "特朗普反应低调 日本怕中美搞大动作",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
         }
       ]
     },
@@ -286,7 +287,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -342,11 +343,12 @@
           "ranks": [
             7,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 16时37分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 17时41分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T14:51:21.125396+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-02-17T15:47:27.509872+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 15时47分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -322,8 +322,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 14时51分]"
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 15时47分]"
         }
       ]
     }

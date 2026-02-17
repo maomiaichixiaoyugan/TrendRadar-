@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-17T23:45:39.536613+08:00",
-  "total_titles_processed": 1779,
+  "generated_at": "2026-02-18T00:50:06.423010+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "特朗普：将间接参与美伊谈判",
-          "url": "https://news.ifeng.com/c/8qoM4xu3Rme",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时26分 ~ 18时40分]"
-        },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
           "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
@@ -26,22 +15,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时35分 ~ 23时45分]"
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 00时50分]"
         },
         {
-          "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
-          "url": "https://wallstreetcn.com/livenews/3055826",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：马里兰、弗吉尼亚州和华盛顿特区应对波托马克河的污水泄漏负责，必须立即着手处理。如果他们无法完成工作，就必须礼貌地给我打电话，请我帮忙修复。",
+          "url": "https://flash.jin10.com/detail/20260218000855742800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            4,
-            16,
-            23
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时29分 ~ 07时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        },
+        {
+          "title": "据Politico：美国国土安全部发言人特里西娅·麦克劳克林将离开特朗普政府。",
+          "url": "https://flash.jin10.com/detail/20260218000727610800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时50分"
         },
         {
           "title": "哈梅内伊：如今我要说，特朗普也做不到",
@@ -51,465 +48,47 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时35分 ~ 23时45分]"
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 00时50分]"
         },
         {
-          "title": "美国总统特朗普的儿子埃里克·特朗普投资一家拥有美国国防部合同的无人机公司。",
-          "url": "https://flash.jin10.com/detail/20260217215547535800",
+          "title": "美国总统特朗普：波托马克河泄漏是激进左派造成的环境危害。",
+          "url": "https://flash.jin10.com/detail/20260217235812714800",
           "source": "金十数据",
           "ranks": [
-            2
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时04分"
+          "time_info": "00时50分"
         },
         {
           "title": "特朗普关税引发损失，企业加大货币对冲力度",
           "url": "https://flash.jin10.com/detail/20260217231948785800",
           "source": "金十数据",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
-          "url": "https://wallstreetcn.com/livenews/3055815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时34分 ~ 06时21分]"
-        },
-        {
-          "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3055802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时34分 ~ 05时23分]"
-        },
-        {
-          "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
-          "url": "https://flash.jin10.com/detail/20260217020218911800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 04时23分]"
-        },
-        {
-          "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
-          "url": "https://flash.jin10.com/detail/20260216235622274800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时34分]"
-        },
-        {
-          "title": "美国总统特朗普：联邦政府绝不会为任何成本超支承担一分钱责任！ 但联邦政府愿意介入协商，以确保此类情况不会发生。",
-          "url": "https://flash.jin10.com/detail/20260217014752278800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 04时23分]"
-        },
-        {
-          "title": "特朗普：“和平委员会”将决定如何使用50亿美元加沙援款",
-          "url": "https://flash.jin10.com/detail/20260217024524973800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时29分 ~ 05时23分]"
-        },
-        {
-          "title": "美国总统特朗普：反对纽约州和新泽西州的Gateway项目，该项目的成本将比预期高出数十亿美元。",
-          "url": "https://flash.jin10.com/detail/20260217014706786800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 04时23分]"
-        },
-        {
-          "title": "据纽约邮报：特朗普称“和平委员会”将商讨如何使用为加沙项目筹集的50亿美元资金。",
-          "url": "https://flash.jin10.com/detail/20260217024318964800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时29分 ~ 05时23分]"
-        },
-        {
-          "title": "2028年应当由谁来接棒 特朗普称万斯和卢比奥都很“出色”",
-          "url": "https://wallstreetcn.com/livenews/3055943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 19时36分]"
-        },
-        {
-          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
-          "url": "https://wallstreetcn.com/livenews/3055862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 14时51分]"
-        },
-        {
-          "title": "特朗普称他将间接参与美国和伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3055860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 14时51分]"
-        },
-        {
-          "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
-          "url": "https://wallstreetcn.com/livenews/3055873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 14时51分]"
-        },
-        {
-          "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
-          "url": "https://flash.jin10.com/detail/20260217003445113800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 02时34分]"
-        },
-        {
-          "title": "特朗普称希拉里精神错乱",
-          "url": "https://wallstreetcn.com/livenews/3055955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 20时46分]"
-        },
-        {
-          "title": "美国土安全部长与下属传出婚外情，特朗普回应：没听说过，会去了解",
-          "url": "https://wallstreetcn.com/livenews/3055940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 19时36分]"
-        },
-        {
-          "title": "市场消息：印尼方面表示，最多将有8,000名军人在6月前准备好，可能参与加沙的人道主义维和任务，支持特朗普的加沙战后重建计划。",
-          "url": "https://flash.jin10.com/detail/20260216234427683800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时34分]"
-        },
-        {
-          "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 09时26分]"
-        },
-        {
-          "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
-          "url": "https://flash.jin10.com/detail/20260217002446619800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 02时34分]"
-        },
-        {
-          "title": "“你真不喜欢特朗普”，捷克官员惹怒希拉里：说他好才该反思",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32620953",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 14时51分]"
-        },
-        {
-          "title": "特朗普：若国会无法通过，将颁布行政令强制选民出示身份证投票",
-          "url": "https://flash.jin10.com/detail/20260217021035538800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时23分]"
-        },
-        {
-          "title": "特朗普反应低调 日本怕中美搞大动作",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 17时41分]"
-        },
-        {
-          "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
-          "url": "https://flash.jin10.com/detail/20260217040455048800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "特朗普称希拉里精神错乱",
-          "url": "https://flash.jin10.com/detail/20260217191010466800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：特朗普总统将前往佐治亚州，聚焦经济与可负担性。",
-          "url": "https://flash.jin10.com/detail/20260217230755682800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "美国总统特朗普：已故的杰西·杰克逊牧师是个好人。",
-          "url": "https://flash.jin10.com/detail/20260217213755064800",
-          "source": "金十数据",
-          "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-17）",
-          "url": "https://flash.jin10.com/detail/20260217183508117800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "一份联合声明显示，包括土耳其、埃及、沙特、卡塔尔和阿联酋在内的八个国家谴责以色列在被占领的约旦河西岸划定“国家土地”的决定。",
-          "url": "https://flash.jin10.com/detail/20260217161503410800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "古特雷斯谴责以色列决定在约旦河西岸恢复土地登记程序",
-          "url": "https://wallstreetcn.com/livenews/3055832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时23分 ~ 07时23分]"
-        },
-        {
-          "title": "联合国敦促以色列撤销约旦河西岸土地登记措施。",
-          "url": "https://flash.jin10.com/detail/20260217014438689800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 04时23分]"
-        },
-        {
-          "title": "约旦等八国联合谴责以色列在约旦河西岸土地新规",
-          "url": "https://wallstreetcn.com/livenews/3055934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 19时36分]"
-        },
-        {
-          "title": "约旦等八国联合谴责以色列在约旦河西岸土地新规",
-          "url": "https://flash.jin10.com/detail/20260217174640690800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "time_info": "00时50分"
         }
       ]
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "春晚机器人齐聚抖音",
           "url": "https://www.douyin.com/hot/2403438",
           "source": "抖音",
           "ranks": [
-            7,
-            12,
-            10,
-            9,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时23分 ~ 23时45分]"
-        },
-        {
-          "title": "抖音网友集体上春晚",
-          "url": "https://www.douyin.com/hot/2403372",
-          "source": "抖音",
-          "ranks": [
-            15,
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时23分]"
-        },
-        {
-          "title": "抖音集团李亮：炒作“字节是恒科的最大空头”很荒唐也很恶意",
-          "url": "https://wallstreetcn.com/livenews/3055956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时36分 ~ 20时46分]"
+          "time_info": "[00时49分 ~ 00时50分]"
         }
       ]
     }

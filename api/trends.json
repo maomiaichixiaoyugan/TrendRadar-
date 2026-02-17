@@ -1,44 +1,92 @@
 {
-  "generated_at": "2026-02-18T00:50:06.423010+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-18T01:56:50.987030+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
           "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时56分]"
+        },
+        {
+          "title": "哈梅内伊回应特朗普威胁",
+          "url": "https://news.ifeng.com/c/8qpTdmSckn9",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
+          "url": "https://flash.jin10.com/detail/20260218012450530800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "侨民抢在特朗普新税生效前寄钱回家，菲律宾12月海外汇款创纪录",
+          "url": "https://wallstreetcn.com/livenews/3056077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         },
         {
           "title": "美国总统特朗普：马里兰、弗吉尼亚州和华盛顿特区应对波托马克河的污水泄漏负责，必须立即着手处理。如果他们无法完成工作，就必须礼貌地给我打电话，请我帮忙修复。",
           "url": "https://flash.jin10.com/detail/20260218000855742800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时56分]"
         },
         {
           "title": "据Politico：美国国土安全部发言人特里西娅·麦克劳克林将离开特朗普政府。",
           "url": "https://flash.jin10.com/detail/20260218000727610800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时56分]"
+        },
+        {
+          "title": "美国总统特朗普：波托马克河泄漏是激进左派造成的环境危害。",
+          "url": "https://flash.jin10.com/detail/20260217235812714800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时56分]"
         },
         {
           "title": "哈梅内伊：如今我要说，特朗普也做不到",
@@ -52,15 +100,15 @@
           "time_info": "[00时49分 ~ 00时50分]"
         },
         {
-          "title": "美国总统特朗普：波托马克河泄漏是激进左派造成的环境危害。",
-          "url": "https://flash.jin10.com/detail/20260217235812714800",
+          "title": "据Politico：美国总统特朗普与阿根廷总统米莱达成的协议加大欧盟敲定南方共同市场协定的压力。",
+          "url": "https://flash.jin10.com/detail/20260218005046026800",
           "source": "金十数据",
           "ranks": [
-            6
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "01时56分"
         },
         {
           "title": "特朗普关税引发损失，企业加大货币对冲力度",
@@ -69,7 +117,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
         }
@@ -84,11 +132,12 @@
           "url": "https://www.douyin.com/hot/2403438",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时56分]"
         }
       ]
     }

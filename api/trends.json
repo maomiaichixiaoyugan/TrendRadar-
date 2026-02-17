@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T13:54:52.552373+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-02-17T14:51:21.125396+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 14时51分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -145,11 +145,12 @@
           "ranks": [
             7,
             16,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 14时51分]"
         },
         {
           "title": "特朗普称他将间接参与美国和伊朗谈判",
@@ -158,11 +159,12 @@
           "ranks": [
             8,
             17,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 14时51分]"
         },
         {
           "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
@@ -170,11 +172,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 13时54分]"
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 14时51分]"
         },
         {
           "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
@@ -225,6 +228,18 @@
           "time_info": "[01时34分 ~ 02时34分]"
         },
         {
+          "title": "“你真不喜欢特朗普”，捷克官员惹怒希拉里：说他好才该反思",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32620953",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 14时51分]"
+        },
+        {
           "title": "特朗普：若国会无法通过，将颁布行政令强制选民出示身份证投票",
           "url": "https://flash.jin10.com/detail/20260217021035538800",
           "source": "金十数据",
@@ -235,17 +250,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时29分 ~ 04时23分]"
-        },
-        {
-          "title": "“你真不喜欢特朗普”，捷克官员惹怒希拉里：说他好才该反思",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32620953",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
         },
         {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
@@ -314,11 +318,12 @@
           "url": "https://www.douyin.com/hot/2403438",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 14时51分]"
         }
       ]
     }

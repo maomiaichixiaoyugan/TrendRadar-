@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T13:55:23.287992+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2026-02-19T14:53:35.085690+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -15,8 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时53分]"
+        },
+        {
+          "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
+          "url": "https://news.ifeng.com/c/8qrooPYgaLN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时53分]"
         },
         {
           "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时27分 ~ 09时28分]"
-        },
-        {
-          "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
-          "url": "https://news.ifeng.com/c/8qrooPYgaLN",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时55分]"
         },
         {
           "title": "美国内政部长：天然气为美国家庭和工业提供动力。当生产增加时，公用事业账单就会减少。总统特朗普正在带来真正的成果，降低家庭开支。这就是美国能源主导的实际体现。",
@@ -112,6 +112,17 @@
           "time_info": "[05时30分 ~ 06时27分]"
         },
         {
+          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
+          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时53分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt谈及美国国土安全部（DHS）停摆问题，宣称：美国总统特朗普还没有与民主党沟通。",
           "url": "https://wallstreetcn.com/livenews/3056449",
           "source": "华尔街见闻-快讯",
@@ -136,17 +147,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时43分 ~ 05时30分]"
-        },
-        {
-          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
-          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时55分]"
         },
         {
           "title": "机构：德国国债正取代日元，成为抗衡“特朗普冲击”的避险新宠",
@@ -207,6 +207,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时43分 ~ 04时32分]"
+        },
+        {
+          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
+          "url": "https://wallstreetcn.com/livenews/3056582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "美国总统特朗普兜售股市上涨。",
@@ -281,7 +292,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -405,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
+          "url": "https://flash.jin10.com/detail/20260219140818011800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "美国总统特朗普：英国首相斯塔默无论如何都不应失去对迪戈加西亚的控制，尤其是通过一项充其量只是脆弱的百年租约来实现。",

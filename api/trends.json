@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T16:34:00.295218+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-02-20T17:36:04.837876+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时23分 ~ 16时34分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 17时36分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时10分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[12时10分 ~ 17时36分]"
         },
         {
           "title": "特朗普开了前所未有的一个会",
@@ -39,19 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时23分 ~ 16时34分]"
-        },
-        {
-          "title": "特朗普被曝考虑军事打击伊朗，细节披露",
-          "url": "https://news.ifeng.com/c/8qt5v4Gxsqm",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 12时10分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 17时36分]"
         },
         {
           "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
@@ -61,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时23分 ~ 16时34分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 17时36分]"
         },
         {
           "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
@@ -72,8 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时10分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[12时10分 ~ 17时36分]"
         },
         {
           "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
@@ -85,8 +74,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时10分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[12时10分 ~ 17时36分]"
+        },
+        {
+          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
+          "url": "https://wallstreetcn.com/articles/3765874",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时48分 ~ 17时36分]"
+        },
+        {
+          "title": "特朗普被曝考虑军事打击伊朗，细节披露",
+          "url": "https://news.ifeng.com/c/8qt5v4Gxsqm",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 12时10分]"
         },
         {
           "title": "美国总统特朗普：将指示战争部长及其他相关部门和机构，开始识别和公布与外星人及外星生命相关的政府档案。",
@@ -121,19 +134,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时48分 ~ 15时43分]"
-        },
-        {
-          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
-          "url": "https://wallstreetcn.com/articles/3765874",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 16时34分]"
         },
         {
           "title": "特朗普宣称：和平委员会获170亿美元加沙援助承诺，多国拟派员参与稳定部队",

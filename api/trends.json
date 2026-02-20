@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T19:27:14.157029+08:00",
-  "total_titles_processed": 1502,
+  "generated_at": "2026-02-20T20:42:06.827779+08:00",
+  "total_titles_processed": 1606,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时23分 ~ 19时27分]"
+          "appearance_count": 14,
+          "time_info": "[09时23分 ~ 20时42分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -50,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时10分 ~ 19时27分]"
+          "appearance_count": 13,
+          "time_info": "[12时10分 ~ 20时42分]"
         },
         {
           "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
@@ -64,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时10分 ~ 19时27分]"
+          "appearance_count": 13,
+          "time_info": "[12时10分 ~ 20时42分]"
         },
         {
           "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
@@ -120,7 +120,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -131,7 +131,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -197,6 +197,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时48分 ~ 16时34分]"
+        },
+        {
+          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
+          "url": "https://www.zhihu.com/question/2008125477047509192",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 20时42分]"
         },
         {
           "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
@@ -434,17 +446,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时10分 ~ 14时46分]"
-        },
-        {
-          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
-          "url": "https://www.zhihu.com/question/2008125477047509192",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 19时27分]"
         },
         {
           "title": "美国总统特朗普：乐意让俄罗斯加入“和平委员会”。",

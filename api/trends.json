@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T04:29:12.635532+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-02-26T05:30:40.274363+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 05时30分]"
         },
         {
           "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 05时30分]"
         },
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
           "url": "https://wallstreetcn.com/articles/3766126",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 05时30分]"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -46,11 +47,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            4
+            4,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 04时29分]"
+          "appearance_count": 3,
+          "time_info": "[03时47分 ~ 05时30分]"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -79,6 +81,18 @@
           "time_info": "[03时03分 ~ 04时29分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：刚刚和美国总统特朗普通了电话。美国总统特使威特科夫和贾里德·库什纳也参加了通话。我们讨论了双方代表明天在日内瓦双边会晤中将要讨论的问题，以及三月初三方谈判团队全体会议的筹备工作。",
+          "url": "https://flash.jin10.com/detail/20260226033018187800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时30分]"
+        },
+        {
           "title": "俄罗斯总统新闻秘书佩斯科夫：目前没有安排普京和特朗普之间的对话。",
           "url": "https://flash.jin10.com/detail/20260226023258257800",
           "source": "金十数据",
@@ -89,17 +103,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时03分 ~ 03时47分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：刚刚和美国总统特朗普通了电话。美国总统特使威特科夫和贾里德·库什纳也参加了通话。我们讨论了双方代表明天在日内瓦双边会晤中将要讨论的问题，以及三月初三方谈判团队全体会议的筹备工作。",
-          "url": "https://flash.jin10.com/detail/20260226033018187800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
         },
         {
           "title": "美国堪萨斯城联储主席Schmid：（总统特朗普的美联储主席提名人）凯文·沃什出任美联储理事将是合适的。",

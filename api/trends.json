@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T19:36:25.778914+08:00",
-  "total_titles_processed": 1594,
+  "generated_at": "2026-02-25T20:46:52.938067+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时59分 ~ 19时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时59分 ~ 20时46分]"
         },
         {
           "title": "特朗普：100%错误",
@@ -111,8 +111,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 19时36分]"
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 20时46分]"
         },
         {
           "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
@@ -122,8 +122,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 19时36分]"
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 20时46分]"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -216,7 +216,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -323,6 +323,19 @@
           "time_info": "01时56分"
         },
         {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 20时46分]"
+        },
+        {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
           "url": "https://flash.jin10.com/detail/20260225033807828800",
           "source": "金十数据",
@@ -347,6 +360,19 @@
           "time_info": "[03时52分 ~ 04时28分]"
         },
         {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 20时46分]"
+        },
+        {
           "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
           "url": "https://flash.jin10.com/detail/20260225032658019800",
           "source": "金十数据",
@@ -357,19 +383,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时52分 ~ 04时28分]"
-        },
-        {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 19时36分]"
         },
         {
           "title": "多数美国人称特朗普愈发反复无常",
@@ -408,19 +421,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时34分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 19时36分]"
         },
         {
           "title": "美议员称宁愿瞎也不想听特朗普演说",
@@ -564,7 +564,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -622,6 +622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "特朗普：我们赢得太多了",
+          "url": "https://www.douyin.com/hot/2411181",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：我受邀出席美国总统特朗普的国情咨文演讲。",
@@ -688,6 +699,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "白宫称特朗普对伊朗问题的首选手段永远是外交",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32650673",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "美国总统特朗普：正努力结束俄乌冲突。",

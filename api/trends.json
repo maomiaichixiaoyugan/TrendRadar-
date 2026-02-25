@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T07:26:00.807716+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-02-25T09:28:13.859609+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时59分 ~ 09时28分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -48,11 +48,12 @@
             9,
             8,
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时59分 ~ 09时28分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -80,6 +81,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时51分 ~ 07时26分]"
+        },
+        {
+          "title": "特朗普，走上“关税悬崖”",
+          "url": "https://news.ifeng.com/c/8r1Z2HFV2Mj",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
         },
         {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
@@ -123,7 +135,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -212,6 +224,17 @@
           "time_info": "[07时07分 ~ 07时26分]"
         },
         {
+          "title": "特朗普打还是不打，只是时间问题了",
+          "url": "https://news.ifeng.com/c/8r1bJIeSigy",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
           "title": "据CNBC：特朗普将通过预算协调程序公布减税计划。",
           "url": "https://flash.jin10.com/detail/20260225052942727800",
           "source": "金十数据",
@@ -244,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "派拉蒙首席执行官大卫·埃里森将出席特朗普的国情咨文演讲。",
+          "url": "https://flash.jin10.com/detail/20260225091354888800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "据Politico：美国民主党人调查司法部是否扣留涉特朗普的爱泼斯坦案文件。",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T14:44:17.685446+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-02-27T15:42:01.725845+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -47,6 +47,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时51分 ~ 07时24分]"
+        },
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 15时42分]"
         },
         {
           "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
@@ -92,19 +106,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
-        },
-        {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 14时44分]"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -204,6 +205,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时08分 ~ 13时47分]"
+        },
+        {
+          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
+          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
+        },
+        {
+          "title": "特朗普2026国会演讲全解析",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE2026%E5%9B%BD%E4%BC%9A%E6%BC%94%E8%AE%B2%E5%85%A8%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
@@ -386,7 +409,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "媒体点赞县委书记开抖音号",
@@ -401,11 +424,12 @@
             11,
             7,
             8,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 14时44分]"
+          "appearance_count": 19,
+          "time_info": "[00时51分 ~ 15时42分]"
         },
         {
           "title": "湖南蓝山县委书记抖音账号成民情留言板，粉丝已破10万",
@@ -417,11 +441,12 @@
             17,
             15,
             14,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 14时44分]"
+          "appearance_count": 19,
+          "time_info": "[00时51分 ~ 15时42分]"
         },
         {
           "title": "高考百日冲刺抖音帮我上分了",
@@ -435,11 +460,12 @@
             29,
             16,
             22,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 14时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 15时42分]"
         },
         {
           "title": "县委书记抖音号成“民情留言板”",
@@ -452,6 +478,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时23分 ~ 12时08分]"
+        },
+        {
+          "title": "葛军来和抖音网友们算账了",
+          "url": "https://www.douyin.com/hot/2413287",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
         }
       ]
     }

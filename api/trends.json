@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T17:23:38.129283+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2026-03-01T18:19:19.210312+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,26 @@
             9,
             4,
             5,
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时44分 ~ 18时19分]"
+        },
+        {
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/articles/3766454",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            4,
+            5
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时44分 ~ 17时23分]"
+          "time_info": "[12时16分 ~ 18时19分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -46,20 +61,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时19分 ~ 15时29分]"
-        },
-        {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/articles/3766454",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时16分 ~ 17时23分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -84,8 +85,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时16分 ~ 17时23分]"
+          "appearance_count": 9,
+          "time_info": "[12时16分 ~ 18时19分]"
         },
         {
           "title": "实时更新丨特朗普认为哈梅内伊已死报道准确",
@@ -951,8 +952,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时44分 ~ 17时23分]"
+          "appearance_count": 10,
+          "time_info": "[09时44分 ~ 18时19分]"
         }
       ]
     }

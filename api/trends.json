@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T22:19:47.281358+08:00",
-  "total_titles_processed": 1810,
+  "generated_at": "2026-03-01T23:17:25.437771+08:00",
+  "total_titles_processed": 1871,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时16分 ~ 22时19分]"
+          "appearance_count": 14,
+          "time_info": "[12时16分 ~ 23时17分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时44分 ~ 22时19分]"
+          "appearance_count": 15,
+          "time_info": "[09时44分 ~ 23时17分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -72,8 +72,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时16分 ~ 22时19分]"
+          "appearance_count": 14,
+          "time_info": "[12时16分 ~ 23时17分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -329,6 +329,19 @@
           "time_info": "[13时46分 ~ 15时29分]"
         },
         {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 23时17分]"
+        },
+        {
           "title": "特朗普：对伊朗的不间断打击将持续一周甚至更长时间",
           "url": "https://wallstreetcn.com/livenews/3061008",
           "source": "华尔街见闻-快讯",
@@ -379,19 +392,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时16分 ~ 15时29分]"
-        },
-        {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时19分]"
         },
         {
           "title": "特朗普说美国开始在伊朗实施重大作战行动，美以发动本次袭击的目的是什么？后续还会有哪些行动​？",
@@ -988,11 +988,12 @@
             4,
             9,
             12,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时44分 ~ 22时19分]"
+          "appearance_count": 15,
+          "time_info": "[09时44分 ~ 23时17分]"
         },
         {
           "title": "张艺凡把抖音特效玩了个遍",

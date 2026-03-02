@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T20:40:57.057890+08:00",
-  "total_titles_processed": 1857,
+  "generated_at": "2026-03-02T21:56:27.519617+08:00",
+  "total_titles_processed": 1980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 76,
       "titles": [
         {
           "title": "“不得不说，特朗普的计划落空了”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时48分 ~ 20时40分]"
+          "appearance_count": 11,
+          "time_info": "[13时48分 ~ 21时56分]"
         },
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -40,8 +40,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时48分 ~ 20时40分]"
+          "appearance_count": 11,
+          "time_info": "[13时48分 ~ 21时56分]"
+        },
+        {
+          "title": "外交部回应特朗普3月访华能否成行",
+          "url": "https://www.toutiao.com/trending/7611824247237361727/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 21时56分]"
         },
         {
           "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
@@ -54,20 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时24分 ~ 20时40分]"
-        },
-        {
-          "title": "外交部回应特朗普3月访华能否成行",
-          "url": "https://www.toutiao.com/trending/7611824247237361727/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 20时40分]"
+          "appearance_count": 13,
+          "time_info": "[09时24分 ~ 21时56分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -79,8 +79,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时08分 ~ 20时40分]"
+          "appearance_count": 12,
+          "time_info": "[12时08分 ~ 21时56分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -94,6 +94,19 @@
           "time_info": "[00时20分 ~ 07时17分]"
         },
         {
+          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
+          "url": "https://www.cls.cn/detail/2299598",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时40分 ~ 21时56分]"
+        },
+        {
           "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
           "url": "https://wallstreetcn.com/articles/3766482",
           "source": "华尔街见闻",
@@ -103,8 +116,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时48分 ~ 20时40分]"
+          "appearance_count": 11,
+          "time_info": "[13时48分 ~ 21时56分]"
         },
         {
           "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
@@ -132,8 +145,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时48分 ~ 20时40分]"
+          "appearance_count": 11,
+          "time_info": "[13时48分 ~ 21时56分]"
         },
         {
           "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
@@ -145,19 +158,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 07时17分]"
-        },
-        {
-          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
-          "url": "https://www.cls.cn/detail/2299598",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时40分 ~ 20时40分]"
         },
         {
           "title": "美以伊战争最新动态｜特朗普：对伊军事行动或持4周",
@@ -309,6 +309,18 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
+          "title": "中方回应特朗普3月访华能否成行",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%88%E8%AE%BF%E5%8D%8E%E8%83%BD%E5%90%A6%E6%88%90%E8%A1%8C%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时56分]"
+        },
+        {
           "title": "据《大西洋月刊》：美国总统特朗普在谈及与伊朗谈判的时机时表示，我不能告诉你。",
           "url": "https://flash.jin10.com/detail/20260302001047195800",
           "source": "金十数据",
@@ -395,6 +407,17 @@
           "time_info": "[05时17分 ~ 07时17分]"
         },
         {
+          "title": "特朗普，还有一仗？",
+          "url": "https://news.ifeng.com/c/8rAbiWHwmP6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时56分]"
+        },
+        {
           "title": "据《大西洋月刊》：美国总统特朗普表示，伊朗希望对话，他也同意对话。",
           "url": "https://flash.jin10.com/detail/20260302000518361800",
           "source": "金十数据",
@@ -429,28 +452,6 @@
           "time_info": "06时18分"
         },
         {
-          "title": "中方回应特朗普3月访华能否成行",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%88%E8%AE%BF%E5%8D%8E%E8%83%BD%E5%90%A6%E6%88%90%E8%A1%8C%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "特朗普，还有一仗？",
-          "url": "https://news.ifeng.com/c/8rAbiWHwmP6",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
           "title": "美国总统特朗普：呼吁伊朗人民抓住这一时机，夺回自己的国家。",
           "url": "https://flash.jin10.com/detail/20260302052042480800",
           "source": "金十数据",
@@ -468,7 +469,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -493,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：（谈美国总统特朗普的4—5周的时间表）可能会有变动。",
+          "url": "https://flash.jin10.com/detail/20260302214057133800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "特朗普3月访华能否成行？外交部：中美就元首互动保持着沟通",
@@ -583,6 +595,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "特朗普称同意与伊朗新领导层对话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32681474",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "据CNBC：美国总统特朗普表示，事情正在以非常积极的方式发展。",
           "url": "https://flash.jin10.com/detail/20260301234818748800",
           "source": "金十数据",
@@ -625,6 +648,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "特朗普称打死伊朗领导层48人，以总理称进一步升级行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32681273",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "美国总统特朗普：接下来我们还会继续追击剩余的船只。",

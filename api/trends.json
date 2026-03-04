@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T19:25:46.796465+08:00",
-  "total_titles_processed": 1812,
+  "generated_at": "2026-03-04T20:40:12.767161+08:00",
+  "total_titles_processed": 1893,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时22分 ~ 19时25分]"
+          "appearance_count": 13,
+          "time_info": "[09时22分 ~ 20时40分]"
         },
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时03分 ~ 19时25分]"
+          "appearance_count": 12,
+          "time_info": "[12时03分 ~ 20时40分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -77,11 +77,12 @@
             21,
             24,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时40分 ~ 19时25分]"
+          "appearance_count": 20,
+          "time_info": "[00时40分 ~ 20时40分]"
         },
         {
           "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
@@ -91,8 +92,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时39分 ~ 19时25分]"
+          "appearance_count": 10,
+          "time_info": "[14时39分 ~ 20时40分]"
         },
         {
           "title": "市场评估特朗普“护航”计划，美股期指转涨，德股涨超1%，韩股历史性暴跌12%，油价再涨3%，白银涨5%",
@@ -103,8 +104,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 19时25分]"
+          "appearance_count": 5,
+          "time_info": "[18时29分 ~ 20时40分]"
         },
         {
           "title": "特朗普“护航”未能平息局势！亚洲市场继续暴跌、韩股创有史以来最大跌幅，泰股停牌，油价再涨3%",
@@ -151,6 +152,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
+          "url": "https://wallstreetcn.com/articles/3766656",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 20时40分]"
+        },
+        {
           "title": "美国总统特朗普：乌克兰在我优先事项清单上排得很靠前。",
           "url": "https://flash.jin10.com/detail/20260304012406090800",
           "source": "金十数据",
@@ -182,6 +194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "特朗普要求亚马逊、谷歌等签署能源承诺 防止数据中心“吸血”居民账单",
+          "url": "https://flash.jin10.com/detail/20260304201805383800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国总统特朗普：加密货币行业接近取得真正的成功。",
@@ -244,6 +267,18 @@
           "time_info": "[09时22分 ~ 15时34分]"
         },
         {
+          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
+          "url": "https://www.zhihu.com/question/2012477817481344424",
+          "source": "知乎",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时29分 ~ 20时40分]"
+        },
+        {
           "title": "市场消息：伊拉克总理候选人阿尔-马利基宣布撤回总理竞选，几周前特朗普曾要求他退出。",
           "url": "https://flash.jin10.com/detail/20260304054539761800",
           "source": "金十数据",
@@ -279,29 +314,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时22分 ~ 14时39分]"
-        },
-        {
-          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
-          "url": "https://wallstreetcn.com/articles/3766656",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时25分]"
-        },
-        {
-          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
-          "url": "https://www.zhihu.com/question/2012477817481344424",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 19时25分]"
         },
         {
           "title": "美国总统特朗普：我们正在对关税进行各种研究。 所有国家都向维持他们已经与美国达成的协议。",
@@ -706,6 +718,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "美国财长贝森特：（谈伊朗问题表示）美国总统特朗普对此有清晰的设想，各方都应退让一步。",
+          "url": "https://flash.jin10.com/detail/20260304200948614800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "美国参议院民主党领导人Schumer：参议院将于周三表决（总统特朗普）对伊朗发动战争的权力。",
           "url": "https://wallstreetcn.com/livenews/3062968",
           "source": "华尔街见闻-快讯",
@@ -896,7 +919,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "中国军号抖音粉丝突破5000万",
@@ -910,6 +933,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时40分 ~ 13时39分]"
+        },
+        {
+          "title": "抖音作者组团探访核电站实拍",
+          "url": "https://www.douyin.com/hot/2419111",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 20时40分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T20:43:37.288286+08:00",
-  "total_titles_processed": 1861,
+  "generated_at": "2026-03-05T21:58:29.857187+08:00",
+  "total_titles_processed": 1975,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时24分 ~ 20时43分]"
+          "appearance_count": 13,
+          "time_info": "[09时24分 ~ 21时58分]"
         },
         {
           "title": "特朗普夫人，“翻车”了",
@@ -81,6 +81,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[09时24分 ~ 19时29分]"
+        },
+        {
+          "title": "特朗普：若满分10分，我给美对伊行动打15分",
+          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时32分 ~ 21时58分]"
         },
         {
           "title": "特朗普正式提名凯文·沃什出任美联储主席 参议院确认战将启",
@@ -122,15 +133,16 @@
           "time_info": "[00时36分 ~ 09时24分]"
         },
         {
-          "title": "特朗普：若满分10分，我给美对伊行动打15分",
-          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "title": "特朗普“大发战争财”，借打伊朗搞募款",
+          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
           "source": "凤凰网",
           "ranks": [
-            2
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时32分 ~ 20时43分]"
+          "appearance_count": 5,
+          "time_info": "[18时32分 ~ 21时58分]"
         },
         {
           "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
@@ -171,18 +183,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时42分 ~ 18时33分]"
-        },
-        {
-          "title": "特朗普“大发战争财”，借打伊朗搞募款",
-          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时32分 ~ 20时43分]"
         },
         {
           "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
@@ -653,7 +653,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         }

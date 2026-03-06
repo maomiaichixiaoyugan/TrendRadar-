@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T22:33:23.217658+08:00",
-  "total_titles_processed": 1938,
+  "generated_at": "2026-03-06T23:31:55.084049+08:00",
+  "total_titles_processed": 2031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时57分 ~ 22时33分]"
+          "appearance_count": 25,
+          "time_info": "[01时57分 ~ 23时31分]"
         },
         {
           "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
@@ -125,6 +125,17 @@
           "time_info": "[01时57分 ~ 06时26分]"
         },
         {
+          "title": "美以伊战争｜特朗普：让伊朗再次伟大！",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 23时31分]"
+        },
+        {
           "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
           "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
           "source": "澎湃新闻",
@@ -136,17 +147,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时34分 ~ 20时38分]"
-        },
-        {
-          "title": "美以伊战争｜特朗普：让伊朗再次伟大！",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时33分"
         },
         {
           "title": "特朗普新关税再遭法律挑战 多州拟联合起诉",
@@ -243,7 +243,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -268,6 +268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在将成千上万的人从中东各国撤离。这个过程进行得很安静，但却非常顺利。国务院在马尔科·鲁比奥部长的领导下做得非常出色！",
+          "url": "https://flash.jin10.com/detail/20260306230922800800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "特朗普承诺护航霍尔木兹 高盛也来“泼冷水”：可行性存疑！",
@@ -334,6 +345,19 @@
           "time_info": "[06时26分 ~ 07时46分]"
         },
         {
+          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
+          "url": "https://wallstreetcn.com/articles/3766889",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 23时31分]"
+        },
+        {
           "title": "伊朗战火下美汽油价格大涨 特朗普：不担心，无意动用战略油储！",
           "url": "https://www.cls.cn/detail/2304532",
           "source": "财联社热门",
@@ -368,18 +392,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时40分 ~ 15时34分]"
-        },
-        {
-          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
-          "url": "https://wallstreetcn.com/articles/3766889",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时38分 ~ 22时33分]"
         },
         {
           "title": "美国总统特朗普：无意动用战略石油储备。（路透社）",
@@ -440,6 +452,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 03时14分]"
+        },
+        {
+          "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
+          "url": "https://news.ifeng.com/c/8rHRuIXQ6KL",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 23时31分]"
         },
         {
           "title": "特朗普要求立即赦免以色列总理内塔尼亚胡",
@@ -526,7 +549,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -562,17 +585,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
-        },
-        {
-          "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
-          "url": "https://news.ifeng.com/c/8rHRuIXQ6KL",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时33分"
         },
         {
           "title": "特朗普要求立即赦免以色列总理",
@@ -625,7 +637,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -886,7 +898,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         }

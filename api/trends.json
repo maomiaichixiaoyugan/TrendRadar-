@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T19:23:43.641933+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-03-06T20:38:43.233724+08:00",
+  "total_titles_processed": 1738,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时57分 ~ 19时23分]"
+          "appearance_count": 22,
+          "time_info": "[01时57分 ~ 20时38分]"
         },
         {
           "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
@@ -83,11 +83,12 @@
           "url": "https://news.ifeng.com/c/8rGDBDdQi38",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时26分 ~ 19时23分]"
+          "appearance_count": 14,
+          "time_info": "[09时26分 ~ 20时38分]"
         },
         {
           "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
@@ -133,8 +134,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时34分 ~ 19时23分]"
+          "appearance_count": 7,
+          "time_info": "[15时34分 ~ 20时38分]"
         },
         {
           "title": "特朗普新关税再遭法律挑战 多州拟联合起诉",
@@ -385,6 +386,17 @@
           "time_info": "[01时57分 ~ 03时14分]"
         },
         {
+          "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
+          "url": "https://wallstreetcn.com/articles/3766863",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时38分]"
+        },
+        {
           "title": "特朗普要求立即赦免以色列总理内塔尼亚胡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32710617",
           "source": "澎湃新闻",
@@ -463,6 +475,17 @@
           "time_info": "13时41分"
         },
         {
+          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
+          "url": "https://wallstreetcn.com/articles/3766889",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "美国总统特朗普提名美国参议员马奎恩·马林接替克里斯蒂·诺姆出任美国国土安全部部长。",
           "url": "https://flash.jin10.com/detail/20260306024210116800",
           "source": "金十数据",
@@ -494,17 +517,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
-        },
-        {
-          "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
-          "url": "https://wallstreetcn.com/articles/3766863",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
         },
         {
           "title": "特朗普要求立即赦免以色列总理",
@@ -810,11 +822,12 @@
           "url": "https://www.douyin.com/hot/2421163",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时23分]"
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时38分]"
         }
       ]
     }

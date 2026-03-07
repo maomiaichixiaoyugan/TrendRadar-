@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T17:23:18.900293+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2026-03-07T18:18:03.281774+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3766927",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时54分 ~ 17时23分]"
+          "appearance_count": 11,
+          "time_info": "[11时54分 ~ 18时18分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -77,6 +78,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[03时30分 ~ 09时19分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-07）",
+          "url": "https://flash.jin10.com/detail/20260307180738661800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "据NBC新闻：特朗普在与助手和共和党官员讨论战后情景时提到了在伊朗部署地面部队的想法。",
@@ -413,8 +425,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 17时23分]"
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 18时18分]"
         },
         {
           "title": "抖音直播盛典彩排直击",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T16:23:04.034172+08:00",
-  "total_titles_processed": 1268,
+  "generated_at": "2026-03-07T17:23:18.900293+08:00",
+  "total_titles_processed": 1361,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时54分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[11时54分 ~ 17时23分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -406,6 +406,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "抖音直播盛典红毯群星闪耀",
+          "url": "https://www.douyin.com/hot/2422173",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 17时23分]"
+        },
+        {
           "title": "抖音直播盛典彩排直击",
           "url": "https://www.douyin.com/hot/2421163",
           "source": "抖音",
@@ -415,17 +426,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时25分 ~ 05时24分]"
-        },
-        {
-          "title": "抖音直播盛典红毯群星闪耀",
-          "url": "https://www.douyin.com/hot/2422173",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
         }
       ]
     }

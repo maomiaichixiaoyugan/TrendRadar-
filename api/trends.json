@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T15:24:23.063414+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-03-07T16:23:04.034172+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 15时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时54分 ~ 16时23分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -136,6 +136,18 @@
           "time_info": "[13时36分 ~ 14时31分]"
         },
         {
+          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
+          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 16时23分]"
+        },
+        {
           "title": "美国总统特朗普：（谈伊朗）无条件投降可能是（伊朗人）宣布无条件投降，也可能是他们再也无法战斗，没有人或东西可以战斗时。",
           "url": "https://flash.jin10.com/detail/20260307033923007800",
           "source": "金十数据",
@@ -200,18 +212,6 @@
           "ranks": [
             7,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时24分]"
-        },
-        {
-          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
-          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -403,7 +403,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "抖音直播盛典彩排直击",
@@ -415,6 +415,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时25分 ~ 05时24分]"
+        },
+        {
+          "title": "抖音直播盛典红毯群星闪耀",
+          "url": "https://www.douyin.com/hot/2422173",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         }
       ]
     }

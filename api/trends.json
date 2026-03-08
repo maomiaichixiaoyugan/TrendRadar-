@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T16:23:50.589391+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-03-08T17:23:29.146679+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -61,8 +61,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时39分 ~ 16时23分]"
+          "appearance_count": 5,
+          "time_info": "[13时39分 ~ 17时23分]"
         },
         {
           "title": "英国可能部署航母至中东，特朗普：不需要",
@@ -72,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时25分 ~ 17时23分]"
         },
         {
           "title": "委内瑞拉代总统致函特朗普",
@@ -84,11 +84,12 @@
             13,
             17,
             18,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时25分 ~ 17时23分]"
         },
         {
           "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
@@ -344,6 +345,17 @@
           "time_info": "09时25分"
         },
         {
+          "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
+          "url": "https://wallstreetcn.com/articles/3766963",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "特朗普暗讽英国航母“姗姗来迟”：不需要在我们已经获胜后才加入战争的人",
           "url": "https://flash.jin10.com/detail/20260308080925846800",
           "source": "金十数据",
@@ -353,6 +365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
+          "url": "https://wallstreetcn.com/articles/3766970",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "美国总统特朗普：美国参议院应该专注于，必要时完全专注于《拯救美国法案》，这是大家都想要的！",
@@ -397,6 +420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "美国总统特朗普：我们士兵在这场战争中的牺牲是为了整个世界，而不仅仅是中东。",
@@ -456,11 +490,12 @@
             29,
             27,
             24,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 16时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 17时23分]"
         },
         {
           "title": "抖音逐玉剧粉开始发力了",
@@ -474,8 +509,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 16时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 17时23分]"
         },
         {
           "title": "抖音精选为每一种选择喝彩",
@@ -484,11 +519,12 @@
           "ranks": [
             14,
             15,
-            17
+            17,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[12时05分 ~ 17时23分]"
         }
       ]
     },
@@ -501,11 +537,12 @@
           "url": "https://flash.jin10.com/detail/20260308161543134800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 17时23分]"
         }
       ]
     }

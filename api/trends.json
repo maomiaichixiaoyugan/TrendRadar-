@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T22:09:20.093753+08:00",
-  "total_titles_processed": 1992,
+  "generated_at": "2026-03-10T22:46:01.795842+08:00",
+  "total_titles_processed": 2087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 130,
+      "match_count": 131,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时20分 ~ 22时09分]"
+          "appearance_count": 15,
+          "time_info": "[09时20分 ~ 22时46分]"
         },
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -85,8 +85,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时20分 ~ 22时09分]"
+          "appearance_count": 15,
+          "time_info": "[09时20分 ~ 22时46分]"
         },
         {
           "title": "特朗普：将暂时免除一些制裁以平抑油价 对伊战事“很快”会结束",
@@ -190,11 +190,12 @@
             22,
             25,
             26,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时41分 ~ 22时09分]"
+          "appearance_count": 13,
+          "time_info": "[13时41分 ~ 22时46分]"
         },
         {
           "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
@@ -222,6 +223,39 @@
           "time_info": "[04时26分 ~ 06时22分]"
         },
         {
+          "title": "美以伊战争｜特朗普称可能与伊朗对话",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 22时46分]"
+        },
+        {
+          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
+          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 22时46分]"
+        },
+        {
+          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
+          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 22时46分]"
+        },
+        {
           "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
           "url": "https://www.cls.cn/detail/2307809",
           "source": "财联社热门",
@@ -246,6 +280,17 @@
           "time_info": "[16时33分 ~ 17时37分]"
         },
         {
+          "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时09分 ~ 22时46分]"
+        },
+        {
           "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油一度较日高跳水30%",
           "url": "https://wallstreetcn.com/articles/3766990",
           "source": "华尔街见闻",
@@ -268,37 +313,17 @@
           "time_info": "[07时21分 ~ 07时22分]"
         },
         {
-          "title": "美以伊战争｜特朗普称可能与伊朗对话",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "特朗普：有可能有条件同伊朗谈判",
+          "url": "https://www.cls.cn/detail/2308807",
+          "source": "财联社热门",
           "ranks": [
-            1
+            13,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 22时09分]"
-        },
-        {
-          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
-          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 22时09分]"
-        },
-        {
-          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
-          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 22时09分]"
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 22时46分]"
         },
         {
           "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油较日高暴跌30%",
@@ -387,17 +412,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
-        },
-        {
-          "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
-          "url": "https://wallstreetcn.com/articles/3767097",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
         },
         {
           "title": "美国白宫：特朗普正在评估所有可能的油价应对方案。",
@@ -501,18 +515,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普：有可能有条件同伊朗谈判",
-          "url": "https://www.cls.cn/detail/2308807",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 22时09分]"
         },
         {
           "title": "俄总统助理：普京与特朗普通话，讨论中东地区形势及乌克兰问题",
@@ -1107,7 +1109,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -1187,6 +1189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "以色列外交部长萨尔援引美国总统特朗普的话称，这场战争本周不会结束。",
+          "url": "https://flash.jin10.com/detail/20260310220252807800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "美国总统特朗普：当伊朗在很长一段时间内都无能力再对美国、以色列或我们的盟友发动武器袭击时，这场危机就结束了。",

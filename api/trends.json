@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T17:36:30.455326+08:00",
-  "total_titles_processed": 1559,
+  "generated_at": "2026-03-11T18:33:05.852878+08:00",
+  "total_titles_processed": 1641,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -77,6 +77,19 @@
           "time_info": "[00时51分 ~ 07时22分]"
         },
         {
+          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
+          "url": "https://wallstreetcn.com/articles/3767194",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时04分 ~ 18时33分]"
+        },
+        {
           "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
           "url": "https://news.ifeng.com/c/8rP5MhiF7B8",
           "source": "凤凰网",
@@ -102,19 +115,6 @@
           "time_info": "[09时20分 ~ 16时33分]"
         },
         {
-          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
-          "url": "https://wallstreetcn.com/articles/3767194",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时04分 ~ 17时36分]"
-        },
-        {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
           "url": "https://wallstreetcn.com/articles/3767174",
           "source": "华尔街见闻",
@@ -123,8 +123,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时20分 ~ 17时36分]"
+          "appearance_count": 11,
+          "time_info": "[09时20分 ~ 18时33分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -135,8 +135,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时04分 ~ 17时36分]"
+          "appearance_count": 10,
+          "time_info": "[12时04分 ~ 18时33分]"
+        },
+        {
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时20分 ~ 18时33分]"
         },
         {
           "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
@@ -161,16 +173,15 @@
           "time_info": "[13时43分 ~ 14时43分]"
         },
         {
-          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
-          "url": "https://wallstreetcn.com/articles/3767165",
-          "source": "华尔街见闻",
+          "title": "美以伊战争｜美媒：特朗普在美以伊战争中的致命误判",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            10
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时20分 ~ 17时36分]"
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 18时33分]"
         },
         {
           "title": "美国能源部长：特朗普总统在对伊朗的军事行动中维持全球能源稳定。美国海军成功护送一艘油轮通过霍尔木兹海峡，以确保石油持续流入全球市场。",
@@ -308,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-11）",
+          "url": "https://flash.jin10.com/detail/20260311181232946800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         },
         {
           "title": "微软：美国法院应该临时性地阻止总统特朗普的五角大楼封杀Anthropic。",
@@ -528,11 +550,12 @@
           "ranks": [
             18,
             26,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时39分 ~ 17时36分]"
+          "appearance_count": 6,
+          "time_info": "[15时39分 ~ 18时33分]"
         }
       ]
     }

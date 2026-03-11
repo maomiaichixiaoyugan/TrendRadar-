@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T20:43:11.598066+08:00",
-  "total_titles_processed": 1848,
+  "generated_at": "2026-03-11T22:02:44.289386+08:00",
+  "total_titles_processed": 1965,
   "failed_sources": [],
   "trends": [
     {
@@ -86,8 +86,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时04分 ~ 20时43分]"
+          "appearance_count": 15,
+          "time_info": "[12时04分 ~ 22时02分]"
         },
         {
           "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
@@ -124,8 +124,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时04分 ~ 20时43分]"
+          "appearance_count": 15,
+          "time_info": "[12时04分 ~ 22时02分]"
         },
         {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
@@ -136,8 +136,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时20分 ~ 20时43分]"
+          "appearance_count": 16,
+          "time_info": "[09时20分 ~ 22时02分]"
         },
         {
           "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
@@ -214,7 +214,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -225,7 +225,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -307,7 +307,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -538,7 +538,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         }
@@ -601,7 +601,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         }

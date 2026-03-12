@@ -1,22 +1,35 @@
 {
-  "generated_at": "2026-03-13T06:19:45.649573+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2026-03-13T07:22:04.419912+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时22分]"
+        },
+        {
+          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
+          "url": "https://wallstreetcn.com/articles/3767287",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时22分]"
         },
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -30,18 +43,6 @@
           "time_info": "[00时54分 ~ 05时27分]"
         },
         {
-          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
-          "url": "https://wallstreetcn.com/articles/3767287",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时19分]"
-        },
-        {
           "title": "中方回应特朗普计划访华",
           "url": "https://www.toutiao.com/trending/7615267437721780267/",
           "source": "今日头条",
@@ -49,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时22分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -109,6 +110,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时19分]"
+        },
+        {
+          "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32752905",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
         },
         {
           "title": "周四（3月12日），降息赢家指数跌2.72%，报87.51点，跳空低开之后持续走低。 “特朗普关税输家”指数跌3.14%，“特朗普金融指数”跌3.08%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.73%。",

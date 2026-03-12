@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T01:44:39.209888+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-03-13T02:43:44.798815+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 02时43分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 02时43分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 02时43分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -48,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 02时43分]"
         },
         {
           "title": "伊朗称特朗普几条推文结束不了战争",
@@ -102,7 +102,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
         },

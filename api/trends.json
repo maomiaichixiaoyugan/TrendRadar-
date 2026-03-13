@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T14:43:35.898454+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2026-03-13T15:40:32.108691+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,17 @@
           "time_info": "[00时54分 ~ 05时27分]"
         },
         {
+          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
+          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 15时40分]"
+        },
+        {
           "title": "中方回应特朗普计划访华",
           "url": "https://www.toutiao.com/trending/7615267437721780267/",
           "source": "今日头条",
@@ -58,28 +69,30 @@
           "time_info": "[00时54分 ~ 14时43分]"
         },
         {
-          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
-          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 14时43分]"
-        },
-        {
           "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
           "url": "https://www.cls.cn/detail/2311436",
           "source": "财联社热门",
           "ranks": [
             11,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时23分 ~ 14时43分]"
+          "appearance_count": 8,
+          "time_info": "[09时23分 ~ 15时40分]"
+        },
+        {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 15时40分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -129,16 +142,16 @@
           "time_info": "04时27分"
         },
         {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 14时43分]"
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 15时40分]"
         },
         {
           "title": "特朗普敦促鲍威尔立即降息：不要等到美联储下次开会",
@@ -162,17 +175,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时23分 ~ 13时44分]"
-        },
-        {
-          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
-          "url": "https://www.cls.cn/detail/2311714",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时43分 ~ 14时43分]"
         },
         {
           "title": "国际能源署将释放 4 亿桶战略石油储备，特朗普授权美国能源部释放 1.72 亿桶原油，会带来哪些影响？",
@@ -272,7 +274,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },

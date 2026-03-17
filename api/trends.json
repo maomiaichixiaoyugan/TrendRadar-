@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T03:52:40.267094+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-03-18T04:32:38.583404+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时32分]"
         },
         {
           "title": "特朗普称将接管古巴",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时32分]"
         },
         {
           "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时32分]"
         },
         {
           "title": "美澄清涉特朗普或推迟访华不实报道",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时32分]"
         },
         {
           "title": "特朗普或因伊朗战事推迟访华？外交部回应",
@@ -62,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时32分]"
         },
         {
           "title": "美国总统特朗普重申，将在任期内封杀风力发电机",
@@ -96,7 +96,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },

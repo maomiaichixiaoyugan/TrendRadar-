@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T14:57:07.117116+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2026-03-17T15:52:19.610141+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 79,
       "titles": [
         {
           "title": "特朗普会投入地面部队吗？",
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时00分 ~ 14时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时00分 ~ 15时52分]"
         },
         {
           "title": "特朗普，赚了近100亿",
@@ -75,11 +75,25 @@
           "ranks": [
             7,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时00分 ~ 14时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时00分 ~ 15时52分]"
+        },
+        {
+          "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32777497",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 15时52分]"
         },
         {
           "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
@@ -107,18 +121,6 @@
           "time_info": "[00时00分 ~ 07时26分]"
         },
         {
-          "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32777497",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 14时57分]"
-        },
-        {
           "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
           "url": "https://www.cls.cn/detail/2314895",
           "source": "财联社热门",
@@ -128,8 +130,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 14时57分]"
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 15时52分]"
+        },
+        {
+          "title": "特朗普“三个很开心”，让全世界脊背发凉",
+          "url": "https://news.ifeng.com/c/8rYllPsJnfC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 15时52分]"
         },
         {
           "title": "美以伊战争丨特朗普威胁推迟访华？美财长回应",
@@ -143,15 +156,15 @@
           "time_info": "[13时55分 ~ 13时56分]"
         },
         {
-          "title": "特朗普“三个很开心”，让全世界脊背发凉",
-          "url": "https://news.ifeng.com/c/8rYllPsJnfC",
+          "title": "特朗普：古巴现在非常脆弱，我可以随心所欲拿下它",
+          "url": "https://news.ifeng.com/c/8rYzLJPGX5T",
           "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时26分 ~ 14时57分]"
+          "time_info": "[12时12分 ~ 15时52分]"
         },
         {
           "title": "美以伊战争丨特朗普暗示袭击哈尔克岛石油设施",
@@ -185,17 +198,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
-        },
-        {
-          "title": "特朗普称美前总统点赞对伊动武 各方否认",
-          "url": "https://wallstreetcn.com/livenews/3071451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
         },
         {
           "title": "中美就特朗普总统访华事保持着沟通",
@@ -236,15 +238,15 @@
           "time_info": "03时50分"
         },
         {
-          "title": "特朗普：古巴现在非常脆弱，我可以随心所欲拿下它",
-          "url": "https://news.ifeng.com/c/8rYzLJPGX5T",
-          "source": "凤凰网",
+          "title": "中方回应特朗普称推迟一个月访华",
+          "url": "https://www.toutiao.com/trending/7618123908893380150/",
+          "source": "今日头条",
           "ranks": [
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时12分 ~ 14时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "白宫官员：特朗普拒绝重启与伊朗谈判",
@@ -258,6 +260,19 @@
           "time_info": "09时26分"
         },
         {
+          "title": "中方制裁是否影响鲁比奥随特朗普访华？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32778211",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 15时52分]"
+        },
+        {
           "title": "特朗普暗示袭击哈尔克岛石油设施",
           "url": "https://flash.jin10.com/detail/20260317051712836800",
           "source": "金十数据",
@@ -268,6 +283,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时26分]"
+        },
+        {
+          "title": "特朗普称美前总统点赞对伊动武 各方否认",
+          "url": "https://wallstreetcn.com/livenews/3071451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 15时52分]"
         },
         {
           "title": "多国表示不参与霍尔木兹海峡护航，特朗普抱怨盟友“不帮忙”",
@@ -342,27 +369,16 @@
           "time_info": "[09时26分 ~ 13时56分]"
         },
         {
-          "title": "中方制裁是否影响鲁比奥随特朗普访华？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32778211",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 14时57分]"
-        },
-        {
           "title": "美澄清涉特朗普或推迟访华不实报道",
           "url": "https://www.cls.cn/detail/2315239",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 15时52分]"
         },
         {
           "title": "美国总统特朗普宣称：最高法院的关税判决结果不会改变（自己挑起的）关税。 （最高法院否决之后）我从另外一个方面再次挑起关税。",
@@ -501,6 +517,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
+          "url": "https://wallstreetcn.com/livenews/3071473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "美国总统特朗普：美联储应立即召开特别会议降息。",
           "url": "https://flash.jin10.com/detail/20260317002907185800",
           "source": "金十数据",
@@ -510,6 +537,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
+          "url": "https://wallstreetcn.com/livenews/3071471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "美国总统特朗普：伊朗现在是纸老虎（Paper Tiger）。",
@@ -554,6 +592,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "美国总统特朗普：大公司正在进入委内瑞拉，将迅速提升委内瑞拉的石油生产。",
@@ -798,6 +847,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
+          "url": "https://flash.jin10.com/detail/20260317152515195800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "美国总统特朗普：预计伊朗不会发射太多导弹；伊朗所剩导弹已不多。",
           "url": "https://flash.jin10.com/detail/20260317002156347800",
           "source": "金十数据",
@@ -807,6 +867,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
+          "url": "https://flash.jin10.com/detail/20260317152458788800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "美国总统特朗普：目前霍尔木兹海峡的状况非常好。",

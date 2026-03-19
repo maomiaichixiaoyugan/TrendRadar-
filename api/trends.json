@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T15:43:03.826398+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2026-03-19T16:35:35.543730+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 15时43分]"
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 16时35分]"
         },
         {
           "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
@@ -206,6 +206,17 @@
           "time_info": "[09时29分 ~ 13时54分]"
         },
         {
+          "title": "高市早苗访美与特朗普如何“面对面”？",
+          "url": "https://news.ifeng.com/c/8rcWUf1wYvu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 16时35分]"
+        },
+        {
           "title": "美国官员：特朗普暂不想再袭伊朗能源设施",
           "url": "https://wallstreetcn.com/livenews/3072708",
           "source": "华尔街见闻-快讯",
@@ -230,17 +241,6 @@
           "time_info": "[05时29分 ~ 06时28分]"
         },
         {
-          "title": "高市早苗访美与特朗普如何“面对面”？",
-          "url": "https://news.ifeng.com/c/8rcWUf1wYvu",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 15时43分]"
-        },
-        {
           "title": "特朗普豁免执行《琼斯法》遏制高油价",
           "url": "https://www.toutiao.com/trending/7618591739103677988/",
           "source": "今日头条",
@@ -251,6 +251,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时28分]"
+        },
+        {
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://wallstreetcn.com/livenews/3073117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "油价分裂！阿曼冲到150，WTI还在100下挣扎，真怕了特朗普？",
@@ -284,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "油市修复节奏延后？研究机构：特朗普或被迫单边解决霍尔木兹危机",
+          "url": "https://flash.jin10.com/detail/20260319161503913800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "特朗普盟友警告：美国经济实力不足以应对伊朗战争！",
@@ -325,19 +347,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时56分 ~ 15时43分]"
+          "appearance_count": 16,
+          "time_info": "[01时56分 ~ 16时35分]"
         },
         {
           "title": "全世界请来提醒孟子义发抖音",
           "url": "https://www.douyin.com/hot/2436182",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 15时43分]"
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 16时35分]"
         },
         {
           "title": "我在抖音聊逐玉",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T07:26:32.239921+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-03-19T09:29:53.612314+08:00",
+  "total_titles_processed": 826,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 09时29分]"
         },
         {
           "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
@@ -44,18 +44,6 @@
           "time_info": "[01时56分 ~ 07时26分]"
         },
         {
-          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
-          "url": "https://www.cls.cn/detail/2316670",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 07时26分]"
-        },
-        {
           "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
           "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
           "source": "凤凰网",
@@ -63,8 +51,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 09时29分]"
+        },
+        {
+          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 09时29分]"
         },
         {
           "title": "高市早苗访美，特朗普的案板正急缺一块肉",
@@ -74,8 +75,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 09时29分]"
         },
         {
           "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
@@ -85,16 +86,16 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 09时29分]"
         },
         {
-          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
-          "source": "澎湃新闻",
+          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
+          "url": "https://www.cls.cn/detail/2316670",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            18
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -118,7 +119,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -129,7 +130,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -199,9 +200,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788330",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "美国参议院少数党领袖舒默：特朗普在中东发动了一场战争，但现在他试图逃避代价，把账单留给美国人民，而这场战争似乎没有结束的迹象。鲁比奥和赫格塞斯需要公开宣誓作证。美国人民应当得到答案，也应当获得问责。",
@@ -239,11 +251,12 @@
             15,
             12,
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 09时29分]"
         }
       ]
     }

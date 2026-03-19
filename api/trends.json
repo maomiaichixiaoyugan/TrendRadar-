@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T17:37:09.586832+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2026-03-19T18:35:57.463420+08:00",
+  "total_titles_processed": 1659,
   "failed_sources": [],
   "trends": [
     {
@@ -133,8 +133,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 17时37分]"
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 18时35分]"
         },
         {
           "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
@@ -144,8 +144,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 17时37分]"
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 18时35分]"
         },
         {
           "title": "据华盛顿检查者报：特朗普将于下周会见农业机械公司约翰迪尔的首席执行官。",
@@ -157,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "高市早苗访美与特朗普如何“面对面”？",
+          "url": "https://news.ifeng.com/c/8rcWUf1wYvu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时42分 ~ 18时35分]"
         },
         {
           "title": "法国总统马克龙：刚刚与卡塔尔埃米尔和特朗普通话，讨论了当天针对伊朗和卡塔尔天然气生产设施的袭击事件。各方的共同利益在于，应立即实施暂停针对民用基础设施（尤其是能源和供水基础设施）的打击行动。",
@@ -201,17 +212,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
-        },
-        {
-          "title": "高市早苗访美与特朗普如何“面对面”？",
-          "url": "https://news.ifeng.com/c/8rcWUf1wYvu",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时42分 ~ 17时37分]"
         },
         {
           "title": "报道：特朗普政府预计将很快取消夏季汽油法规，以抑制能源价格",
@@ -304,7 +304,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -392,8 +392,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时56分 ~ 17时37分]"
+          "appearance_count": 19,
+          "time_info": "[01时56分 ~ 18时35分]"
         },
         {
           "title": "全世界请来提醒孟子义发抖音",
@@ -402,11 +402,12 @@
           "ranks": [
             17,
             21,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时42分 ~ 17时37分]"
+          "appearance_count": 6,
+          "time_info": "[15时42分 ~ 18时35分]"
         },
         {
           "title": "我在抖音聊逐玉",
@@ -433,7 +434,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         }

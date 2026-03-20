@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T14:45:44.132747+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-03-20T15:42:07.798514+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时29分 ~ 14时45分]"
+          "appearance_count": 13,
+          "time_info": "[05时29分 ~ 15时42分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -88,8 +88,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时51分 ~ 14时45分]"
+          "appearance_count": 20,
+          "time_info": "[00时51分 ~ 15时42分]"
         },
         {
           "title": "美以伊战争丨特朗普最佳王牌下周抵达中东，能做什么",
@@ -99,8 +99,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 14时45分]"
+          "appearance_count": 5,
+          "time_info": "[13时46分 ~ 15时42分]"
         },
         {
           "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
@@ -108,11 +108,23 @@
           "source": "财联社热门",
           "ranks": [
             9,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时24分 ~ 15时42分]"
+        },
+        {
+          "title": "全世界都被特朗普逗笑了，除了高市早苗",
+          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
+          "source": "凤凰网",
+          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时24分 ~ 14时45分]"
+          "time_info": "[12时08分 ~ 15时42分]"
         },
         {
           "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
@@ -137,15 +149,15 @@
           "time_info": "00时51分"
         },
         {
-          "title": "全世界都被特朗普逗笑了，除了高市早苗",
-          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
+          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
+          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
           "source": "凤凰网",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时08分 ~ 14时45分]"
+          "time_info": "[13时46分 ~ 15时42分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
@@ -195,17 +207,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时50分]"
-        },
-        {
-          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
-          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 14时45分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -406,7 +407,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },

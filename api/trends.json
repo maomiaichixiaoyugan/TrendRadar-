@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T13:49:20.666371+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-03-22T14:42:21.768564+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 13时49分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 14时42分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -85,8 +85,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 13时49分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 14时42分]"
         },
         {
           "title": "美以伊战争丨伊朗：若地面入侵，将给特朗普“惊喜”",
@@ -119,8 +119,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 13时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 14时42分]"
         },
         {
           "title": "美国总统特朗普：如果民主党人不同意向国土安全部拨款，我将在下周一让移民与海关执法局（ICE）特工前往机场。",
@@ -169,11 +169,12 @@
           "ranks": [
             4,
             9,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 13时49分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 14时42分]"
         },
         {
           "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
@@ -184,8 +185,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 13时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 14时42分]"
         },
         {
           "title": "伊朗回应特朗普袭击电厂威胁",
@@ -223,6 +224,18 @@
           "time_info": "[00时22分 ~ 01时21分]"
         },
         {
+          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 14时42分]"
+        },
+        {
           "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂",
           "url": "https://wallstreetcn.com/articles/3768068",
           "source": "华尔街见闻",
@@ -232,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
+          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "特朗普威胁派移民执法人员负责机场安保",
@@ -245,15 +269,15 @@
           "time_info": "09时29分"
         },
         {
-          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
-          "source": "澎湃新闻",
+          "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
+          "url": "https://news.ifeng.com/c/8rhITNvbPgx",
+          "source": "凤凰网",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时49分"
+          "time_info": "14时42分"
         },
         {
           "title": "特朗普要求伊朗开放霍尔木兹海峡",
@@ -317,6 +341,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时19分 ~ 07时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "这届年轻人都在抖音colorwalk",
+          "url": "https://www.douyin.com/hot/2439424",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         }
       ]
     }

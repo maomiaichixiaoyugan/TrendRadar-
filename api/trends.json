@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T16:27:28.701453+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-03-22T17:26:26.628990+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 16时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 17时26分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -61,8 +61,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 16时27分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 17时26分]"
         },
         {
           "title": "江学勤教授预警：特朗普或启动全美征兵",
@@ -97,8 +97,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 16时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 17时26分]"
         },
         {
           "title": "美以伊战争丨伊朗：若地面入侵，将给特朗普“惊喜”",
@@ -133,11 +133,23 @@
             15,
             18,
             21,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 16时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 17时26分]"
+        },
+        {
+          "title": "英国内阁大臣里德：（在被问及英国对美国总统特朗普48小时伊朗最后通牒的立场时）美国总统特朗普只是在代表他自己发言。",
+          "url": "https://flash.jin10.com/detail/20260322164923102800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "美国总统特朗普：如果民主党人不同意向国土安全部拨款，我将在下周一让移民与海关执法局（ICE）特工前往机场。",
@@ -200,8 +212,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时49分 ~ 16时27分]"
+          "appearance_count": 5,
+          "time_info": "[13时49分 ~ 17时26分]"
         },
         {
           "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
@@ -211,8 +223,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 16时27分]"
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 17时26分]"
         },
         {
           "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
@@ -222,8 +234,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 16时27分]"
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 17时26分]"
         },
         {
           "title": "伊朗回应特朗普袭击电厂威胁",
@@ -361,8 +373,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 16时27分]"
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 17时26分]"
         }
       ]
     }

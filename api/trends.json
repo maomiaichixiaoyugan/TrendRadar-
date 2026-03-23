@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T01:46:42.217920+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-03-24T02:43:24.377365+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "称伊对话“富有成效”，特朗普“推迟5天”打击伊朗发电站，伊朗断然否认",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时43分]"
         },
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时43分]"
         },
         {
           "title": "特朗普称同伊朗已形成协议要点",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时43分]"
         },
         {
           "title": "特朗普：美伊过去两天已进行对话",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时43分]"
         },
         {
           "title": "特朗普：同伊朗对话“完美” 已形成协议要点，伊斯兰堡会谈遭伊否认",
@@ -64,6 +64,17 @@
           "time_info": "[00时51分 ~ 01时46分]"
         },
         {
+          "title": "特朗普：同伊朗对话“完美” 已形成协议要点，正就达成更广泛协议与伊磋商",
+          "url": "https://wallstreetcn.com/articles/3768191",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
           "title": "特朗普称同伊朗已形成协议要点",
           "url": "https://www.toutiao.com/trending/7620316859677786155/",
           "source": "今日头条",
@@ -71,8 +82,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时43分]"
         },
         {
           "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
@@ -82,8 +93,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时43分]"
         },
         {
           "title": "特朗普称同伊朗已形成协议要点",
@@ -93,8 +104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时43分]"
         },
         {
           "title": "伊朗否认与美国沟通，此前特朗普称已与伊朗对话，将推迟五天打击伊朗发电站，如何看待此事？战争要结束了吗？",
@@ -104,8 +115,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时43分]"
         },
         {
           "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
@@ -115,8 +126,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时43分]"
         },
         {
           "title": "特朗普称美伊进行了富有成效的对话",
@@ -127,19 +138,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时43分]"
         },
         {
           "title": "特朗普称已与伊朗对话，将暂停打击其能源设施5天",
           "url": "https://m.thepaper.cn/newsDetail_forward_32815385",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时43分]"
         },
         {
           "title": "中方回应特朗普向伊朗发出最后通牒",
@@ -150,8 +162,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时43分]"
         },
         {
           "title": "特朗普称美伊已对话",
@@ -159,33 +171,72 @@
           "source": "微博",
           "ranks": [
             24,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时43分]"
         },
         {
           "title": "据半岛电视台：伊朗高级官员称特朗普无权对谈判施加条件或设定截止日期。",
           "url": "https://flash.jin10.com/detail/20260324014006892800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时43分]"
         },
         {
           "title": "欧洲天然气期货跌约6%，投资者关注特朗普的“与伊朗谈判”论调",
           "url": "https://wallstreetcn.com/livenews/3075357",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时43分]"
+        },
+        {
+          "title": "两年期德债收益率周一跌约10个基点，投资者权衡特朗普抛出的“与伊朗谈判”信息",
+          "url": "https://wallstreetcn.com/livenews/3075354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时43分]"
+        },
+        {
+          "title": "特朗普称正就达成更广泛协议与伊朗磋商：伊朗是认真的，他们想要达成和解",
+          "url": "https://wallstreetcn.com/livenews/3075353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时43分]"
+        },
+        {
+          "title": "特朗普：正就达成更广泛协议与伊朗磋商",
+          "url": "https://flash.jin10.com/detail/20260324012624178800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时43分]"
         },
         {
           "title": "国际油价、美债收益率跌幅收窄，美股回吐涨幅，伊朗否认特朗普的说法",
@@ -199,46 +250,13 @@
           "time_info": "00时51分"
         },
         {
-          "title": "两年期德债收益率周一跌约10个基点，投资者权衡特朗普抛出的“与伊朗谈判”信息",
-          "url": "https://wallstreetcn.com/livenews/3075354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "特朗普称正就达成更广泛协议与伊朗磋商：伊朗是认真的，他们想要达成和解",
-          "url": "https://wallstreetcn.com/livenews/3075353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "特朗普：正就达成更广泛协议与伊朗磋商",
-          "url": "https://flash.jin10.com/detail/20260324012624178800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
           "title": "美国总统特朗普：所有在打击犯罪特别小组服役的国民警卫队成员，都将享受与现役军人同等的待遇。",
           "url": "https://flash.jin10.com/detail/20260324011538950800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -282,7 +300,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -293,9 +311,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "伊朗称特朗普推迟袭击表态为心理战",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A8%E8%BF%9F%E8%A2%AD%E5%87%BB%E8%A1%A8%E6%80%81%E4%B8%BA%E5%BF%83%E7%90%86%E6%88%98%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
         }
       ]
     },
@@ -308,22 +337,24 @@
           "url": "https://www.douyin.com/hot/2440892",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时43分]"
         },
         {
           "title": "携程、京东、抖音等十二家企业被约谈，集中通报平台「内卷式」竞争问题，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2019473608989172095",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时43分]"
         }
       ]
     },

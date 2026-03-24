@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T04:35:37.892824+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-03-25T05:32:14.734758+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 04时35分]"
-        },
-        {
-          "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
-          "url": "https://wallstreetcn.com/articles/3768191",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 01时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 05时32分]"
         },
         {
           "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
@@ -38,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 04时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 05时32分]"
         },
         {
           "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
@@ -49,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 04时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 05时32分]"
         },
         {
           "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
@@ -61,8 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 04时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 05时32分]"
         },
         {
           "title": "特朗普“临阵变卦”有何意图",
@@ -73,8 +62,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 04时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 05时32分]"
         },
         {
           "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
@@ -86,8 +75,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 04时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 05时32分]"
+        },
+        {
+          "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
+          "url": "https://wallstreetcn.com/articles/3768191",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时12分]"
         },
         {
           "title": "美国总统特朗普：伊朗已同意永远不会拥有核武器。",

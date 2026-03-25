@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-26T05:32:50.277824+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-03-26T06:29:25.671144+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
-          "url": "https://wallstreetcn.com/articles/3768302",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时32分]"
-        },
         {
           "title": "美以伊战争丨美媒：军方只向特朗普展示胜利画面",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -26,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时29分]"
         },
         {
           "title": "凤凰女记者：伊朗民众认为特朗普说谎，在为美方袭击做准备",
@@ -35,6 +24,17 @@
           "source": "凤凰网",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时29分]"
+        },
+        {
+          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
+          "url": "https://wallstreetcn.com/articles/3768302",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时29分]"
         },
         {
           "title": "伊朗称向美林肯号航母发射导弹，特朗普再谈正与伊朗谈判，声称收到伊方「大礼」，具体情况如何？",
@@ -60,8 +60,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时29分]"
         },
         {
           "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
@@ -72,8 +72,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时29分]"
         },
         {
           "title": "美媒：以总理希望呼吁伊朗人民“起义” 遭特朗普拒绝",
@@ -98,6 +98,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时42分 ~ 04时32分]"
+        },
+        {
+          "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
+          "url": "https://wallstreetcn.com/articles/3768393",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时29分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：关于15点和平计划的报道存在一些错误信息。 美国总统特朗普不会虚张声势，伊朗不应该误判形势。 如果伊朗不接受失败的结果，特朗普将“释放地狱之火”。",
@@ -146,15 +158,26 @@
           "time_info": "00时03分"
         },
         {
-          "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
-          "url": "https://wallstreetcn.com/articles/3768393",
-          "source": "华尔街见闻",
+          "title": "美国佛罗里达州共和党人提出法案，拟将棕榈滩机场更名为特朗普机场。",
+          "url": "https://flash.jin10.com/detail/20260326060757337800",
+          "source": "金十数据",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时32分"
+          "time_info": "06时29分"
+        },
+        {
+          "title": "野村辜朝明：“伊朗战争”发生在特朗普输掉“高院关税战”后几天，这不是巧合",
+          "url": "https://wallstreetcn.com/articles/3768337",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         },
         {
           "title": "美国总统特朗普：仇恨国家的民主党正在试图制造内部混乱，以掩盖我们在伊朗取得的伟大军事成就。他们讨厌看到我们如此彻底和果断的胜利，但美国公众看到了正在发生的事情。",
@@ -222,11 +245,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32514619",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时29分]"
         }
       ]
     },
@@ -242,11 +266,12 @@
             29,
             19,
             15,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时29分]"
         }
       ]
     }

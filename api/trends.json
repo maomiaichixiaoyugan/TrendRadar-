@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T22:08:03.581011+08:00",
-  "total_titles_processed": 1978,
+  "generated_at": "2026-03-27T23:45:50.918339+08:00",
+  "total_titles_processed": 2105,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时47分 ~ 22时08分]"
+          "appearance_count": 12,
+          "time_info": "[09时47分 ~ 23时45分]"
         },
         {
           "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
@@ -45,8 +45,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时53分 ~ 22时08分]"
+          "appearance_count": 17,
+          "time_info": "[03时53分 ~ 23时45分]"
         },
         {
           "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
@@ -116,8 +116,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时47分 ~ 22时08分]"
+          "appearance_count": 12,
+          "time_info": "[09时47分 ~ 23时45分]"
         },
         {
           "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
@@ -277,7 +277,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时08分"
         },

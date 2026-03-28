@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T17:31:34.814885+08:00",
-  "total_titles_processed": 1272,
+  "generated_at": "2026-03-28T18:26:04.104500+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时13分 ~ 17时31分]"
+          "appearance_count": 12,
+          "time_info": "[12时13分 ~ 18时26分]"
         },
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -39,11 +39,12 @@
             13,
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时13分 ~ 17时31分]"
+          "appearance_count": 12,
+          "time_info": "[12时13分 ~ 18时26分]"
         },
         {
           "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
@@ -53,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时13分 ~ 17时31分]"
+          "appearance_count": 12,
+          "time_info": "[12时13分 ~ 18时26分]"
         },
         {
           "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
@@ -66,6 +67,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时31分 ~ 09时27分]"
+        },
+        {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时52分 ~ 18时26分]"
         },
         {
           "title": "特朗普揭晓所谓伊朗大礼",
@@ -92,8 +106,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时44分 ~ 17时31分]"
+          "appearance_count": 22,
+          "time_info": "[01时44分 ~ 18时26分]"
         },
         {
           "title": "特朗普：乌克兰曾试图干预美大选",
@@ -144,17 +158,38 @@
           "time_info": "[05时29分 ~ 07时25分]"
         },
         {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
+          "title": "想跑跑不了，特朗普失控",
+          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时30分 ~ 18时26分]"
+        },
+        {
+          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
+          "url": "https://wallstreetcn.com/articles/3768631",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[13时52分 ~ 17时31分]"
+          "time_info": "[14时51分 ~ 18时26分]"
+        },
+        {
+          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
+          "url": "https://wallstreetcn.com/articles/3768593",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时41分 ~ 18时26分]"
         },
         {
           "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
@@ -166,17 +201,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时45分 ~ 04时31分]"
-        },
-        {
-          "title": "想跑跑不了，特朗普失控",
-          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
         },
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -193,18 +217,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时14分 ~ 17时31分]"
-        },
-        {
-          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
-          "url": "https://wallstreetcn.com/articles/3768631",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时51分 ~ 17时31分]"
         },
         {
           "title": "特朗普又批北约，威胁缩减对北约的“保护”开支",
@@ -311,17 +323,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
-        },
-        {
-          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
-          "url": "https://wallstreetcn.com/articles/3768593",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时41分 ~ 17时31分]"
         },
         {
           "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",

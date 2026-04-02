@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-04-02T20:57:13.909111+08:00",
-  "total_titles_processed": 1781,
+  "generated_at": "2026-04-02T22:20:55.304761+08:00",
+  "total_titles_processed": 1891,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 134,
+      "match_count": 138,
       "titles": [
+        {
+          "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
+          "url": "https://wallstreetcn.com/articles/3769051",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时25分 ~ 22时20分]"
+        },
+        {
+          "title": "完整视频丨特朗普发表全国讲话：对伊朗战事取得决定性胜利",
+          "url": "https://v.ifeng.com/c/8rzRV2vcF17",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时25分 ~ 22时20分]"
+        },
         {
           "title": "特朗普关键“全美讲话”前夕，美伊就“谈判现状”激烈交锋",
           "url": "https://wallstreetcn.com/articles/3769022",
@@ -17,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时45分 ~ 20时57分]"
+          "appearance_count": 11,
+          "time_info": "[09时45分 ~ 22时20分]"
         },
         {
           "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
@@ -30,20 +53,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时45分 ~ 20时57分]"
+          "appearance_count": 11,
+          "time_info": "[09时45分 ~ 22时20分]"
         },
         {
-          "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
-          "url": "https://wallstreetcn.com/articles/3769051",
-          "source": "华尔街见闻",
+          "title": "特朗普：若无协议将袭伊所有发电厂",
+          "url": "https://news.ifeng.com/c/8rzSzqLRHdz",
+          "source": "凤凰网",
           "ranks": [
-            2,
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 20时57分]"
+          "appearance_count": 10,
+          "time_info": "[12时25分 ~ 22时20分]"
         },
         {
           "title": "马克龙访日暗讽特朗普",
@@ -57,17 +79,6 @@
           "time_info": "[00时06分 ~ 07时31分]"
         },
         {
-          "title": "完整视频丨特朗普发表全国讲话：对伊朗战事取得决定性胜利",
-          "url": "https://v.ifeng.com/c/8rzRV2vcF17",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 20时57分]"
-        },
-        {
           "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
           "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
           "source": "凤凰网",
@@ -77,17 +88,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时06分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普：若无协议将袭伊所有发电厂",
-          "url": "https://news.ifeng.com/c/8rzSzqLRHdz",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 20时57分]"
         },
         {
           "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
@@ -128,6 +128,20 @@
           "time_info": "[00时06分 ~ 05时43分]"
         },
         {
+          "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
+          "url": "https://wallstreetcn.com/articles/3769054",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时25分 ~ 22时20分]"
+        },
+        {
           "title": "快速停火期望破灭？特朗普演讲震动市场：原油、美元齐涨 亚太股市转跌",
           "url": "https://www.cls.cn/detail/2332994",
           "source": "财联社热门",
@@ -141,6 +155,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时25分 ~ 19时41分]"
+        },
+        {
+          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
+          "url": "https://www.cls.cn/detail/2333305",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时54分 ~ 22时20分]"
         },
         {
           "title": "外媒：特朗普正“认真考虑”让美国退出北约",
@@ -157,18 +185,30 @@
           "time_info": "[00时06分 ~ 12时25分]"
         },
         {
-          "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
-          "url": "https://wallstreetcn.com/articles/3769054",
-          "source": "华尔街见闻",
+          "title": "外交部谈特朗普涉伊朗言论",
+          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            5,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 20时57分]"
+          "appearance_count": 6,
+          "time_info": "[17时54分 ~ 22时20分]"
+        },
+        {
+          "title": "特朗普话音刚落 伊朗导弹直扑以色列",
+          "url": "https://www.toutiao.com/trending/7623977327684226579/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            12,
+            15,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时25分 ~ 22时20分]"
         },
         {
           "title": "美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌",
@@ -225,19 +265,6 @@
           "time_info": "[09时45分 ~ 17时54分]"
         },
         {
-          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
-          "url": "https://www.cls.cn/detail/2333305",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时54分 ~ 20时57分]"
-        },
-        {
           "title": "特朗普正“认真考虑”让美国退出北约，美防长：对伊朗展开大规模行动时，北约盟友甚至连通行权限都不给美国",
           "url": "https://wallstreetcn.com/articles/3768995",
           "source": "华尔街见闻",
@@ -273,31 +300,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时45分 ~ 16时02分]"
-        },
-        {
-          "title": "外交部谈特朗普涉伊朗言论",
-          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时54分 ~ 20时57分]"
-        },
-        {
-          "title": "特朗普话音刚落 伊朗导弹直扑以色列",
-          "url": "https://www.toutiao.com/trending/7623977327684226579/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            12,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 20时57分]"
         },
         {
           "title": "特朗普称美军将很快撤出伊朗战事",
@@ -343,6 +345,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时45分 ~ 18时45分]"
+        },
+        {
+          "title": "特朗普讲话后金银直线跳水",
+          "url": "https://www.douyin.com/hot/2452230",
+          "source": "抖音",
+          "ranks": [
+            27,
+            9,
+            16,
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时02分 ~ 22时20分]"
         },
         {
           "title": "特朗普自行宣称对伊朗取得「快速、决定性、压倒性胜利」，接下来几周将对伊进行更强打击，如何看待这一表态？",
@@ -435,18 +452,15 @@
           "time_info": "00时06分"
         },
         {
-          "title": "特朗普讲话后金银直线跳水",
-          "url": "https://www.douyin.com/hot/2452230",
-          "source": "抖音",
+          "title": "以色列分析人士：特朗普不太可能派遣地面部队",
+          "url": "https://flash.jin10.com/detail/20260402215404398800",
+          "source": "金十数据",
           "ranks": [
-            27,
-            9,
-            16,
-            29
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时02分 ~ 20时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "马克龙“暗批”特朗普",
@@ -462,6 +476,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时44分 ~ 05时43分]"
+        },
+        {
+          "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
+          "url": "https://wallstreetcn.com/articles/3769052",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "北约担忧美国总统特朗普会削弱这个联盟，此前美国威胁要退出北约。",
@@ -666,6 +691,18 @@
           "time_info": "[04时38分 ~ 06时31分]"
         },
         {
+          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2333830",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 22时20分]"
+        },
+        {
           "title": "特朗普讲话结束，布油涨4%，黄金一度跌超3%，全球股市走低",
           "url": "https://wallstreetcn.com/articles/3769052",
           "source": "华尔街见闻",
@@ -747,17 +784,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时06分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2333830",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时56分 ~ 20时57分]"
         },
         {
           "title": "白宫官员预告特朗普讲话：将重申可能2-3周结束在伊朗的行动",
@@ -941,6 +967,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "美国司法部就特朗普政府对Anthropic的联邦禁令提起上诉。",
+          "url": "https://flash.jin10.com/detail/20260402214221520800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "媒体称特朗普正「认真考虑」让美国退出北约，美国真的会退出吗？一旦退出，对欧洲和全球格局意味着什么？",
@@ -1136,7 +1173,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -1183,6 +1220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "特朗普说宴会厅都建不了算什么国王",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%AE%B4%E4%BC%9A%E5%8E%85%E9%83%BD%E5%BB%BA%E4%B8%8D%E4%BA%86%E7%AE%97%E4%BB%80%E4%B9%88%E5%9B%BD%E7%8E%8B%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "据华尔街日报：特朗普政府的相关公告最快本周发布，使用进口钢铁和铝制成的成品将被征收25%的关税。",
@@ -1584,8 +1632,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时45分 ~ 20时57分]"
+          "appearance_count": 5,
+          "time_info": "[18时45分 ~ 22时20分]"
         },
         {
           "title": "白日提灯抖音追剧团",
@@ -1603,17 +1651,6 @@
           "time_info": "[00时06分 ~ 16时02分]"
         },
         {
-          "title": "三部门约谈抖音淘天小红书",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%83%A8%E9%97%A8%E7%BA%A6%E8%B0%88%E6%8A%96%E9%9F%B3%E6%B7%98%E5%A4%A9%E5%B0%8F%E7%BA%A2%E4%B9%A6%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时56分 ~ 20时57分]"
-        },
-        {
           "title": "三部门约谈抖音、淘天、小红书",
           "url": "https://www.baidu.com/s?wd=%E4%B8%89%E9%83%A8%E9%97%A8%E7%BA%A6%E8%B0%88%E6%8A%96%E9%9F%B3%E3%80%81%E6%B7%98%E5%A4%A9%E3%80%81%E5%B0%8F%E7%BA%A2%E4%B9%A6",
           "source": "百度热搜",
@@ -1622,8 +1659,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时41分 ~ 22时20分]"
+        },
+        {
+          "title": "三部门约谈抖音淘天小红书",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%83%A8%E9%97%A8%E7%BA%A6%E8%B0%88%E6%8A%96%E9%9F%B3%E6%B7%98%E5%A4%A9%E5%B0%8F%E7%BA%A2%E4%B9%A6%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时41分 ~ 20时57分]"
+          "time_info": "[20时56分 ~ 22时20分]"
         },
         {
           "title": "J Cole入驻抖音",

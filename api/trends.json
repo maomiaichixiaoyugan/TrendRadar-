@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T22:20:55.304761+08:00",
-  "total_titles_processed": 1891,
+  "generated_at": "2026-04-02T23:55:02.972199+08:00",
+  "total_titles_processed": 1985,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 138,
+      "match_count": 141,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时25分 ~ 22时20分]"
+          "appearance_count": 12,
+          "time_info": "[12时25分 ~ 23时55分]"
         },
         {
           "title": "完整视频丨特朗普发表全国讲话：对伊朗战事取得决定性胜利",
@@ -31,19 +31,6 @@
           "time_info": "[12时25分 ~ 22时20分]"
         },
         {
-          "title": "特朗普关键“全美讲话”前夕，美伊就“谈判现状”激烈交锋",
-          "url": "https://wallstreetcn.com/articles/3769022",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时45分 ~ 22时20分]"
-        },
-        {
           "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
           "url": "https://wallstreetcn.com/articles/3769044",
           "source": "华尔街见闻",
@@ -51,6 +38,19 @@
             4,
             3,
             2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时45分 ~ 23时55分]"
+        },
+        {
+          "title": "特朗普关键“全美讲话”前夕，美伊就“谈判现状”激烈交锋",
+          "url": "https://wallstreetcn.com/articles/3769022",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -102,6 +102,32 @@
           "time_info": "[00时06分 ~ 07时31分]"
         },
         {
+          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
+          "url": "https://www.cls.cn/detail/2333305",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时54分 ~ 23时55分]"
+        },
+        {
+          "title": "外交部谈特朗普涉伊朗言论",
+          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时54分 ~ 23时55分]"
+        },
+        {
           "title": "特朗普称将很快撤出伊朗战事",
           "url": "https://wallstreetcn.com/articles/3769012",
           "source": "华尔街见闻",
@@ -138,8 +164,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时25分 ~ 22时20分]"
+          "appearance_count": 12,
+          "time_info": "[12时25分 ~ 23时55分]"
         },
         {
           "title": "快速停火期望破灭？特朗普演讲震动市场：原油、美元齐涨 亚太股市转跌",
@@ -157,20 +183,6 @@
           "time_info": "[12时25分 ~ 19时41分]"
         },
         {
-          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
-          "url": "https://www.cls.cn/detail/2333305",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时54分 ~ 22时20分]"
-        },
-        {
           "title": "外媒：特朗普正“认真考虑”让美国退出北约",
           "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
           "source": "澎湃新闻",
@@ -185,17 +197,6 @@
           "time_info": "[00时06分 ~ 12时25分]"
         },
         {
-          "title": "外交部谈特朗普涉伊朗言论",
-          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时54分 ~ 22时20分]"
-        },
-        {
           "title": "特朗普话音刚落 伊朗导弹直扑以色列",
           "url": "https://www.toutiao.com/trending/7623977327684226579/",
           "source": "今日头条",
@@ -204,11 +205,12 @@
             12,
             15,
             16,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时25分 ~ 22时20分]"
+          "appearance_count": 12,
+          "time_info": "[12时25分 ~ 23时55分]"
         },
         {
           "title": "美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌",
@@ -302,6 +304,22 @@
           "time_info": "[09时45分 ~ 16时02分]"
         },
         {
+          "title": "特朗普讲话后金银直线跳水",
+          "url": "https://www.douyin.com/hot/2452230",
+          "source": "抖音",
+          "ranks": [
+            27,
+            9,
+            16,
+            29,
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时02分 ~ 23时55分]"
+        },
+        {
           "title": "特朗普称美军将很快撤出伊朗战事",
           "url": "https://www.toutiao.com/trending/7622967334319521811/",
           "source": "今日头条",
@@ -336,6 +354,17 @@
           "time_info": "[12时25分 ~ 14时09分]"
         },
         {
+          "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
+          "url": "https://wallstreetcn.com/articles/3769052",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时20分 ~ 23时55分]"
+        },
+        {
           "title": "英首相回应特朗普：这不是我们的战争，不会卷入其中",
           "url": "https://news.ifeng.com/c/8ryg5lk6hFZ",
           "source": "凤凰网",
@@ -345,21 +374,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时45分 ~ 18时45分]"
-        },
-        {
-          "title": "特朗普讲话后金银直线跳水",
-          "url": "https://www.douyin.com/hot/2452230",
-          "source": "抖音",
-          "ranks": [
-            27,
-            9,
-            16,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时02分 ~ 22时20分]"
         },
         {
           "title": "特朗普自行宣称对伊朗取得「快速、决定性、压倒性胜利」，接下来几周将对伊进行更强打击，如何看待这一表态？",
@@ -458,7 +472,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -476,17 +490,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时44分 ~ 05时43分]"
-        },
-        {
-          "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
-          "url": "https://wallstreetcn.com/articles/3769052",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         },
         {
           "title": "北约担忧美国总统特朗普会削弱这个联盟，此前美国威胁要退出北约。",
@@ -591,6 +594,19 @@
           "time_info": "17时54分"
         },
         {
+          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2333830",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时56分 ~ 23时55分]"
+        },
+        {
           "title": "北约秘书长吕特将于下周会见美国总统特朗普。 北约发言人称，吕特的访美“早有安排”。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3081123",
           "source": "华尔街见闻-快讯",
@@ -689,18 +705,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时38分 ~ 06时31分]"
-        },
-        {
-          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2333830",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时56分 ~ 22时20分]"
         },
         {
           "title": "特朗普讲话结束，布油涨4%，黄金一度跌超3%，全球股市走低",
@@ -975,7 +979,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1156,6 +1160,17 @@
           "time_info": "19时41分"
         },
         {
+          "title": "特朗普预算案为中期选举铺路：强化国防开支，削减其他项目",
+          "url": "https://wallstreetcn.com/livenews/3081684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "据英国金融时报：美国总统特朗普曾威胁称，除非欧洲加入霍尔木兹海峡联盟，否则将停止向乌克兰提供武器。",
           "url": "https://flash.jin10.com/detail/20260402015048512800",
           "source": "金十数据",
@@ -1228,7 +1243,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1352,6 +1367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "美国总统特朗普宣称，很快将签署命令，从而对国土安全部（DHS）所有雇员支付薪资。",
+          "url": "https://wallstreetcn.com/livenews/3081677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "特朗普称未来几周将对伊朗进行更强火力打击",
@@ -1530,6 +1556,17 @@
           "time_info": "09时45分"
         },
         {
+          "title": "美国总统特朗普通知司法部长Bondi，她的任期即将结束。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3081669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "美国总统特朗普：（在刚才的讲话中）那些通过霍尔木兹海峡获取石油的国家必须好好保护它，他们必须牢牢抓住并珍惜它。",
           "url": "https://flash.jin10.com/detail/20260402092739378800",
           "source": "金十数据",
@@ -1629,11 +1666,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时45分 ~ 22时20分]"
+          "appearance_count": 7,
+          "time_info": "[18时45分 ~ 23时55分]"
         },
         {
           "title": "白日提灯抖音追剧团",
@@ -1656,11 +1694,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时41分 ~ 22时20分]"
+          "appearance_count": 6,
+          "time_info": "[19时41分 ~ 23时55分]"
         },
         {
           "title": "三部门约谈抖音淘天小红书",
@@ -1671,8 +1710,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时56分 ~ 22时20分]"
+          "appearance_count": 5,
+          "time_info": "[20时56分 ~ 23时55分]"
         },
         {
           "title": "J Cole入驻抖音",

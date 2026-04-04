@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T07:28:13.280305+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-04-04T09:28:29.874635+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
@@ -28,6 +28,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时33分 ~ 03时35分]"
+        },
+        {
+          "title": "一图看懂｜特朗普“解放日”一周年，关税让美国再次伟大了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32895010",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时38分 ~ 09时28分]"
         },
         {
           "title": "特朗普又又又临阵退缩了？",
@@ -54,19 +68,6 @@
           "time_info": "[00时33分 ~ 07时28分]"
         },
         {
-          "title": "一图看懂｜特朗普“解放日”一周年，关税让美国再次伟大了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32895010",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时38分 ~ 07时28分]"
-        },
-        {
           "title": "特朗普正式对进口专利药品征收 100% 关税，为何其还能收关税，此举会对全球创新药市场产生多大影响？",
           "url": "https://www.zhihu.com/question/2023328039937786913",
           "source": "知乎",
@@ -77,8 +78,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时34分 ~ 07时28分]"
+          "appearance_count": 8,
+          "time_info": "[03时34分 ~ 09时28分]"
         },
         {
           "title": "美国总统特朗普最新发文称，保留石油，有人一起吗？",
@@ -93,6 +94,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时35分 ~ 07时28分]"
+        },
+        {
+          "title": "停火斡旋陷僵局，伊朗拒绝与美方伊斯兰堡会面，周五美或有两架战机坠毁，特朗普称战机被击落不影响谈判",
+          "url": "https://wallstreetcn.com/articles/3769228",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时27分 ~ 09时28分]"
         },
         {
           "title": "美国政府2027财年预算草案要点总结：特朗普“重武轻文”，大幅削减民生开支恐引发两党博弈",
@@ -128,11 +141,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            7
+            7,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[06时27分 ~ 09时28分]"
         },
         {
           "title": "美国总统特朗普在自家社交媒体平台兜售3月非农就业报告。 特朗普鼓吹道：特别是18.6万名在三月份获得私营部门工作的美国人！ 我的经济政策创造了一个强大的经济增长引擎，没有什么能减缓它的速度。 由于快速的本土化和激增的投资，工厂建设岗位大幅增加，而贸易逆差在一年内缩小了52%！",
@@ -140,11 +154,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[06时27分 ~ 09时28分]"
         },
         {
           "title": "美国总统特朗普签署备忘录，下令向国土安全部（DHS）工作人员（补充）发放薪资。",
@@ -152,11 +167,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[06时27分 ~ 09时28分]"
         },
         {
           "title": "特朗普：美国战机坠毁不会影响与伊朗的谈判",
@@ -225,17 +241,6 @@
           "time_info": "[00时33分 ~ 01时29分]"
         },
         {
-          "title": "停火斡旋陷僵局，伊朗拒绝与美方伊斯兰堡会面，周五美或有两架战机坠毁，特朗普称战机被击落不影响谈判",
-          "url": "https://wallstreetcn.com/articles/3769228",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
-        },
-        {
           "title": "特朗普计划拨款1.52亿美元，重启“恶魔岛”监狱",
           "url": "https://wallstreetcn.com/livenews/3082282",
           "source": "华尔街见闻-快讯",
@@ -269,6 +274,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时29分]"
+        },
+        {
+          "title": "特朗普称美战机被击落不会影响与伊朗谈判",
+          "url": "https://news.ifeng.com/c/8s2NeCx0C0O",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",

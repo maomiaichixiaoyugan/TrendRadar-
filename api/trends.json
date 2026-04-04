@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T16:34:15.137408+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-04-04T17:31:56.192007+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "一图看懂｜特朗普“解放日”一周年，关税让美国再次伟大了吗？",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时38分 ~ 16时34分]"
+          "appearance_count": 17,
+          "time_info": "[02时38分 ~ 17时31分]"
         },
         {
           "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
@@ -90,8 +90,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时53分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[13时53分 ~ 17时31分]"
         },
         {
           "title": "美国总统特朗普最新发文称，保留石油，有人一起吗？",
@@ -255,6 +255,18 @@
           "time_info": "[04时29分 ~ 07时28分]"
         },
         {
+          "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
+          "url": "https://wallstreetcn.com/articles/3769222",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时31分]"
+        },
+        {
           "title": "特朗普政府人事大换血",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%BA%BA%E4%BA%8B%E5%A4%A7%E6%8D%A2%E8%A1%80",
           "source": "bilibili 热搜",
@@ -288,17 +300,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时29分]"
-        },
-        {
-          "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
-          "url": "https://wallstreetcn.com/articles/3769222",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
         },
         {
           "title": "特朗普计划拨款1.52亿美元，重启“恶魔岛”监狱",
@@ -369,6 +370,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "胡锡进：特朗普想在停战前再捞一笔，遭伊朗沉重打击",
+          "url": "https://news.ifeng.com/c/8s3EHhsM4Il",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",

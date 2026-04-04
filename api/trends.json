@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T17:31:56.192007+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-04-04T18:26:38.801917+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "一图看懂｜特朗普“解放日”一周年，关税让美国再次伟大了吗？",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时38分 ~ 17时31分]"
+          "appearance_count": 18,
+          "time_info": "[02时38分 ~ 18时26分]"
         },
         {
           "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
@@ -90,8 +90,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 17时31分]"
+          "appearance_count": 8,
+          "time_info": "[13时53分 ~ 18时26分]"
         },
         {
           "title": "美国总统特朗普最新发文称，保留石油，有人一起吗？",
@@ -106,6 +106,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时35分 ~ 07时28分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-04）",
+          "url": "https://flash.jin10.com/detail/20260404180154288800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "特朗普称伊朗“新政权”更温和 专家称伊朗政权未更迭且更强硬",
+          "url": "https://flash.jin10.com/detail/20260404175453984800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "停火斡旋陷僵局，伊朗拒绝与美方伊斯兰堡会面，周五美或有两架战机坠毁，特朗普称战机被击落不影响谈判",
@@ -201,6 +223,18 @@
           "time_info": "[06时27分 ~ 09时28分]"
         },
         {
+          "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
+          "url": "https://wallstreetcn.com/articles/3769222",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 18时26分]"
+        },
+        {
           "title": "特朗普：美国战机坠毁不会影响与伊朗的谈判",
           "url": "https://flash.jin10.com/detail/20260404034503573800",
           "source": "金十数据",
@@ -255,16 +289,15 @@
           "time_info": "[04时29分 ~ 07时28分]"
         },
         {
-          "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
-          "url": "https://wallstreetcn.com/articles/3769222",
-          "source": "华尔街见闻",
+          "title": "胡锡进：特朗普想在停战前再捞一笔，遭伊朗沉重打击",
+          "url": "https://news.ifeng.com/c/8s3EHhsM4Il",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 17时31分]"
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时26分]"
         },
         {
           "title": "特朗普政府人事大换血",
@@ -361,6 +394,18 @@
           "time_info": "[12时11分 ~ 13时53分]"
         },
         {
+          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时26分]"
+        },
+        {
           "title": "特朗普称美战机被击落不会影响与伊朗谈判",
           "url": "https://news.ifeng.com/c/8s2NeCx0C0O",
           "source": "凤凰网",
@@ -370,28 +415,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
-        },
-        {
-          "title": "胡锡进：特朗普想在停战前再捞一笔，遭伊朗沉重打击",
-          "url": "https://news.ifeng.com/c/8s3EHhsM4Il",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
         },
         {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",

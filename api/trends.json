@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T19:25:09.228012+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-04-05T20:41:23.007484+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 48,
       "titles": [
         {
           "title": "美以伊战争丨特朗普发通牒：地狱将降临到伊朗头上",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时33分 ~ 19时25分]"
+          "appearance_count": 9,
+          "time_info": "[12时33分 ~ 20时41分]"
         },
         {
           "title": "特朗普再警告伊朗：“48小时内”可能采取进一步行动",
@@ -40,6 +41,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时26分]"
+        },
+        {
+          "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
+          "url": "https://wallstreetcn.com/articles/3769276",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时33分 ~ 20时41分]"
         },
         {
           "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
@@ -54,22 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时50分 ~ 19时25分]"
-        },
-        {
-          "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
-          "url": "https://wallstreetcn.com/articles/3769276",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时33分 ~ 19时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时50分 ~ 20时41分]"
         },
         {
           "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
@@ -86,17 +87,6 @@
           "time_info": "[00时27分 ~ 12时33分]"
         },
         {
-          "title": "美以伊战争丨伊朗军方拒绝特朗普“48小时”通牒",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 09时51分]"
-        },
-        {
           "title": "盘点｜绝对忠诚也非“铁饭碗”！特朗普为何连“砍”多位高官？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32904187",
           "source": "澎湃新闻",
@@ -107,8 +97,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时33分 ~ 19时25分]"
+          "appearance_count": 9,
+          "time_info": "[12时33分 ~ 20时41分]"
         },
         {
           "title": "伊朗军方拒绝特朗普“48小时”通牒",
@@ -121,8 +111,46 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时33分 ~ 20时41分]"
+        },
+        {
+          "title": "美以伊战争丨伊朗军方拒绝特朗普“48小时”通牒",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 09时51分]"
+        },
+        {
+          "title": "特朗普打的越猛，伊朗越强硬：霍尔木兹被推上谈判桌中央！",
+          "url": "https://wallstreetcn.com/articles/3769266",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时33分 ~ 19时25分]"
+          "time_info": "[12时33分 ~ 20时41分]"
+        },
+        {
+          "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
+          "url": "https://www.cls.cn/detail/2335478",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时52分 ~ 20时41分]"
         },
         {
           "title": "奥地利副总理：不想卷入特朗普发动的战争",
@@ -150,18 +178,6 @@
           "time_info": "[05时26分 ~ 09时51分]"
         },
         {
-          "title": "特朗普打的越猛，伊朗越强硬：霍尔木兹被推上谈判桌中央！",
-          "url": "https://wallstreetcn.com/articles/3769266",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时33分 ~ 19时25分]"
-        },
-        {
           "title": "美国总统特朗普在社交平台上发布了三张图片，内容分别是：特朗普担任美国总统的支持率高达96%，94%的受访人员认为特朗普是他们一生中遇到的最好的总统，以及万斯担任美国副总统的支持率为92%。",
           "url": "https://flash.jin10.com/detail/20260405040644929800",
           "source": "金十数据",
@@ -176,18 +192,16 @@
           "time_info": "[05时26分 ~ 09时51分]"
         },
         {
-          "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
-          "url": "https://www.cls.cn/detail/2335478",
-          "source": "财联社热门",
+          "title": "特朗普想趁机卖油，美媒：结果可能让他后悔莫及",
+          "url": "https://news.ifeng.com/c/8s4udkTiAOL",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            10,
-            8,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时52分 ~ 19时25分]"
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 20时41分]"
         },
         {
           "title": "美国总统特朗普：伊朗的许多军事领导人，领导得很糟糕，也很不明智。随着这次在德黑兰的大规模打击，他们和其他许多人都被终结了。",
@@ -214,16 +228,37 @@
           "time_info": "14时11分"
         },
         {
-          "title": "特朗普想趁机卖油，美媒：结果可能让他后悔莫及",
-          "url": "https://news.ifeng.com/c/8s4udkTiAOL",
-          "source": "凤凰网",
+          "title": "一周展望：战争第六周特朗普的剧本要崩、CPI将爆，金价又要出大戏？",
+          "url": "https://flash.jin10.com/detail/20260405200932018800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 19时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "特朗普“F词”大骂伊朗 威胁打击伊朗电厂和桥梁",
+          "url": "https://flash.jin10.com/detail/20260405200543778800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "诺奖得主、国际原子能机构前总干事敦促海湾各国：阻止“疯子”特朗普",
+          "url": "https://wallstreetcn.com/livenews/3082629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "特朗普就其移民政策发表最新讲话",
@@ -239,6 +274,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时23分 ~ 09时51分]"
+        },
+        {
+          "title": "特朗普警告伊朗：若48小时内不重新开放霍尔木兹海峡 将进一步升级行动",
+          "url": "https://www.cls.cn/detail/2335423",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 20时41分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-05）",
+          "url": "https://flash.jin10.com/detail/20260405180402647800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时41分]"
         },
         {
           "title": "特朗普发文：第二名失踪的美军飞行员“已平安无事”",
@@ -265,6 +324,19 @@
           "time_info": "[00时27分 ~ 01时24分]"
         },
         {
+          "title": "周三演讲“效果不佳”、对“媒体报道”不满、对“战争后果”沮丧！特朗普正考虑“大规模改组”内阁",
+          "url": "https://wallstreetcn.com/articles/3769274",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 20时41分]"
+        },
+        {
           "title": "特朗普：美军完成历史上“最大胆的搜救行动” 失踪飞行员均已获救",
           "url": "https://flash.jin10.com/detail/20260405121452100800",
           "source": "金十数据",
@@ -275,18 +347,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时33分 ~ 14时11分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-05）",
-          "url": "https://flash.jin10.com/detail/20260405180402647800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时25分]"
         },
         {
           "title": "美国总统特朗普：根据我的指示，美国军方出动了数十架战机，携带世界上“最致命的武器”，将失踪的飞行员救回。他受了伤，但未来会完全康复。",
@@ -323,29 +383,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时33分 ~ 14时11分]"
-        },
-        {
-          "title": "特朗普警告伊朗：若48小时内不重新开放霍尔木兹海峡 将进一步升级行动",
-          "url": "https://www.cls.cn/detail/2335423",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 14时11分]"
-        },
-        {
-          "title": "周三演讲“效果不佳”、对“媒体报道”不满、对“战争后果”沮丧！特朗普正考虑“大规模改组”内阁",
-          "url": "https://wallstreetcn.com/articles/3769274",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 19时25分]"
         },
         {
           "title": "伊朗媒体：特朗普深陷战争泥潭",
@@ -395,6 +432,17 @@
           "time_info": "15时52分"
         },
         {
+          "title": "特朗普：成功营救F-15飞行员 将于周一举行发布会",
+          "url": "https://flash.jin10.com/detail/20260405195621932800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "特朗普称已救回飞行员",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B7%B2%E6%95%91%E5%9B%9E%E9%A3%9E%E8%A1%8C%E5%91%98%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -406,6 +454,17 @@
           "time_info": "14时11分"
         },
         {
+          "title": "美国总统特朗普：我们已从伊朗境内的崇山峻岭中救出了那位伤势严重但非常勇敢的F-15机组人员/军官。",
+          "url": "https://flash.jin10.com/detail/20260405195446661800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "美媒：特朗普在白宫战情室跟进失踪美军飞行员救援行动",
           "url": "https://flash.jin10.com/detail/20260405124830248800",
           "source": "金十数据",
@@ -415,6 +474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
+        },
+        {
+          "title": "下周重磅日程：特朗普再发“最后通牒”、中美通胀数据、三星与天孚通信业绩",
+          "url": "https://wallstreetcn.com/articles/3769257",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "特朗普证实救出失踪飞行员",

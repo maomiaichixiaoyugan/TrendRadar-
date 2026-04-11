@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-11T09:45:18.131728+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2026-04-11T12:15:16.375888+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
           "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 09时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 12时15分]"
         },
         {
           "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
@@ -52,6 +53,42 @@
           "time_info": "[01时42分 ~ 02时42分]"
         },
         {
+          "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
+          "url": "https://www.cls.cn/detail/2341151",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 12时15分]"
+        },
+        {
+          "title": "特朗普：谈判结果24小时内明朗",
+          "url": "https://news.ifeng.com/c/8sDlxLParYe",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 12时15分]"
+        },
+        {
+          "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
+          "url": "https://wallstreetcn.com/articles/3769722",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 12时15分]"
+        },
+        {
           "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
           "url": "https://flash.jin10.com/detail/20260411013302688800",
           "source": "金十数据",
@@ -74,46 +111,13 @@
           "time_info": "07时30分"
         },
         {
-          "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
-          "url": "https://www.cls.cn/detail/2341151",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "特朗普：谈判结果24小时内明朗",
-          "url": "https://news.ifeng.com/c/8sDlxLParYe",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
-          "url": "https://wallstreetcn.com/articles/3769722",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
           "title": "特朗普向欧洲下了最后通牒",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E6%AC%A7%E6%B4%B2%E4%B8%8B%E4%BA%86%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -130,6 +134,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时43分 ~ 04时28分]"
+        },
+        {
+          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2341138",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 12时15分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击",
@@ -156,6 +172,32 @@
           "time_info": "[00时43分 ~ 01时43分]"
         },
         {
+          "title": "报道：特朗普和平委员会面临资金短缺，加沙计划陷入停滞",
+          "url": "https://wallstreetcn.com/livenews/3086135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时30分 ~ 12时15分]"
+        },
+        {
+          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
+          "url": "https://www.cls.cn/detail/2341106",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 12时15分]"
+        },
+        {
           "title": "特朗普：伊朗手中已无筹码 存在的原因是为了谈判",
           "url": "https://flash.jin10.com/detail/20260411003033068800",
           "source": "金十数据",
@@ -166,18 +208,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时43分]"
-        },
-        {
-          "title": "报道：特朗普和平委员会面临资金短缺，加沙计划陷入停滞",
-          "url": "https://wallstreetcn.com/livenews/3086135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 09时45分]"
         },
         {
           "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
@@ -191,27 +221,28 @@
           "time_info": "[00时43分 ~ 01时43分]"
         },
         {
-          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2341138",
-          "source": "财联社热门",
+          "title": "特朗普祝贺“阿耳忒弥斯2号”成功溅落",
+          "url": "https://flash.jin10.com/detail/20260411090528957800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时29分 ~ 09时45分]"
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 12时15分]"
         },
         {
-          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
-          "url": "https://www.cls.cn/detail/2341106",
-          "source": "财联社热门",
+          "title": "演员克鲁尼称特朗普摧毁伊朗的威胁为“战争罪”，被白宫反怼：他的电影和演技才构成战争罪",
+          "url": "https://wallstreetcn.com/livenews/3086139",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            8
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时29分 ~ 09时45分]"
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 12时15分]"
         },
         {
           "title": "特朗普：美国“很快”将开放霍尔木兹海峡",
@@ -261,26 +292,15 @@
           "time_info": "00时43分"
         },
         {
-          "title": "特朗普祝贺“阿耳忒弥斯2号”成功溅落",
-          "url": "https://flash.jin10.com/detail/20260411090528957800",
-          "source": "金十数据",
+          "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
+          "url": "https://www.zhihu.com/question/2026203195517477584",
+          "source": "知乎",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "演员克鲁尼称特朗普摧毁伊朗的威胁为“战争罪”，被白宫反怼：他的电影和演技才构成战争罪",
-          "url": "https://wallstreetcn.com/livenews/3086139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
+          "time_info": "12时15分"
         },
         {
           "title": "美国总统特朗普：美国准备提振匈牙利经济。",
@@ -430,6 +450,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全抖音都在问广西三月三怎么玩",
+          "url": "https://www.douyin.com/hot/2461983",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         }
       ]
     }

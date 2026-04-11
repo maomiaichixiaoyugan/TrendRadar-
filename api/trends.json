@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T13:57:14.052088+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-04-11T14:55:50.078934+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 14时55分]"
+        },
+        {
+          "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
+          "url": "https://wallstreetcn.com/articles/3769722",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 14时55分]"
         },
         {
           "title": "特朗普：谈判结果24小时内明朗",
@@ -62,20 +75,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 13时57分]"
-        },
-        {
-          "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
-          "url": "https://wallstreetcn.com/articles/3769722",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 14时55分]"
         },
         {
           "title": "伊朗战争丨特朗普：若未达成协议，将加大对伊朗打击",
@@ -97,8 +98,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时29分 ~ 13时57分]"
+          "appearance_count": 7,
+          "time_info": "[07时29分 ~ 14时55分]"
         },
         {
           "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
@@ -111,8 +112,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时29分 ~ 13时57分]"
+          "appearance_count": 7,
+          "time_info": "[07时29分 ~ 14时55分]"
         },
         {
           "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -160,6 +161,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时43分 ~ 04时28分]"
+        },
+        {
+          "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
+          "url": "https://www.zhihu.com/question/2026203195517477584",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 14时55分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击",
@@ -220,17 +232,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时43分 ~ 01时43分]"
-        },
-        {
-          "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
-          "url": "https://www.zhihu.com/question/2026203195517477584",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 13时57分]"
         },
         {
           "title": "演员克鲁尼称特朗普摧毁伊朗的威胁为“战争罪”，被白宫反怼：他的电影和演技才构成战争罪",
@@ -450,8 +451,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 13时57分]"
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 14时55分]"
         },
         {
           "title": "水豚噜噜抖音小火人联动",
@@ -461,8 +462,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 14时55分]"
         }
       ]
     },

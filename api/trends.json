@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T17:35:06.256193+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-04-11T18:28:40.092765+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时45分 ~ 17时35分]"
+          "appearance_count": 11,
+          "time_info": "[09时45分 ~ 18时28分]"
         },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时45分 ~ 17时35分]"
+          "appearance_count": 11,
+          "time_info": "[09时45分 ~ 18时28分]"
         },
         {
           "title": "特朗普：谈判结果24小时内明朗",
@@ -68,20 +68,6 @@
           "time_info": "[00时43分 ~ 09时45分]"
         },
         {
-          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2341138",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时29分 ~ 17时35分]"
-        },
-        {
           "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
           "url": "https://www.cls.cn/detail/2341106",
           "source": "财联社热门",
@@ -92,8 +78,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时29分 ~ 17时35分]"
+          "appearance_count": 13,
+          "time_info": "[07时29分 ~ 18时28分]"
+        },
+        {
+          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2341138",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[07时29分 ~ 18时28分]"
         },
         {
           "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
@@ -450,11 +451,12 @@
           "url": "https://www.douyin.com/hot/2461983",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时15分 ~ 17时35分]"
+          "appearance_count": 10,
+          "time_info": "[12时15分 ~ 18时28分]"
         },
         {
           "title": "水豚噜噜抖音小火人联动",
@@ -467,8 +469,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时56分 ~ 17时35分]"
+          "appearance_count": 9,
+          "time_info": "[13时56分 ~ 18时28分]"
         }
       ]
     },

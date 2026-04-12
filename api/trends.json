@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T07:27:21.557896+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-04-12T09:55:52.340345+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
@@ -8,23 +8,23 @@
       "match_count": 19,
       "titles": [
         {
-          "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
-          "url": "https://wallstreetcn.com/articles/3769722",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时27分]"
-        },
-        {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
           "url": "https://www.cls.cn/detail/2341151",
           "source": "财联社热门",
           "ranks": [
             1,
             2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 09时55分]"
+        },
+        {
+          "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
+          "url": "https://wallstreetcn.com/articles/3769722",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -38,20 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时27分]"
-        },
-        {
-          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
-          "url": "https://www.cls.cn/detail/2341106",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 09时55分]"
         },
         {
           "title": "一再遭特朗普嘲讽 英首相：我受够了",
@@ -59,6 +47,19 @@
           "source": "百度热搜",
           "ranks": [
             14,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 09时55分]"
+        },
+        {
+          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
+          "url": "https://www.cls.cn/detail/2341106",
+          "source": "财联社热门",
+          "ranks": [
+            12,
             13
           ],
           "is_new": false,
@@ -119,11 +120,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时27分]"
+          "appearance_count": 3,
+          "time_info": "[06时25分 ~ 09时55分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：正如特朗普所说，必须清除伊朗的浓缩铀，要么通过协议，要么通过其它方式。",
@@ -247,11 +249,12 @@
           "source": "抖音",
           "ranks": [
             1,
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 09时55分]"
         },
         {
           "title": "水豚噜噜抖音小火人联动",
@@ -261,11 +264,12 @@
             16,
             15,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 09时55分]"
         }
       ]
     }

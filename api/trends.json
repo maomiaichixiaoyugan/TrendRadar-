@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T04:53:37.920420+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-04-16T05:45:45.111871+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 05时45分]"
         },
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 05时45分]"
         },
         {
           "title": "特朗普称美国对伊朗的战争已经结束",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 05时45分]"
         },
         {
           "title": "特朗普再次威胁袭击伊朗",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 05时45分]"
         },
         {
           "title": "特朗普拒向教宗道歉，美国民众：很失望",
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 05时45分]"
         },
         {
           "title": "特朗普：没必要延长停火，接下来两天很精彩",
@@ -70,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 05时45分]"
         },
         {
           "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
@@ -81,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 05时45分]"
         },
         {
           "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
@@ -94,8 +94,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 05时45分]"
         },
         {
           "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
@@ -106,8 +106,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 05时45分]"
         },
         {
           "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
@@ -117,8 +117,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 05时45分]"
         },
         {
           "title": "卡塔尔埃米尔宫：卡塔尔埃米尔与美国总统特朗普在电话中讨论了地区局势降温以及确保能源市场稳定。",
@@ -174,7 +174,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -218,7 +218,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -256,11 +256,12 @@
           "source": "抖音",
           "ranks": [
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 05时45分]"
         }
       ]
     }

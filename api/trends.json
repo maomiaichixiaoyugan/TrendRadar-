@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T19:45:06.778986+08:00",
-  "total_titles_processed": 1510,
+  "generated_at": "2026-04-17T21:03:30.926001+08:00",
+  "total_titles_processed": 1613,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 19时45分]"
+          "appearance_count": 10,
+          "time_info": "[09时55分 ~ 21时03分]"
         },
         {
           "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
@@ -59,6 +59,17 @@
           "time_info": "[09时55分 ~ 18时09分]"
         },
         {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时45分 ~ 21时03分]"
+        },
+        {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
           "url": "https://wallstreetcn.com/articles/3770081",
           "source": "华尔街见闻",
@@ -69,17 +80,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时07分 ~ 06时34分]"
-        },
-        {
-          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
-          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时45分 ~ 19时45分]"
         },
         {
           "title": "伊朗战争丨特朗普：伊朗已同意不拥有核武器",
@@ -198,6 +198,17 @@
           "time_info": "[05时37分 ~ 07时35分]"
         },
         {
+          "title": "心心念念的大房子不让造，特朗普暴怒开喷",
+          "url": "https://news.ifeng.com/c/8sOn1dFNorh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 21时03分]"
+        },
+        {
           "title": "罗马教皇再发声 暗指特朗普操控宗教",
           "url": "https://flash.jin10.com/detail/20260417051016228800",
           "source": "金十数据",
@@ -210,15 +221,15 @@
           "time_info": "[05时37分 ~ 06时34分]"
         },
         {
-          "title": "心心念念的大房子不让造，特朗普暴怒开喷",
-          "url": "https://news.ifeng.com/c/8sOn1dFNorh",
+          "title": "伊朗战争丨美媒：急于结束伊朗战争，特朗普准备让步",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时09分 ~ 19时45分]"
+          "time_info": "[19时44分 ~ 21时03分]"
         },
         {
           "title": "伊朗战争丨特朗普称澳大利亚不出兵帮忙，澳总理反驳",
@@ -230,17 +241,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时24分 ~ 18时09分]"
-        },
-        {
-          "title": "伊朗战争丨美媒：急于结束伊朗战争，特朗普准备让步",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时44分 ~ 19时45分]"
         },
         {
           "title": "特朗普称黎以停火10天",
@@ -650,11 +650,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E7%BE%8E%E5%9B%A2%E4%BA%AC%E4%B8%9C%E6%B7%98%E5%A4%A9%E6%8A%96%E9%9F%B3%E8%A2%AB%E7%BD%9A35%E4%BA%BF%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时09分 ~ 19时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 21时03分]"
         },
         {
           "title": "蜜语纪抖音追剧团",
@@ -676,11 +677,12 @@
           "url": "https://www.douyin.com/hot/2469742",
           "source": "抖音",
           "ranks": [
-            22
+            22,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时44分 ~ 19时45分]"
+          "appearance_count": 3,
+          "time_info": "[19时44分 ~ 21时03分]"
         },
         {
           "title": "小红书上兜售健康证 人不到可办证",

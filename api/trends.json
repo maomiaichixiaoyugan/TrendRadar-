@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T14:55:17.671071+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-04-17T16:24:36.659930+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普：美伊下次会晤或在本周末举行",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时07分 ~ 14时55分]"
+          "appearance_count": 12,
+          "time_info": "[01时07分 ~ 16时24分]"
         },
         {
           "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 14时55分]"
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 16时24分]"
         },
         {
           "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
@@ -55,8 +55,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 14时55分]"
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 16时24分]"
         },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
@@ -187,6 +187,17 @@
           "time_info": "[05时37分 ~ 07时35分]"
         },
         {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时45分 ~ 16时24分]"
+        },
+        {
           "title": "罗马教皇再发声 暗指特朗普操控宗教",
           "url": "https://flash.jin10.com/detail/20260417051016228800",
           "source": "金十数据",
@@ -197,17 +208,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时34分]"
-        },
-        {
-          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
-          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 14时55分]"
         },
         {
           "title": "特朗普称黎以停火10天",
@@ -244,13 +244,24 @@
           "time_info": "[05时37分 ~ 06时34分]"
         },
         {
+          "title": "伊朗战争丨特朗普称澳大利亚不出兵帮忙，澳总理反驳",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "美法官延长白宫宴会厅改造暂停令 特朗普称“决不接受”",
           "url": "https://wallstreetcn.com/livenews/3089835",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -442,6 +453,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "古巴被曝曾借富商向白宫私递信件，赌特朗普愿“谈生意”、保现政权",
+          "url": "https://flash.jin10.com/detail/20260417154432950800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "美国法官叫停总统特朗普的白宫宴会厅的地上施工部分。",
           "url": "https://wallstreetcn.com/livenews/3089480",
           "source": "华尔街见闻-快讯",
@@ -599,7 +621,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "蜜语纪抖音追剧团",
@@ -629,13 +651,46 @@
           "time_info": "[04时41分 ~ 05时37分]"
         },
         {
+          "title": "市场监管总局依法对拼多多、美团、京东、饿了么、抖音、淘宝、天猫等7家电商平台“幽灵外卖”系列案作出行政处罚。",
+          "url": "https://flash.jin10.com/detail/20260417160022700800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "快手：进一步加强微短剧内容管理，继续落实“分类分层审核”制度",
+          "url": "https://wallstreetcn.com/livenews/3089886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "快手：进一步加强微短剧内容管理、持续守护短剧行业内容生态健康",
+          "url": "https://flash.jin10.com/detail/20260417154258163800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "丁程鑫跳完直接就发抖音",
           "url": "https://www.douyin.com/hot/2469287",
           "source": "抖音",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         }

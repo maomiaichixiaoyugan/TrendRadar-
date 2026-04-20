@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T07:31:09.040766+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-04-20T10:02:00.857880+08:00",
+  "total_titles_processed": 744,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”",
@@ -30,6 +30,19 @@
           "time_info": "[00时32分 ~ 06时28分]"
         },
         {
+          "title": "美国代表抵达伊斯兰堡参加谈判，特朗普：美伊仍能达成协议",
+          "url": "https://wallstreetcn.com/articles/3770356",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 10时02分]"
+        },
+        {
           "title": "特朗普称美伊20日将在伊斯兰堡举行谈判",
           "url": "https://m.thepaper.cn/newsDetail_forward_33006081",
           "source": "澎湃新闻",
@@ -48,18 +61,6 @@
           "url": "https://news.ifeng.com/c/8sS3Yag0vCf",
           "source": "凤凰网",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 07时31分]"
-        },
-        {
-          "title": "美国代表抵达伊斯兰堡参加谈判，特朗普：美伊仍能达成协议",
-          "url": "https://wallstreetcn.com/articles/3770356",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
             6
           ],
           "is_new": false,
@@ -106,6 +107,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时37分 ~ 07时31分]"
+        },
+        {
+          "title": "美伊局势追踪：特朗普二轮和谈邀约“遭拒” 美军开火、伊朗誓言报复",
+          "url": "https://www.cls.cn/detail/2348774",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
+          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "美国总统特朗普：坚持认为战争接近结束。（福克斯新闻）",

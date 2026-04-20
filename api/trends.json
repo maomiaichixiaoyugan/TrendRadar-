@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T17:53:48.072581+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-04-20T19:15:56.361910+08:00",
+  "total_titles_processed": 1371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 17时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 19时15分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -69,6 +69,17 @@
           "time_info": "[00时32分 ~ 07时31分]"
         },
         {
+          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
+          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 19时15分]"
+        },
+        {
           "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
           "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
           "source": "澎湃新闻",
@@ -90,17 +101,6 @@
             3,
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 17时53分]"
-        },
-        {
-          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
-          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
-          "source": "凤凰网",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -133,6 +133,20 @@
           "time_info": "[13时19分 ~ 17时53分]"
         },
         {
+          "title": "超1600亿美元！“特朗普关税退款”周一启动，企业能全部拿回吗？",
+          "url": "https://www.cls.cn/detail/2348969",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 19时15分]"
+        },
+        {
           "title": "白宫新闻秘书难招架，特朗普给9个记者9种回答",
           "url": "https://news.ifeng.com/c/8sTO3SFkNJq",
           "source": "凤凰网",
@@ -156,6 +170,17 @@
           "time_info": "[03时37分 ~ 07时31分]"
         },
         {
+          "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
+          "url": "https://news.ifeng.com/c/8sTsOA6jP1W",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 19时15分]"
+        },
+        {
           "title": "伊朗战争丨特朗普透露谈判消息：伊朗担心有诈",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -165,19 +190,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
-        },
-        {
-          "title": "超1600亿美元！“特朗普关税退款”周一启动，企业能全部拿回吗？",
-          "url": "https://www.cls.cn/detail/2348969",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 17时53分]"
         },
         {
           "title": "美国总统特朗普：坚持认为战争接近结束。（福克斯新闻）",
@@ -217,17 +229,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
-        },
-        {
-          "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
-          "url": "https://news.ifeng.com/c/8sTsOA6jP1W",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
         },
         {
           "title": "美国总统特朗普：伊朗已经同意了协议的许多条款。（福克斯新闻）",
@@ -366,6 +367,18 @@
           "time_info": "[13时19分 ~ 15时55分]"
         },
         {
+          "title": "经济问题和美伊冲突重创选民信心 特朗普民调支持率创下新低",
+          "url": "https://www.cls.cn/detail/2349003",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 19时15分]"
+        },
+        {
           "title": "特朗普：若美伊达成协议 “很可能”前往伊斯兰堡",
           "url": "https://flash.jin10.com/detail/20260419224124557800",
           "source": "金十数据",
@@ -389,24 +402,13 @@
           "time_info": "13时19分"
         },
         {
-          "title": "经济问题和美伊冲突重创选民信心 特朗普民调支持率创下新低",
-          "url": "https://www.cls.cn/detail/2349003",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
           "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
           "url": "https://wallstreetcn.com/livenews/3090987",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -417,7 +419,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -428,9 +430,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "特朗普称就对伊朗封锁一事考虑巴基斯坦方面建议",
+          "url": "https://wallstreetcn.com/livenews/3091043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     }

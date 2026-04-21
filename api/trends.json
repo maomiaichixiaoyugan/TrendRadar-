@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T01:56:18.344634+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-04-22T03:03:29.408408+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时03分]"
         },
         {
           "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
@@ -26,19 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时56分]"
-        },
-        {
-          "title": "伊朗司法机构否认特朗普提及的8名女性面临死刑",
-          "url": "https://wallstreetcn.com/livenews/3092025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时03分]"
         },
         {
           "title": "5月1日——特朗普“任性打仗”的关键时限",
@@ -49,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时03分]"
         },
         {
           "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
@@ -60,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时03分]"
         },
         {
           "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
@@ -71,8 +60,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时03分]"
+        },
+        {
+          "title": "伊朗司法机构否认特朗普提及的8名女性面临死刑",
+          "url": "https://wallstreetcn.com/livenews/3092025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时03分]"
         },
         {
           "title": "特朗普称美伊停火到期将继续轰炸",
@@ -83,19 +84,32 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时03分]"
         },
         {
           "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
           "url": "https://m.thepaper.cn/newsDetail_forward_33015762",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时03分]"
+        },
+        {
+          "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
+          "url": "https://wallstreetcn.com/articles/3770525",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时03分]"
         },
         {
           "title": "沃什：美联储独立性至关重要，绝不会沦为特朗普的“提线木偶”，需要新的通胀框架",
@@ -109,15 +123,15 @@
           "time_info": "[00时52分 ~ 00时53分]"
         },
         {
-          "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
-          "url": "https://wallstreetcn.com/articles/3770525",
+          "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
+          "url": "https://wallstreetcn.com/articles/3770519",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "03时03分"
         },
         {
           "title": "美联储主席提名人沃什：在美联储理事库克（Lisa Cook）被美国总统特朗普的政府起诉一事上，让我介入是不合适的。 如果提名资格获得确认，将遵循美国最高法院的意见。",
@@ -131,13 +145,24 @@
           "time_info": "00时53分"
         },
         {
+          "title": "特朗普“神助攻”？ 加拿大征兵创下三十年新高",
+          "url": "https://wallstreetcn.com/livenews/3092033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
           "title": "巴西总统开玩笑称应授予特朗普诺贝尔和平奖以结束战争",
           "url": "https://flash.jin10.com/detail/20260422010041262800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -148,7 +173,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },

@@ -1,111 +1,12 @@
 {
-  "generated_at": "2026-04-21T23:07:31.056849+08:00",
-  "total_titles_processed": 1775,
+  "generated_at": "2026-04-22T00:53:14.904611+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 93,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
-          "url": "https://news.ifeng.com/c/8sUALVwFbq7",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 07时37分]"
-        },
-        {
-          "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
-          "url": "https://news.ifeng.com/c/8sTsOA6jP1W",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 07时37分]"
-        },
-        {
-          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
-          "url": "https://wallstreetcn.com/articles/3770427",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时56分 ~ 23时07分]"
-        },
-        {
-          "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
-          "url": "https://wallstreetcn.com/articles/3770404",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时58分 ~ 19时57分]"
-        },
-        {
-          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
-          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时56分 ~ 23时07分]"
-        },
-        {
-          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
-          "url": "https://www.cls.cn/detail/2350258",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时45分 ~ 19时57分]"
-        },
-        {
-          "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
-          "url": "https://www.cls.cn/detail/2350106",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 16时31分]"
-        },
-        {
-          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
-          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 02时57分]"
-        },
         {
           "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
           "url": "https://news.ifeng.com/c/8sVY7G7Z8bE",
@@ -114,144 +15,52 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时56分 ~ 23时07分]"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 00时53分]"
         },
         {
-          "title": "特朗普撇清：以色列可说不动我",
-          "url": "https://news.ifeng.com/c/8sUslKZt0DW",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时45分 ~ 18时14分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普亲信坦言：79岁的他正在失控",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 18时14分]"
-        },
-        {
-          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
-          "url": "https://www.cls.cn/detail/2350491",
+          "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2351163",
           "source": "财联社热门",
           "ranks": [
-            11,
-            7,
-            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 00时53分]"
+        },
+        {
+          "title": "5月1日——特朗普“任性打仗”的关键时限",
+          "url": "https://wallstreetcn.com/articles/3770498",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 00时53分]"
+        },
+        {
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
+          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时30分 ~ 23时07分]"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 00时53分]"
         },
         {
-          "title": "伊朗战争丨特朗普：我不想延长停火协议",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "沃什：美联储独立性至关重要，绝不会沦为特朗普的“提线木偶”，需要新的通胀框架",
+          "url": "https://wallstreetcn.com/articles/3770525",
+          "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "路透社/益普索调查：美国总统特朗普的支持率维持在上个月的最低水平36%。仅有16%的美国人支持美国退出北约。",
-          "url": "https://flash.jin10.com/detail/20260421180105869800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "美国总统特朗普：如果我们现在离开，伊朗需要20年才能重建。",
-          "url": "https://flash.jin10.com/detail/20260421204820144800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "特朗普谈航空业合并：我不反对合并。 不喜欢美国航空和美联航合并。",
-          "url": "https://wallstreetcn.com/livenews/3091868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "美国国务院发言人：特朗普总统明确表示，我们不会允许敌对势力威胁我们在美洲的利益。我们正与地区伙伴采取切实措施，打击如贩毒集团等恐怖组织，并撤销那些可能危害我们公民安全的人的签证。",
-          "url": "https://flash.jin10.com/detail/20260421092612093800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "美国总统特朗普：如果新任美联储主席不降息，我将感到失望。",
-          "url": "https://flash.jin10.com/detail/20260421204527480800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "特朗普批评最高法院允许退还关税",
-          "url": "https://wallstreetcn.com/livenews/3091864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "美联储主席提名人沃什：不知道特朗普总统选择我的原因。",
-          "url": "https://flash.jin10.com/detail/20260421225534071800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "特朗普坚称伊朗“将会谈判”",
-          "url": "https://wallstreetcn.com/livenews/3091449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 00时53分]"
         },
         {
           "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
@@ -261,837 +70,52 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 23时07分]"
-        },
-        {
-          "title": "欧洲央行行长拉加德：央行将根据形势的需要而采取行动。 （欧元区）经济形势仍然高度不确定。 欧元区还没有陷入恶劣的假设场景。 （美国总统特朗普造成的）伊朗战争的“停止-启动”本性让人难以评估战争所构成的影响。 恢复至战争爆发之前的水平谈何容易。 迄今，供应链所受干扰有限。 在（对伊朗战争）得出结论之前，央行需要掌握更多信息。",
-          "url": "https://wallstreetcn.com/livenews/3091263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时57分]"
-        },
-        {
-          "title": "美国总统特朗普：与伊朗潜在达成的协议将远优于（奥巴马任期内达成的）伊朗核协议（JCPOA）。 如果在我任期内达成伊朗协议，（我）将担保和平。",
-          "url": "https://wallstreetcn.com/livenews/3091276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 03时59分]"
-        },
-        {
-          "title": "特朗普：在达成“协议”前不会解除对伊朗的封锁",
-          "url": "https://wallstreetcn.com/livenews/3091293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 04时45分]"
-        },
-        {
-          "title": "美国总统特朗普：如果在特朗普的领导下达成协议，将确保和平、安全和保障，不仅惠及以色列和中东，也惠及欧洲、美国及其他所有地区。",
-          "url": "https://flash.jin10.com/detail/20260421014051934800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时56分 ~ 02时57分]"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普签署与煤炭供应链相关的备忘录。",
-          "url": "https://flash.jin10.com/detail/20260421041906950800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时45分 ~ 05时41分]"
-        },
-        {
-          "title": "万斯将推迟与伊朗的谈判至周二，与特朗普所言相悖",
-          "url": "https://wallstreetcn.com/livenews/3091342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时37分]"
-        },
-        {
-          "title": "美国总统特朗普：感谢伊朗迫使船只从美国运输石油。 伊朗领导人迫使数以百计船只驶向美国，来获取石油。",
-          "url": "https://wallstreetcn.com/livenews/3091291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 04时45分]"
-        },
-        {
-          "title": "Peabody Energy美股盘后涨3.6%，白宫称特朗普签署煤炭相关的备忘录。",
-          "url": "https://wallstreetcn.com/livenews/3091324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时45分 ~ 06时37分]"
-        },
-        {
-          "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
-          "url": "https://www.cls.cn/detail/2350029",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时37分 ~ 14时55分]"
-        },
-        {
-          "title": "民调：特朗普支持率创第二任期内新低",
-          "url": "https://www.toutiao.com/trending/7630352961877655571/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 14时55分]"
-        },
-        {
-          "title": "美国总统特朗普：我们与伊朗达成的协议将远比伊朗核协议（JCPOA）更好。",
-          "url": "https://flash.jin10.com/detail/20260421013653333800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 02时57分]"
-        },
-        {
-          "title": "美国国务院官员：美国总统特朗普致力于寻求外交解决方案（如果可能），但不会让该岛屿（古巴）陷入重大国家安全威胁。",
-          "url": "https://flash.jin10.com/detail/20260421051756276800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时37分]"
-        },
-        {
-          "title": "特朗普感谢伊朗迫使船只转而从美国进口石油",
-          "url": "https://flash.jin10.com/detail/20260421022932707800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 04时45分]"
-        },
-        {
-          "title": "特朗普威胁停火到期将开炸",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%81%9C%E7%81%AB%E5%88%B0%E6%9C%9F%E5%B0%86%E5%BC%80%E7%82%B8%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时44分 ~ 07时37分]"
-        },
-        {
-          "title": "白宫：美国总统特朗普签署与煤炭供应链相关的备忘录。",
-          "url": "https://wallstreetcn.com/livenews/3091322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时45分 ~ 05时41分]"
-        },
-        {
-          "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2351163",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时11分 ~ 23时07分]"
-        },
-        {
-          "title": "特朗普称正在赢得战争 在达成“协议”前不会解除对伊朗的封锁",
-          "url": "https://flash.jin10.com/detail/20260421021704429800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时59分]"
-        },
-        {
-          "title": "5月1日——特朗普“任性打仗”的关键时限",
-          "url": "https://wallstreetcn.com/articles/3770498",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时11分 ~ 23时07分]"
-        },
-        {
-          "title": "美国总统特朗普“重申”：如果不达成伊朗协议，美军就不会解除对霍尔木兹海峡的封锁。 封锁正在摧毁伊朗。",
-          "url": "https://wallstreetcn.com/livenews/3091283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时59分]"
-        },
-        {
-          "title": "特朗普：新协议将比伊核协议好得多，停火“极不可能”延长",
-          "url": "https://flash.jin10.com/detail/20260421065026687800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "美联储主席提名人沃什：将独立于美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20260421225512284800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "美联储主席提名人沃什：不知道美国总统特朗普为何选择我来接任美联储主席。 我将独立于特朗普（的意见）之外。 总统们倾向于要求FOMC降息。 独立性取决于美联储（自身）。",
-          "url": "https://wallstreetcn.com/livenews/3091939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "伊朗议长：特朗普妄图将谈判桌变成投降桌",
-          "url": "https://news.ifeng.com/c/8sUi19J5Hpg",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "特朗普：我一直赞成提高利率以对抗通货膨胀，美国应该始终拥有全球最低利率",
-          "url": "https://wallstreetcn.com/livenews/3091860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "美国总统特朗普：必须查明美联储大楼成本超支的原因。",
-          "url": "https://flash.jin10.com/detail/20260421204330821800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "美国总统特朗普：预计美联储大楼完工时可能耗资超过40亿美元。",
-          "url": "https://flash.jin10.com/detail/20260421204319247800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "特朗普赞扬蒂姆·库克和黄仁勋。",
-          "url": "https://wallstreetcn.com/livenews/3091858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "据英国金融时报：特朗普的“和平委员会”已与迪拜环球港务集团就加沙重建事宜举行了会谈。",
-          "url": "https://flash.jin10.com/detail/20260421120318110800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "美国总统特朗普暗示鲍威尔在美联储建设成本问题上存在不当行为。",
-          "url": "https://flash.jin10.com/detail/20260421204253837800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "特朗普称有可能与Anthropic达成协议",
-          "url": "https://wallstreetcn.com/livenews/3091857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "美国总统特朗普：美联储主席提名人沃什对美联储大楼翻修感到不满。",
-          "url": "https://flash.jin10.com/detail/20260421204232112800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "特朗普赞扬其他国家从美国获取石油。 特朗普指出股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3091856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "特朗普表示不想延长与伊朗的停火协议",
-          "url": "https://flash.jin10.com/detail/20260421204206307800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "特朗普：没有压力达成伊朗协议 不会被外界催促",
-          "url": "https://flash.jin10.com/detail/20260421015345641800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "美国总统特朗普在采访中被问及美国司法部是否可能终止对美联储主席鲍威尔的调查。",
-          "url": "https://flash.jin10.com/detail/20260421204202798800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：美国从未如此接近与伊朗达成一项好的协议。 如果与伊朗没有达成协议，特朗普仍然有其他选择。",
-          "url": "https://wallstreetcn.com/livenews/3091434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "特朗普：“完全”赢得了伊朗战争。 如果我们现在离开伊朗，重建需要20年。 想就伊朗问题达成一项好的协议，不能操之过急。 不想被那些“叛国者”催促行事。",
-          "url": "https://wallstreetcn.com/livenews/3091852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "特朗普：正在与伊朗达成的新协议将比伊核协议好得多",
-          "url": "https://flash.jin10.com/detail/20260421014430010800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "特朗普将于北京时间21日晚8:30参加CNBC的一档财经节目。",
-          "url": "https://flash.jin10.com/detail/20260421053556015800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "技术刘Pro：突发双重利空压制国际现货金银，特朗普言论能否逆转行情？",
-          "url": "https://flash.jin10.com/detail/20260421204050334800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "伊朗顶级谈判员：我们不会在面临威胁时接受谈判。 美国总统特朗普企图将谈判桌变为“投降桌”。",
-          "url": "https://wallstreetcn.com/livenews/3091343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "尽管对市场和石油造成影响，特朗普仍为在伊朗采取的行动辩护。",
-          "url": "https://wallstreetcn.com/livenews/3091851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "美国总统特朗普：我完全没有压力去达成伊朗协议。尽管一切将相对迅速地发生。",
-          "url": "https://flash.jin10.com/detail/20260421014237256800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "美国总统特朗普：（关于美联储调查）我们必须了解建设情况。",
-          "url": "https://flash.jin10.com/detail/20260421204017760800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "伊朗首席谈判代表：美国总统特朗普正试图将谈判桌变成“投降桌”。",
-          "url": "https://flash.jin10.com/detail/20260421052808846800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "美国总统特朗普：我预计伊朗会遭到轰炸，美军已做好进入伊朗的准备。",
-          "url": "https://flash.jin10.com/detail/20260421203925707800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "特朗普：我认为美联储大楼翻修完成后可能要花费超过40亿美元。 必须查明美联储大楼翻修成本超支的原因。 （特朗普被问及新任美联储主席是否应该立即降息）如果新任美联储主席不降息，会感到失望。",
-          "url": "https://wallstreetcn.com/livenews/3091848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
+          "time_info": "[00时52分 ~ 00时53分]"
         },
         {
           "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
           "url": "https://m.thepaper.cn/newsDetail_forward_33015762",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 00时53分]"
+        },
+        {
+          "title": "特朗普称美伊停火到期将继续轰炸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E5%88%B0%E6%9C%9F%E5%B0%86%E7%BB%A7%E7%BB%AD%E8%BD%B0%E7%82%B8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 00时53分]"
+        },
+        {
+          "title": "美联储主席提名人沃什：在美联储理事库克（Lisa Cook）被美国总统特朗普的政府起诉一事上，让我介入是不合适的。 如果提名资格获得确认，将遵循美国最高法院的意见。",
+          "url": "https://wallstreetcn.com/livenews/3091994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时07分"
+          "time_info": "00时53分"
         },
         {
-          "title": "特朗普称伊朗已多次违反停火协议",
-          "url": "https://wallstreetcn.com/livenews/3091787",
+          "title": "美联储主席提名人沃什：特朗普从来没有要求在具体（哪次）会议上降息。 那些报道特朗普向我施压要求降息的记者需要更好的消息源。 特朗普从未要求我承诺在任何特定会议上降息。 我绝不会那样做。",
+          "url": "https://wallstreetcn.com/livenews/3091984",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "特朗普为针对鲍威尔的调查辩护，批评美联储的建设成本。 特朗普暗示鲍威尔在美联储建设成本问题上存在不当行为。",
-          "url": "https://wallstreetcn.com/livenews/3091846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "美国总统特朗普：我们的姿态是准备轰炸伊朗，我们已做好准备。",
-          "url": "https://flash.jin10.com/detail/20260421203824320800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "特朗普谈再次延长停火：我不想那么做。 伊朗可以通过协议重回正轨。 伊朗似乎“嗜血成性”。 伊朗必须运用理性和常识。 伊朗可以把自身变成一个正当的国家。 伊朗可能已经进行了一些补给。 打击基础设施可在军事上损害伊朗。 预计将对伊朗进行轰炸，我们已准备就绪。",
-          "url": "https://wallstreetcn.com/livenews/3091843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "特朗普谈伊朗谈判：我认为我们最终会达成一项很棒的协议。 伊朗别无选择，只能派人参加谈判。 我们在与伊朗的谈判中处于非常有利的地位。 封锁取得了巨大成功。 美国完全控制了霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3091840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "美国总统特朗普：我们现在的设备比几周前多得多。",
-          "url": "https://flash.jin10.com/detail/20260421203802366800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "特朗普：伊朗已多次违反停火协议。",
-          "url": "https://wallstreetcn.com/livenews/3091781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "特朗普称伊朗已多次违反停火协议",
-          "url": "https://flash.jin10.com/detail/20260421191658606800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗试图转移其导弹。",
-          "url": "https://flash.jin10.com/detail/20260421203756162800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "美国总统特朗普：对基础设施的打击可能会对伊朗造成军事伤害。",
-          "url": "https://flash.jin10.com/detail/20260421203742847800",
-          "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "据消息人士透露，美国贸易代表格里尔向墨西哥企业表示，特朗普对墨西哥的关税措施将长期维持。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3091692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗可能已经补充了一些（武器）库存。",
-          "url": "https://flash.jin10.com/detail/20260421203729153800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "伊朗用特朗普方式对付特朗普",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%94%A8%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B9%E5%BC%8F%E5%AF%B9%E4%BB%98%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗似乎“嗜血成性”。伊朗必须理性、讲常识。",
-          "url": "https://flash.jin10.com/detail/20260421203711159800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "美国白宫：特朗普签署与大规模能源及能源相关基础设施有关的决定。",
-          "url": "https://flash.jin10.com/detail/20260421042232218800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "美、布两油短线上扬0.8美元，特朗普称伊朗多次违反停火协议。",
-          "url": "https://flash.jin10.com/detail/20260421191151143800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗可以使自己成为一个合法国家。",
-          "url": "https://flash.jin10.com/detail/20260421203647377800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "特朗普：如未能达成协议“几无可能”再延长停火",
-          "url": "https://wallstreetcn.com/livenews/3091238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "特朗普敦促敦促弗吉尼亚州选民今天前往投票站，对一项将使民主党在众议院获得更多席位的重新划分选区议案投“反对”票。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3091774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-21）",
-          "url": "https://flash.jin10.com/detail/20260421174329067800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗多次违反停火协议！",
-          "url": "https://flash.jin10.com/detail/20260421190959229800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗刚获准赴巴基斯坦参加会谈。",
-          "url": "https://flash.jin10.com/detail/20260421203643869800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "美国白宫：特朗普签署与国防生产法案相关的国内石油生产方面的文件；签署与天然气传输、加工、储存及液化天然气能力相关的备忘录。",
-          "url": "https://flash.jin10.com/detail/20260421042130383800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "抖音回应“字节净利下滑70%”",
-          "url": "https://www.baidu.com/s?wd=%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94%E2%80%9C%E5%AD%97%E8%8A%82%E5%87%80%E5%88%A9%E4%B8%8B%E6%BB%9170%25%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            24,
-            15,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时37分]"
+          "time_info": "00时53分"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T04:43:01.316925+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-04-22T05:42:32.213634+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时42分]"
         },
         {
           "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2351163",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时42分]"
         },
         {
           "title": "伊朗战争丨特朗普宣布延长对伊朗停火",
@@ -37,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 04时43分]"
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 05时42分]"
         },
         {
           "title": "5月1日——特朗普“任性打仗”的关键时限",
@@ -49,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时42分]"
         },
         {
           "title": "特朗普称美伊停火到期将继续轰炸",
@@ -59,11 +60,12 @@
           "ranks": [
             30,
             13,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时42分]"
         },
         {
           "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
@@ -73,30 +75,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时43分]"
-        },
-        {
-          "title": "美国总统特朗普：我们被要求暂停对伊朗的攻击。因此将延长停火，直至他们的提案提交且讨论结束，无论结果如何。",
-          "url": "https://flash.jin10.com/detail/20260422041149872800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "保险公司对特朗普政府的美国医保减肥药覆盖计划持保留态度",
-          "url": "https://wallstreetcn.com/livenews/3092089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时42分]"
         },
         {
           "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
@@ -107,17 +87,17 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时42分]"
         },
         {
-          "title": "特朗普宣布延长停火期限，维持海上封锁等待伊朗提交方案",
-          "url": "https://wallstreetcn.com/livenews/3092087",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：我们被要求暂停对伊朗的攻击。因此将延长停火，直至他们的提案提交且讨论结束，无论结果如何。",
+          "url": "https://flash.jin10.com/detail/20260422041149872800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         },
@@ -130,8 +110,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时42分]"
+        },
+        {
+          "title": "保险公司对特朗普政府的美国医保减肥药覆盖计划持保留态度",
+          "url": "https://wallstreetcn.com/livenews/3092089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时42分]"
         },
         {
           "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
@@ -143,6 +135,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时52分 ~ 03时03分]"
+        },
+        {
+          "title": "特朗普宣布延长停火期限，维持海上封锁等待伊朗提交方案",
+          "url": "https://wallstreetcn.com/livenews/3092087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时42分]"
+        },
+        {
+          "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
+          "url": "https://wallstreetcn.com/articles/3770519",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 05时42分]"
         },
         {
           "title": "伊朗司法机构否认特朗普提及的8名女性面临死刑",
@@ -157,15 +172,28 @@
           "time_info": "[01时56分 ~ 03时03分]"
         },
         {
-          "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
-          "url": "https://wallstreetcn.com/articles/3770519",
-          "source": "华尔街见闻",
+          "title": "SPDR标普500 ETF信托涨0.6%，特朗普称，将延长对伊朗的停火直至谈判结束，“我们被要求在伊方提出统一的方案之前暂停对伊朗的攻击”。",
+          "url": "https://wallstreetcn.com/livenews/3092084",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时43分]"
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时42分]"
+        },
+        {
+          "title": "特朗普：已经要求美军继续封锁，将延长伊朗停火直至谈判结束",
+          "url": "https://wallstreetcn.com/livenews/3092083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时42分]"
         },
         {
           "title": "沃什：美联储独立性至关重要，绝不会沦为特朗普的“提线木偶”，需要新的通胀框架",
@@ -179,26 +207,26 @@
           "time_info": "[00时52分 ~ 00时53分]"
         },
         {
-          "title": "SPDR标普500 ETF信托涨0.6%，特朗普称，将延长对伊朗的停火直至谈判结束，“我们被要求在伊方提出统一的方案之前暂停对伊朗的攻击”。",
-          "url": "https://wallstreetcn.com/livenews/3092084",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗议会议长顾问称特朗普的停火延长毫无意义",
+          "url": "https://flash.jin10.com/detail/20260422050146596800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时43分"
+          "time_info": "05时42分"
         },
         {
-          "title": "特朗普：已经要求美军继续封锁，将延长伊朗停火直至谈判结束",
-          "url": "https://wallstreetcn.com/livenews/3092083",
+          "title": "伊朗：特朗普的停火延期毫无意义，失败的一方无权发号施令",
+          "url": "https://wallstreetcn.com/livenews/3092101",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时43分"
+          "time_info": "05时42分"
         },
         {
           "title": "美媒：特朗普或在停火结束前最后数小时解除海上封锁",
@@ -207,9 +235,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "美股迷幻药物板块隔夜暴走 特朗普放宽监管行业迎来命运反转",
+          "url": "https://www.cls.cn/detail/2350782",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "美联储主席提名人沃什：在美联储理事库克（Lisa Cook）被美国总统特朗普的政府起诉一事上，让我介入是不合适的。 如果提名资格获得确认，将遵循美国最高法院的意见。",
@@ -223,6 +262,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "标普500 E-mini期货跌幅收窄至0.3%，特朗普称将延长美国与伊朗的停火协议。",
+          "url": "https://wallstreetcn.com/livenews/3092093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
           "title": "特朗普“神助攻”？ 加拿大征兵创下三十年新高",
           "url": "https://wallstreetcn.com/livenews/3092033",
           "source": "华尔街见闻-快讯",
@@ -232,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "特朗普发帖：已指示军方继续实施封锁，同时将延长停火",
+          "url": "https://wallstreetcn.com/livenews/3092091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "巴西总统开玩笑称应授予特朗普诺贝尔和平奖以结束战争",
@@ -245,6 +306,17 @@
           "time_info": "01时56分"
         },
         {
+          "title": "标普500指数期货收复部分跌幅，现跌0.3%，此前美国总统特朗普表示将延长美伊之间的停火协议。",
+          "url": "https://flash.jin10.com/detail/20260422043021208800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
           "title": "特朗普政府警告称，未来几周将没有足够资金支付运输安全管理局工作人员的工资。",
           "url": "https://flash.jin10.com/detail/20260422005842133800",
           "source": "金十数据",
@@ -254,6 +326,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "伊媒：特朗普还是延长了停火",
+          "url": "https://flash.jin10.com/detail/20260422042309163800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "美联储主席提名人沃什：特朗普从来没有要求在具体（哪次）会议上降息。 那些报道特朗普向我施压要求降息的记者需要更好的消息源。 特朗普从未要求我承诺在任何特定会议上降息。 我绝不会那样做。",
@@ -273,7 +356,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         },
@@ -284,7 +367,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         }

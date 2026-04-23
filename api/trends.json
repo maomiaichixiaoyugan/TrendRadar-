@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T18:18:12.930458+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2026-04-23T19:57:04.124760+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
@@ -41,8 +41,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时04分 ~ 18时18分]"
+          "appearance_count": 14,
+          "time_info": "[03时04分 ~ 19时57分]"
+        },
+        {
+          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
+          "url": "https://wallstreetcn.com/articles/3770662",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 19时57分]"
+        },
+        {
+          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时03分 ~ 19时57分]"
         },
         {
           "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
@@ -56,18 +79,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时52分 ~ 06时41分]"
-        },
-        {
-          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
-          "url": "https://wallstreetcn.com/articles/3770662",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时52分 ~ 18时18分]"
         },
         {
           "title": "伊朗：特朗普又说谎了",
@@ -109,17 +120,6 @@
           "time_info": "[00时52分 ~ 15时03分]"
         },
         {
-          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时03分 ~ 18时18分]"
-        },
-        {
           "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2352533",
           "source": "财联社热门",
@@ -130,6 +130,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时52分 ~ 07时41分]"
+        },
+        {
+          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
+          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 19时57分]"
         },
         {
           "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
@@ -197,17 +208,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 00时53分]"
-        },
-        {
-          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
-          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时52分 ~ 18时18分]"
         },
         {
           "title": "卢拉讽刺：快给特朗普颁诺贝尔奖，这样就不用生活在战争中了",
@@ -289,6 +289,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 19时57分]"
+        },
+        {
+          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 19时57分]"
         },
         {
           "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
@@ -376,30 +402,6 @@
           "time_info": "[09时59分 ~ 15时03分]"
         },
         {
-          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 18时18分]"
-        },
-        {
-          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 18时18分]"
-        },
-        {
           "title": "特朗普政府股权收购热潮总额逼近210亿美元",
           "url": "https://wallstreetcn.com/livenews/3092775",
           "source": "华尔街见闻-快讯",
@@ -410,6 +412,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 03时04分]"
+        },
+        {
+          "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
+          "url": "https://www.zhihu.com/question/2030579933127391060",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "报道：特朗普特使企图寻求在世界杯中用意大利取代伊朗",

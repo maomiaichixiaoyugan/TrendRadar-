@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T19:34:27.037317+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-04-25T20:46:15.812363+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时34分 ~ 19时34分]"
+          "appearance_count": 11,
+          "time_info": "[07时34分 ~ 20时46分]"
         },
         {
           "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
@@ -99,8 +99,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时49分 ~ 19时34分]"
+          "appearance_count": 9,
+          "time_info": "[09时49分 ~ 20时46分]"
         },
         {
           "title": "美联邦法院裁定：特朗普边境庇护申请禁令违法",
@@ -295,6 +295,19 @@
           "time_info": "[04时40分 ~ 07时35分]"
         },
         {
+          "title": "泽连斯基“公开质疑”特朗普",
+          "url": "https://www.toutiao.com/trending/7632107216792420398/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 20时46分]"
+        },
+        {
           "title": "曝特朗普女婿及特使将赴巴同伊朗谈判",
           "url": "https://www.toutiao.com/trending/7631822978594553875/",
           "source": "今日头条",
@@ -353,16 +366,16 @@
           "time_info": "[00时49分 ~ 01时45分]"
         },
         {
-          "title": "泽连斯基“公开质疑”特朗普",
-          "url": "https://www.toutiao.com/trending/7632107216792420398/",
-          "source": "今日头条",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-25）",
+          "url": "https://flash.jin10.com/detail/20260425182954538800",
+          "source": "金十数据",
           "ranks": [
-            25,
-            9
+            8,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时38分 ~ 19时34分]"
+          "time_info": "[19时34分 ~ 20时46分]"
         },
         {
           "title": "特朗普发帖：只要半句话，美国就会多出1590亿美元",
@@ -443,17 +456,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-25）",
-          "url": "https://flash.jin10.com/detail/20260425182954538800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
         },
         {
           "title": "美官员：特朗普将派遣其女婿及特使赴巴基斯坦同伊朗谈判",

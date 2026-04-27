@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T06:43:36.273345+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-04-28T07:45:50.834892+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时45分]"
         },
         {
           "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
@@ -34,22 +34,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时43分]"
-        },
-        {
-          "title": "美媒：特朗普对伊朗的提议持怀疑态度 但没有断然拒绝",
-          "url": "https://flash.jin10.com/detail/20260428062503291800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时45分]"
         },
         {
           "title": "白宫遭枪击,特朗普紧急撤离",
@@ -60,8 +50,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时45分]"
         },
         {
           "title": "美国白宫：特朗普关于伊朗问题的底线没有改变",
@@ -73,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "特朗普与幕僚讨论伊朗提案：不直接拒绝，但心存疑虑",
+          "url": "https://flash.jin10.com/detail/20260428070454858800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "避免和特朗普起冲突 北约考虑取消年度峰会",
@@ -108,15 +109,28 @@
           "time_info": "02时03分"
         },
         {
+          "title": "美媒：特朗普对伊朗的提议持怀疑态度 但没有断然拒绝",
+          "url": "https://flash.jin10.com/detail/20260428062503291800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时45分]"
+        },
+        {
           "title": "报道：特朗普对伊朗的霍尔木兹海峡方案持怀疑态度",
           "url": "https://wallstreetcn.com/livenews/3095255",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时45分]"
         },
         {
           "title": "伊朗战争丨特朗普及其国安团队开会讨论伊朗新提案",
@@ -140,6 +154,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 02时03分]"
+        },
+        {
+          "title": "特朗普取消更多风能租赁项目以刺激油气投资",
+          "url": "https://flash.jin10.com/detail/20260428052935112800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时45分]"
         },
         {
           "title": "英国国王查尔斯三世抵达白宫，即将会见总统特朗普。",
@@ -188,17 +214,6 @@
           "time_info": "02时03分"
         },
         {
-          "title": "特朗普取消更多风能租赁项目以刺激油气投资",
-          "url": "https://flash.jin10.com/detail/20260428052935112800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
           "title": "美国总统特朗普：吉米·基梅尔应立即被迪士尼和美国广播公司解雇。",
           "url": "https://flash.jin10.com/detail/20260428012819698800",
           "source": "金十数据",
@@ -230,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "白宫记协晚宴枪手事发前有“宣言”，自称对特朗普政府不满",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060147",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "美国白宫：特朗普的红线已经明确。",
@@ -344,11 +370,12 @@
             5,
             14,
             12,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时45分]"
         },
         {
           "title": "追觅CEO连发三条微博怒批小红书：非常非常烂的平台",
@@ -358,8 +385,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时45分]"
         }
       ]
     }

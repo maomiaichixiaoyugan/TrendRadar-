@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T18:58:29.244611+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-04-28T20:24:12.026404+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -132,6 +132,29 @@
           "time_info": "02时03分"
         },
         {
+          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
+          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 20时24分]"
+        },
+        {
+          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 20时24分]"
+        },
+        {
           "title": "美媒：特朗普对伊朗的提议持怀疑态度 但没有断然拒绝",
           "url": "https://flash.jin10.com/detail/20260428062503291800",
           "source": "金十数据",
@@ -179,17 +202,6 @@
           "time_info": "[13时53分 ~ 18时58分]"
         },
         {
-          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
-          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 18时58分]"
-        },
-        {
           "title": "为何万斯比特朗普更早撤离？华盛顿晚宴枪击事件安保问题受审视",
           "url": "https://m.thepaper.cn/newsDetail_forward_33060737",
           "source": "澎湃新闻",
@@ -202,16 +214,16 @@
           "time_info": "[10时12分 ~ 13时53分]"
         },
         {
-          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
+          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            19
+            16,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时53分 ~ 18时58分]"
+          "time_info": "[18时58分 ~ 20时24分]"
         },
         {
           "title": "伊朗战争丨特朗普及其国安团队开会讨论伊朗新提案",
@@ -247,6 +259,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时45分]"
+        },
+        {
+          "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
+          "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
         },
         {
           "title": "英国国王查尔斯三世抵达白宫，即将会见总统特朗普。",
@@ -345,7 +368,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         },
@@ -392,17 +415,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
-        },
-        {
-          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时58分"
         },
         {
           "title": "白宫：美国总统特朗普今早已与国家安全团队会面。",

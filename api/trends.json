@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T14:10:25.025809+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-05-01T16:56:13.122350+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
@@ -32,6 +32,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时12分 ~ 14时10分]"
+        },
+        {
+          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3771420",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时54分 ~ 16时56分]"
         },
         {
           "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
@@ -72,20 +87,6 @@
           "time_info": "[01时12分 ~ 14时10分]"
         },
         {
-          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3771420",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时54分 ~ 14时10分]"
-        },
-        {
           "title": "还是不解气，特朗普又炮轰默茨",
           "url": "https://news.ifeng.com/c/8skrGhZKZnd",
           "source": "凤凰网",
@@ -95,6 +96,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[03时09分 ~ 10时28分]"
+        },
+        {
+          "title": "特朗普政府为何要说对伊战争已结束？原因揭晓",
+          "url": "https://news.ifeng.com/c/8slb2E7L4ao",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时10分 ~ 16时56分]"
         },
         {
           "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
@@ -107,17 +119,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时12分 ~ 07时45分]"
-        },
-        {
-          "title": "特朗普政府为何要说对伊战争已结束？原因揭晓",
-          "url": "https://news.ifeng.com/c/8slb2E7L4ao",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
         },
         {
           "title": "美国总统特朗普签署联邦合同相关命令。",
@@ -148,7 +149,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -206,6 +207,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 16时56分]"
         },
         {
           "title": "美国总统特朗普：与田纳西州州长比尔·李进行了非常愉快的交谈。",
@@ -325,15 +338,16 @@
           "time_info": "[01时12分 ~ 03时10分]"
         },
         {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
+          "title": "特朗普称美国结束对伊朗战争",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            23,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时27分 ~ 14时10分]"
+          "time_info": "[14时10分 ~ 16时56分]"
         },
         {
           "title": "伊朗战争丨特朗普：可能需要打破伊朗停火协议",
@@ -345,6 +359,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时45分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普晒图：霍尔木兹海峡被更名为“特朗普海峡”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
+        },
+        {
+          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
+          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
         },
         {
           "title": "特朗普：不在乎鲍威尔是否留任理事",
@@ -469,7 +505,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -480,7 +516,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -527,17 +563,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
-        },
-        {
-          "title": "特朗普称美国结束对伊朗战争",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
         },
         {
           "title": "美国总统特朗普致电伊拉克总理提名人阿里·扎伊迪，邀请他在组建新政府后前往华盛顿。",
@@ -635,8 +660,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时09分 ~ 14时10分]"
+          "appearance_count": 12,
+          "time_info": "[03时09分 ~ 16时56分]"
         }
       ]
     }

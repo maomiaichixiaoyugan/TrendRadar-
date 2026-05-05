@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T13:36:48.525885+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2026-05-05T16:05:35.902096+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时25分 ~ 13时36分]"
+          "appearance_count": 11,
+          "time_info": "[01时25分 ~ 16时05分]"
         },
         {
           "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
@@ -26,11 +26,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时25分 ~ 13时36分]"
+          "appearance_count": 11,
+          "time_info": "[01时25分 ~ 16时05分]"
         },
         {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
@@ -85,8 +86,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 13时36分]"
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 16时05分]"
         },
         {
           "title": "美财长保证特朗普访华不会再推迟",
@@ -230,6 +231,29 @@
           "time_info": "[06时52分 ~ 07时46分]"
         },
         {
+          "title": "特朗普要用卡塔尔送的豪华飞机当“空军一号”，国内舆论炸了",
+          "url": "https://news.ifeng.com/c/8ssQTax2qM1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 16时05分]"
+        },
+        {
+          "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
+          "url": "https://wallstreetcn.com/articles/3771561",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 16时05分]"
+        },
+        {
           "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
           "url": "https://flash.jin10.com/detail/20260505060622689800",
           "source": "金十数据",
@@ -240,6 +264,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时46分]"
+        },
+        {
+          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
+          "url": "https://www.cls.cn/detail/2362745",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 16时05分]"
         },
         {
           "title": "特朗普：美国与伊朗处于“迷你战争”状态",
@@ -254,17 +290,6 @@
           "time_info": "[06时52分 ~ 07时46分]"
         },
         {
-          "title": "特朗普要用卡塔尔送的豪华飞机当“空军一号”，国内舆论炸了",
-          "url": "https://news.ifeng.com/c/8ssQTax2qM1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时36分"
-        },
-        {
           "title": "美国总统特朗普：如果伊朗攻击美国船只，将被“从地球上抹去”。",
           "url": "https://flash.jin10.com/detail/20260505005445496800",
           "source": "金十数据",
@@ -276,15 +301,15 @@
           "time_info": "01时25分"
         },
         {
-          "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
-          "url": "https://wallstreetcn.com/articles/3771561",
-          "source": "华尔街见闻",
+          "title": "西媒：特朗普反复威胁让欧洲厌倦",
+          "url": "https://www.toutiao.com/trending/7635632412416671798/",
+          "source": "今日头条",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时36分"
+          "time_info": "16时05分"
         },
         {
           "title": "美国总统特朗普：数亿桶石油正从委内瑞拉流出。",
@@ -296,17 +321,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
-          "url": "https://www.cls.cn/detail/2362745",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时36分"
         },
         {
           "title": "美国总统特朗普：“太迟先生”（即美联储主席鲍威尔）对美国来说是一个灾难！利率太高！",

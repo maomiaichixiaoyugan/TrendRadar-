@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T16:05:35.902096+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-05-05T18:03:04.697371+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 48,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时25分 ~ 16时05分]"
+          "appearance_count": 13,
+          "time_info": "[01时25分 ~ 18时03分]"
         },
         {
           "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时25分 ~ 16时05分]"
+          "appearance_count": 13,
+          "time_info": "[01时25分 ~ 18时03分]"
         },
         {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
@@ -56,6 +56,19 @@
           "time_info": "[01时25分 ~ 07时46分]"
         },
         {
+          "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
+          "url": "https://wallstreetcn.com/articles/3771548",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时07分 ~ 18时03分]"
+        },
+        {
           "title": "伊朗战争丨特朗普：美国与伊朗处于“迷你战争”状态",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -78,18 +91,6 @@
           "time_info": "[01时25分 ~ 10时08分]"
         },
         {
-          "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
-          "url": "https://wallstreetcn.com/articles/3771548",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 16时05分]"
-        },
-        {
           "title": "美财长保证特朗普访华不会再推迟",
           "url": "https://news.ifeng.com/c/8sqceV545op",
           "source": "凤凰网",
@@ -99,6 +100,40 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时25分 ~ 07时46分]"
+        },
+        {
+          "title": "特朗普关税退款引质疑，“简直令人抓狂”",
+          "url": "https://news.ifeng.com/c/8ssZ4l2GedD",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 18时03分]"
+        },
+        {
+          "title": "特朗普要用卡塔尔送的豪华飞机当“空军一号”，国内舆论炸了",
+          "url": "https://news.ifeng.com/c/8ssQTax2qM1",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 18时03分]"
+        },
+        {
+          "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
+          "url": "https://news.ifeng.com/c/8ssll5TyVCi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 18时03分]"
         },
         {
           "title": "伊朗革命卫队政治副司令：特朗普当前面临的挑战是重开霍尔木兹海峡。在整个40天的战争期间及之后，他尝试了所有可能的选项，却未能取得任何成果。特朗普无力将局势倒退回2月28日之前，也无力改变当前局势。",
@@ -124,6 +159,19 @@
           "time_info": "[01时25分 ~ 06时52分]"
         },
         {
+          "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
+          "url": "https://wallstreetcn.com/articles/3771561",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 18时03分]"
+        },
+        {
           "title": "美国总统特朗普：我已经在采取其他关税措施了。",
           "url": "https://flash.jin10.com/detail/20260505042903484800",
           "source": "金十数据",
@@ -133,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "欧盟再就特朗普汽车关税威胁回应：已做好各种准备",
+          "url": "https://flash.jin10.com/detail/20260505175810453800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "特朗普宣称：伊朗若攻击美国船只，将会被“炸飞”",
@@ -219,6 +278,18 @@
           "time_info": "[06时52分 ~ 10时08分]"
         },
         {
+          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
+          "url": "https://www.cls.cn/detail/2362745",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 18时03分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗战争可能还会持续两到三周。",
           "url": "https://flash.jin10.com/detail/20260505060625240800",
           "source": "金十数据",
@@ -231,27 +302,15 @@
           "time_info": "[06时52分 ~ 07时46分]"
         },
         {
-          "title": "特朗普要用卡塔尔送的豪华飞机当“空军一号”，国内舆论炸了",
-          "url": "https://news.ifeng.com/c/8ssQTax2qM1",
+          "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
+          "url": "https://news.ifeng.com/c/8ssc3KTyNbr",
           "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时36分 ~ 16时05分]"
-        },
-        {
-          "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
-          "url": "https://wallstreetcn.com/articles/3771561",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时36分 ~ 16时05分]"
+          "time_info": "[18时02分 ~ 18时03分]"
         },
         {
           "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
@@ -266,16 +325,15 @@
           "time_info": "[06时52分 ~ 07时46分]"
         },
         {
-          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
-          "url": "https://www.cls.cn/detail/2362745",
-          "source": "财联社热门",
+          "title": "特朗普称从德国撤军规模将远超 5000 人，欧盟称美军从德撤出时机令人意外，呼吁加强北约支柱，如何解读？",
+          "url": "https://www.zhihu.com/question/2034655355435749696",
+          "source": "知乎",
           "ranks": [
-            9,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时36分 ~ 16时05分]"
+          "time_info": "[18时02分 ~ 18时03分]"
         },
         {
           "title": "特朗普：美国与伊朗处于“迷你战争”状态",
@@ -307,7 +365,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
@@ -343,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗问题）当我最初采取这一行动时，我曾以为市场可能会下跌20%或25%；对此我并不介意，因为我知道市场最终会反弹回来。我还曾以为油价可能会冲上200美元甚至250美元。然而事实是，目前的油价仅在100至102美元左右。",
+          "url": "https://flash.jin10.com/detail/20260505173747087800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "美国总统特朗普谈及伊朗问题，宣称：进展非常顺利。 一旦战争结束，燃油价格就会迅速下跌。",
@@ -389,6 +458,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "市场消息：美国总统特朗普称，“泽连斯基是个有些难缠的人物，而我们希望能达成一项解决方案。而且，你知道，他们正在丧失领土，但这无论是对俄罗斯还是对他们自身而言，都付出了巨大的代价。不过，我挺喜欢泽连斯基。”",
+          "url": "https://flash.jin10.com/detail/20260505172816971800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "学者：特朗普2.0经济政策逻辑与趋势",
           "url": "https://www.toutiao.com/trending/7636043656511622662/",
           "source": "今日头条",
@@ -409,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普称伊朗人民需要枪支，并认为他们正在获得一些枪支。",
+          "url": "https://flash.jin10.com/detail/20260505172506108800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "美媒：特朗普未明确表示伊朗已违反停火协议",

@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-08T07:47:14.084333+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-05-08T10:27:55.545359+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
           "url": "https://news.ifeng.com/c/8swPaRUXu6L",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 10时27分]"
         },
         {
           "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
@@ -37,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 10时27分]"
         },
         {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
@@ -57,11 +58,23 @@
           "url": "https://news.ifeng.com/c/8swugAgjYdA",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 07时47分]"
+          "appearance_count": 3,
+          "time_info": "[07时46分 ~ 10时27分]"
+        },
+        {
+          "title": "美国前副总统哈里斯：美国人民不想要这场伊朗战争，特朗普所有的话都是胡说八道。",
+          "url": "https://flash.jin10.com/detail/20260508101449928800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "市场消息：美国财长贝森特与美国商务部长卢特尼克与特朗普一同在白宫会见巴西总统卢拉。",
@@ -204,6 +217,17 @@
           "time_info": "[06时55分 ~ 07时47分]"
         },
         {
+          "title": "美国贸易法院裁定特朗普10%全球关税无效",
+          "url": "https://wallstreetcn.com/articles/3771788",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
           "title": "美法院裁定特朗普的10%全球关税不成立",
           "url": "https://flash.jin10.com/detail/20260508050930126800",
           "source": "金十数据",
@@ -226,6 +250,17 @@
           "time_info": "06时55分"
         },
         {
+          "title": "美国白宫：美国总统特朗普将于美东时间周五中午（北京时间周六凌晨）在玫瑰园发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260508100502102800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
           "title": "美国总统特朗普：（与欧盟委员会主席冯德莱恩）讨论了多个议题，包括我们完全一致认为伊朗绝不能拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260508031010140800",
           "source": "金十数据",
@@ -243,7 +278,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -276,7 +311,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -298,7 +333,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -309,7 +344,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -364,7 +399,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -408,7 +443,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         }

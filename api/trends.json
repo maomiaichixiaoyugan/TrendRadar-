@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T22:19:21.190447+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2026-05-09T23:44:56.969206+08:00",
+  "total_titles_processed": 1532,
   "failed_sources": [],
   "trends": [
     {
@@ -68,6 +68,19 @@
           "time_info": "[13时42分 ~ 21时02分]"
         },
         {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时11分 ~ 23时44分]"
+        },
+        {
           "title": "中方回应何时发布特朗普访华消息",
           "url": "https://www.toutiao.com/trending/7637034985857810475/",
           "source": "今日头条",
@@ -97,19 +110,6 @@
           "time_info": "[01时06分 ~ 10时11分]"
         },
         {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时11分 ~ 22时19分]"
-        },
-        {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
           "url": "https://wallstreetcn.com/articles/3771870",
           "source": "华尔街见闻",
@@ -119,8 +119,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时47分 ~ 22时19分]"
+          "appearance_count": 7,
+          "time_info": "[15时47分 ~ 23时44分]"
         },
         {
           "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
@@ -599,9 +599,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时44分]"
         },
         {
           "title": "小红书电商：调整商家扶持策略，重点扶持100万个好货商家",
@@ -609,11 +609,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时19分]"
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 23时44分]"
         },
         {
           "title": "创业板跌近1%，芯片半导体集体调整，机器人逆势爆发，恒指跌近1%，科网股多跌，快手涨超9%",

@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-10T05:37:35.859155+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-05-10T06:36:20.371054+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 10,
       "titles": [
+        {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 06时36分]"
+        },
         {
           "title": "俄方同意特朗普提出的停火方案",
           "url": "https://www.toutiao.com/trending/7637290812788162601/",
@@ -17,23 +29,12 @@
             4,
             22,
             19,
-            18
+            18,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 05时37分]"
-        },
-        {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 06时36分]"
         },
         {
           "title": "意媒：特朗普“仍在考虑”调整驻意美军",
@@ -41,11 +42,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时37分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时36分]"
         },
         {
           "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
@@ -146,11 +148,12 @@
           "ranks": [
             4,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 05时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时36分]"
         },
         {
           "title": "小红书电商：调整商家扶持策略，重点扶持100万个好货商家",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T06:36:20.371054+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-05-10T07:40:46.303533+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "俄方同意特朗普提出的停火方案",
@@ -33,8 +34,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "意媒：特朗普“仍在考虑”调整驻意美军",
@@ -46,8 +47,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时38分 ~ 06时36分]"
+          "appearance_count": 4,
+          "time_info": "[04时38分 ~ 07时40分]"
         },
         {
           "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
@@ -134,6 +135,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时51分 ~ 03时53分]"
+        },
+        {
+          "title": "特朗普还有一场硬仗",
+          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         }
       ]
     },
@@ -152,8 +164,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "小红书电商：调整商家扶持策略，重点扶持100万个好货商家",

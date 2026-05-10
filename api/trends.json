@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T19:44:43.439327+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2026-05-10T21:02:43.641989+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -62,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时40分 ~ 19时44分]"
+          "appearance_count": 8,
+          "time_info": "[07时40分 ~ 21时02分]"
         },
         {
           "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
@@ -116,6 +116,18 @@
           "time_info": "[02时51分 ~ 04时38分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-10）",
+          "url": "https://flash.jin10.com/detail/20260510184554353800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 21时02分]"
+        },
+        {
           "title": "据以色列第13频道援引一名以色列官员的话报道称，美国总统特朗普向内塔尼亚胡承诺不会放弃浓缩铀问题。",
           "url": "https://flash.jin10.com/detail/20260510015900096800",
           "source": "金十数据",
@@ -152,15 +164,16 @@
           "time_info": "[02时51分 ~ 03时53分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-10）",
-          "url": "https://flash.jin10.com/detail/20260510184554353800",
+          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
+          "url": "https://flash.jin10.com/detail/20260510182305585800",
           "source": "金十数据",
           "ranks": [
-            11
+            17,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 21时02分]"
         },
         {
           "title": "媒体：特朗普还有一场“硬仗”",
@@ -172,17 +185,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
-        },
-        {
-          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
-          "url": "https://flash.jin10.com/detail/20260510182305585800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
         },
         {
           "title": "英媒：在与特朗普产生摩擦后 德国正计划重启采购“战斧”导弹的努力",

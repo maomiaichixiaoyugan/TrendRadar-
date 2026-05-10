@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T10:12:59.448076+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-05-10T13:58:55.287956+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -45,11 +45,12 @@
             4,
             5,
             6,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时38分 ~ 10时12分]"
+          "appearance_count": 6,
+          "time_info": "[04时38分 ~ 13时58分]"
         },
         {
           "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
@@ -106,11 +107,12 @@
           "url": "https://news.ifeng.com/c/8szUPi5xnTB",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 10时12分]"
+          "appearance_count": 3,
+          "time_info": "[07时40分 ~ 13时58分]"
         },
         {
           "title": "据以色列第13频道援引一名以色列官员的话报道称，美国总统特朗普向内塔尼亚胡承诺不会放弃浓缩铀问题。",
@@ -155,9 +157,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "英媒：在与特朗普产生摩擦后 德国正计划重启采购“战斧”导弹的努力",
+          "url": "https://flash.jin10.com/detail/20260510122534394800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         }
       ]
     },
@@ -174,11 +187,12 @@
             12,
             13,
             14,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 10时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 13时58分]"
         },
         {
           "title": "小红书电商：调整商家扶持策略，重点扶持100万个好货商家",

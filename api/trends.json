@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T19:57:09.292805+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-05-17T21:08:24.486480+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时50分 ~ 19时57分]"
+          "appearance_count": 20,
+          "time_info": "[00时50分 ~ 21时08分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -35,11 +35,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时29分 ~ 19时57分]"
+          "appearance_count": 9,
+          "time_info": "[10时29分 ~ 21时08分]"
         },
         {
           "title": "特朗普警告台独",
@@ -78,8 +79,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时50分 ~ 19时57分]"
+          "appearance_count": 20,
+          "time_info": "[00时50分 ~ 21时08分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -142,8 +143,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时16分 ~ 19时57分]"
+          "appearance_count": 8,
+          "time_info": "[14时16分 ~ 21时08分]"
         },
         {
           "title": "特朗普黄仁勋同款美食",
@@ -172,6 +173,18 @@
           "time_info": "[02时55分 ~ 07时44分]"
         },
         {
+          "title": "特朗普访华后续观察",
+          "url": "https://www.douyin.com/hot/2502108",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时01分 ~ 21时08分]"
+        },
+        {
           "title": "特朗普暗示伊朗局势是“风暴前的平静”",
           "url": "https://flash.jin10.com/detail/20260517042429937800",
           "source": "金十数据",
@@ -183,18 +196,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时52分 ~ 07时44分]"
-        },
-        {
-          "title": "特朗普访华后续观察",
-          "url": "https://www.douyin.com/hot/2502108",
-          "source": "抖音",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时01分 ~ 19时57分]"
         },
         {
           "title": "据白宫随行记者团消息，美国总统特朗普今天在弗吉尼亚州斯特林的斯特林国家高尔夫俱乐部。",
@@ -255,19 +256,80 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 19时57分]"
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 21时08分]"
         },
         {
           "title": "以色列总理内塔尼亚胡表示将于今天与特朗普总统通话，同时暗示两人也将讨论伊朗问题。",
           "url": "https://flash.jin10.com/detail/20260517185935987800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 21时08分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-17）",
+          "url": "https://flash.jin10.com/detail/20260517183041756800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 21时08分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，与特朗普的私交或可避免更多关税与制裁，并确保巴西民主得到尊重。",
+          "url": "https://flash.jin10.com/detail/20260517183017817800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 21时08分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，特朗普称他会阅读那份2010年巴西和土耳其与伊朗谈判达成的核协议副本。",
+          "url": "https://flash.jin10.com/detail/20260517181926076800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 21时08分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，向特朗普递交了一份2010年巴西和土耳其与伊朗谈判达成的核协议副本，该协议曾被美国和欧盟拒绝。",
+          "url": "https://flash.jin10.com/detail/20260517181846468800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 21时08分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉请求美国总统特朗普解除对古巴的经济封锁。",
+          "url": "https://flash.jin10.com/detail/20260517181500544800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 21时08分]"
         },
         {
           "title": "美国参议院少数党领袖抨击共和党推动特朗普宴会厅计划",
@@ -281,26 +343,15 @@
           "time_info": "10时29分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-17）",
-          "url": "https://flash.jin10.com/detail/20260517183041756800",
+          "title": "特朗普发文抨击众议员汤姆·马西 呼吁用选票将他赶下台",
+          "url": "https://flash.jin10.com/detail/20260517200041857800",
           "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "据华盛顿邮报：巴西总统卢拉表示，与特朗普的私交或可避免更多关税与制裁，并确保巴西民主得到尊重。",
-          "url": "https://flash.jin10.com/detail/20260517183017817800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时57分"
+          "time_info": "21时08分"
         },
         {
           "title": "特朗普结束访华回国途中，高市早苗迫不及待通电话",
@@ -314,46 +365,13 @@
           "time_info": "14时17分"
         },
         {
-          "title": "据华盛顿邮报：巴西总统卢拉表示，特朗普称他会阅读那份2010年巴西和土耳其与伊朗谈判达成的核协议副本。",
-          "url": "https://flash.jin10.com/detail/20260517181926076800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "据华盛顿邮报：巴西总统卢拉表示，向特朗普递交了一份2010年巴西和土耳其与伊朗谈判达成的核协议副本，该协议曾被美国和欧盟拒绝。",
-          "url": "https://flash.jin10.com/detail/20260517181846468800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "据华盛顿邮报：巴西总统卢拉请求美国总统特朗普解除对古巴的经济封锁。",
-          "url": "https://flash.jin10.com/detail/20260517181500544800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
           "title": "据华盛顿邮报：巴西总统卢拉表示，希望美国总统特朗普能尊重巴西，理解他在巴西是民主选举产生的总统。",
           "url": "https://flash.jin10.com/detail/20260517181141541800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -375,7 +393,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -386,7 +404,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -423,11 +441,12 @@
           "url": "https://www.douyin.com/hot/2502076",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 19时57分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 21时08分]"
         }
       ]
     }

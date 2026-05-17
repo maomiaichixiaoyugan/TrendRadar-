@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T22:51:28.266180+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-05-17T23:53:36.133393+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
             1,
             2,
             3,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时29分 ~ 22时51分]"
+          "appearance_count": 11,
+          "time_info": "[10时29分 ~ 23时53分]"
         },
         {
           "title": "特朗普警告台独",
@@ -112,6 +113,19 @@
           "time_info": "[00时50分 ~ 14时17分]"
         },
         {
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时16分 ~ 23时53分]"
+        },
+        {
           "title": "特朗普结束访华后，明确表示「不希望看到（台湾）有人走向独立」，这一表态有多关键？",
           "url": "https://www.zhihu.com/question/2039077052658049213",
           "source": "知乎",
@@ -136,19 +150,6 @@
           "time_info": "[00时50分 ~ 10时29分]"
         },
         {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时16分 ~ 22时51分]"
-        },
-        {
           "title": "特朗普访华后续观察",
           "url": "https://www.douyin.com/hot/2502108",
           "source": "抖音",
@@ -158,8 +159,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时01分 ~ 22时51分]"
+          "appearance_count": 8,
+          "time_info": "[17时01分 ~ 23时53分]"
         },
         {
           "title": "特朗普黄仁勋同款美食",
@@ -201,15 +202,15 @@
           "time_info": "[04时52分 ~ 07时44分]"
         },
         {
-          "title": "韩国青瓦台：韩国总统李在明与美国总统特朗普讨论了韩美联合事实清单。",
-          "url": "https://flash.jin10.com/detail/20260517215033948800",
-          "source": "金十数据",
+          "title": "国民党副主席回应特朗普涉台表态",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
           "ranks": [
-            5
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时56分 ~ 23时53分]"
         },
         {
           "title": "据白宫随行记者团消息，美国总统特朗普今天在弗吉尼亚州斯特林的斯特林国家高尔夫俱乐部。",
@@ -238,6 +239,18 @@
           "time_info": "[10时29分 ~ 17时02分]"
         },
         {
+          "title": "韩国青瓦台：韩国总统李在明与美国总统特朗普讨论了韩美联合事实清单。",
+          "url": "https://flash.jin10.com/detail/20260517215033948800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时53分]"
+        },
+        {
           "title": "台舆论称特朗普不许台独视美为靠山",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%88%86%E8%AE%BA%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E8%AE%B8%E5%8F%B0%E7%8B%AC%E8%A7%86%E7%BE%8E%E4%B8%BA%E9%9D%A0%E5%B1%B1%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -248,17 +261,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时16分 ~ 17时02分]"
-        },
-        {
-          "title": "国民党副主席回应特朗普涉台表态",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时56分 ~ 22时51分]"
         },
         {
           "title": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
@@ -284,6 +286,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时57分 ~ 21时08分]"
+        },
+        {
+          "title": "据韩联社：韩国总统李在明与美国总统特朗普通电话。",
+          "url": "https://flash.jin10.com/detail/20260517213955159800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时53分]"
         },
         {
           "title": "特朗普发文抨击众议员汤姆·马西 呼吁用选票将他赶下台",
@@ -367,17 +381,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
-        },
-        {
-          "title": "据韩联社：韩国总统李在明与美国总统特朗普通电话。",
-          "url": "https://flash.jin10.com/detail/20260517213955159800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
         },
         {
           "title": "特朗普结束访华回国途中，高市早苗迫不及待通电话",
@@ -468,11 +471,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 22时51分]"
+          "appearance_count": 6,
+          "time_info": "[18时25分 ~ 23时53分]"
         }
       ]
     }

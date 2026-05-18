@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T10:40:00.582248+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-05-18T14:50:56.301243+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "岛内称特朗普警告“台独”重击赖当局",
@@ -28,8 +28,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 14时50分]"
+        },
+        {
+          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
+          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 14时50分]"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://www.toutiao.com/trending/7641033902121058340/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 14时50分]"
         },
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
@@ -44,28 +68,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时50分 ~ 06时45分]"
-        },
-        {
-          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
-          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "特朗普涉台“四不”示警“台独”",
-          "url": "https://www.toutiao.com/trending/7641033902121058340/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
           "title": "特朗普访华后续观察",
@@ -98,9 +100,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "如何看待特朗普访华和战争威胁？伊朗民众回应",
+          "url": "https://news.ifeng.com/c/8tDhN597aTX",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "据AXIOS：两名美国官员透露，美国总统特朗普预计将于周二在战情室与他的高级国家安全团队举行会议，讨论（伊朗）军事行动的选项。",
@@ -272,6 +285,17 @@
           "time_info": "06时45分"
         },
         {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://news.ifeng.com/c/8tDfE3dO9u7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
           "title": "特朗普威胁伊朗：时间在流逝 赶快行动",
           "url": "https://flash.jin10.com/detail/20260518005103401800",
           "source": "金十数据",
@@ -333,7 +357,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },

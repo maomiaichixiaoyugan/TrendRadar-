@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T07:59:38.506420+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-05-19T11:41:56.664482+08:00",
+  "total_titles_processed": 829,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 59,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -56,6 +56,18 @@
           "time_info": "[01时33分 ~ 07时59分]"
         },
         {
+          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
+          "url": "https://www.cls.cn/detail/2374806",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 11时41分]"
+        },
+        {
           "title": "美、布两油短线大幅跳水，现货金银快速拉升。特朗普称，应中东国家请求暂缓原定于明天进行的对伊朗的攻击。",
           "url": "https://flash.jin10.com/detail/20260519030540752800",
           "source": "金十数据",
@@ -76,6 +88,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
+        },
+        {
+          "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
+          "url": "https://www.cls.cn/detail/2374617",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 11时41分]"
         },
         {
           "title": "美国总统特朗普：已作进一步指示，一旦未能达成可接受的协议，应随时准备立即执行对伊朗的大规模全面军事打击行动。",
@@ -100,15 +125,15 @@
           "time_info": "03时29分"
         },
         {
-          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
-          "url": "https://www.cls.cn/detail/2374806",
-          "source": "财联社热门",
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "11时41分"
         },
         {
           "title": "美国总统特朗普：卡塔尔、沙特阿拉伯和阿联酋已要求我们暂停对伊朗的军事攻击计划。",
@@ -161,17 +186,17 @@
           "time_info": "[01时33分 ~ 06时53分]"
         },
         {
-          "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
-          "url": "https://www.cls.cn/detail/2374617",
+          "title": "特朗普称将推迟对伊朗发动军事打击",
+          "url": "https://www.cls.cn/detail/2374774",
           "source": "财联社热门",
           "ranks": [
             13,
-            11,
-            12
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 07时59分]"
+          "appearance_count": 3,
+          "time_info": "[06时53分 ~ 11时41分]"
         },
         {
           "title": "美国总统特朗普：伊朗知道“很快会发生什么”。 不会对伊朗做出让步。 （关于伊朗铀浓缩问题）我现在对啥（选项）也不持开放态度。 伊朗比以往任何时候都更希望达成协议。 “不久”就会达成伊朗协议。（纽约邮报）",
@@ -198,18 +223,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时33分 ~ 06时53分]"
-        },
-        {
-          "title": "特朗普称将推迟对伊朗发动军事打击",
-          "url": "https://www.cls.cn/detail/2374774",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时59分]"
         },
         {
           "title": "特朗普：中东盟友请求推迟对伊打击以促成协议",
@@ -248,13 +261,48 @@
           "time_info": "[06时53分 ~ 07时59分]"
         },
         {
+          "title": "外交部回应特朗普涉台表态",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 11时41分]"
+        },
+        {
+          "title": "UP主独家解读特朗普访华国宴",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%8B%AC%E5%AE%B6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%9B%BD%E5%AE%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 11时41分]"
+        },
+        {
+          "title": "特朗普连发15张图分享“中国记忆”",
+          "url": "https://news.ifeng.com/c/8tFAH622lBt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "特朗普将在白宫为沃什主持就职，市场紧盯：他会听总统的话降息吗？",
           "url": "https://flash.jin10.com/detail/20260519072301836800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -265,7 +313,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -281,6 +329,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2374803",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260519054721286800",
           "source": "金十数据",
@@ -290,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
+        },
+        {
+          "title": "特朗普儿媳谈随团访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%84%BF%E5%AA%B3%E8%B0%88%E9%9A%8F%E5%9B%A2%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "特朗普强硬表态：拒绝对伊朗做出任何让步 暗示行动将至",
@@ -353,7 +423,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -518,7 +588,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -567,17 +637,6 @@
           "time_info": "06时53分"
         },
         {
-          "title": "外交部回应特朗普涉台表态",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
           "title": "美国总统特朗普宣布扩大折扣药品定价计划。",
           "url": "https://flash.jin10.com/detail/20260519052015836800",
           "source": "金十数据",
@@ -589,15 +648,15 @@
           "time_info": "06时53分"
         },
         {
-          "title": "UP主独家解读特朗普访华国宴",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%8B%AC%E5%AE%B6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%9B%BD%E5%AE%B4",
-          "source": "bilibili 热搜",
+          "title": "美再延长俄海运石油制裁豁免30天；应海湾盟友请求，特朗普取消原定19日的对伊军事打击，国际油价应声跳水。当前美油空头仍占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260519103859683800",
+          "source": "金十数据",
           "ranks": [
-            29
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时53分"
+          "time_info": "11时41分"
         },
         {
           "title": "特朗普：将推迟攻击伊朗",
@@ -620,6 +679,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股AI应用板块走强，美图(01357.HK)涨超6%，哔哩哔哩(09626.HK)涨超3%，金蝶国际(00268.HK)、快手(01024.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260519104202893800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         }
       ]
     }

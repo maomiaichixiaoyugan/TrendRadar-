@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T17:17:04.433047+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-05-24T19:10:22.895669+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普变卦前，接到电话警告“会输给中国”",
@@ -74,8 +74,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 19时10分]"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
+          "url": "https://wallstreetcn.com/articles/3772980",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时36分 ~ 19时10分]"
         },
         {
           "title": "一名外交官表示：美国总统特朗普与中东领袖们的对话“是积极的”。（福克斯新闻）",
@@ -92,16 +104,28 @@
           "time_info": "[04时41分 ~ 10时36分]"
         },
         {
-          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
-          "url": "https://wallstreetcn.com/articles/3772980",
+          "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
+          "url": "https://wallstreetcn.com/articles/3772979",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            1
+            6,
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时36分 ~ 17时17分]"
+          "time_info": "[14时31分 ~ 19时10分]"
+        },
+        {
+          "title": "特朗普访华让印度有点傻眼了，鲁比奥“收拾烂摊子”",
+          "url": "https://news.ifeng.com/c/8tN4z0QKtP2",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 19时10分]"
         },
         {
           "title": "伊朗媒体驳斥特朗普关于霍尔木兹海峡“恢复正常”说法",
@@ -115,17 +139,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时47分 ~ 10时36分]"
-        },
-        {
-          "title": "特朗普访华让印度有点傻眼了，鲁比奥“收拾烂摊子”",
-          "url": "https://news.ifeng.com/c/8tN4z0QKtP2",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
         },
         {
           "title": "特朗普称可能于24日决定是否恢复对伊军事行动",
@@ -154,18 +167,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时47分 ~ 10时36分]"
-        },
-        {
-          "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
-          "url": "https://wallstreetcn.com/articles/3772979",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 17时17分]"
         },
         {
           "title": "特朗普：已与多国领导人通话 美伊协议基本达成",
@@ -271,6 +272,17 @@
           "time_info": "[06时45分 ~ 14时32分]"
         },
         {
+          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
+          "url": "https://www.cls.cn/detail/2380075",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
+        },
+        {
           "title": "美国总统特朗普：伊朗协议的最终细节目前正在讨论中，预计将很快公布。",
           "url": "https://flash.jin10.com/detail/20260524043328074800",
           "source": "金十数据",
@@ -295,6 +307,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时41分 ~ 07时52分]"
+        },
+        {
+          "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
+          "url": "https://wallstreetcn.com/articles/3772984",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 19时10分]"
         },
         {
           "title": "据Axios援引知情人士：美国总统特朗普与卡塔尔、沙特阿拉伯、阿联酋、埃及、土耳其和巴基斯坦的领导人进行了通话。多位领导人在通话中敦促特朗普接受协议。",
@@ -383,18 +408,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时09分]"
-        },
-        {
-          "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
-          "url": "https://wallstreetcn.com/articles/3772984",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 17时17分]"
         },
         {
           "title": "Axios：地区消息称阿拉伯与穆斯林领导人敦促特朗普达成停火协议",
@@ -545,6 +558,17 @@
           "time_info": "10时36分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-24）",
+          "url": "https://flash.jin10.com/detail/20260524184222467800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
+        },
+        {
           "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
           "url": "https://wallstreetcn.com/articles/3772950",
           "source": "华尔街见闻",
@@ -688,6 +712,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "以媒：特朗普重申除非伊朗核计划彻底瓦解 否则不会同意任何最终协议",
+          "url": "https://flash.jin10.com/detail/20260524175715596800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
+        },
+        {
           "title": "土耳其总统埃尔多安：土耳其欢迎伊美外交进程提升至特朗普所提到的层级。",
           "url": "https://flash.jin10.com/detail/20260524124724318800",
           "source": "金十数据",
@@ -697,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "据沙特媒体哈达斯（alhadath）：以色列官员表示，特朗普向内塔尼亚胡确认必须拆解伊朗核计划。",
+          "url": "https://flash.jin10.com/detail/20260524175056714800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普在接受采访时表示，美国与伊朗正“越来越接近”敲定协议。",
@@ -790,8 +836,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 19时10分]"
         }
       ]
     }

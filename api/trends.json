@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T04:49:03.154115+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-05-31T05:55:16.308794+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 04时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 05时55分]"
         },
         {
           "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 04时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 05时55分]"
         },
         {
           "title": "一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？",
@@ -52,8 +52,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 04时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 05时55分]"
         },
         {
           "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
@@ -62,11 +62,12 @@
           "ranks": [
             6,
             12,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时55分]"
         },
         {
           "title": "白宫公布特朗普年度体检报告：增重超6公斤，腿部肿胀已经减轻",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T17:45:26.268467+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-05-31T19:32:14.802278+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,19 @@
           "time_info": "[00时08分 ~ 07时56分]"
         },
         {
+          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
+          "url": "https://wallstreetcn.com/articles/3773514",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时53分 ~ 19时32分]"
+        },
+        {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
           "url": "https://wallstreetcn.com/articles/3773469",
           "source": "华尔街见闻",
@@ -70,18 +83,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时08分 ~ 07时56分]"
-        },
-        {
-          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
-          "url": "https://wallstreetcn.com/articles/3773514",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时53分 ~ 17时45分]"
         },
         {
           "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
@@ -195,7 +196,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -250,7 +251,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },

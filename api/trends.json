@@ -1,22 +1,57 @@
 {
-  "generated_at": "2026-06-02T08:13:31.001621+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-06-02T13:26:15.944374+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普怒斥以总理疯了：如果不是我，你早就进监狱了",
           "url": "https://news.ifeng.com/c/8tcSNBrDi2S",
           "source": "凤凰网",
           "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时58分 ~ 13时26分]"
+        },
+        {
+          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
+          "url": "https://www.cls.cn/detail/2387748",
+          "source": "财联社热门",
+          "ranks": [
+            2,
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时13分 ~ 13时26分]"
+        },
+        {
+          "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
+          "url": "https://www.cls.cn/detail/2387782",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时13分]"
+          "time_info": "[13时25分 ~ 13时26分]"
+        },
+        {
+          "title": "戏剧性一幕，特朗普被迫打了一个电话",
+          "url": "https://news.ifeng.com/c/8tcZYXsGgVn",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 13时26分]"
         },
         {
           "title": "特朗普：以黎将立即停火",
@@ -61,17 +96,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        },
-        {
-          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
-          "url": "https://www.cls.cn/detail/2387748",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时13分"
         },
         {
           "title": "美国总统特朗普在接受NBC新闻记者采访时表示，关于伊朗“说实话，我觉得我们谈得太多了。我认为保持沉默会非常好。”",
@@ -123,11 +147,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时52分 ~ 08时13分]"
+          "appearance_count": 5,
+          "time_info": "[04时52分 ~ 13时26分]"
         },
         {
           "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
@@ -135,11 +160,45 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时58分 ~ 13时26分]"
+        },
+        {
+          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
+          "url": "https://wallstreetcn.com/articles/3773609",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 13时26分]"
+        },
+        {
+          "title": "特朗普安抚市场： 黎以所有交火行动将立即停止 与伊朗的谈判正“快速推进”",
+          "url": "https://www.cls.cn/detail/2387700",
+          "source": "财联社热门",
+          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时13分]"
+          "time_info": "[13时25分 ~ 13时26分]"
+        },
+        {
+          "title": "特朗普称美伊或于一周内达成协议 美国战略石油储备降至两年多来最低水平 | 环球市场",
+          "url": "https://www.cls.cn/detail/2387742",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 13时26分]"
         },
         {
           "title": "据CNN：UFC总裁现身美国白宫，白宫南草坪上的格斗场建设仍在继续，为6月14日的赛事做准备。美国总统特朗普曾宣布将在其80岁生日（6月14日）当天举办一场UFC拳击赛事。",
@@ -148,7 +207,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -192,7 +251,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -214,7 +273,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -280,7 +339,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -302,7 +361,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T15:20:05.110243+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-06-04T18:57:53.131704+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时19分 ~ 15时20分]"
+          "appearance_count": 8,
+          "time_info": "[02时19分 ~ 18时57分]"
         },
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
@@ -25,11 +25,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[07时29分 ~ 18时57分]"
         },
         {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
@@ -42,6 +43,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时19分 ~ 07时29分]"
+        },
+        {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 18时57分]"
         },
         {
           "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
@@ -77,17 +90,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时29分 ~ 10时56分]"
-        },
-        {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
         },
         {
           "title": "鲁比奥称特朗普政府将推动北约进行“重大改革”",
@@ -226,6 +228,17 @@
           "time_info": "05时45分"
         },
         {
+          "title": "AI“狂吞”存储芯片！美国九大行业联合上书 敦促特朗普政府扩产",
+          "url": "https://www.cls.cn/detail/2390381",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "特朗普称内塔尼亚胡是“伟大的伙伴”",
           "url": "https://flash.jin10.com/detail/20260604050204476800",
           "source": "金十数据",
@@ -279,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "美媒：内塔尼亚胡在特朗普和国内大选之间左右为难",
+          "url": "https://flash.jin10.com/detail/20260604183057599800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "美国国务卿卢比奥：总统特朗普将参加下周的北约（NATO）首脑会议。",
@@ -423,11 +447,12 @@
           "url": "https://www.cls.cn/detail/2390543",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 18时57分]"
         }
       ]
     }

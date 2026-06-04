@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T10:56:35.892627+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2026-06-04T15:20:05.110243+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -16,8 +16,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 10时56分]"
+          "appearance_count": 7,
+          "time_info": "[02时19分 ~ 15时20分]"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 15时20分]"
         },
         {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
@@ -55,18 +67,6 @@
           "time_info": "[02时19分 ~ 05时45分]"
         },
         {
-          "title": "美众议院通过决议，限制特朗普对伊动武权力",
-          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 10时56分]"
-        },
-        {
           "title": "“离签署协议已非常接近”，特朗普披露美伊谈判细节",
           "url": "https://news.ifeng.com/c/8tfYHflwBeK",
           "source": "凤凰网",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时29分 ~ 10时56分]"
+        },
+        {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 15时20分]"
         },
         {
           "title": "鲁比奥称特朗普政府将推动北约进行“重大改革”",
@@ -107,7 +118,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -147,6 +158,30 @@
           "time_info": "[05时45分 ~ 07时29分]"
         },
         {
+          "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
+          "url": "https://www.cls.cn/detail/2390202",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 15时20分]"
+        },
+        {
+          "title": "特朗普称美伊协议可能在本周末达成 SpaceX官方拟定IPO发行价为135美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2390155",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 15时20分]"
+        },
+        {
           "title": "美众议院通过决议限制特朗普对伊动武",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%E9%99%90%E5%88%B6%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E5%8A%A8%E6%AD%A6",
           "source": "百度热搜",
@@ -164,18 +199,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
-          "url": "https://www.cls.cn/detail/2390202",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -202,17 +226,6 @@
           "time_info": "05时45分"
         },
         {
-          "title": "特朗普称美伊协议可能在本周末达成 SpaceX官方拟定IPO发行价为135美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2390155",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
           "title": "特朗普称内塔尼亚胡是“伟大的伙伴”",
           "url": "https://flash.jin10.com/detail/20260604050204476800",
           "source": "金十数据",
@@ -230,7 +243,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -392,7 +405,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "赖清德声称将处理TikTok、小红书对台青影响，国台办回应",
@@ -404,6 +417,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时19分 ~ 10时56分]"
+        },
+        {
+          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
+          "url": "https://www.cls.cn/detail/2390543",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 15时20分]"
         }
       ]
     }

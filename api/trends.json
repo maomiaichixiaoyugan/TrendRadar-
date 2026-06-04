@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T18:57:53.131704+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-06-04T21:57:34.533480+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -33,6 +33,19 @@
           "time_info": "[07时29分 ~ 18时57分]"
         },
         {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 21时57分]"
+        },
+        {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
           "url": "https://news.ifeng.com/c/8ter8XhY8eS",
           "source": "凤凰网",
@@ -43,18 +56,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时19分 ~ 07时29分]"
-        },
-        {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 18时57分]"
         },
         {
           "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
@@ -234,7 +235,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -272,6 +273,17 @@
           "time_info": "05时45分"
         },
         {
+          "title": "伊朗使出拖字诀抢占谈判主动权，特朗普遭遇“敌友”双线施压",
+          "url": "https://flash.jin10.com/detail/20260604214157812800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "特朗普称美伊协议可能在本周末达成",
           "url": "https://flash.jin10.com/detail/20260604060822313800",
           "source": "金十数据",
@@ -294,13 +306,24 @@
           "time_info": "07时29分"
         },
         {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "美媒：内塔尼亚胡在特朗普和国内大选之间左右为难",
           "url": "https://flash.jin10.com/detail/20260604183057599800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -448,11 +471,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 18时57分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 21时57分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T03:09:57.808869+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-06-07T04:57:29.980808+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普“官宣”：我和马斯克又成朋友了",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 04时57分]"
         },
         {
           "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 04时57分]"
         },
         {
           "title": "特朗普首席人工智能顾问克里希南将于月底离职",
@@ -46,11 +46,12 @@
           "url": "https://wallstreetcn.com/articles/3773991",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 04时57分]"
         },
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
@@ -61,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 04时57分]"
         },
         {
           "title": "据The Information报道，美国白宫科技政策办公室人工智能高级政策顾问克里希南已讨论建立一个支持特朗普政府的政策机构。",
@@ -85,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "对伊战争百日 特朗普仍未赢得美国民众支持",
+          "url": "https://flash.jin10.com/detail/20260607031222169800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         }
       ]
     },
@@ -98,11 +110,25 @@
           "source": "抖音",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 04时57分]"
+        },
+        {
+          "title": "统战部官方账号入驻抖音",
+          "url": "https://www.douyin.com/hot/2524990",
+          "source": "抖音",
+          "ranks": [
+            24,
+            23,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 04时57分]"
         },
         {
           "title": "哈兰德入驻抖音",
@@ -113,20 +139,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时09分]"
-        },
-        {
-          "title": "统战部官方账号入驻抖音",
-          "url": "https://www.douyin.com/hot/2524990",
-          "source": "抖音",
-          "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 04时57分]"
         }
       ]
     }

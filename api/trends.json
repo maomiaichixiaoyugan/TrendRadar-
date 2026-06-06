@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T15:42:49.958726+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2026-06-06T17:57:40.761226+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -55,6 +55,17 @@
           "time_info": "[07时03分 ~ 08时13分]"
         },
         {
+          "title": "特朗普“官宣”：我和马斯克又成朋友了",
+          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
           "url": "https://www.zhihu.com/question/2045446455956091852",
           "source": "知乎",
@@ -97,11 +108,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 15时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 17时57分]"
         },
         {
           "title": "美国白宫幕僚长Wiles：总统特朗普提名Blanche为司法部长，对其表示祝贺。",
@@ -114,6 +126,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时03分 ~ 08时13分]"
+        },
+        {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 17时57分]"
         },
         {
           "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
@@ -174,18 +199,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时03分 ~ 08时13分]"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 15时42分]"
         },
         {
           "title": "美国总统特朗普：马斯克80%的时候很聪明，20%的时候很糟糕。",
@@ -495,22 +508,24 @@
           "source": "抖音",
           "ranks": [
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 15时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 17时57分]"
         },
         {
           "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
           "url": "https://www.zhihu.com/question/2046268823192302620",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 15时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 17时57分]"
         },
         {
           "title": "哈兰德入驻抖音",
@@ -519,9 +534,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 17时57分]"
         }
       ]
     }

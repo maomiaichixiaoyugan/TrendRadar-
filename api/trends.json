@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T19:22:29.960634+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-06-06T21:15:54.911729+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 19时22分]"
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 21时15分]"
         },
         {
           "title": "美国总统特朗普：（伊朗）大部分无人机工厂、发射场和导弹制造区都被摧毁了。",
@@ -91,6 +92,20 @@
           "time_info": "03时45分"
         },
         {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时50分 ~ 21时15分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗别无选择，但这需要一些时间。",
           "url": "https://flash.jin10.com/detail/20260606060257951800",
           "source": "金十数据",
@@ -128,20 +143,6 @@
           "time_info": "[07时03分 ~ 08时13分]"
         },
         {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 19时22分]"
-        },
-        {
           "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
           "source": "澎湃新闻",
@@ -176,6 +177,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时13分 ~ 12时50分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-06）",
+          "url": "https://flash.jin10.com/detail/20260606181845712800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 21时15分]"
         },
         {
           "title": "美国总统特朗普：伊朗保有21%至22%的导弹。",
@@ -333,17 +346,6 @@
           "time_info": "03时45分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-06）",
-          "url": "https://flash.jin10.com/detail/20260606181845712800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
           "title": "美媒：特朗普特使前往田纳西州密会核专家 以待在伊朗核谈判中发挥作用",
           "url": "https://flash.jin10.com/detail/20260606030001354800",
           "source": "金十数据",
@@ -405,7 +407,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -515,7 +517,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -547,8 +549,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时50分 ~ 21时15分]"
+        },
+        {
+          "title": "哈兰德入驻抖音",
+          "url": "https://www.douyin.com/hot/2525032",
+          "source": "抖音",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时50分 ~ 19时22分]"
+          "time_info": "[15时42分 ~ 21时15分]"
         },
         {
           "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
@@ -562,17 +576,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时50分 ~ 19时22分]"
-        },
-        {
-          "title": "哈兰德入驻抖音",
-          "url": "https://www.douyin.com/hot/2525032",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 19时22分]"
         }
       ]
     }

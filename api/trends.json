@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-07T06:01:12.568834+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-06-07T07:08:33.258599+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 8,
       "titles": [
+        {
+          "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
+          "url": "https://v.ifeng.com/c/8tjL2UjJKhb",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时08分]"
+        },
         {
           "title": "特朗普“官宣”：我和马斯克又成朋友了",
           "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
@@ -19,15 +31,16 @@
           "time_info": "[01时03分 ~ 06时01分]"
         },
         {
-          "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
-          "url": "https://v.ifeng.com/c/8tjL2UjJKhb",
-          "source": "凤凰网",
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
           "ranks": [
-            5
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时08分]"
         },
         {
           "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
@@ -36,18 +49,6 @@
           "ranks": [
             10,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -71,11 +72,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 07时08分]"
         },
         {
           "title": "据The Information报道，美国白宫科技政策办公室人工智能高级政策顾问克里希南已讨论建立一个支持特朗普政府的政策机构。",
@@ -112,11 +114,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时08分]"
         },
         {
           "title": "统战部官方账号入驻抖音",
@@ -129,8 +132,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时08分]"
         },
         {
           "title": "哈兰德入驻抖音",
@@ -141,8 +144,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时08分]"
         }
       ]
     }

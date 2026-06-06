@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T21:15:54.911729+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-06-06T23:09:04.268360+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -28,8 +28,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时57分 ~ 21时15分]"
+          "appearance_count": 5,
+          "time_info": "[17时57分 ~ 23时09分]"
+        },
+        {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时50分 ~ 23时09分]"
         },
         {
           "title": "美国总统特朗普：（伊朗）大部分无人机工厂、发射场和导弹制造区都被摧毁了。",
@@ -67,6 +81,17 @@
           "time_info": "[07时03分 ~ 08时13分]"
         },
         {
+          "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
+          "url": "https://v.ifeng.com/c/8tjL2UjJKhb",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
+        {
           "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
           "url": "https://www.zhihu.com/question/2045446455956091852",
           "source": "知乎",
@@ -90,20 +115,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 21时15分]"
         },
         {
           "title": "美国总统特朗普：伊朗别无选择，但这需要一些时间。",
@@ -213,6 +224,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时03分 ~ 08时13分]"
+        },
+        {
+          "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
+          "url": "https://wallstreetcn.com/articles/3773991",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
         },
         {
           "title": "美国总统特朗普：马斯克80%的时候很聪明，20%的时候很糟糕。",
@@ -333,6 +355,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时03分 ~ 08时13分]"
+        },
+        {
+          "title": "伊朗高官：谈判主动权在特朗普手里",
+          "url": "https://www.toutiao.com/trending/7648086385831804969/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
         },
         {
           "title": "消息人士：特朗普在铀浓缩处理时间及冻结资金问题上与伊朗存在分歧",
@@ -549,8 +582,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 21时15分]"
+          "appearance_count": 7,
+          "time_info": "[12时50分 ~ 23时09分]"
         },
         {
           "title": "哈兰德入驻抖音",
@@ -558,11 +591,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时42分 ~ 21时15分]"
+          "appearance_count": 6,
+          "time_info": "[15时42分 ~ 23时09分]"
         },
         {
           "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T07:08:33.258599+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-06-07T10:50:22.935417+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 07时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 10时50分]"
         },
         {
           "title": "特朗普“官宣”：我和马斯克又成朋友了",
@@ -91,6 +92,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "指控特朗普在商场试衣间性侵，女作家“摊上事了”",
+          "url": "https://news.ifeng.com/c/8tl1E8EOKfx",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "美国总统特朗普转发了白宫关于就业数据的社交媒体帖子，内容为：“就业、就业、就业。数据不会骗人。”",
           "url": "https://flash.jin10.com/detail/20260607001237895800",
           "source": "金十数据",
@@ -100,6 +112,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "伊朗开价240亿美元，这可要了特朗普的命",
+          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "特朗普将出席NBA总决赛",
+          "url": "https://flash.jin10.com/detail/20260607095203635800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "特朗普女儿女婿，在欧洲被“火烈鸟”围剿了",
+          "url": "https://news.ifeng.com/c/8tkuLp7C2ad",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         }
       ]
     },
@@ -118,8 +163,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 07时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 10时50分]"
         },
         {
           "title": "统战部官方账号入驻抖音",
@@ -129,11 +174,12 @@
             24,
             23,
             4,
-            2
+            2,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 07时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 10时50分]"
         },
         {
           "title": "哈兰德入驻抖音",
@@ -144,8 +190,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 07时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 10时50分]"
         }
       ]
     }

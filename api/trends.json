@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-08T06:58:17.940848+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-06-08T08:04:59.062821+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 40,
       "titles": [
+        {
+          "title": "特朗普：我说了算，以色列总理别无选择",
+          "url": "https://news.ifeng.com/c/8tmNZSiGGLp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时04分]"
+        },
         {
           "title": "据半岛电视台：特朗普和内塔尼亚胡正在进行电话交谈。",
           "url": "https://flash.jin10.com/detail/20260608045243340800",
@@ -25,18 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
-          "title": "特朗普：我说了算，以色列总理别无选择",
-          "url": "https://news.ifeng.com/c/8tmNZSiGGLp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -149,7 +149,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -160,7 +160,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -182,7 +182,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -204,7 +204,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -215,7 +215,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -237,7 +237,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -391,7 +391,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -402,7 +402,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -466,8 +466,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 06时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 08时04分]"
         },
         {
           "title": "抖音学霸解读高考作文",

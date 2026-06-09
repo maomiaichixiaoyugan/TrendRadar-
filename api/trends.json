@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-10T05:48:24.361522+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-06-10T07:15:06.758148+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "特朗普证实美军打击伊朗",
+          "url": "https://news.ifeng.com/c/8tpnEaZn5yq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时14分 ~ 07时15分]"
+        },
         {
           "title": "据伊朗半官方媒体Mehr援引伊朗议员称，针对特朗普的威胁，伊朗军队处于全面戒备状态。",
           "url": "https://flash.jin10.com/detail/20260610025206405800",
@@ -38,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 07时15分]"
         },
         {
           "title": "特朗普：美伊谈判进入“最后关头”",
@@ -49,8 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 07时15分]"
         },
         {
           "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
@@ -59,9 +70,20 @@
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时15分]"
+        },
+        {
+          "title": "据福克斯新闻：美国众议院议长约翰逊表示，他在白宫战情室与特朗普及高层官员进行了会面，随后美国军队发起了被描述为自卫的打击伊朗行动。 约翰逊也称此次行动“比例适当且有限”，目标是雷达、导弹和指挥控制设施。",
+          "url": "https://flash.jin10.com/detail/20260610062852689800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时48分"
+          "time_info": "07时15分"
         },
         {
           "title": "伊朗外长疑似回应特朗普 警告外国军事力量远离伊朗",
@@ -73,6 +95,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "报道：美军报复性打击后，特朗普仍认为美伊接近达成和平协议",
+          "url": "https://wallstreetcn.com/livenews/3117052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "WTI原油在亚太盘初一度涨1.8%，目前涨1.5%，暂报89.57美元/桶。 美国股指期货（标普、纳指、道指、罗素2000）至多跌0.3%，比特币跌超0.7%。 美军在美股收盘之后称发动打击报复。此前，特朗普在纽约中午称必须回应伊朗击落美直升机。",
+          "url": "https://wallstreetcn.com/livenews/3117050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "特朗普称对伊朗进行打击“非常重要”",
+          "url": "https://wallstreetcn.com/livenews/3117049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "美国法官Richard Eaton要求总统特朗普的政府加速退还关税。",
+          "url": "https://wallstreetcn.com/livenews/3117047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "特朗普称对伊朗进行打击“非常重要”",
+          "url": "https://flash.jin10.com/detail/20260610055938102800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "据华尔街日报：特朗普政府要求人工智能测试机构停止发布公开报告，反映白宫正加强对人工智能模型的管控。",
+          "url": "https://flash.jin10.com/detail/20260610055143921800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         }
       ]
     },
@@ -86,11 +174,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 07时15分]"
         }
       ]
     }

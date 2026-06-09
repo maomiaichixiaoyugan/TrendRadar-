@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T18:55:21.395244+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-06-09T21:40:36.759213+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -165,7 +165,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -203,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
+        },
+        {
+          "title": "美国共和党国众议员哈德森表示，特朗普关于其“不在乎”中期选举的言论被误解了。",
+          "url": "https://flash.jin10.com/detail/20260609211016823800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "美国总统特朗普：石油价格将在伊朗问题结束后下跌。",
@@ -252,6 +263,17 @@
           "time_info": "[11时44分 ~ 15时41分]"
         },
         {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 21时40分]"
+        },
+        {
           "title": "路透社/益普索调查显示，特朗普的支持率为35%，与5月中旬持平，仅略高于其本届任期内34%的最低水平。",
           "url": "https://flash.jin10.com/detail/20260609034917399800",
           "source": "金十数据",
@@ -261,6 +283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "据美国政治新闻网站Politico：美国众议院议长约翰逊今天稍后将与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260609210838860800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "据报道，一名联邦法官裁定，特朗普对H-1B签证征收的10万美元费用属于未经授权的企业税，须予以撤销。",
@@ -283,17 +316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
-        },
-        {
-          "title": "特朗普：美伊谈判进入“最后关头”",
-          "url": "https://news.ifeng.com/c/8tooQUA09O3",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         },
         {
           "title": "特朗普“劝和”幕后：内塔尼亚胡需要战争继续 特朗普则相反",
@@ -324,7 +346,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -357,7 +379,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -440,11 +462,12 @@
           "url": "https://www.douyin.com/hot/2528465",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 21时40分]"
         },
         {
           "title": "哈兰德女孩的话事人来抖音了",

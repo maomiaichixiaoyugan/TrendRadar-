@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T13:25:01.845376+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-06-11T18:12:13.049357+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 13时25分]"
+          "appearance_count": 10,
+          "time_info": "[01时58分 ~ 18时12分]"
         },
         {
           "title": "美贸易法院：特朗普，快退钱！",
@@ -457,7 +458,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "抖音创作者守护乡村孩子足球梦",
@@ -468,11 +469,12 @@
             8,
             9,
             4,
-            10
+            10,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 13时25分]"
+          "appearance_count": 10,
+          "time_info": "[01时58分 ~ 18时12分]"
         },
         {
           "title": "淘宝京东拼多多抖音小红书被约谈",
@@ -490,11 +492,12 @@
           "url": "https://www.douyin.com/hot/2529851",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 18时12分]"
         },
         {
           "title": "EVAN李羲承抖音号公开",
@@ -519,6 +522,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时11分 ~ 08时12分]"
+        },
+        {
+          "title": "布伦森G4赛后发抖音",
+          "url": "https://www.douyin.com/hot/2530694",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
         },
         {
           "title": "EVAN李羲承正式入驻抖音",
@@ -549,7 +563,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         }

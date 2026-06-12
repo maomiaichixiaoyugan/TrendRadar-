@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-06-12T22:41:59.691216+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-06-13T01:34:21.751795+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3774439",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时09分 ~ 19时39分]"
-        },
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
           "url": "https://wallstreetcn.com/articles/3774389",
@@ -27,769 +15,69 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时50分 ~ 22时41分]"
+          "appearance_count": 1,
+          "time_info": "01时34分"
         },
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
           "url": "https://wallstreetcn.com/articles/3774457",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时50分 ~ 22时41分]"
-        },
-        {
-          "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
-          "url": "https://www.cls.cn/detail/2397775",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时50分 ~ 15时17分]"
-        },
-        {
-          "title": "特朗普再次180度大转弯，全世界都目瞪口呆",
-          "url": "https://news.ifeng.com/c/8tt5oJT4pDG",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时50分 ~ 15时17分]"
-        },
-        {
-          "title": "特朗普称美伊协议进入最后定稿阶段，有望本周末签署",
-          "url": "https://news.ifeng.com/c/8tso5G96e80",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 10时50分]"
-        },
-        {
-          "title": "特朗普为何在夺取伊朗岛屿问题上反复横跳？",
-          "url": "https://news.ifeng.com/c/8ttDG767op3",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时50分 ~ 15时17分]"
-        },
-        {
-          "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 05时15分]"
-        },
-        {
-          "title": "据华尔街日报：特朗普与盟友正制定计划以“抹除”弹劾记录。",
-          "url": "https://flash.jin10.com/detail/20260612070155257800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "特朗普称取消打击伊朗行动",
-          "url": "https://news.ifeng.com/c/8tsig3GUtRk",
-          "source": "凤凰网",
-          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时17分"
+          "time_info": "01时34分"
         },
         {
-          "title": "据以色列第12频道记者报道，伊朗否认存在任何协议。以色列方面表示，并不存在这样的协议。 另据以色列i24News报道，两名以色列官员称，对特朗普的声明感到意外，需要等待伊朗方面公布相关内容，才能判断这一说法是否准确。",
-          "url": "https://wallstreetcn.com/livenews/3118352",
+          "title": "美国总统特朗普称伊朗外长阿拉格齐在X上发的帖子“非常积极”。 特朗普称他已要求伊朗澄清有关美伊协议的报道。 可能会在周末、或下周一签署协议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3119010",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "特朗普再次“TACO”，原油暴跌，美股债大反弹，半导体指数大涨8%，黄金收复4200关口",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗协议“已经基本敲定”。（纽约邮报）",
-          "url": "https://wallstreetcn.com/livenews/3118348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "美国总统特朗普谈及伊朗问题，声称：基本完成。 我们得到了我们想要的一切。",
-          "url": "https://wallstreetcn.com/livenews/3118442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "美债收益率在特朗普取消对伊朗的打击后下跌，美国10年期国债收益率日内下跌4.7个基点，报4.493%，美国2年期国债收益率日内下跌2.7个基点，报4.1%。",
-          "url": "https://flash.jin10.com/detail/20260612013749573800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "特朗普威胁“猛烈打击”伊朗 美股、原油市场反应温和 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2397555",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时09分 ~ 10时50分]"
-        },
-        {
-          "title": "美伊局势再陷“迷雾”：特朗普称有望周末签署协议，伊朗“光速否认”！",
-          "url": "https://www.cls.cn/detail/2397803",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时50分 ~ 15时17分]"
-        },
-        {
-          "title": "特朗普称自己“被当成傻瓜戏耍”，到底发生了什么？",
-          "url": "https://news.ifeng.com/c/8tsLNrnEAQM",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时09分 ~ 10时50分]"
-        },
-        {
-          "title": "不断强调“接近协议”，如今又开启“强硬打击”，特朗普能打破美伊“不战不和”僵局吗？",
-          "url": "https://wallstreetcn.com/articles/3774371",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 07时17分]"
+          "appearance_count": 1,
+          "time_info": "01时34分"
         },
         {
           "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
           "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
           "source": "凤凰网",
           "ranks": [
-            10,
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时38分 ~ 22时41分]"
+          "appearance_count": 1,
+          "time_info": "01时34分"
         },
         {
           "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
           "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时38分 ~ 22时41分]"
-        },
-        {
-          "title": "特朗普称取消打击伊朗行动",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 07时17分]"
-        },
-        {
-          "title": "特朗普称有望周末签署美伊协议 伊朗称尚未达成最终结论 | 环球市场",
-          "url": "https://www.cls.cn/detail/2397778",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时50分 ~ 15时17分]"
-        },
-        {
-          "title": "内塔尼亚胡：特朗普没提前告诉我",
-          "url": "https://news.ifeng.com/c/8ttf3o3HpAs",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 19时39分]"
-        },
-        {
-          "title": "美债价格上涨、交易量激增，之前特朗普宣布取消对伊朗的打击计划",
-          "url": "https://wallstreetcn.com/livenews/3118346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "林肯纪念堂倒影池翻新：成本飙升，承包给特朗普的熟人",
-          "url": "https://news.ifeng.com/c/8ttODxEJJNz",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "特朗普：取消今晚对伊朗打击 将于近期公布协议签署时间和地点",
-          "url": "https://flash.jin10.com/detail/20260612013533536800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "特朗普叫停对伊朗打击！称“未来几天”签和平协议，伊朗回应：还没结论！",
-          "url": "https://flash.jin10.com/detail/20260612064649190800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "彭博美元指数创逾1个月最大跌幅，特朗普暗示美伊协议即将达成",
-          "url": "https://wallstreetcn.com/livenews/3118400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "金十提示：美国总统特朗普将此前取消打击伊朗的帖子置顶。",
-          "url": "https://flash.jin10.com/detail/20260612064451567800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "巴西雷亚尔兑美元涨1.4%，创最近两个月最佳盘中表现，美国总统特朗普取消打击伊朗的计划，称即将宣布签署协议的时间和地点。",
-          "url": "https://wallstreetcn.com/livenews/3118342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "以方称特朗普承诺美伊协议将包括移除伊朗浓缩铀等内容",
-          "url": "https://wallstreetcn.com/livenews/3118398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "特朗普：取消了对伊朗的打击计划，海上封锁照旧",
-          "url": "https://wallstreetcn.com/livenews/3118340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "特朗普称伊朗袭击印度船只不可接受",
-          "url": "https://wallstreetcn.com/livenews/3118943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "特朗普称取消原定对伊朗的打击行动",
-          "url": "https://www.cls.cn/detail/2397723",
-          "source": "财联社热门",
-          "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "美国总统特朗普：协议签署的时间和地点将很快公布。",
-          "url": "https://flash.jin10.com/detail/20260612013111758800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "伊朗国防部回应特朗普夺岛言论：敌人任何误判都将招致超乎想象的反击",
-          "url": "https://wallstreetcn.com/livenews/3118338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "美国总统特朗普：海上封锁将保持全面有效，直至协议完成。",
-          "url": "https://flash.jin10.com/detail/20260612012952408800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "【特朗普称伊朗各方均已批准美伊协议】美国总统特朗普谈及美伊协议称，据他了解，伊朗最高领袖已同意该协议，伊朗各方均已批准该协议。他还表示，这是一份非常有力、非常详尽的谅解备忘录。特朗普还称，伊朗将不会拥有核武器。特朗普表示，一旦签署谅解备忘录，霍尔木兹海峡将立即开放。他还称，哈尔克岛行动不在考虑之列。 此前，一名接近伊朗谈判团队的知情人士称，伊朗“尚未批准任何与美国达成的初步谅解备忘录文本”。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3118394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "美国总统特朗普：我已取消今晚对伊朗计划中的打击和轰炸。",
-          "url": "https://flash.jin10.com/detail/20260612012942771800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "特朗普称伊朗各方均已批准美伊协议",
-          "url": "https://flash.jin10.com/detail/20260612042328842800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "特朗普表示相信伊朗最高领袖已批准美伊协议",
-          "url": "https://wallstreetcn.com/livenews/3118393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "特朗普拒设协议截止日期：设了你们又会说我没按期完成",
-          "url": "https://flash.jin10.com/detail/20260612042246303800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "伊朗国防部回应特朗普夺岛言论",
-          "url": "https://flash.jin10.com/detail/20260612012243938800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "金十提示：美国总统特朗普结束白宫讲话。",
-          "url": "https://flash.jin10.com/detail/20260612042139765800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "特朗普称80岁生日愿望是“世界和平”，转头宣布狠狠打击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33357490",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "美国总统特朗普：考虑对肥料市场提供某种形式的帮助。",
-          "url": "https://flash.jin10.com/detail/20260612041838711800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "特朗普称伊媒发布的美伊协议草案与事实不符",
-          "url": "https://wallstreetcn.com/livenews/3118933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "以色列：特朗普承诺伊朗将限制导弹生产及停止地区支持",
-          "url": "https://flash.jin10.com/detail/20260612041456892800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "美国总统特朗普：普尔特将短暂担任国家情报总监。",
-          "url": "https://flash.jin10.com/detail/20260612041158684800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "特朗普：取消霍尔木兹海峡封锁是伊朗协议的一部分",
-          "url": "https://wallstreetcn.com/livenews/3118386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "特朗普：伊朗对协议的说法与事实完全不符。 伊朗最好行动起来，赶紧行动。 媒体报道的伊朗条款与已达成的协议条款毫无关系。 伊朗袭击印度船只不可接受。 跟他们打交道完全没有诚意可言。",
-          "url": "https://wallstreetcn.com/livenews/3118931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "美国总统特朗普：我们在这场对抗伊朗的战争中取得了军事胜利。",
-          "url": "https://flash.jin10.com/detail/20260612040934547800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗人有机会重建他们的国家，伊朗已被严重摧毁。",
-          "url": "https://flash.jin10.com/detail/20260612040929676800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "外媒：就美国法官裁定将特朗普名字从肯尼迪中心移除，美政府提出上诉",
-          "url": "https://wallstreetcn.com/livenews/3118629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "特朗普暗示协议即将达成，新兴市场货币与股票ETF集体大涨",
-          "url": "https://wallstreetcn.com/livenews/3118418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "美债价格于纽约中午短线飙涨，特朗普宣称取消对伊朗的后续袭击计划",
-          "url": "https://wallstreetcn.com/livenews/3118414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "上诉法院：美国总统特朗普目前可执行第122条关税。",
-          "url": "https://wallstreetcn.com/livenews/3118378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "【特朗普称美伊协议进入最后定稿阶段，有望本周末签署】道指狂暴超1000点，涨幅扩大至2%，标普500指数涨1.9%，纳指涨2.5%，纳斯达克100指数涨3.3%，半导体指数涨7.8%。 据央视报道，6月11日，美国总统特朗普就伊朗问题表示“达成了极好的协议”，并称相关文件已进入最后定稿阶段，未来几天内有望最终敲定，并即将签署。他还表示，协议可能在欧洲签署，时间可能在本周末，美国副总统万斯将出席。特朗普称，一旦伊朗方面签署协议，霍尔木兹海峡就会开放。伊朗方面对此暂无回应。",
-          "url": "https://wallstreetcn.com/livenews/3118377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "特朗普取消原定今晚打击伊朗行动",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%96%E6%B6%88%E5%8E%9F%E5%AE%9A%E4%BB%8A%E6%99%9A%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "01时34分"
         }
       ]
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "淘宝、京东、拼多多、抖音、小红书 5 家电商平台被约谈，具有哪些警示意义？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2048363384991477880",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 07时17分]"
-        },
         {
           "title": "抖音AI创作大赛首个爆款出现",
           "url": "https://www.douyin.com/hot/2532139",
           "source": "抖音",
           "ranks": [
-            19,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时38分 ~ 22时41分]"
-        },
-        {
-          "title": "抖音AI创作大赛来了",
-          "url": "https://www.douyin.com/hot/2529851",
-          "source": "抖音",
-          "ranks": [
-            10,
-            20,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时09分 ~ 15时17分]"
-        },
-        {
-          "title": "哈兰德抖音粉丝数超曼城",
-          "url": "https://www.douyin.com/hot/2532056",
-          "source": "抖音",
-          "ranks": [
-            28,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时38分 ~ 22时41分]"
-        },
-        {
-          "title": "全抖音都在DaiDai",
-          "url": "https://www.douyin.com/hot/2531421",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时38分 ~ 22时41分]"
-        },
-        {
-          "title": "水果姐世界杯开幕表演预热抖音",
-          "url": "https://www.douyin.com/hot/2531991",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 19时39分]"
-        },
-        {
-          "title": "夏奇拉抖音分享开幕式表演",
-          "url": "https://www.douyin.com/hot/2531634",
-          "source": "抖音",
-          "ranks": [
-            12
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "抖音曝光十大恶意营销典型案例，近一年处置387.4万个违规账号",
-          "url": "https://wallstreetcn.com/livenews/3118820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
-          "title": "新疆小羊哥发抖音感谢网友关注",
-          "url": "https://www.douyin.com/hot/2531642",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
+          "time_info": "01时34分"
         }
       ]
     }

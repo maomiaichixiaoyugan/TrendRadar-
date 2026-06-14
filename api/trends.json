@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T13:26:46.008200+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2026-06-14T17:22:47.598104+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
@@ -24,11 +24,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 17时22分]"
+        },
+        {
+          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
+          "url": "https://www.cls.cn/detail/2399150",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 17时22分]"
         },
         {
           "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
@@ -53,18 +67,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时16分 ~ 13时26分]"
-        },
-        {
-          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
-          "url": "https://www.cls.cn/detail/2399150",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时03分 ~ 13时26分]"
         },
         {
           "title": "美国总统特朗普：将任命詹姆斯·麦克唐纳为纽约南区联邦检察官。",
@@ -116,6 +118,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 08时04分]"
+        },
+        {
+          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
+          "url": "https://wallstreetcn.com/articles/3774599",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 17时22分]"
         },
         {
           "title": "唐宁街10号（英国首相府）：英国首相斯塔默表示支持美国总统特朗普结束与伊朗冲突的努力。",
@@ -190,6 +204,18 @@
           "time_info": "[01时16分 ~ 03时14分]"
         },
         {
+          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 17时22分]"
+        },
+        {
           "title": "美国总统特朗普就伊朗问题表示：在适当的时候，当一切平静时，我们将进入并获取核尘埃。",
           "url": "https://flash.jin10.com/detail/20260614004827925800",
           "source": "金十数据",
@@ -200,6 +226,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 03时14分]"
+        },
+        {
+          "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
+          "url": "https://wallstreetcn.com/livenews/3119179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 17时22分]"
         },
         {
           "title": "美国总统特朗普就伊朗问题表示：协议计划于明天签署。协议签署后，霍尔木兹海峡将立即对所有人开放。",
@@ -214,37 +252,15 @@
           "time_info": "[01时16分 ~ 03时14分]"
         },
         {
-          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
-          "url": "https://wallstreetcn.com/articles/3774599",
-          "source": "华尔街见闻",
+          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
+          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
+          "source": "凤凰网",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
-          "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
-          "url": "https://wallstreetcn.com/livenews/3119179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
-          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
+          "time_info": "17时22分"
         },
         {
           "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
@@ -297,7 +313,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         }

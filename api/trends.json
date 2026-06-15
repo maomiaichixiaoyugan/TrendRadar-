@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T17:23:52.002972+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2026-06-15T23:39:24.088803+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 17时23分]"
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 23时39分]"
         },
         {
           "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
@@ -134,6 +134,28 @@
           "time_info": "05时03分"
         },
         {
+          "title": "特朗普：将允许伊朗进行低水平铀浓缩",
+          "url": "https://www.cls.cn/detail/2400213",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "打脸马克龙？特朗普就数字服务税发难",
+          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "据CNN：在伊朗谈判和黎巴嫩停火紧张局势加剧之际，内塔尼亚胡正寻求在下周末七国集团峰会后与特朗普举行紧急会谈。卡塔尔谈判代表仍留在德黑兰，与美国协调，以保持谈判顺利进行。",
           "url": "https://flash.jin10.com/detail/20260615042413227800",
           "source": "金十数据",
@@ -169,6 +191,18 @@
           "time_info": "[01时13分 ~ 05时03分]"
         },
         {
+          "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
+          "url": "https://www.cls.cn/detail/2400017",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 23时39分]"
+        },
+        {
           "title": "美伊和谈迎突破性进展！特朗普称协议已完成 签署仪式拟周五举行",
           "url": "https://www.cls.cn/detail/2399494",
           "source": "财联社热门",
@@ -179,6 +213,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时59分 ~ 17时23分]"
+        },
+        {
+          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 23时39分]"
         },
         {
           "title": "特朗普批评以色列“干扰”美伊签署协议：“非常接近”达成美伊协议，将给黎巴嫩带来和平",
@@ -210,18 +256,6 @@
           "url": "https://news.ifeng.com/c/8txdaXj6SxP",
           "source": "凤凰网",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 17时23分]"
-        },
-        {
-          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
             7
           ],
           "is_new": false,
@@ -284,17 +318,6 @@
           "time_info": "10时59分"
         },
         {
-          "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
-          "url": "https://www.cls.cn/detail/2400017",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
           "title": "俄罗斯总统助理乌沙科夫：特朗普向普京表示伊朗协议即将达成，普京对冲突行将结束表示满意。",
           "url": "https://flash.jin10.com/detail/20260615002408304800",
           "source": "金十数据",
@@ -337,6 +360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "Anthropic就新模型争议与特朗普政府举行会谈",
+          "url": "https://flash.jin10.com/detail/20260615230210405800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：美国总统特朗普对俄罗斯总统普京表示，结束乌克兰战争至关重要，并表示他准备提供帮助。",
@@ -389,9 +423,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "Anthropic将于周一围绕Mythos问题会见美国总统特朗普。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3119777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "以方消息人士：内塔尼亚胡寻求在G7后紧急会晤特朗普",
@@ -422,7 +467,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -469,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "据CNBC：Anthropic将于今日就“Mythos”模型与特朗普政府官员会面。",
+          "url": "https://flash.jin10.com/detail/20260615225239503800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "特朗普：若未达成核协议将重启打击",
@@ -591,11 +647,12 @@
           "url": "https://www.douyin.com/hot/2535395",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 23时39分]"
         }
       ]
     }

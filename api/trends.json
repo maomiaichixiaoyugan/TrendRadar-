@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T06:00:53.547560+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-06-20T07:01:40.373427+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普和高市早苗因珍珠港发生争吵",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             1,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 06时00分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 07时01分]"
         },
         {
           "title": "美国总统特朗普：我们拥有全球顶尖的军队，拥有世上最先进的各类军机，我们也理应配备最顶级的总统专机。",
@@ -29,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时00分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 07时01分]"
         },
         {
           "title": "美国总统特朗普：F-47正在建造中。已经启动了装配线。他们说这是有史以来最伟大的战斗机。我们会验证这一点。",
@@ -41,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时00分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 07时01分]"
         },
         {
           "title": "美国总统特朗普：美国国防部长赫格塞思是与生俱来的斗士，他从来不知道什么叫服输，性格极为刚硬，是个发自内心热爱军队的人。",
@@ -53,21 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时00分]"
-        },
-        {
-          "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/3122171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            19
-          ],
-          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时29分 ~ 06时00分]"
+          "time_info": "[04时25分 ~ 07时01分]"
         },
         {
           "title": "美国总统特朗普透露，卡塔尔赠予的空军一号专机已经搭载了星链通信网络。",
@@ -76,9 +64,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时00分 ~ 07时01分]"
         },
         {
           "title": "美国总统特朗普：我要特别致谢250名工作人员，他们不分昼夜赶工，促成这架专机正式投入使用，这当中也包含安德鲁斯联合基地的大量空军官兵。",
@@ -87,9 +75,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时00分 ~ 07时01分]"
         },
         {
           "title": "特朗普和高市早苗被爆在G7因珍珠港争吵",
@@ -99,8 +87,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 06时00分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 07时01分]"
         },
         {
           "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
@@ -110,19 +98,34 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 06时00分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 07时01分]"
+        },
+        {
+          "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3122171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时29分 ~ 07时01分]"
         },
         {
           "title": "万斯警告以色列：只有特朗普同情你们",
           "url": "https://www.toutiao.com/trending/7652359820477693994/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 06时00分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 07时01分]"
         },
         {
           "title": "特朗普移动首款手机竟是中国制造",
@@ -132,8 +135,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 06时00分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 07时01分]"
+        },
+        {
+          "title": "特朗普视察新专机，专家担心安全性可能不如现有的“空军一号”",
+          "url": "https://wallstreetcn.com/livenews/3122195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "美国总统特朗普：我结束了8场战争，与伊朗的战争是最艰难的。",
@@ -144,8 +158,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时00分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 07时01分]"
+        },
+        {
+          "title": "特朗普：美伊须60天内达成长期协议，否则将采取进一步行动",
+          "url": "https://wallstreetcn.com/livenews/3122194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "美国总统特朗普：美国国防部长赫格塞思做得很好。",
@@ -156,8 +181,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时00分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 07时01分]"
+        },
+        {
+          "title": "特朗普：Anthropic曾构成国家安全威胁",
+          "url": "https://wallstreetcn.com/livenews/3122193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "美国情报部门警告特朗普政府：以色列可能会破坏美国与伊朗的协议。（华盛顿邮报）",
@@ -173,6 +209,30 @@
           "time_info": "[00时29分 ~ 04时25分]"
         },
         {
+          "title": "美国总统特朗普：另一架旧空军一号已有约35年机龄，确实到了该更换的时候。",
+          "url": "https://flash.jin10.com/detail/20260620035555695800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 07时01分]"
+        },
+        {
+          "title": "美国总统特朗普：与以色列关系良好。内塔尼亚胡是一位战士。",
+          "url": "https://flash.jin10.com/detail/20260620035254537800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 07时01分]"
+        },
+        {
           "title": "美国总统特朗普周五早些时候与以色列进行了对话，要求他们同意与黎巴嫩真主党停火。（NBC新闻）",
           "url": "https://wallstreetcn.com/livenews/3122163",
           "source": "华尔街见闻-快讯",
@@ -186,30 +246,6 @@
           "time_info": "[02时29分 ~ 06时00分]"
         },
         {
-          "title": "美国总统特朗普：另一架旧空军一号已有约35年机龄，确实到了该更换的时候。",
-          "url": "https://flash.jin10.com/detail/20260620035555695800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时00分]"
-        },
-        {
-          "title": "美国总统特朗普：与以色列关系良好。内塔尼亚胡是一位战士。",
-          "url": "https://flash.jin10.com/detail/20260620035254537800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时00分]"
-        },
-        {
           "title": "美国总统特朗普：那些船只正以前所未有的速度驶出霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260620035101442800",
           "source": "金十数据",
@@ -218,8 +254,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时00分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 07时01分]"
         },
         {
           "title": "特朗普：约700艘船正在海峡通行 伊朗必须在60天内达成协议",
@@ -230,8 +266,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时00分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 07时01分]"
         },
         {
           "title": "美国总统特朗普：霍尔木兹海峡的船只正在通行。",
@@ -242,8 +278,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时00分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 07时01分]"
         },
         {
           "title": "美国总统特朗普向美国空军军人致以问候，并发表讲话。",
@@ -254,8 +290,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时00分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 07时01分]"
         },
         {
           "title": "美国总统特朗普将开启G7峰会结束后的首次美国国内行程，前往宾州利哈伊谷的迈克卡车工厂参观。",
@@ -266,8 +302,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时00分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 07时01分]"
         },
         {
           "title": "美国总统特朗普：（谈及委内瑞拉和古巴）委内瑞拉有石油。古巴没有。古巴有不错的地产和漂亮的海岸线。",
@@ -278,8 +314,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时00分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 07时01分]"
         },
         {
           "title": "美国总统特朗普：我的民调数据非常好。我能以25个百分点的优势击败他们推出的任何候选人。",
@@ -290,8 +326,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时00分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 07时01分]"
         },
         {
           "title": "美国总统特朗普：（谈及七国集团）他们本应保留八国集团。如果那样的话，俄乌之间可能就不会发生战争了，但奥巴马不想让普京留在那里。以前是八国集团。如果当初保留下来，会好得多。",
@@ -302,8 +338,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时00分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 07时01分]"
         },
         {
           "title": "美国总统特朗普：（谈及拜登）我们曾有过一个连一段楼梯都走不上去的人，我不想谈这个，因为如果我稍微绊一下，他们就会说：“哦，这太糟糕了。”好吧，这种事是可能发生的。但你不能每次上台都绊倒。",
@@ -314,8 +350,67 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 07时01分]"
+        },
+        {
+          "title": "美国总统特朗普：将于7月7-8日赴土耳其参加北约峰会。",
+          "url": "https://flash.jin10.com/detail/20260620035211173800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时00分]"
+          "time_info": "[06时00分 ~ 07时01分]"
+        },
+        {
+          "title": "美国总统特朗普：卡塔尔赠送的“空军一号”配置星链。",
+          "url": "https://wallstreetcn.com/livenews/3122178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时00分 ~ 07时01分]"
+        },
+        {
+          "title": "美国总统特朗普：与以色列关系一直都很好。",
+          "url": "https://wallstreetcn.com/livenews/3122177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时00分 ~ 07时01分]"
+        },
+        {
+          "title": "美国总统特朗普：将前往土耳其。",
+          "url": "https://wallstreetcn.com/livenews/3122176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时00分 ~ 07时01分]"
+        },
+        {
+          "title": "美国总统特朗普：大约700艘船正在通过霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3122174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时00分 ~ 07时01分]"
         },
         {
           "title": "特朗普对伊朗协议定调 旨在驳斥美国失败论",
@@ -351,39 +446,6 @@
           "time_info": "04时25分"
         },
         {
-          "title": "美国总统特朗普：将于7月7-8日赴土耳其参加北约峰会。",
-          "url": "https://flash.jin10.com/detail/20260620035211173800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时00分"
-        },
-        {
-          "title": "美国总统特朗普：卡塔尔赠送的“空军一号”配置星链。",
-          "url": "https://wallstreetcn.com/livenews/3122178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时00分"
-        },
-        {
-          "title": "美国总统特朗普：与以色列关系一直都很好。",
-          "url": "https://wallstreetcn.com/livenews/3122177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时00分"
-        },
-        {
           "title": "美媒：特朗普周五与以色列通话 要求以方同意与真主党停火",
           "url": "https://flash.jin10.com/detail/20260620010737139800",
           "source": "金十数据",
@@ -393,28 +455,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
-        },
-        {
-          "title": "美国总统特朗普：将前往土耳其。",
-          "url": "https://wallstreetcn.com/livenews/3122176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时00分"
-        },
-        {
-          "title": "美国总统特朗普：大约700艘船正在通过霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3122174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时00分"
         },
         {
           "title": "万斯警告以色列：只有特朗普同情你们",

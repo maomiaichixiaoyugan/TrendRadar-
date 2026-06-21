@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T13:56:15.165015+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-06-21T17:40:23.897333+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
@@ -90,6 +90,18 @@
           "time_info": "[01时19分 ~ 08时14分]"
         },
         {
+          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
+          "url": "https://www.cls.cn/detail/2404722",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 17时40分]"
+        },
+        {
           "title": "意大利总理回击特朗普批评：应关注自身支持率",
           "url": "https://news.ifeng.com/c/8u6beESPjqF",
           "source": "凤凰网",
@@ -136,17 +148,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 03时14分]"
-        },
-        {
-          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
-          "url": "https://www.cls.cn/detail/2404722",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
         },
         {
           "title": "特朗普回应伊朗关闭霍尔木兹海峡",
@@ -237,11 +238,12 @@
           "url": "https://www.douyin.com/hot/2542331",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 17时40分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T10:35:56.481463+08:00",
-  "total_titles_processed": 693,
+  "generated_at": "2026-06-23T14:43:07.188733+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -43,6 +43,28 @@
           "time_info": "[05时57分 ~ 10时35分]"
         },
         {
+          "title": "哥伦比亚右翼大选中险胜，特朗普背书成助力",
+          "url": "https://news.ifeng.com/c/8uBgi1AZcfM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 14时43分]"
+        },
+        {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 14时43分]"
+        },
+        {
           "title": "特朗普政府将石油钻探保证金削减95%",
           "url": "https://flash.jin10.com/detail/20260623024152529800",
           "source": "金十数据",
@@ -60,7 +82,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -71,7 +93,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -262,11 +284,12 @@
           "url": "https://www.douyin.com/hot/2543920",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时35分 ~ 14时43分]"
         }
       ]
     }

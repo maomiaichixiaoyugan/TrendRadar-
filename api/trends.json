@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-06-26T21:06:28.462115+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-06-27T00:10:04.971675+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
-          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 07时11分]"
-        },
-        {
-          "title": "特朗普政府首次介入AI模型发布：要求OpenAI限制首批开放范围",
-          "url": "https://flash.jin10.com/detail/20260626141456067800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
         {
           "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
           "url": "https://news.ifeng.com/c/8uHCasu8tQC",
@@ -36,238 +14,92 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时06分"
-        },
-        {
-          "title": "据AXIOS网站：美国众议院议长约翰逊表示，将在与特朗普会晤后将住房法案提交给白宫。",
-          "url": "https://flash.jin10.com/detail/20260626052048013800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            17
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时25分 ~ 07时11分]"
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
-          "url": "https://www.zhihu.com/question/2053130730595791572",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 07时11分]"
-        },
-        {
-          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
-          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 14时48分]"
-        },
-        {
-          "title": "特朗普寻求为陷入困境的美国农民提供111亿美元新援助",
-          "url": "https://wallstreetcn.com/livenews/3124855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 07时11分]"
-        },
-        {
-          "title": "特朗普拟提名FCC总法律顾问掌管美国司法部反垄断局",
-          "url": "https://flash.jin10.com/detail/20260626043110139800",
+          "title": "美国总统特朗普：伊朗向穿越霍尔木兹海峡的船只发射了至少四架单向攻击无人机。这是对我们停火协议的愚蠢违反。",
+          "url": "https://flash.jin10.com/detail/20260626235210506800",
           "source": "金十数据",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 07时11分]"
-        },
-        {
-          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
-          "url": "https://www.cls.cn/detail/2408936",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "美最高法院裁决支持特朗普强硬移民政策",
-          "url": "https://news.ifeng.com/c/8uFtfSi0LYE",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "特朗普请求为陷入困境的农民提供111亿美元新援助",
-          "url": "https://flash.jin10.com/detail/20260626001125461800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "美最高法院裁决支持特朗普强硬移民政策",
-          "url": "https://flash.jin10.com/detail/20260626000849119800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "美国众议长约翰逊：与总统特朗普进行了富有成效的会谈。",
-          "url": "https://wallstreetcn.com/livenews/3124865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "特朗普政府周三通知国会，将向土耳其出售价值7亿美元的喷气发动机。",
-          "url": "https://flash.jin10.com/detail/20260626055515833800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "加拿大总理卡尼：美国总统特朗普周三打电话给我，我们讨论了很长时间。",
-          "url": "https://wallstreetcn.com/livenews/3124768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
-          "url": "https://flash.jin10.com/detail/20260626041922109800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "市场消息：特朗普拟任命电信法律专家亚当·坎德布（Adam Candeub）担任司法部反垄断局局长。",
-          "url": "https://flash.jin10.com/detail/20260626041609697800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "据白宫官员透露，特朗普将首次乘坐卡塔尔政府赠送的新总统专机，计划于7月1日前往北达科他州参加活动。",
-          "url": "https://wallstreetcn.com/livenews/3124934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "美国法官叫停特朗普关于邮寄投票的行政令",
-          "url": "https://wallstreetcn.com/livenews/3124758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "加拿大总理卡尼：周三没有与美国总统特朗普讨论美墨加协定（USMCA）。",
-          "url": "https://flash.jin10.com/detail/20260626000055706800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "深圳土地市场再现“百亿地王” 未来售价有望达15万-20万/平",
-          "url": "https://www.cls.cn/detail/2409493",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 10时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "抖音乒乓百分大战首站打响",
-          "url": "https://www.douyin.com/hot/2548317",
-          "source": "抖音",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时06分"
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美国总统 特朗普谈及伊朗：伊朗向至少四架穿越霍尔木兹海峡的船只发射了自杀式无人机（单向攻击无人机）。 其中一架无人机击中了一艘货船的上层甲板，美国击落了另外三架无人机。 这是对我们停火协议的愚蠢违反。",
+          "url": "https://wallstreetcn.com/livenews/3125391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "奥巴马回应总被特朗普骂",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%9B%9E%E5%BA%94%E6%80%BB%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%AA%82%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
+          "url": "https://flash.jin10.com/detail/20260626233456947800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "特朗普前国家安全事务助理认罪",
+          "url": "https://wallstreetcn.com/livenews/3125373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "抖音乒乓百分大战首战奥恰队获胜",
+          "url": "https://www.douyin.com/hot/2548317",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "哈兰德抖音粉丝突破400万",
+          "url": "https://www.douyin.com/hot/2548884",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         }
       ]
     }

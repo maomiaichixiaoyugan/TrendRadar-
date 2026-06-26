@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T04:29:48.370441+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-06-27T06:06:24.170593+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时06分]"
         },
         {
           "title": "美国总统特朗普：伊朗向穿越霍尔木兹海峡的船只发射了至少四架单向攻击无人机。这是对我们停火协议的愚蠢违反。",
@@ -136,7 +136,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -158,7 +158,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -189,8 +189,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时06分]"
         },
         {
           "title": "哈兰德抖音粉丝突破400万",

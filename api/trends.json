@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T14:32:12.180112+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-06-27T17:25:54.565937+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
@@ -41,6 +41,18 @@
           "time_info": "02时26分"
         },
         {
+          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
+          "url": "https://www.cls.cn/detail/2410771",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时58分 ~ 17时25分]"
+        },
+        {
           "title": "美国总统特朗普：（纽约）市长马姆达尼看起来是个和蔼可亲的人，他说他会确保人们的房租不会上涨，尽管能源价格上涨了。",
           "url": "https://flash.jin10.com/detail/20260627022141001800",
           "source": "金十数据",
@@ -61,18 +73,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
-        },
-        {
-          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
-          "url": "https://www.cls.cn/detail/2410771",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时58分 ~ 14时32分]"
         },
         {
           "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
@@ -130,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "美国务卿鲁比奥：美印推进贸易协议，特朗普可能于明年初访印",
+          "url": "https://wallstreetcn.com/livenews/3125565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "伊朗高级官员：特朗普不遵守谈判和停火原则",
@@ -267,11 +278,12 @@
           "source": "抖音",
           "ranks": [
             6,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时59分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时59分 ~ 17时25分]"
         },
         {
           "title": "哈兰德抖音粉丝突破400万",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T19:23:36.637599+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-06-27T21:18:09.092659+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
@@ -28,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时58分 ~ 19时23分]"
+          "appearance_count": 9,
+          "time_info": "[07时58分 ~ 21时18分]"
         },
         {
           "title": "美国总统特朗普：伊朗向穿越霍尔木兹海峡的船只发射了至少四架单向攻击无人机。这是对我们停火协议的愚蠢违反。",
@@ -74,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
+          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 21时18分]"
         },
         {
           "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
@@ -134,17 +145,6 @@
           "time_info": "[14时31分 ~ 14时32分]"
         },
         {
-          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
-          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
           "title": "市场消息：美国总统特朗普施压参议员丽莎·默科斯基投票支持《拯救美国法案》。",
           "url": "https://flash.jin10.com/detail/20260627021241822800",
           "source": "金十数据",
@@ -154,6 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "美国务卿鲁比奥：正推动特朗普明年初访问印度事宜",
+          "url": "https://flash.jin10.com/detail/20260627191008880800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "伊朗高级官员：特朗普不遵守谈判和停火原则",
@@ -228,7 +239,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -306,8 +317,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时59分 ~ 19时23分]"
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 21时18分]"
         },
         {
           "title": "哈兰德抖音粉丝突破400万",

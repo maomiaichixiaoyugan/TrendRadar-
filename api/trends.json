@@ -1,69 +1,12 @@
 {
-  "generated_at": "2026-06-27T23:11:05.380562+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-06-28T01:02:46.771448+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
-          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 10时59分]"
-        },
-        {
-          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
-          "url": "https://www.cls.cn/detail/2410771",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时58分 ~ 23时11分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗向穿越霍尔木兹海峡的船只发射了至少四架单向攻击无人机。这是对我们停火协议的愚蠢违反。",
-          "url": "https://flash.jin10.com/detail/20260626235210506800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "美国总统特朗普批评纽约市的租金冻结措施。",
-          "url": "https://flash.jin10.com/detail/20260627022215773800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "特朗普公布“爱国者护照”新版效果图",
-          "url": "https://flash.jin10.com/detail/20260627230052437800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
         {
           "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
           "url": "https://wallstreetcn.com/livenews/3125610",
@@ -71,20 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "美国总统特朗普：（纽约）市长马姆达尼看起来是个和蔼可亲的人，他说他会确保人们的房租不会上涨，尽管能源价格上涨了。",
-          "url": "https://flash.jin10.com/detail/20260627022141001800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "01时02分"
         },
         {
           "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
@@ -94,293 +26,58 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时23分 ~ 23时11分]"
-        },
-        {
-          "title": "美国总统 特朗普谈及伊朗：伊朗向至少四架穿越霍尔木兹海峡的船只发射了自杀式无人机（单向攻击无人机）。 其中一架无人机击中了一艘货船的上层甲板，美国击落了另外三架无人机。 这是对我们停火协议的愚蠢违反。",
-          "url": "https://wallstreetcn.com/livenews/3125391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时10分"
+          "time_info": "01时02分"
         },
         {
-          "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
-          "url": "https://wallstreetcn.com/livenews/3125418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 04时29分]"
-        },
-        {
-          "title": "美国务卿鲁比奥：美印推进贸易协议，特朗普可能于明年初访印",
-          "url": "https://wallstreetcn.com/livenews/3125565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 19时23分]"
-        },
-        {
-          "title": "奥巴马回应总被特朗普骂",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%9B%9E%E5%BA%94%E6%80%BB%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%AA%82%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 00时10分]"
-        },
-        {
-          "title": "伊朗高级官员：特朗普不遵守谈判和停火原则",
-          "url": "https://wallstreetcn.com/livenews/3125517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 14时32分]"
-        },
-        {
-          "title": "伊朗称特朗普不遵守谈判和停火原则",
-          "url": "https://www.toutiao.com/trending/7655588812406407178/",
+          "title": "特朗普孙女发逛白宫vlog美国网友破防",
+          "url": "https://www.toutiao.com/trending/7656026817400475182/",
           "source": "今日头条",
           "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
-        },
-        {
-          "title": "市场消息：美国总统特朗普施压参议员丽莎·默科斯基投票支持《拯救美国法案》。",
-          "url": "https://flash.jin10.com/detail/20260627021241822800",
-          "source": "金十数据",
-          "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "01时02分"
         },
         {
-          "title": "美国务卿鲁比奥：正推动特朗普明年初访问印度事宜",
-          "url": "https://flash.jin10.com/detail/20260627191008880800",
+          "title": "特朗普公布“爱国者护照”新版效果图",
+          "url": "https://flash.jin10.com/detail/20260627230052437800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时18分"
+          "time_info": "01时02分"
         },
         {
-          "title": "伊朗高级官员：特朗普不遵守谈判和停火原则",
-          "url": "https://flash.jin10.com/detail/20260627092527227800",
-          "source": "金十数据",
+          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
+          "url": "https://www.cls.cn/detail/2410771",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
-          "url": "https://flash.jin10.com/detail/20260626233456947800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "特朗普指责伊朗攻击霍尔木兹海峡船只违反停火协议",
-          "url": "https://wallstreetcn.com/livenews/3125410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "特朗普前国家安全事务助理认罪",
-          "url": "https://wallstreetcn.com/livenews/3125373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗仍然具备某些（军事打击）能力，但不太大。 （美国）汽油价格很快就会跌到每加仑2.5美元。",
-          "url": "https://wallstreetcn.com/livenews/3125432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "委内瑞拉代总统Rodriguez：与美国总统特朗普、国务卿卢比奥通电话，对方向地震后的委内瑞拉表示支持（意图）。",
-          "url": "https://wallstreetcn.com/livenews/3125476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-27）",
-          "url": "https://flash.jin10.com/detail/20260627172958574800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "伊朗官员：特朗普在谈判原则及停火协议上毫无诚意",
-          "url": "https://wallstreetcn.com/livenews/3125475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "市场消息：特朗普即将发表讲话。",
-          "url": "https://flash.jin10.com/detail/20260627015056714800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "美国总统特朗普：（当被问及伊朗在霍尔木兹海峡的行动时）你们拭目以待。",
-          "url": "https://flash.jin10.com/detail/20260627035601886800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "特朗普威胁对任何征收数字服务税的国家加征100%关税",
-          "url": "https://wallstreetcn.com/livenews/3125400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "01时02分"
         }
       ]
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "在抖音的三国文学里出不来了",
           "url": "https://www.douyin.com/hot/2549237",
           "source": "抖音",
           "ranks": [
-            6,
-            1,
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时59分 ~ 23时11分]"
-        },
-        {
-          "title": "抖音乒乓百分大战首战奥恰队获胜",
-          "url": "https://www.douyin.com/hot/2548317",
-          "source": "抖音",
-          "ranks": [
-            5,
-            1,
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 07时59分]"
-        },
-        {
-          "title": "哈兰德抖音粉丝突破400万",
-          "url": "https://www.douyin.com/hot/2548884",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 02时26分]"
-        },
-        {
-          "title": "抖音乒乓百分大战再现霸王拧",
-          "url": "https://www.douyin.com/hot/2548996",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 02时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黎巴嫩消息人士表示：我们不会接受任何为以色列留在黎巴嫩任何土地上进行辩护或允许其留下的措辞。（Al-Hadath）",
-          "url": "https://wallstreetcn.com/livenews/3125417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 04时29分]"
+          "appearance_count": 1,
+          "time_info": "01时02分"
         }
       ]
     }

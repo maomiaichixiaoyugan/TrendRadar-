@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T07:01:52.173747+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-06-28T08:06:45.626371+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 08时06分]"
         },
         {
           "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
@@ -26,8 +26,34 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 08时06分]"
+        },
+        {
+          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
+          "url": "https://www.cls.cn/detail/2410771",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 08时06分]"
+        },
+        {
+          "title": "美媒：特朗普和内塔尼亚胡的交流比以前少了很多",
+          "url": "https://flash.jin10.com/detail/20260628025551765800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时08分 ~ 08时06分]"
         },
         {
           "title": "特朗普孙女发逛白宫vlog美国网友破防",
@@ -45,32 +71,6 @@
           "time_info": "[01时02分 ~ 07时01分]"
         },
         {
-          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
-          "url": "https://www.cls.cn/detail/2410771",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 07时01分]"
-        },
-        {
-          "title": "美媒：特朗普和内塔尼亚胡的交流比以前少了很多",
-          "url": "https://flash.jin10.com/detail/20260628025551765800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时08分 ~ 07时01分]"
-        },
-        {
           "title": "黎巴嫩总统府表示，特朗普向黎巴嫩总统奥恩确认，美国将支持黎巴嫩经济和合法安全力量。",
           "url": "https://flash.jin10.com/detail/20260628050053611800",
           "source": "金十数据",
@@ -79,8 +79,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 08时06分]"
         },
         {
           "title": "机构：特朗普施压美联储降息导致通胀高于2%的情景不太可能发生",
@@ -92,8 +92,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时54分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[04时54分 ~ 08时06分]"
         },
         {
           "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
@@ -105,8 +105,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时54分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[04时54分 ~ 08时06分]"
         },
         {
           "title": "黎巴嫩总统府表示，黎巴嫩总统奥恩在与美国总统特朗普的电话中表示，黎巴嫩将承担与以色列实施框架协议的责任。黎巴嫩总统奥恩已请求美国协助防止协议被违反，并施压以色列撤出南部地区。",
@@ -117,8 +117,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 08时06分]"
         },
         {
           "title": "据MSNow白宫记者：美国总统特朗普已经从弗吉尼亚高尔夫俱乐部返回白宫。",
@@ -130,8 +130,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时54分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[04时54分 ~ 08时06分]"
         },
         {
           "title": "特朗普提名兰斯·施罗耶担任美国移民与海关执法局（ICE）的下一任局长职务。",
@@ -143,8 +143,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时54分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[04时54分 ~ 08时06分]"
         },
         {
           "title": "特朗普公布“爱国者护照”新版效果图",
@@ -173,8 +173,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 08时06分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T06:59:51.756650+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-06-29T08:11:14.642530+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,46 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 08时11分]"
         },
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
           "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 08时11分]"
+        },
+        {
+          "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470517",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 08时11分]"
+        },
+        {
+          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 08时11分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -41,36 +68,12 @@
           "time_info": "[01时02分 ~ 06时59分]"
         },
         {
-          "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470517",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时59分]"
-        },
-        {
           "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
           "url": "https://www.zhihu.com/question/2054471851032539301",
           "source": "知乎",
           "ranks": [
             8,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时59分]"
-        },
-        {
-          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -152,8 +155,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 08时11分]"
         },
         {
           "title": "抖音封禁诋毁杂交技术的网红账号",
@@ -163,11 +166,12 @@
             21,
             9,
             12,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 08时11分]"
         },
         {
           "title": "吴珈庆夺冠后发抖音",

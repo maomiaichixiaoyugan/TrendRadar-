@@ -1,185 +1,33 @@
 {
-  "generated_at": "2026-06-30T21:06:42.476578+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2026-07-01T00:18:52.681147+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2412084",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时32分 ~ 10时54分]"
-        },
-        {
-          "title": "特朗普宣布美伊将会谈，伊朗却公开否认！双方连会不会见面都没谈拢",
-          "url": "https://flash.jin10.com/detail/20260630073601084800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "美国总统特朗普：华盛顿倒影池已恢复运行并重现美观，将在7月4日后修复防水层等损坏并尽快恢复原状，同时加强对纪念碑等设施的安保，任何破坏行为将面临最高10年监禁。",
-          "url": "https://flash.jin10.com/detail/20260630045341435800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
-          "url": "https://www.cls.cn/detail/2411631",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 06时50分]"
-        },
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
           "url": "https://news.ifeng.com/c/8uNrdCXnoF5",
           "source": "凤凰网",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时06分"
-        },
-        {
-          "title": "美国总统特朗普：由于有关邮寄投票的裁决令人有些意外，《保障美国选民资格法案》显得更加重要。",
-          "url": "https://flash.jin10.com/detail/20260630033047940800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时47分"
+          "time_info": "00时18分"
         },
         {
-          "title": "美国总统特朗普：我想他们（伊朗方面）已启程去多哈开会。",
-          "url": "https://flash.jin10.com/detail/20260630033019264800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普授权暂停对从摩洛哥进口的磷酸盐肥料的某些关税。",
-          "url": "https://flash.jin10.com/detail/20260630072923721800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "特朗普：住房法案尚未提交给我，等法案送到后，我会决定如何处理。",
-          "url": "https://flash.jin10.com/detail/20260630033741841800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 05时20分]"
-        },
-        {
-          "title": "市场消息：白宫正临时启用多名特朗普长期顾问，以加强沟通与选举筹备，应对共和党在2026年中期选举中可能失去国会控制权的风险。",
-          "url": "https://flash.jin10.com/detail/20260630050643766800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时50分]"
-        },
-        {
-          "title": "美国总统特朗普：不太可能将《保障美国选民资格法案》纳入其中。",
-          "url": "https://flash.jin10.com/detail/20260630033732173800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 05时20分]"
-        },
-        {
-          "title": "美国总统特朗普：（住房法案）我目前还不知道对此有什么计划。",
-          "url": "https://flash.jin10.com/detail/20260630033555569800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 05时20分]"
-        },
-        {
-          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
-          "url": "https://wallstreetcn.com/articles/3775773",
+          "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
+          "url": "https://wallstreetcn.com/articles/3775765",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 21时06分]"
-        },
-        {
-          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
-          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 18时29分]"
-        },
-        {
-          "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
-          "url": "https://www.cls.cn/detail/2412327",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 14时52分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
           "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
@@ -189,330 +37,69 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 21时06分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
-          "title": "美国总统特朗普：（最高法院）裁决后预计不会有更多解职。",
-          "url": "https://wallstreetcn.com/livenews/3126299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时50分]"
-        },
-        {
-          "title": "美最高法院裁定：特朗普暂不能罢免美联储理事库克",
-          "url": "https://www.cls.cn/detail/2412193",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 14时52分]"
-        },
-        {
-          "title": "美国总统特朗普：我认为他们（伊朗方面）已经动身去参加多哈会议。 多哈会议或许重要，或许不重要。",
-          "url": "https://wallstreetcn.com/livenews/3126296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时50分]"
-        },
-        {
-          "title": "美国总统特朗普：油价已大幅下跌。",
-          "url": "https://flash.jin10.com/detail/20260630032956729800",
+          "title": "据华尔街日报：特朗普政府正试图遏制创纪录高位的牛肉价格。特朗普政府计划向较小型肉类加工商提供资金，鼓励其继续屠宰牛只；美国农业部计划提供最高5亿美元款项，以支持牛肉加工。",
+          "url": "https://flash.jin10.com/detail/20260630235100163800",
           "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "特朗普称美伊今天多哈会谈",
-          "url": "https://flash.jin10.com/detail/20260630072655057800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "美国总统特朗普签署关于汽车售后零部件的备忘录。",
-          "url": "https://flash.jin10.com/detail/20260630032916343800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "特朗普“和粉丝吵翻了”",
-          "url": "https://news.ifeng.com/c/8uMPZ6rxaBi",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "美国总统特朗普：（关于多哈会晤）这或许很重要，我们将拭目以待。",
-          "url": "https://flash.jin10.com/detail/20260630032736175800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "特朗普又“救”了美股？数据显示：周末打伊朗，周一反弹几乎成固定剧本",
-          "url": "https://flash.jin10.com/detail/20260630102253792800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "解雇美联储理事？特朗普在最高法院“碰钉子”",
-          "url": "https://news.ifeng.com/c/8uN5SKblxo3",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "美媒：SpaceX与美国政府讨论向“特朗普账户”捐赠股票事宜",
-          "url": "https://flash.jin10.com/detail/20260630070512009800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "美国总统特朗普：提名Keith E. Sonderling为劳工部长。",
-          "url": "https://wallstreetcn.com/livenews/3126345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "报道：SpaceX与美国讨论捐赠股票给“特朗普账户”",
-          "url": "https://wallstreetcn.com/livenews/3126344",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "00时18分"
         },
         {
-          "title": "据华尔街日报：美国国税局调整规则，免除多数“特朗普账户”持有人因小额投入而产生的赠与税申报义务。",
-          "url": "https://flash.jin10.com/detail/20260630040343836800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "特朗普政府取消能源公司Duke Energy在美国北卡莱罗纳州近海的风电租赁合同。",
-          "url": "https://wallstreetcn.com/livenews/3126259",
+          "title": "美最高法院驳回特朗普的限制“出生公民权”行政令",
+          "url": "https://wallstreetcn.com/livenews/3126889",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "美国总统特朗普： 我很荣幸地宣布，我提名凯斯·E·桑德林（Keith E. Sonderling）担任美国劳工部的常任部长。",
-          "url": "https://flash.jin10.com/detail/20260630065224546800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "Axon Enterprise Inc.（AXON）收涨9.85%，报510.60美元，跳空高开后持续高位震荡，逼近6月4日收盘位513.20美元、3月11日收盘位517.57美元。 据媒体报道，在移民执法局（ICE）向该公司采购一批武器之前，美国总统特朗普买入该公司股票。",
-          "url": "https://wallstreetcn.com/livenews/3126328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）我认为，我们在军事上正在获胜，甚至可以说，这场军事行动几乎已经取得胜利。",
-          "url": "https://flash.jin10.com/detail/20260630034422150800",
-          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "00时18分"
         },
         {
-          "title": "据美国财经媒体Semafor：SpaceX(SPCX.O)与美国政府讨论向“特朗普账户”捐赠股票事宜。",
-          "url": "https://flash.jin10.com/detail/20260630064846082800",
-          "source": "金十数据",
+          "title": "美国总统特朗普称赞最高法院关于政治支出的裁决。",
+          "url": "https://wallstreetcn.com/livenews/3126888",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "00时18分"
         },
         {
-          "title": "美国总统特朗普：与《保障美国选民资格法案》相比，其他事情都显得无足轻重。",
-          "url": "https://flash.jin10.com/detail/20260630033950897800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "美国总统特朗普：我正在将药价降低200%、300%，甚至400%，但几乎没人谈论这件事。民主党反对这一举措，如果他们上台执政，药价将上涨300%、400%，甚至500%。",
-          "url": "https://flash.jin10.com/detail/20260630033906236800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "特朗普：将确保美联储理事库克不会做出关键决定",
-          "url": "https://wallstreetcn.com/livenews/3126253",
+          "title": "美国最高法院推翻总统特朗普限制出生公民权的措施。",
+          "url": "https://wallstreetcn.com/livenews/3126877",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "美国总统特朗普：最高法院今天的裁决赋予总统解雇部分独立联邦机构官员的权力，这是过去100年来总统权力最大的一次扩张，也是在这一关键时刻作出的一项具有里程碑意义的裁决。",
-          "url": "https://flash.jin10.com/detail/20260630025055671800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "卡塔尔外交部发言人：美国总统特使威特科夫和特朗普女婿库什纳将前往卡塔尔与调解人会面，讨论谈判事宜；目前没有计划进行美伊之间的高层会议。",
-          "url": "https://flash.jin10.com/detail/20260630181048101800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "在抖音追公路文太上头了",
-          "url": "https://www.douyin.com/hot/2551507",
-          "source": "抖音",
-          "ranks": [
-            9,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时32分 ~ 10时54分]"
-        },
-        {
-          "title": "内马尔发抖音备战淘汰赛",
-          "url": "https://www.douyin.com/hot/2551509",
-          "source": "抖音",
-          "ranks": [
-            17,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时32分 ~ 07时57分]"
-        },
-        {
-          "title": "哈兰德把抖音当朋友圈发",
-          "url": "https://www.douyin.com/hot/2552878",
-          "source": "抖音",
-          "ranks": [
-            22,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时52分 ~ 21时06分]"
-        },
-        {
-          "title": "哈兰德发抖音全力备战淘汰赛",
-          "url": "https://www.douyin.com/hot/2551206",
-          "source": "抖音",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时47分"
+          "time_info": "00时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "哈兰德把抖音当朋友圈发",
+          "url": "https://www.douyin.com/hot/2552878",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
         }
       ]
     }

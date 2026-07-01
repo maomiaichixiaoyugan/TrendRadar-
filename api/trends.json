@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T03:43:56.750061+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-07-02T05:21:57.169695+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 19,
       "titles": [
         {
           "title": "美国总统特朗普：美国与伊朗关系非常融洽。",
@@ -14,9 +14,64 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "美财政部公布“特朗普账户”投资组合标的 主投宽基标普500指数ETF",
+          "url": "https://flash.jin10.com/detail/20260702044234084800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "据纽约时报：美国副总统万斯为特朗普在伊朗相关的战争与谈判立场进行辩护，称美国正在以军事力量作为和平谈判中的重要筹码。他同时表示，特朗普对军方提出的要求明显高于历任前总统。",
+          "url": "https://flash.jin10.com/detail/20260702043036201800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美国总统特朗普：油价在下跌。",
+          "url": "https://flash.jin10.com/detail/20260702042858373800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美国总统特朗普：船只正从霍尔木兹海峡驶出。",
+          "url": "https://flash.jin10.com/detail/20260702042850197800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美国总统特朗普：我们造出了有史以来最先进的潜艇。在潜艇以及其他一些领域，我们领先对手15年。",
+          "url": "https://flash.jin10.com/detail/20260702042523360800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "日本软银集团因为5000万美元“特朗普游说捐赠”而遭到美国参议院民主党成员Warren的质询。",
@@ -25,9 +80,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "Vanguard Group Inc.（领航集团）将充当“特朗普账户”的另类基金合作伙伴。 该公司股票ETF被选择为“特朗普账户”的投资选项。",
+          "url": "https://wallstreetcn.com/livenews/3127615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美国总统特朗普：油价正在下跌。 船只正离开霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3127614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "美国贸易代表：特朗普任期剩余时间内，可能与加拿大和墨西哥分别签署贸易协议。",
@@ -39,6 +116,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "美国总统特朗普：西班牙是北约成员，但并不是一个表现很好的成员。他们的表现并不太友好，但他们会学会怎么做的。",
+          "url": "https://flash.jin10.com/detail/20260702041008414800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美国财政部：特朗普账户的注资将投资于SPYM ETF。 SPYM将被视作所有账户的默认投资标的。 道富银行ETF（State Street SPDR Portfolio标普500 ETF）将是“特朗普账户”的默认投资（标的）。",
+          "url": "https://wallstreetcn.com/livenews/3127612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美国总统特朗普：古巴正在向美国靠拢。",
+          "url": "https://flash.jin10.com/detail/20260702040849951800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美国总统特朗普：股市频频创新高。",
+          "url": "https://wallstreetcn.com/livenews/3127611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "美国贸易代表：特朗普已根据新的关税和贸易政策对《美墨加协定》进行了调整，但通过谈判仍有改善局面的可能。",
@@ -61,6 +182,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "美国总统特朗普：西班牙并非北约的良好成员。 西班牙将得到教训。 数十年过后，将按我们的方式应对古巴问题。",
+          "url": "https://wallstreetcn.com/livenews/3127606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)正与特朗普政府就芯片采购事宜进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260702035645327800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美国总统特朗普：7月4日大概会有107华氏度的高温，但我还是会去发表一篇非常长的讲话，只是为了证明我什么都能做到。",
+          "url": "https://flash.jin10.com/detail/20260702035327823800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         }
       ]
     },
@@ -77,8 +231,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 05时21分]"
         }
       ]
     }

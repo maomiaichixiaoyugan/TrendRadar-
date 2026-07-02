@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T14:34:58.102079+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-07-02T17:56:15.778595+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国总统特朗普：美国与伊朗关系非常融洽。",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 07时06分]"
+        },
+        {
+          "title": "又来施压美联储？特朗普经济顾问：加息应对通胀是错误之举！",
+          "url": "https://www.cls.cn/detail/2414901",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 17时56分]"
         },
         {
           "title": "美议员：不许苹果找中企买，坏了特朗普大事",
@@ -187,6 +198,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "特朗普账户即将推出，但暂不提供账户迁移服务",
+          "url": "https://flash.jin10.com/detail/20260702172215054800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "美国贸易代表：特朗普已根据新的关税和贸易政策对《美墨加协定》进行了调整，但通过谈判仍有改善局面的可能。",
           "url": "https://flash.jin10.com/detail/20260702010109219800",
           "source": "金十数据",
@@ -240,6 +262,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普任命受争议专家出任UFO委员会“掌门”",
+          "url": "https://wallstreetcn.com/livenews/3127915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-02）",
+          "url": "https://flash.jin10.com/detail/20260702171435310800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：知情人士称，特朗普政府预计将于下周推出“特朗普账户”，但不会提供允许金融机构在其自有平台托管该账户的机制。",
+          "url": "https://flash.jin10.com/detail/20260702171404800800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         }
       ]
     },
@@ -253,11 +308,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时36分 ~ 14时34分]"
+          "appearance_count": 4,
+          "time_info": "[10时36分 ~ 17时56分]"
         },
         {
           "title": "恒指高开0.83%，报23071.43点；恒生科技指数涨1.25%。小鹏、百度、比亚迪股份涨近5%，零跑汽车、京东、快手等多股涨超3%。华虹宏力跌逾7%，中芯国际跌近6%。",

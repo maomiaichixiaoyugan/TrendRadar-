@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T01:17:19.555441+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-04T03:07:35.757996+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -26,19 +26,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时07分]"
         },
         {
           "title": "美国总统特朗普周五与内塔尼亚胡通电话。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3128798",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时07分]"
         },
         {
           "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
@@ -48,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时07分]"
         },
         {
           "title": "哥伦比亚总统佩特罗：特朗普此前并不知道我被列入美国财政部海外资产控制办公室（OFAC）制裁名单，特朗普表示将对此采取行动。",

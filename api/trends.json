@@ -1,184 +1,22 @@
 {
-  "generated_at": "2026-07-03T23:04:34.388157+08:00",
-  "total_titles_processed": 1529,
+  "generated_at": "2026-07-04T01:17:19.555441+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 6,
       "titles": [
         {
-          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时32分 ~ 10时57分]"
-        },
-        {
-          "title": "美国总统特朗普：不管人工智能是好是坏， 我们已经用上这项技术了。",
-          "url": "https://flash.jin10.com/detail/20260703053547693800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普：（关于住房法案）没问题。",
-          "url": "https://flash.jin10.com/detail/20260703053454150800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "特朗普谈伊朗：这是无核化，我认为这是政权更迭",
-          "url": "https://wallstreetcn.com/livenews/3128242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
-          "url": "https://www.cls.cn/detail/2416012",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 17时52分]"
-        },
-        {
-          "title": "美国总统特朗普：我在做同样的关税，但形势更加严峻了。",
-          "url": "https://wallstreetcn.com/livenews/3128241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "特朗普：将通过“打赢官司”继续推动解雇美联储理事库克",
-          "url": "https://flash.jin10.com/detail/20260703053345539800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普被问及国会山已经表决通过的住房立法草案（但他本人迟迟没有签字生效为法律），称：情况不错。 其中存在大量由民主党议员们提出的观点。 在国会山通过选民身份问题之前，我不想签署住房草案。",
-          "url": "https://wallstreetcn.com/livenews/3128240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普被问及OpenAI股份时，提到了英特尔(INTC.O)股份（美国政府入股了英特尔）。",
-          "url": "https://flash.jin10.com/detail/20260703053218844800",
+          "title": "据AXIOS网站：美国总统特朗普今天与以色列总理内塔尼亚胡通了电话。以色列总理办公室表示，双方同意近期在美国举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260704003454888800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时26分 ~ 23时04分]"
-        },
-        {
-          "title": "特朗普参加活动后直接拿走剪刀",
-          "url": "https://www.toutiao.com/trending/7656820359463518259/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 06时04分]"
-        },
-        {
-          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
-          "url": "https://wallstreetcn.com/articles/3776099",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时04分 ~ 23时04分]"
-        },
-        {
-          "title": "王冰汝谈特朗普一年躺赚20亿美元",
-          "url": "https://www.toutiao.com/trending/7658084486650793498/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
-        },
-        {
-          "title": "特朗普遇刺案最新调查报告披露",
-          "url": "https://www.toutiao.com/trending/7658123452717907995/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
-        },
-        {
-          "title": "美空军少校呼吁弹劾特朗普被捕",
-          "url": "https://www.toutiao.com/trending/7657766306192490532/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
+          "time_info": "01时17分"
         },
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
@@ -187,516 +25,53 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "美国总统特朗普：美国必须在人工智能领域领先。",
-          "url": "https://flash.jin10.com/detail/20260703053041502800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时04分"
+          "time_info": "01时17分"
         },
         {
-          "title": "特朗普暗示沃什在美联储的工作不好开展 继续尝试赶走“刺头”",
-          "url": "https://flash.jin10.com/detail/20260703070405676800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "美国总统特朗普：我在英伟达(NVDA.O)中持有非常少量的股票。",
-          "url": "https://flash.jin10.com/detail/20260703053013791800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普被问及入股OpenAI，拿英特尔举例。",
-          "url": "https://wallstreetcn.com/livenews/3128237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "传特朗普政府未与Anthropic讨论入股 OpenAI曾涉5%股权提议",
-          "url": "https://flash.jin10.com/detail/20260703004456845800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "美国总统特朗普：（被问及加密货币收益）我对此一无所知。",
-          "url": "https://flash.jin10.com/detail/20260703052841893800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普：无论好坏，我们都有AI。",
-          "url": "https://wallstreetcn.com/livenews/3128236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普：我在任职总统前就涉足加密货币领域。",
-          "url": "https://flash.jin10.com/detail/20260703052743163800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "“解放日”关税掀市场巨震，特朗普账户却在疯狂扫货科技股",
-          "url": "https://flash.jin10.com/detail/20260703065821847800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "美国总统特朗普谈家族加密货币生意，声称：在（再次）担任总统之前就有了。 我希望我们在加密货币领域是第一的，事实上也是如此。 我们必须在加密货币领域领先。 对于加密货币收益，我一无所知；这样的收益并不违法。",
-          "url": "https://wallstreetcn.com/livenews/3128235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普：我的生意都是我孩子在打理，我一点儿也不插手。",
-          "url": "https://flash.jin10.com/detail/20260703052511433800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "特朗普回应获得巨额收益：不知情",
-          "url": "https://flash.jin10.com/detail/20260703065333579800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "美国总统特朗普：我持有一些英伟达股票，但我认为很少。 赞赏英伟达CEO黄仁勋。",
-          "url": "https://wallstreetcn.com/livenews/3128234",
+          "title": "美国总统特朗普周五与内塔尼亚胡通电话。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3128798",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时04分"
+          "time_info": "01时17分"
         },
         {
-          "title": "美国总统特朗普：我根本不参与我的生意。",
-          "url": "https://flash.jin10.com/detail/20260703052510223800",
-          "source": "金十数据",
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时04分"
+          "time_info": "01时17分"
         },
         {
-          "title": "特朗普经济幕僚哈塞特批评鲍威尔继续留在美联储",
-          "url": "https://wallstreetcn.com/livenews/3128178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "特朗普：美联储主席沃什必须做他必须做的事",
-          "url": "https://wallstreetcn.com/livenews/3128233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普：（被问及财务状况时）盛赞股市。",
-          "url": "https://flash.jin10.com/detail/20260703052505649800",
+          "title": "哥伦比亚总统佩特罗：特朗普此前并不知道我被列入美国财政部海外资产控制办公室（OFAC）制裁名单，特朗普表示将对此采取行动。",
+          "url": "https://flash.jin10.com/detail/20260703234037205800",
           "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普赞赏股市上涨。 被问及财务状况时，再次赞赏股市。 “我的生意都是我孩子打理的，（担任总统期间）我不参与”。 “我让别人投资我的钱，我不知道他们是谁。”（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3128232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "市场消息：美国上诉法院撤销了要求特朗普政府重新安装从国家公园移除的、涉及奴隶制和气候变化等主题的展览的命令。",
-          "url": "https://flash.jin10.com/detail/20260703004136398800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "美国总统特朗普：将开始启动将美联储理事库克从美联储“移除”的程序。",
-          "url": "https://flash.jin10.com/detail/20260703052127745800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普：（关于最高法院驳回解雇联储美联储理事库克的请求）我们可以通过赢得案件让她离开。",
-          "url": "https://flash.jin10.com/detail/20260703052048384800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国财政部：财政部与国税局将接受大型上市公司股票捐赠，为“特朗普账户”儿童金融账户计划提供支持。",
-          "url": "https://flash.jin10.com/detail/20260703023131471800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "美国总统特朗普：美国GDP（增速）应在12%至13%之间。",
-          "url": "https://flash.jin10.com/detail/20260703052019481800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "特朗普称沃什面临“有点敌意”的美联储理事会，重申将推动罢免库克",
-          "url": "https://wallstreetcn.com/livenews/3128266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "美国总统特朗普：美联储主席沃什有一个稍显敌对的理事会。",
-          "url": "https://flash.jin10.com/detail/20260703051818744800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国官员称：面向新生儿的“特朗普账户”将接受股票捐赠",
-          "url": "https://wallstreetcn.com/livenews/3128200",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时57分"
+          "time_info": "01时17分"
         },
         {
-          "title": "特朗普避谈政府是否入股OpenAI 但强调在英特尔的持股",
-          "url": "https://flash.jin10.com/detail/20260703061710084800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "特朗普发AI视频变身医生开可乐药方",
-          "url": "https://www.toutiao.com/trending/7657679186635030554/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "特朗普重申：伊朗将从美国购买食品",
-          "url": "https://flash.jin10.com/detail/20260703060408656800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "特朗普称AI将超过90年代末的互联网繁荣 预计过半芯片在美生产",
-          "url": "https://flash.jin10.com/detail/20260703060215958800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "美国总统特朗普：不希望在任内出现全球性萧条。",
-          "url": "https://flash.jin10.com/detail/20260703055739392800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "美国总统特朗普还赞扬了戴尔(DELL.N)公司。",
-          "url": "https://flash.jin10.com/detail/20260703055727803800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "美国总统特朗普：美光科技(MU.O)是一家“炙手可热的公司”，由一位“很棒的人”经营。",
-          "url": "https://flash.jin10.com/detail/20260703055641484800",
+          "title": "哥伦比亚总统佩特罗：与美国总统特朗普进行了友好交谈。",
+          "url": "https://flash.jin10.com/detail/20260703233755859800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "美国总统特朗普：马斯克对我在电动汽车强制令上的决定“并不高兴”。",
-          "url": "https://flash.jin10.com/detail/20260703055441954800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "美国总统特朗普：我给马斯克写过一张便条，祝贺他成为“万亿富翁”。",
-          "url": "https://flash.jin10.com/detail/20260703055318932800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "特朗普说自己是对以色列最好的总统",
-          "url": "https://wallstreetcn.com/livenews/3128731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "特朗普认为马斯克会向“特朗普账户”捐赠SpaceX股票",
-          "url": "https://flash.jin10.com/detail/20260703055138280800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "特朗普公开“劝捐”：看好马斯克捐赠SpaceX股权",
-          "url": "https://flash.jin10.com/detail/20260703100626191800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "美国总统特朗普：我们已经在军事上彻底击败了伊朗。他们还剩下一些导弹。我们也可以把它们全部摧毁。",
-          "url": "https://flash.jin10.com/detail/20260703055024068800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "学姐我注册抖音号了",
-          "url": "https://www.douyin.com/hot/2555545",
-          "source": "抖音",
-          "ranks": [
-            20,
-            30,
-            28,
-            17,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时32分 ~ 14时27分]"
-        },
-        {
-          "title": "哈兰德破纪录后发了5条抖音",
-          "url": "https://www.douyin.com/hot/2556150",
-          "source": "抖音",
-          "ranks": [
-            25,
-            26,
-            27,
-            24,
-            23,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时32分 ~ 14时27分]"
-        },
-        {
-          "title": "抖音生活服务2026“心动榜酒店”发榜，700家特色度假酒店上榜",
-          "url": "https://wallstreetcn.com/livenews/3128673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "港股快手(01024.HK)盘中转跌，早盘一度涨逾6%。",
-          "url": "https://flash.jin10.com/detail/20260703101920327800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国科罗拉多州5场山火蔓延 烧毁近506平方公里土地",
-          "url": "https://flash.jin10.com/detail/20260703031523544800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "time_info": "01时17分"
         }
       ]
     }

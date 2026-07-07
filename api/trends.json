@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T19:41:13.268368+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2026-07-07T22:13:48.894731+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时02分 ~ 19时41分]"
+          "appearance_count": 7,
+          "time_info": "[08时02分 ~ 22时13分]"
         },
         {
           "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
@@ -58,6 +58,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 06时09分]"
+        },
+        {
+          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 22时13分]"
         },
         {
           "title": "特朗普一通电话后，国际足联“破例”了",
@@ -104,18 +116,6 @@
           "time_info": "08时02分"
         },
         {
-          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 19时41分]"
-        },
-        {
           "title": "市场消息：美国民主党籍州总检察长反对特朗普拟对60个国家进口商品征收最高12.5%关税的计划。",
           "url": "https://flash.jin10.com/detail/20260707053241420800",
           "source": "金十数据",
@@ -147,6 +147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "特朗普一通电话毁了美国队",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E6%AF%81%E4%BA%86%E7%BE%8E%E5%9B%BD%E9%98%9F&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
@@ -209,6 +220,18 @@
           "time_info": "[12时44分 ~ 16时17分]"
         },
         {
+          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 22时13分]"
+        },
+        {
           "title": "SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元",
           "url": "https://www.cls.cn/detail/2418537",
           "source": "财联社热门",
@@ -236,17 +259,6 @@
           "source": "百度热搜",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 19时41分]"
-        },
-        {
-          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -374,6 +386,17 @@
           "time_info": "06时09分"
         },
         {
+          "title": "美国总统特朗普：格陵兰岛应由美国控制。",
+          "url": "https://wallstreetcn.com/livenews/3130019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "美国加州州长纽森：任何协助特朗普干预加州选举或计票的人都将面临刑事起诉。",
           "url": "https://flash.jin10.com/detail/20260707012328575800",
           "source": "金十数据",
@@ -407,6 +430,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "特朗普：与普京总统进行了非常好的谈话。",
+          "url": "https://wallstreetcn.com/livenews/3130016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "美媒：内塔尼亚胡求特朗普“约束”埃尔多安",
           "url": "https://flash.jin10.com/detail/20260707033319103800",
           "source": "金十数据",
@@ -416,6 +450,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "特朗普：土耳其从美国购买了飞机。 土耳其曾协助试图结束我们与伊朗的战争。",
+          "url": "https://wallstreetcn.com/livenews/3130013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "特朗普称赞美国经济。",
+          "url": "https://wallstreetcn.com/livenews/3130012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "特朗普称解决俄乌冲突将“比人们认为的要快得多”",
@@ -443,8 +499,20 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "哈兰德抖音粉丝数超过挪威人口",
+          "url": "https://www.douyin.com/hot/2562452",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 22时13分]"
+        },
         {
           "title": "套现超百亿元 腾讯大幅减持快手退出主要股东行列",
           "url": "https://www.cls.cn/detail/2418836",
@@ -457,15 +525,15 @@
           "time_info": "[19时40分 ~ 19时41分]"
         },
         {
-          "title": "哈兰德抖音粉丝数超过挪威人口",
-          "url": "https://www.douyin.com/hot/2562452",
-          "source": "抖音",
+          "title": "小红书上市前夕被前员工举报",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E4%B8%8A%E5%B8%82%E5%89%8D%E5%A4%95%E8%A2%AB%E5%89%8D%E5%91%98%E5%B7%A5%E4%B8%BE%E6%8A%A5",
+          "source": "百度热搜",
           "ranks": [
             15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 19时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "港股午评：科指冲高回落半日跌0.28% 快手跌9.5%",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T03:45:45.320988+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2026-07-08T06:54:44.157264+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时54分]"
         },
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -27,8 +27,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时54分]"
+        },
+        {
+          "title": "特朗普：对北约非常失望",
+          "url": "https://news.ifeng.com/c/8uZl0nkCE3Q",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 06时54分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：与特朗普偶尔存在分歧。",
@@ -53,17 +65,6 @@
           "time_info": "01时08分"
         },
         {
-          "title": "特朗普：对北约非常失望",
-          "url": "https://news.ifeng.com/c/8uZl0nkCE3Q",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
           "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
           "url": "https://flash.jin10.com/detail/20260708003417595800",
           "source": "金十数据",
@@ -79,11 +80,12 @@
           "url": "https://news.ifeng.com/c/8uZavoCll5c",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时54分]"
         },
         {
           "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
@@ -94,8 +96,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时54分]"
         },
         {
           "title": "布伦特原油日内涨幅达3.0%，报74.15美元/桶。此前，特朗普政府将今明两年布油价格预期下调超10美元，上调今年美国石油产量预期。",
@@ -162,6 +164,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "终于在抖音叛逆了一回",
+          "url": "https://www.douyin.com/hot/2561669",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         }
       ]
     }

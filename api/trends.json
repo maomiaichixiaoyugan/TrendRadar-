@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T12:45:08.438949+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-07-07T16:17:35.520034+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
@@ -20,6 +20,18 @@
           "time_info": "[02时52分 ~ 08时02分]"
         },
         {
+          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时02分 ~ 16时17分]"
+        },
+        {
           "title": "特朗普：就红牌与国际足联主席通话",
           "url": "https://www.toutiao.com/trending/7659176770528395327/",
           "source": "今日头条",
@@ -32,18 +44,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 06时09分]"
-        },
-        {
-          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 12时45分]"
         },
         {
           "title": "特朗普插手世界杯红牌",
@@ -165,22 +165,24 @@
           "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 16时17分]"
         },
         {
           "title": "如何评价国际足联主席称确实接到了特朗普电话，但「独立裁决」巴洛贡红牌禁赛延后处罚案件？真的毫无影响吗？",
           "url": "https://www.zhihu.com/question/2057732608214004902",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 16时17分]"
         },
         {
           "title": "SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元",
@@ -236,6 +238,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时44分 ~ 12时45分]"
+        },
+        {
+          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "罕见！特朗普在白宫为纽交所和纳斯达克敲钟，称美股将涨破天际",
+          "url": "https://news.ifeng.com/c/8uZ9ehIphCl",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "沃尔玛美股盘后跌超0.3%，（美国中期选举之前，）总统特朗普要求该公司大幅降价。",
@@ -395,7 +419,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "港股午评：科指冲高回落半日跌0.28% 快手跌9.5%",
@@ -404,7 +428,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -437,9 +461,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "全抖音都在找哈兰德借粉",
+          "url": "https://www.douyin.com/hot/2561865",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "灿如繁星抖音追剧团",
+          "url": "https://www.douyin.com/hot/2560937",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     }

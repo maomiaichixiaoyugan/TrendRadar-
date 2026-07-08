@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T07:52:50.223415+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-07-08T10:02:20.731507+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 07时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 10时02分]"
         },
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -29,6 +29,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时07分 ~ 06时54分]"
+        },
+        {
+          "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
+          "url": "https://news.ifeng.com/c/8uZavoCll5c",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 10时02分]"
         },
         {
           "title": "特朗普：对北约非常失望",
@@ -49,7 +62,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -60,7 +73,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -74,18 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
-        },
-        {
-          "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
-          "url": "https://news.ifeng.com/c/8uZavoCll5c",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 07时52分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：在重大问题上，和特朗普看法一致。",
@@ -123,6 +124,17 @@
           "time_info": "[01时07分 ~ 07时52分]"
         },
         {
+          "title": "特朗普再次扬言控制格陵兰岛 美伊冲突狼烟又起 | 环球市场",
+          "url": "https://www.cls.cn/detail/2419821",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
           "title": "布伦特原油日内涨幅达3.0%，报74.15美元/桶。此前，特朗普政府将今明两年布油价格预期下调超10美元，上调今年美国石油产量预期。",
           "url": "https://wallstreetcn.com/livenews/3130095",
           "source": "华尔街见闻-快讯",
@@ -151,7 +163,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -173,7 +185,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -195,7 +207,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -233,11 +245,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时52分]"
+          "appearance_count": 4,
+          "time_info": "[06时54分 ~ 10时02分]"
         },
         {
           "title": "全抖音都在找哈兰德借粉",
@@ -246,7 +259,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }

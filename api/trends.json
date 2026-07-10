@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T02:19:16.901800+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-07-11T04:17:35.031142+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 04时17分]"
         },
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -38,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 04时17分]"
         },
         {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
@@ -50,8 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 04时17分]"
         },
         {
           "title": "特朗普宣布美伊“停火结束”后 美军称暂无行动变化",
@@ -71,7 +71,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },

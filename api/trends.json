@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T18:17:44.674764+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-07-10T21:07:51.469639+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -41,6 +41,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时15分 ~ 10时11分]"
+        },
+        {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 21时07分]"
         },
         {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
@@ -87,18 +99,6 @@
           "time_info": "[01时15分 ~ 07时05分]"
         },
         {
-          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
-          "url": "https://news.ifeng.com/c/8udg4food2U",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 18时17分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基：与美国总统特朗普详细讨论了爱国者导弹生产的许可证问题。",
           "url": "https://flash.jin10.com/detail/20260710010810950800",
           "source": "金十数据",
@@ -119,8 +119,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 21时07分]"
         },
         {
           "title": "特朗普“把自己困住了”，陷入两难",
@@ -131,8 +131,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 21时07分]"
         },
         {
           "title": "以色列向美国递交新情报：伊朗再被曝策划刺杀特朗普",
@@ -218,7 +218,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -245,6 +245,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "以色列消息人士：特朗普目前不想让以色列参战",
+          "url": "https://flash.jin10.com/detail/20260710203808619800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "内塔尼亚胡与特朗普通话，商定保持两国政策协调",
           "url": "https://wallstreetcn.com/livenews/3131529",
           "source": "华尔街见闻-快讯",
@@ -254,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "美国佛州棕榈滩机场正式以特朗普冠名",
+          "url": "https://wallstreetcn.com/livenews/3132058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T01:49:22.708716+08:00",
-  "total_titles_processed": 338,
+  "generated_at": "2026-07-12T02:50:52.112601+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
@@ -15,20 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时49分]"
-        },
-        {
-          "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
-          "url": "https://flash.jin10.com/detail/20260712002717195800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时50分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -38,8 +26,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时50分]"
+        },
+        {
+          "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
+          "url": "https://flash.jin10.com/detail/20260712002717195800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时50分]"
         },
         {
           "title": "特朗普在北约峰会说了什么",
@@ -47,11 +48,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时50分]"
         }
       ]
     }

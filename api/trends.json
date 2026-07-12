@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T07:47:37.797767+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-07-12T10:02:29.263290+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             2,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 10时02分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -88,11 +89,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时42分 ~ 07时47分]"
+          "appearance_count": 4,
+          "time_info": "[05时42分 ~ 10时02分]"
         }
       ]
     }

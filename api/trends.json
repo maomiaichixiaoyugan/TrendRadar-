@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T10:03:06.390880+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2026-07-13T14:08:13.633562+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时51分 ~ 07时46分]"
+        },
+        {
+          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
+          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 14时08分]"
         },
         {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
@@ -42,17 +53,6 @@
           "time_info": "[00时51分 ~ 07时46分]"
         },
         {
-          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
-          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
-        },
-        {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
           "url": "https://flash.jin10.com/detail/20260713021538403800",
           "source": "金十数据",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时55分 ~ 05时42分]"
+        },
+        {
+          "title": "特朗普命令全国降半旗",
+          "url": "https://www.douyin.com/hot/2569217",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 14时08分]"
         },
         {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
@@ -88,6 +99,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时46分]"
+        },
+        {
+          "title": "特朗普命令全国降半旗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BD%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%99%8D%E5%8D%8A%E6%97%97%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 14时08分]"
         }
       ]
     },

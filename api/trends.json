@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T07:46:08.986777+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-07-13T10:03:06.390880+08:00",
+  "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时51分 ~ 07时46分]"
+        },
+        {
+          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
+          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
@@ -91,11 +102,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 07时46分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 10时03分]"
         },
         {
           "title": "维金斯抖音直播谈字母哥加盟",

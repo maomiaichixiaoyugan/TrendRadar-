@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T12:45:55.119722+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-07-14T15:06:37.554660+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 12时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 15时06分]"
         },
         {
           "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
@@ -30,8 +30,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 12时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 15时06分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -53,8 +53,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时46分 ~ 12时45分]"
+          "appearance_count": 4,
+          "time_info": "[07时46分 ~ 15时06分]"
+        },
+        {
+          "title": "特朗普点名中东六国",
+          "url": "https://news.ifeng.com/c/8ukJUmAUZFg",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 15时06分]"
         },
         {
           "title": "特朗普点名以色列和海湾5国",
@@ -66,17 +78,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        },
-        {
-          "title": "特朗普点名中东六国",
-          "url": "https://news.ifeng.com/c/8ukJUmAUZFg",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
         },
         {
           "title": "据MS NOW：美国总统特朗普在周四（北京时间周五上午）的讲话中将谈及2020年选举中的外国干预 。",
@@ -132,6 +133,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
+          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 15时06分]"
         },
         {
           "title": "【美军连续第三晚空袭伊朗】当地时间7月13日，美国中央司令部表示，在美国总统特朗普指示下，美军于美国东部时间当天下午4时45分开始对伊朗发动连续第三晚空袭。美中央司令部称，行动将继续使伊朗武装力量付出沉重代价，并削弱其袭击霍尔木兹海峡无辜平民和商业航运的能力。（央视）",
@@ -241,6 +254,17 @@
           "time_info": "[06时50分 ~ 07时46分]"
         },
         {
+          "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
+          "url": "https://www.zhihu.com/question/2060208521594017084",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
           "title": "伊朗外长：保障海峡通行该收费，但特朗普收20%就太高了",
           "url": "https://flash.jin10.com/detail/20260714020323664800",
           "source": "金十数据",
@@ -324,7 +348,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -357,18 +381,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
-          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -404,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "特朗普升级海峡封锁，战略储备却已触及“底线”",
+          "url": "https://flash.jin10.com/detail/20260714143123420800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "市场消息：美国法官裁定特朗普与美国国税局达成的和解协议无效。法官将特朗普律师及司法部高级官员移交州律师协会处理。",
@@ -704,11 +728,12 @@
           "ranks": [
             20,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 12时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 15时06分]"
         },
         {
           "title": "快手：近期累计拦截、整改、下架违规微短剧七百余部",
@@ -717,9 +742,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "村委会提前预判暴雨连夜转移村民",
+          "url": "https://www.toutiao.com/trending/7661976904061009929/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         }
       ]
     }

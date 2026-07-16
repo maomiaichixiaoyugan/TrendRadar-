@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T12:55:22.156834+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-07-16T15:19:59.822712+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
@@ -64,11 +64,12 @@
             15,
             14,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时09分 ~ 12时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时09分 ~ 15时19分]"
         },
         {
           "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
@@ -78,11 +79,26 @@
             19,
             16,
             14,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时59分 ~ 12时55分]"
+          "appearance_count": 10,
+          "time_info": "[02时59分 ~ 15时19分]"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时52分 ~ 15时19分]"
         },
         {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
@@ -95,19 +111,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时09分 ~ 09时56分]"
-        },
-        {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时52分 ~ 12时55分]"
         },
         {
           "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
@@ -131,6 +134,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时09分 ~ 02时59分]"
+        },
+        {
+          "title": "特朗普感谢伊朗",
+          "url": "https://news.ifeng.com/c/8undGPmAvXz",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "美媒：特朗普倾向扩大对伊军事行动，选项包括夺取哈尔克岛",
@@ -242,8 +256,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 12时55分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 15时19分]"
         },
         {
           "title": "美国总统特朗普要求纽约州立即改变数据中心政策。",
@@ -608,7 +622,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -740,7 +754,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -781,7 +795,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "雀骨抖音追剧团",
@@ -797,8 +811,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时59分 ~ 12时55分]"
+          "appearance_count": 10,
+          "time_info": "[02时59分 ~ 15时19分]"
+        },
+        {
+          "title": "功夫女足这条抖音艺术已成",
+          "url": "https://www.douyin.com/hot/2572892",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     }

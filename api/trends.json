@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T21:12:57.240498+08:00",
-  "total_titles_processed": 1567,
+  "generated_at": "2026-07-17T23:09:13.774400+08:00",
+  "total_titles_processed": 1713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时59分 ~ 21时12分]"
+          "appearance_count": 10,
+          "time_info": "[09时59分 ~ 23时09分]"
         },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -32,6 +32,17 @@
           "time_info": "[01时07分 ~ 07时53分]"
         },
         {
+          "title": "中方驳斥特朗普“中国干预美国大选”论调",
+          "url": "https://news.ifeng.com/c/8upog6XKRmu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时51分 ~ 23时09分]"
+        },
+        {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
           "url": "https://news.ifeng.com/c/8uofMrB5Gdq",
           "source": "凤凰网",
@@ -43,15 +54,15 @@
           "time_info": "[07时53分 ~ 10时00分]"
         },
         {
-          "title": "中方驳斥特朗普“中国干预美国大选”论调",
-          "url": "https://news.ifeng.com/c/8upog6XKRmu",
+          "title": "生死博弈！“特朗普美元”来了",
+          "url": "https://news.ifeng.com/c/8uqCpNoRpyA",
           "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 21时12分]"
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
         },
         {
           "title": "美国总统特朗普：不转播我演讲的电视网应被吊销执照。",

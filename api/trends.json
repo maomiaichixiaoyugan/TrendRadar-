@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T19:17:40.087612+08:00",
-  "total_titles_processed": 1424,
+  "generated_at": "2026-07-17T21:12:57.240498+08:00",
+  "total_titles_processed": 1567,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时59分 ~ 19时17分]"
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 21时12分]"
         },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -50,8 +50,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 19时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 21时12分]"
         },
         {
           "title": "美国总统特朗普：不转播我演讲的电视网应被吊销执照。",
@@ -141,7 +141,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },

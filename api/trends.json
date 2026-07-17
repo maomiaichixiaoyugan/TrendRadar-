@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T05:44:16.471882+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-07-18T06:42:18.066937+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 05时44分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 06时42分]"
         },
         {
           "title": "生死博弈！“特朗普美元”来了",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 05时44分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 06时42分]"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -114,11 +114,24 @@
           "url": "https://flash.jin10.com/detail/20260718045100973800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时42分]"
+        },
+        {
+          "title": "市场消息：美国法官裁定，特朗普政府无权因新的政策优先事项而广泛取消拨款资金。",
+          "url": "https://flash.jin10.com/detail/20260718043845403800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时42分]"
         },
         {
           "title": "加拿大野火殃及美国，特朗普称要用关税来支付",
@@ -152,17 +165,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
-        },
-        {
-          "title": "市场消息：美国法官裁定，特朗普政府无权因新的政策优先事项而广泛取消拨款资金。",
-          "url": "https://flash.jin10.com/detail/20260718043845403800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
         },
         {
           "title": "美国参议院民主党成员Warren发函总统特朗普的司法部，要求众多反垄断监管部门审查福克斯与Roku的并购交易。",
@@ -226,7 +228,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         }
@@ -261,11 +263,12 @@
           "ranks": [
             30,
             25,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 05时44分]"
+          "appearance_count": 4,
+          "time_info": "[02时58分 ~ 06时42分]"
         }
       ]
     }

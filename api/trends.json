@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T07:46:08.036706+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-07-19T09:59:05.578238+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://news.ifeng.com/c/8us63AU51TY",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时03分 ~ 07时46分]"
+          "appearance_count": 8,
+          "time_info": "[04时03分 ~ 09时59分]"
         },
         {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
@@ -79,20 +80,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 07时46分]"
-        },
-        {
-          "title": "特朗普：“完全不在乎”伊朗暂停履行临时协议",
-          "url": "https://flash.jin10.com/detail/20260719052601155800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时50分 ~ 07时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时48分 ~ 09时59分]"
         },
         {
           "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
@@ -101,11 +90,25 @@
           "ranks": [
             20,
             19,
-            18
+            18,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 05时50分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 09时59分]"
+        },
+        {
+          "title": "特朗普：“完全不在乎”伊朗暂停履行临时协议",
+          "url": "https://flash.jin10.com/detail/20260719052601155800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时50分 ~ 09时59分]"
         },
         {
           "title": "据NewsNation：特朗普在得知两名美国军人在伊朗袭击中丧生的消息后首次作出回应。他表示：“这是一件非常悲伤的事情。我们不愿看到这种情况发生。他们是在为我们的国家服役。”",
@@ -113,11 +116,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时50分 ~ 07时46分]"
+          "appearance_count": 4,
+          "time_info": "[05时50分 ~ 09时59分]"
         },
         {
           "title": "伊朗最高领袖：美国的违约行为表明特朗普的签字毫无价值",
@@ -183,6 +187,19 @@
           "time_info": "[01时51分 ~ 04时03分]"
         },
         {
+          "title": "据黎巴嫩国家通讯社：黎巴嫩总统奥恩已抵达华盛顿，将于明日开始与美国国务卿鲁比奥会面，并于下周二与美国总统特朗普会晤。",
+          "url": "https://flash.jin10.com/detail/20260719045619804800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时50分 ~ 09时59分]"
+        },
+        {
           "title": "伊朗最高领袖：美国一再违背协议，特朗普的签字毫无信誉",
           "url": "https://flash.jin10.com/detail/20260719003200067800",
           "source": "金十数据",
@@ -193,18 +210,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时48分 ~ 01时51分]"
-        },
-        {
-          "title": "据黎巴嫩国家通讯社：黎巴嫩总统奥恩已抵达华盛顿，将于明日开始与美国国务卿鲁比奥会面，并于下周二与美国总统特朗普会晤。",
-          "url": "https://flash.jin10.com/detail/20260719045619804800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时50分 ~ 07时46分]"
         },
         {
           "title": "特朗普点评英格兰队战术",

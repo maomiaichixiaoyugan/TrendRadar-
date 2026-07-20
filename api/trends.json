@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T14:09:58.805394+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-07-20T17:52:59.074222+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
@@ -207,6 +207,18 @@
           "time_info": "[06时43分 ~ 07时52分]"
         },
         {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 17时52分]"
+        },
+        {
           "title": "特朗普为西班牙颁奖",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A2%81%E5%A5%96%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -238,17 +250,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
-        },
-        {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
         },
         {
           "title": "美国总统特朗普将大力神杯颁给西班牙队。",
@@ -284,11 +285,12 @@
           "source": "抖音",
           "ranks": [
             15,
-            26
+            26,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 14时09分]"
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 17时52分]"
         },
         {
           "title": "港股明星科网股走强，哔哩哔哩(09626.HK)涨超6%，阿里巴巴(09988.HK)涨超5%，快手(01024.HK)、腾讯控股(00700.HK)、小米集团(01810.HK)等个股跟涨。",

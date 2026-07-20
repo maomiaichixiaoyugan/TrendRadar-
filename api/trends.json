@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T10:15:07.825180+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-07-20T14:09:58.805394+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
@@ -42,6 +42,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "特朗普：痛击伊朗，为身亡美军报仇",
+          "url": "https://news.ifeng.com/c/8uuJZX8B2mu",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 14时09分]"
         },
         {
           "title": "以媒：特朗普倾向进一步升级对伊行动",
@@ -172,17 +184,6 @@
           "time_info": "[04时05分 ~ 06时43分]"
         },
         {
-          "title": "特朗普：痛击伊朗，为身亡美军报仇",
-          "url": "https://news.ifeng.com/c/8uuJZX8B2mu",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
           "title": "特朗普摸大力神杯",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%91%B8%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
           "source": "百度热搜",
@@ -239,6 +240,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "美国总统特朗普将大力神杯颁给西班牙队。",
           "url": "https://flash.jin10.com/detail/20260720064454811800",
           "source": "金十数据",
@@ -256,7 +268,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         }
@@ -271,11 +283,12 @@
           "url": "https://www.douyin.com/hot/2577840",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 14时09分]"
         },
         {
           "title": "港股明星科网股走强，哔哩哔哩(09626.HK)涨超6%，阿里巴巴(09988.HK)涨超5%，快手(01024.HK)、腾讯控股(00700.HK)、小米集团(01810.HK)等个股跟涨。",
@@ -284,7 +297,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         }

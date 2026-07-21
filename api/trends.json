@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T19:01:19.386669+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2026-07-21T20:25:51.314786+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时58分 ~ 19时01分]"
+          "appearance_count": 7,
+          "time_info": "[09时58分 ~ 20时25分]"
         },
         {
           "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
@@ -43,6 +43,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时28分 ~ 09时58分]"
+        },
+        {
+          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
+          "url": "https://news.ifeng.com/c/8uvIalkczmR",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时58分 ~ 20时25分]"
         },
         {
           "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
@@ -100,18 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
-        },
-        {
-          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
-          "url": "https://news.ifeng.com/c/8uvIalkczmR",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时58分 ~ 19时01分]"
         },
         {
           "title": "特朗普放狠话：伊朗杀一名美军将付出“很多倍代价”！美军连续第10天轰炸",
@@ -181,6 +181,18 @@
           "time_info": "[16时12分 ~ 19时01分]"
         },
         {
+          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
+          "url": "https://www.zhihu.com/question/2062849285499138343",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时00分 ~ 20时25分]"
+        },
+        {
           "title": "美国总统特朗普：与其讨论了北海石油、贸易、军事同盟以及霍尔木兹海峡扫雷事宜。",
           "url": "https://flash.jin10.com/detail/20260721062036986800",
           "source": "金十数据",
@@ -239,17 +251,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 03时29分]"
-        },
-        {
-          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
-          "url": "https://www.zhihu.com/question/2062849285499138343",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时00分 ~ 19时01分]"
         },
         {
           "title": "美国总统特朗普：本届世界杯取得巨大成功，国际足联主席将世界杯提升至前所未有的高度。",
@@ -357,7 +358,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -379,7 +380,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },

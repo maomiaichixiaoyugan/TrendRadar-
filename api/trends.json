@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T02:13:12.847214+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-07-22T04:17:02.203783+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普放话将轰炸伊朗“镐山” 认为可能存放离心机",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -34,11 +34,12 @@
           "url": "https://www.zhihu.com/question/2062849285499138343",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时17分]"
         },
         {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
@@ -48,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时17分]"
         },
         {
           "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
@@ -60,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时17分]"
         },
         {
           "title": "特朗普警告胡塞武装：若封锁红海 美国将“采取行动”",
@@ -70,7 +71,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -106,6 +107,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "美国总统特朗普：允许美国所有的航空公司直飞黎巴嫩。",
+          "url": "https://wallstreetcn.com/livenews/3137726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "美国总统特朗普：已指示政府允许所有美国航空公司开通飞往黎巴嫩的直飞航班。",
+          "url": "https://flash.jin10.com/detail/20260722032500875800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         },
         {
           "title": "金十提示：美国总统特朗普与黎巴嫩总统白宫会晤的媒体公开部分结束。",
@@ -147,7 +170,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -210,7 +233,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "抖音网友生日祝福接力",
@@ -218,11 +241,23 @@
           "source": "抖音",
           "ranks": [
             18,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时17分]"
+        },
+        {
+          "title": "如何评价《绝区零》在游戏活动界面里，把 3.1 版本 PV 的内置跳转链接从 B 站改成了抖音精选？",
+          "url": "https://www.zhihu.com/question/2061595522134282638",
+          "source": "知乎",
+          "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时13分]"
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 04时17分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T00:22:04.433535+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-23T02:06:03.911695+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时06分]"
         },
         {
           "title": "据华盛顿邮报：美国总统特朗普政府正在考虑在马里采取军事行动。",
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时06分]"
         },
         {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
@@ -48,8 +48,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时06分]"
+        },
+        {
+          "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "time_info": "[02时05分 ~ 02时06分]"
         },
         {
           "title": "特朗普政府暂停向美国两州拨付10亿美元医疗补助资金",
@@ -58,7 +69,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         }
@@ -76,19 +87,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时06分]"
         },
         {
           "title": "小红书回应IPO传闻：相关信息均不属实",
           "url": "https://m.thepaper.cn/newsDetail_forward_33634641",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时06分]"
         }
       ]
     }

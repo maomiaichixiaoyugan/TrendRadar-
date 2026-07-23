@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T21:31:55.809625+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2026-07-23T23:50:13.760851+08:00",
+  "total_titles_processed": 1632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时47分 ~ 21时31分]"
+          "appearance_count": 7,
+          "time_info": "[13时47分 ~ 23时50分]"
         },
         {
           "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
@@ -54,6 +54,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时00分 ~ 13时47分]"
+        },
+        {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时47分 ~ 23时50分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
@@ -96,21 +108,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
         {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
-          "source": "华尔街见闻",
+          "title": "特朗普称正“认真考虑”重启对伊朗的大规模作战",
+          "url": "https://wallstreetcn.com/livenews/3138980",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时47分 ~ 21时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "据华盛顿邮报：美国总统特朗普政府正在考虑在马里采取军事行动。",
@@ -122,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "特朗普：伊朗尚未准备好达成协议",
+          "url": "https://flash.jin10.com/detail/20260723234018735800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
@@ -170,6 +192,50 @@
           "time_info": "[16时16分 ~ 19时03分]"
         },
         {
+          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时49分 ~ 23时50分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：沙特有望迅速加入（亚伯拉罕）协议，美国总统特朗普已经与沙特讨论这方面的问题。 将设法最终敲定美国与沙特之间的（核能）协议。 将继续与沙特对话。",
+          "url": "https://wallstreetcn.com/livenews/3138978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "报道：特朗普称接近就“大规模袭击伊朗”做决定",
+          "url": "https://wallstreetcn.com/livenews/3138976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国总统特朗普尚未就核协议条件与沙特领导人进行交谈。",
+          "url": "https://flash.jin10.com/detail/20260723233557382800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "美媒：美国向中东增派兵力，为特朗普扩大对伊战事提供更多选项",
           "url": "https://flash.jin10.com/detail/20260723061154517800",
           "source": "金十数据",
@@ -198,9 +264,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将于下周五在戴维营举办内阁会议。",
+          "url": "https://wallstreetcn.com/livenews/3138972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "特朗普政府探索联邦水域核电项目",
@@ -236,6 +313,17 @@
           "time_info": "10时05分"
         },
         {
+          "title": "特朗普：接近就“大规模打击”伊朗作出决定",
+          "url": "https://flash.jin10.com/detail/20260723233215266800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
           "url": "https://wallstreetcn.com/livenews/3138407",
           "source": "华尔街见闻-快讯",
@@ -253,7 +341,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -281,11 +369,12 @@
           "ranks": [
             2,
             1,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时04分 ~ 21时31分]"
+          "appearance_count": 9,
+          "time_info": "[10时04分 ~ 23时50分]"
         },
         {
           "title": "小红书回应IPO传闻：相关信息均不属实",
@@ -316,11 +405,12 @@
           "url": "https://www.douyin.com/hot/2582104",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时50分]"
         }
       ]
     },

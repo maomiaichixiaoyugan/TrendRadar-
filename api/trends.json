@@ -1,433 +1,160 @@
 {
-  "generated_at": "2026-07-23T23:50:13.760851+08:00",
-  "total_titles_processed": 1632,
+  "generated_at": "2026-07-24T01:12:39.098936+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
-          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时08分]"
-        },
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
           "url": "https://news.ifeng.com/c/8uzZogT1UTe",
           "source": "凤凰网",
           "ranks": [
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时47分 ~ 23时50分]"
-        },
-        {
-          "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
-          "url": "https://news.ifeng.com/c/8uyHXh9awI8",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 16时17分]"
-        },
-        {
-          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
-          "url": "https://www.cls.cn/detail/2434427",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时00分 ~ 13时47分]"
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
           "url": "https://wallstreetcn.com/articles/3777708",
           "source": "华尔街见闻",
           "ranks": [
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时47分 ~ 23时50分]"
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
-          "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时05分 ~ 10时05分]"
-        },
-        {
-          "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
-          "url": "https://news.ifeng.com/c/8uyvegEdrQo",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
-        },
-        {
-          "title": "美国总统特朗普：美国不需要霍尔木兹海峡。委内瑞拉正与美国合作生产石油。",
-          "url": "https://flash.jin10.com/detail/20260723034521965800",
+          "title": "在致立法者的信中，特朗普政府敦促国会在交通法案中加入永久夏令时，并优先考虑汽车交通需求而非自行车道建设。",
+          "url": "https://flash.jin10.com/detail/20260724003541392800",
           "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "特朗普放话：胡塞武装袭船的帐算在伊朗头上！布油期货破百",
-          "url": "https://flash.jin10.com/detail/20260723212320444800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "特朗普称正“认真考虑”重启对伊朗的大规模作战",
-          "url": "https://wallstreetcn.com/livenews/3138980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时50分"
-        },
-        {
-          "title": "据华盛顿邮报：美国总统特朗普政府正在考虑在马里采取军事行动。",
-          "url": "https://flash.jin10.com/detail/20260723000745259800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "特朗普：伊朗尚未准备好达成协议",
-          "url": "https://flash.jin10.com/detail/20260723234018735800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时50分"
-        },
-        {
-          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
-          "url": "https://wallstreetcn.com/articles/3777603",
-          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时09分]"
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
-          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
-          "url": "https://www.cls.cn/detail/2434152",
-          "source": "财联社热门",
+          "title": "美国参议院阻止了限制特朗普对伊战争权力的决议。",
+          "url": "https://flash.jin10.com/detail/20260724003337969800",
+          "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时09分]"
-        },
-        {
-          "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2063183942509754265",
-          "source": "知乎",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 13时47分]"
-        },
-        {
-          "title": "伊朗袭击已致近 100 名美军受伤，特朗普扬言强硬报复，美伊会爆发全面战争吗？中东局势将走向何方？",
-          "url": "https://www.zhihu.com/question/2062856603762742765",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时16分 ~ 19时03分]"
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
           "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时49分 ~ 23时50分]"
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "美国总统特朗普提名的美国消费者金融保护局负责人表示，将对裁减该机构大部分员工的计划“保持开放态度”。",
+          "url": "https://flash.jin10.com/detail/20260724000958452800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "特朗普称正“认真考虑”重启对伊朗的大规模作战",
+          "url": "https://wallstreetcn.com/livenews/3138980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
           "title": "白宫新闻秘书Leavitt：沙特有望迅速加入（亚伯拉罕）协议，美国总统特朗普已经与沙特讨论这方面的问题。 将设法最终敲定美国与沙特之间的（核能）协议。 将继续与沙特对话。",
           "url": "https://wallstreetcn.com/livenews/3138978",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时50分"
+          "time_info": "01时12分"
         },
         {
           "title": "报道：特朗普称接近就“大规模袭击伊朗”做决定",
           "url": "https://wallstreetcn.com/livenews/3138976",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时50分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：美国总统特朗普尚未就核协议条件与沙特领导人进行交谈。",
-          "url": "https://flash.jin10.com/detail/20260723233557382800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时50分"
-        },
-        {
-          "title": "美媒：美国向中东增派兵力，为特朗普扩大对伊战事提供更多选项",
-          "url": "https://flash.jin10.com/detail/20260723061154517800",
-          "source": "金十数据",
-          "ranks": [
-            10
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "特朗普：我们在伊朗取得胜利，我们不需要霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3138382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "特朗普要求沙特加入亚伯拉罕协议",
-          "url": "https://wallstreetcn.com/livenews/3138896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时31分"
+          "time_info": "01时12分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于下周五在戴维营举办内阁会议。",
           "url": "https://wallstreetcn.com/livenews/3138972",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时50分"
-        },
-        {
-          "title": "特朗普政府探索联邦水域核电项目",
-          "url": "https://flash.jin10.com/detail/20260723032253567800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "周三（7月22日）美股尾盘，美股降息赢家指数大致持平，报95.17点，早盘冲高回落、随后出现一波V形反转行情。 “特朗普关税输家”指数跌0.13%，“特朗普金融指数”跌0.17%。",
-          "url": "https://wallstreetcn.com/livenews/3138380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "A股油服工程板块盘初拉升，中曼石油涨超9%，科力股份涨超7%，潜能恒信、通源石油、博迈科、石化油服、海油工程等个股跟涨。特朗普此前在社交媒体发文称，只要伊朗在霍尔木兹海峡向船只开火，美国都将轰炸并摧毁伊朗的一座桥梁或发电厂。",
-          "url": "https://flash.jin10.com/detail/20260723093244752800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "特朗普：接近就“大规模打击”伊朗作出决定",
-          "url": "https://flash.jin10.com/detail/20260723233215266800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时50分"
-        },
-        {
-          "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
-          "url": "https://wallstreetcn.com/livenews/3138407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "特朗普：对于未来胡塞武装的袭击，美国将追究伊朗的责任。 （谈伊朗和胡塞）如果他们再这样做，将予以惩罚。 对胡塞武装非常失望。 伊朗和胡塞武装将面临严厉的军事惩罚。",
-          "url": "https://wallstreetcn.com/livenews/3138881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "特朗普政府暂停向美国两州拨付10亿美元医疗补助资金",
-          "url": "https://wallstreetcn.com/livenews/3138289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "01时12分"
         }
       ]
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利 IPO 吗？",
-          "url": "https://www.zhihu.com/question/2063292318887539352",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时04分 ~ 23时50分]"
-        },
-        {
-          "title": "小红书回应IPO传闻：相关信息均不属实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33634641",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 10时05分]"
-        },
-        {
-          "title": "小红书回应 IPO 传闻均不属实，结合这件事来看，种草平台是否适合上市？若要上市需要具备哪些条件？",
-          "url": "https://www.zhihu.com/question/2063228417642967287",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时08分]"
-        },
         {
           "title": "抖音网友带我逛菲尔兹奖现场",
           "url": "https://www.douyin.com/hot/2582104",
           "source": "抖音",
           "ranks": [
-            11,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 23时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "google gemini chatgpt openai 效率工具 AI技术",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
         {
-          "title": "OpenAI模型“越狱”攻击，救场的竟是中国AI工具",
-          "url": "https://news.ifeng.com/c/8uyaFs12NfO",
-          "source": "凤凰网",
+          "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利 IPO 吗？",
+          "url": "https://www.zhihu.com/question/2063292318887539352",
+          "source": "知乎",
           "ranks": [
-            11
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "抖音网友祝贺邓煜王虹获奖",
+          "url": "https://www.douyin.com/hot/2582801",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T04:55:11.058478+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-07-24T06:01:06.195786+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时01分]"
+        },
+        {
+          "title": "美国高级官员：美国总统特朗普将动用其掌握的一切工具来实现他所期望的目标，包括使用关税。",
+          "url": "https://flash.jin10.com/detail/20260724051248877800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
@@ -27,19 +38,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时01分]"
         },
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
           "url": "https://wallstreetcn.com/articles/3777791",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 04时55分]"
+          "appearance_count": 4,
+          "time_info": "[04时54分 ~ 06时01分]"
         },
         {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
@@ -81,7 +93,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -114,7 +126,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -125,7 +137,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -158,7 +170,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -185,11 +197,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时01分]"
         },
         {
           "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利 IPO 吗？",
@@ -207,11 +220,12 @@
           "url": "https://www.douyin.com/hot/2582801",
           "source": "抖音",
           "ranks": [
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 06时01分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T18:23:47.692642+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-07-25T19:59:44.985159+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -103,11 +103,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 18时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 19时59分]"
         },
         {
           "title": "特朗普称美国与伊朗仍在对话",
@@ -171,6 +172,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时59分 ~ 14时19分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-25）",
+          "url": "https://flash.jin10.com/detail/20260725183311628800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "美国总统特朗普：已做好在伊朗采取更高级别军事行动的准备。",
@@ -322,7 +334,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -399,7 +411,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -517,8 +529,19 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "佩德里中国行抖音独家直播",
+          "url": "https://www.douyin.com/hot/2584195",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
         {
           "title": "宋亚轩 拍抖音就要胆子大",
           "url": "https://www.douyin.com/hot/2583950",

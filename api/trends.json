@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T07:54:55.850243+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-07-27T10:11:22.245788+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时11分]"
         },
         {
           "title": "特朗普暂缓扩大对伊作战规模，原因曝光",
@@ -48,11 +48,12 @@
           "ranks": [
             11,
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时11分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -75,8 +76,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时01分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[03时01分 ~ 10时11分]"
         },
         {
           "title": "英国新任首相：若有必要将公开批评特朗普",
@@ -90,6 +91,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 06时54分]"
+        },
+        {
+          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
+          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
@@ -232,7 +244,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },

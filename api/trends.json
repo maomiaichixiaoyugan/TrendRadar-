@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T01:21:42.188310+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-29T03:14:40.623541+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
         {
           "title": "以色列发言人：在美国总统特朗普与以色列总理内塔尼亚胡的会晤中未讨论土耳其和F-35问题。",
@@ -13,17 +13,6 @@
           "source": "金十数据",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "伊朗否认特朗普的说法，称：并没有在过去16-17天内寻求与美国对话",
-          "url": "https://wallstreetcn.com/livenews/3141133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -41,15 +30,50 @@
           "time_info": "01时21分"
         },
         {
+          "title": "内塔尼亚胡称与特朗普进行了一次“极佳的会晤”",
+          "url": "https://flash.jin10.com/detail/20260729023706734800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "对伊朗军事行动以来 特朗普与内塔尼亚胡首次会晤",
+          "url": "https://wallstreetcn.com/livenews/3141157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "伊朗否认特朗普的说法，称：并没有在过去16-17天内寻求与美国对话",
+          "url": "https://wallstreetcn.com/livenews/3141133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 03时14分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国驻公投特朗普与以色列总理、乌克兰总统的会谈偏正面，富有成效。",
           "url": "https://wallstreetcn.com/livenews/3141129",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 03时14分]"
         },
         {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
@@ -59,8 +83,52 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 03时14分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们的目标与特朗普一致，就是不让伊朗获得核武器。",
+          "url": "https://flash.jin10.com/detail/20260729022109008800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "03时14分"
+        },
+        {
+          "title": "以色列官员：内塔尼亚胡与特朗普会晤期间并未提及镐山。有关以色列提交相关情报的报道为“假消息”。",
+          "url": "https://flash.jin10.com/detail/20260729015519926800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "据以色列第12频道：一名以色列高级官员称，内塔尼亚胡已向特朗普确认，对于那些已经重新修复的伊朗核设施，“追加打击是不可避免的”。",
+          "url": "https://flash.jin10.com/detail/20260729014415526800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "据以色列媒体：华盛顿消息人士称，美国总统特朗普在会议期间并未要求以色列从任何区域撤军。",
+          "url": "https://flash.jin10.com/detail/20260729014235848800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "WTI原油期货跌幅扩大至4%，跌穿79.30美元。美国国债价格涨幅扩大，收益率普遍跌4-6个基点。标普涨超0.3%，道指涨超1.1%，纳指跌0.1%，纳斯达克100指数仍然跌约0.8%，半导体指数目前跌超4.3%。 据媒体报道，在内塔尼亚胡与特朗普会晤之前，调解方认为已接近达成突破性协议，有望重启美国与伊朗上个月签署的谅解备忘录。",
@@ -98,30 +166,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 03时14分]"
         },
         {
           "title": "又一名小红书前员工曝「距期权归属仅剩 8 天被解除劳动合同」，具体情况如何？其中涉及哪些法律问题？",
           "url": "https://www.zhihu.com/question/2065405140329128905",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 03时14分]"
         },
         {
           "title": "保罗乔治抖音发文寻找电动车男孩",
           "url": "https://www.douyin.com/hot/2588068",
           "source": "抖音",
           "ranks": [
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 03时14分]"
         }
       ]
     }

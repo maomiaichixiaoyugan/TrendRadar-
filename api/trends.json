@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T09:52:46.422393+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-07-28T12:58:49.192725+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,28 @@
           "time_info": "[00时10分 ~ 07时03分]"
         },
         {
+          "title": "内塔尼亚胡访美，会与特朗普聊啥？",
+          "url": "https://news.ifeng.com/c/8v6sJsiidDd",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 12时58分]"
+        },
+        {
+          "title": "特朗普向伊朗发出最后通牒",
+          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 12时58分]"
+        },
+        {
           "title": "五角大楼被曝对乌援助要拖到特朗普卸任年",
           "url": "https://flash.jin10.com/detail/20260728064510542800",
           "source": "金十数据",
@@ -41,17 +63,6 @@
           "time_info": "07时03分"
         },
         {
-          "title": "内塔尼亚胡访美，会与特朗普聊啥？",
-          "url": "https://news.ifeng.com/c/8v6sJsiidDd",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
           "title": "美国总统特朗普：我们将迅速结束伊朗的核威胁。",
           "url": "https://flash.jin10.com/detail/20260728034315449800",
           "source": "金十数据",
@@ -61,17 +72,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
-        },
-        {
-          "title": "特朗普向伊朗发出最后通牒",
-          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
         },
         {
           "title": "特朗普力挺沃什降息，喊美国利率要全球最低，炮轰美联储“阻降派”",
@@ -95,6 +95,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时00分 ~ 07时03分]"
+        },
+        {
+          "title": "600名以色列前高官联名致信特朗普，发出警告",
+          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 12时58分]"
         },
         {
           "title": "据纽约邮报：以色列总理内塔尼亚胡将向美国总统特朗普提供伊朗“镐山”核设施情报。",
@@ -121,15 +132,15 @@
           "time_info": "[06时00分 ~ 07时03分]"
         },
         {
-          "title": "600名以色列前高官联名致信特朗普，发出警告",
-          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
-          "source": "凤凰网",
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 12时58分]"
         },
         {
           "title": "美国总统特朗普：伊朗正在乞求美国解除封锁。",
@@ -198,17 +209,6 @@
           "time_info": "04时17分"
         },
         {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
           "title": "美国总统特朗普：（关于伊朗）非常友好的会谈正在进行中。",
           "url": "https://flash.jin10.com/detail/20260728033245670800",
           "source": "金十数据",
@@ -248,7 +248,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },

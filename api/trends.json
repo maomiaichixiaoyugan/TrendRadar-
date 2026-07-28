@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T05:02:32.813593+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-07-29T06:54:22.500802+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -104,7 +104,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -177,8 +177,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 06时54分]"
         },
         {
           "title": "又一名小红书前员工曝「距期权归属仅剩 8 天被解除劳动合同」，具体情况如何？其中涉及哪些法律问题？",
@@ -199,11 +199,12 @@
           "source": "抖音",
           "ranks": [
             30,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 06时54分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T18:28:17.066251+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-07-28T20:50:22.439731+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -54,24 +54,25 @@
           "time_info": "[00时10分 ~ 07时03分]"
         },
         {
-          "title": "600名以色列前高官联名致信特朗普，发出警告",
-          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 18时28分]"
-        },
-        {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
           "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
           "source": "澎湃新闻",
           "ranks": [
             13,
             17,
-            12
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 20时50分]"
+        },
+        {
+          "title": "600名以色列前高官联名致信特朗普，发出警告",
+          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -406,9 +407,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "美媒：内塔尼亚胡本次访美对特朗普决策的影响大不如前",
+          "url": "https://flash.jin10.com/detail/20260728201348874800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "特朗普称在伊朗问题上“发生一些事”的可能性很高，标普500指数转涨",
@@ -469,18 +481,30 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "又一名小红书前员工曝「距期权归属仅剩 8 天被解除劳动合同」，具体情况如何？其中涉及哪些法律问题？",
           "url": "https://www.zhihu.com/question/2065405140329128905",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时50分]"
+        },
+        {
+          "title": "抖音乒乓百分大战第二站打响",
+          "url": "https://www.douyin.com/hot/2588035",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "时代少年团演唱会官宣抖音独家直播",

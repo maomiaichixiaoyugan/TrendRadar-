@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T06:54:56.029960+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-07-30T07:56:31.128787+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时56分]"
         },
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -50,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时54分]"
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 07时56分]"
         },
         {
           "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
@@ -61,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时56分]"
         },
         {
           "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
@@ -72,8 +73,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时56分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
@@ -83,8 +84,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时56分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
@@ -92,11 +93,23 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时56分]"
+        },
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时56分]"
         },
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗",
@@ -110,15 +123,27 @@
           "time_info": "05时53分"
         },
         {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
+          "title": "伊朗武装部队警告特朗普",
+          "url": "https://www.douyin.com/hot/2589723",
+          "source": "抖音",
           "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时02分 ~ 07时56分]"
+        },
+        {
+          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
+          "url": "https://www.cls.cn/detail/2440737",
+          "source": "财联社热门",
+          "ranks": [
+            7,
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时56分]"
         },
         {
           "title": "特朗普再次威胁袭击伊朗，并寻求对伊加征关税",
@@ -133,15 +158,16 @@
           "time_info": "[05时53分 ~ 06时54分]"
         },
         {
-          "title": "伊朗武装部队警告特朗普",
-          "url": "https://www.douyin.com/hot/2589723",
-          "source": "抖音",
+          "title": "美国总统特朗普：有没有人知道美国最高法院在出生公民权和关税问题上的负面裁决给我们的国家带来了多少金钱和声望的损失？答案是，数万亿、数万亿的美元！",
+          "url": "https://flash.jin10.com/detail/20260730061435735800",
+          "source": "金十数据",
           "ranks": [
-            20
+            6,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时02分 ~ 06时54分]"
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时56分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
@@ -167,26 +193,26 @@
           "time_info": "[01时08分 ~ 01时09分]"
         },
         {
-          "title": "美国总统特朗普：有没有人知道美国最高法院在出生公民权和关税问题上的负面裁决给我们的国家带来了多少金钱和声望的损失？答案是，数万亿、数万亿的美元！",
-          "url": "https://flash.jin10.com/detail/20260730061435735800",
-          "source": "金十数据",
+          "title": "以色列总理内塔尼亚胡谈伊朗问题选项：这是特朗普的决定。",
+          "url": "https://wallstreetcn.com/livenews/3141964",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时54分"
+          "time_info": "07时56分"
         },
         {
-          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
-          "url": "https://www.cls.cn/detail/2440737",
-          "source": "财联社热门",
+          "title": "特朗普：我们已对伊朗进行重创，我们很快就会彻底解决伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3141963",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时54分"
+          "time_info": "07时56分"
         },
         {
           "title": "特朗普称将痛击伊朗 寻求对伊朗加关税的授权",
@@ -255,6 +281,17 @@
           "time_info": "04时45分"
         },
         {
+          "title": "美媒：美军已拟定为期两周的对伊密集空袭方案，有待特朗普抉择",
+          "url": "https://flash.jin10.com/detail/20260730064846289800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
           "title": "特朗普：沃什想看到利率下跌",
           "url": "https://wallstreetcn.com/livenews/3141877",
           "source": "华尔街见闻-快讯",
@@ -303,8 +340,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时56分]"
         },
         {
           "title": "抖音乒乓百分大战下次见",

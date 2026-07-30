@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T15:32:03.856690+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-07-30T18:21:28.127494+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时54分 ~ 15时32分]"
+          "appearance_count": 7,
+          "time_info": "[06时54分 ~ 18时21分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
@@ -110,6 +110,18 @@
           "time_info": "[01时08分 ~ 07时56分]"
         },
         {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 18时21分]"
+        },
+        {
           "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
           "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
           "source": "凤凰网",
@@ -155,17 +167,6 @@
           "time_info": "05时53分"
         },
         {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 15时32分]"
-        },
-        {
           "title": "最新民调出炉！特朗普在共和党内部也遇挫",
           "url": "https://news.ifeng.com/c/8vArsLDHzMI",
           "source": "凤凰网",
@@ -188,6 +189,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 06时54分]"
+        },
+        {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 18时21分]"
         },
         {
           "title": "美国总统特朗普：有没有人知道美国最高法院在出生公民权和关税问题上的负面裁决给我们的国家带来了多少金钱和声望的损失？答案是，数万亿、数万亿的美元！",
@@ -236,17 +249,6 @@
           "time_info": "[05时53分 ~ 06时54分]"
         },
         {
-          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
-        },
-        {
           "title": "特朗普在葬礼上曝光逝者手机号",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%91%AC%E7%A4%BC%E4%B8%8A%E6%9B%9D%E5%85%89%E9%80%9D%E8%80%85%E6%89%8B%E6%9C%BA%E5%8F%B7%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -289,6 +291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "爆炸声又起！特朗普誓言痛击伊朗后 美军发动新一轮打击",
+          "url": "https://www.cls.cn/detail/2441051",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "WTI原油日内涨幅达7.5%，报85.22美元/桶；布伦特原油日内涨幅达7.0%，报87.83美元/桶。 现货白银日内跌幅达0.5%，报56.79美元/盎司。 美国特朗普宣称，在伊朗向美军发动导弹袭击后，美国将进行报复，美国将“狠狠打击”伊朗，伊朗将遭到“痛击”。",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T07:57:03.291965+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-07-31T10:09:54.753345+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -41,6 +41,18 @@
           "time_info": "[01时19分 ~ 06时10分]"
         },
         {
+          "title": "特朗普：与哈马斯达成全面解除武装协议",
+          "url": "https://news.ifeng.com/c/8vCOAeHmmzS",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 10时09分]"
+        },
+        {
           "title": "美国参议员科宁：特朗普可能撤回对布兰奇的提名，这或许是谈判策略，但相关磋商至少在本周末前已基本破裂。",
           "url": "https://flash.jin10.com/detail/20260731004008278800",
           "source": "金十数据",
@@ -61,17 +73,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
-        },
-        {
-          "title": "特朗普：与哈马斯达成全面解除武装协议",
-          "url": "https://news.ifeng.com/c/8vCOAeHmmzS",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 07时57分]"
         },
         {
           "title": "苹果公司第三财季营收1094.2亿美元，分析师预期1088.5亿美元。 第三财季大中华区营收188.2亿美元，分析师预期195.8亿美元。 第三财季产品营收786.8亿美元，分析师预期772.5亿美元。 第三财季iPhone营收542.5亿美元，分析师预期536亿美元；iPad营收61.9亿美元（预期68.9亿美元），Mac营收103.5亿美元（预期86.2亿美元），可穿戴设备、居家、周边营收78.8亿美元（预期78.7亿美元）。 第三财季服务营收307.4亿美元，分析师预期313.6亿美元。 第三财季每股收益（EPS）为2.02美元——含0.11美元特朗普关税退税利好效应，分析师预期1.89美元。 第三财季EPS和运营现金流均创历史新高。 派息0.27美元/股。 苹果股价盘后跌2.2%。",
@@ -126,9 +127,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "美国官员：未要求以色列同意任何不包含在早前计划中的事项。如果以色列不同意，美国总统特朗普将感到失望。",
@@ -137,7 +149,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -148,7 +160,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -170,7 +182,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -181,7 +193,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         }

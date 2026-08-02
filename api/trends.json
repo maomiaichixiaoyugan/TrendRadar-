@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-08-02T07:52:04.506958+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-08-02T10:03:09.943856+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "以媒：特朗普接近批准袭击伊朗能源设施",
           "url": "https://news.ifeng.com/c/8vFPS4k24LG",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时59分 ~ 07时52分]"
+          "appearance_count": 10,
+          "time_info": "[02时59分 ~ 10时03分]"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
           "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 07时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 10时03分]"
         },
         {
           "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
@@ -48,11 +50,12 @@
           "ranks": [
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 07时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 10时03分]"
         },
         {
           "title": "特朗普：伊朗确实挺硬气",
@@ -132,6 +135,17 @@
           "time_info": "[02时59分 ~ 07时52分]"
         },
         {
+          "title": "鲁比奥：伊朗从未面对过像特朗普这样的美国总统，“谈判不承担后果”的时代已结束",
+          "url": "https://flash.jin10.com/detail/20260802094803516800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "美国代理国家情报总监普尔特：在与美国总统特朗普和杰伊·克莱顿讨论后，国家情报总监（DNI）的交接工作定于周一进行。",
           "url": "https://flash.jin10.com/detail/20260802010534825800",
           "source": "金十数据",
@@ -156,6 +170,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时56分 ~ 04时10分]"
+        },
+        {
+          "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
+          "url": "https://wallstreetcn.com/articles/3778492",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时51分 ~ 10时03分]"
         },
         {
           "title": "美国前副总统哈里斯：特朗普是个孤立主义者，口口声声“美国优先”，但由于他未能理解美国所扮演的角色——尽管这一角色并不完美——他已经造成了两方面的后果，第一，让美国看上去不再是可靠的合作伙伴；第二，他让美国如今在全球事务中发挥影响力的权威降至前所未有的低。",
@@ -184,17 +210,6 @@
           "time_info": "[02时59分 ~ 05时48分]"
         },
         {
-          "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
-          "url": "https://wallstreetcn.com/articles/3778492",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
-        },
-        {
           "title": "美国总统特朗普：不同意联邦检察官皮罗关于倒影池的看法。",
           "url": "https://flash.jin10.com/detail/20260802003624770800",
           "source": "金十数据",
@@ -216,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "美媒：沙特王储对特朗普大规模打击伊朗的计划表示担忧，敦促其保持克制",
+          "url": "https://flash.jin10.com/detail/20260802075912944800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "特朗普威胁参议员通过其司法部长人选",

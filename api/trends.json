@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T07:53:18.845062+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-08-03T10:05:49.406222+08:00",
+  "total_titles_processed": 752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 07时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 10时05分]"
         },
         {
           "title": "特朗普相关的超过300个银行帐户被关闭，原因公布",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 07时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 10时05分]"
         },
         {
           "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 07时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 10时05分]"
         },
         {
           "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
@@ -79,6 +79,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时56分 ~ 06时48分]"
+        },
+        {
+          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
+          "url": "https://www.cls.cn/detail/2443662",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "接连反转！特朗普透露三个信息",
+          "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "市场消息：以色列官员对特朗普在一周内第二次取消对伊朗的计划打击感到沮丧，称这种临时反转破坏了军事计划。以色列现在认为，特朗普更倾向于与伊朗达成协议，而不是升级冲突。",
@@ -283,7 +305,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -374,12 +396,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
+        },
+        {
+          "title": "美媒：特朗普民调跌至历史新低",
+          "url": "https://www.toutiao.com/trending/7669012238334165035/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "全抖音都在模仿痴迷名场面",
@@ -390,8 +423,30 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 07时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 10时05分]"
+        },
+        {
+          "title": "抖音作者上手揭秘“天下第一刀”",
+          "url": "https://www.douyin.com/hot/2593694",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "港股科网股持续走强，阿里巴巴(09988.HK)涨超6%，百度(09888.HK)、快手(01024.HK)、腾讯控股(00700.HK)涨超3%，哔哩哔哩(09626.HK)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260803094121972800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     }

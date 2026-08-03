@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T04:22:35.746060+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-08-04T06:01:44.924720+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 06时01分]"
         },
         {
           "title": "特朗普：美伊“正在”谈判 这是伊朗达成协议的“最后机会”",
@@ -302,7 +302,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
         },
@@ -379,7 +379,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
         },
@@ -423,7 +423,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
         },
@@ -445,7 +445,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
         },
@@ -486,7 +486,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "音乐老师在校跳舞发抖音被家长投诉，回应“约谈”称会按学校要求来",
@@ -496,8 +496,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 06时01分]"
+        },
+        {
+          "title": "御廷谣抖音追剧团",
+          "url": "https://www.douyin.com/hot/2596177",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         }
       ]
     }

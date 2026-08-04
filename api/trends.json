@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T06:56:18.235971+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-08-05T07:58:50.545737+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -16,8 +16,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 06时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 07时58分]"
+        },
+        {
+          "title": "持武男子在特朗普即将出席活动的加州球场被捕",
+          "url": "https://flash.jin10.com/detail/20260805072343057800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "伊朗否认启动与美国谈判，伊媒：这是特朗普第十次在对德黑兰的“决定性”军事威胁面前退缩",
@@ -26,7 +37,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -37,7 +48,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -48,9 +59,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "美财长称霍尔木兹“自由通行”有望今明达成，特朗普与卡塔尔埃米尔通话促降级",
+          "url": "https://flash.jin10.com/detail/20260805065441562800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "【报道：特朗普政府退还约1000亿美元关税】自从美国最高法院否决其使用紧急权力（征收关税）以来，特朗普政府已发放了约1000亿美元的关税退款。",
@@ -59,7 +81,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -70,7 +92,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -81,7 +103,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -142,11 +164,12 @@
           "ranks": [
             14,
             16,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 06时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 07时58分]"
         },
         {
           "title": "抖音手瓦选秀大会",
@@ -155,11 +178,12 @@
           "ranks": [
             20,
             17,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 06时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 07时58分]"
         }
       ]
     },
@@ -175,8 +199,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 06时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 07时58分]"
         }
       ]
     }

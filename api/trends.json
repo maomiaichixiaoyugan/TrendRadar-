@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-08-05T01:38:36.445066+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-05T03:22:59.559735+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 03时22分]"
+        },
+        {
+          "title": "卡塔尔埃米尔：与特朗普的通话内容涉及最新的地区发展，特别是缓解美国与伊朗之间紧张局势的努力，以及弥合双方立场的差距，从而增强危机可持续外交解决的前景。",
+          "url": "https://flash.jin10.com/detail/20260805020906830800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "卡塔尔埃米尔：卡塔尔埃米尔接到美国总统特朗普的电话。",
+          "url": "https://flash.jin10.com/detail/20260805020734751800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        }
+      ]
+    },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
       "match_count": 2,
@@ -15,19 +55,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 03时22分]"
         },
         {
           "title": "抖音手瓦选秀大会",
           "url": "https://www.douyin.com/hot/2597698",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 03时22分]"
         }
       ]
     },
@@ -43,25 +84,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 03时22分]"
         }
       ]
     }

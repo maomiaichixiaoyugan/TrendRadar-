@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T13:39:51.422207+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-08-05T16:24:00.806251+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -26,9 +26,20 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时39分 ~ 16时24分]"
+        },
+        {
+          "title": "特朗普正进入两难局面：要么升级美伊局势，要么妥协",
+          "url": "https://flash.jin10.com/detail/20260805155501026800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时24分"
         },
         {
           "title": "持武男子在特朗普即将出席活动的加州球场被捕",
@@ -62,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "据半岛电视台：伊朗议员称特朗普的谈判方式“矛盾且不可靠” 。",
+          "url": "https://flash.jin10.com/detail/20260805154728570800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "特朗普政府关税退税达1000亿美元",
@@ -180,7 +202,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         }
@@ -199,11 +221,12 @@
             17,
             22,
             21,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时38分 ~ 13时39分]"
+          "appearance_count": 9,
+          "time_info": "[01时38分 ~ 16时24分]"
         },
         {
           "title": "抖音7月处置色情低俗内容40.3万条",

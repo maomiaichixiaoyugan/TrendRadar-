@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T09:53:23.108366+08:00",
-  "total_titles_processed": 749,
+  "generated_at": "2026-08-06T13:02:03.611533+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普污蔑：中国背后捣鬼",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 09时53分]"
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 13时02分]"
         },
         {
           "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 09时53分]"
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 13时02分]"
         },
         {
           "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
@@ -37,8 +37,41 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 13时02分]"
+        },
+        {
+          "title": "特朗普称不想让孩子像拜登那样摔下台",
+          "url": "https://www.toutiao.com/trending/7670741330352734262/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时53分 ~ 09时53分]"
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "涉台问题，特朗普的教训还没吃够",
+          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "特朗普：美国有大量军火，大量军火正运往美国。",
+          "url": "https://wallstreetcn.com/livenews/3145805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "特朗普频繁致电沃什：美联储主席成总统“经济顾问”，独立性警报再起",
@@ -47,7 +80,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -173,6 +206,17 @@
           "time_info": "[06时15分 ~ 07时53分]"
         },
         {
+          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
+          "url": "https://www.cls.cn/detail/2446884",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
           "title": "美国总统特朗普：关税让我们变得富有。",
           "url": "https://flash.jin10.com/detail/20260806053019525800",
           "source": "金十数据",
@@ -197,6 +241,17 @@
           "time_info": "[06时15分 ~ 07时53分]"
         },
         {
+          "title": "特朗普：美国拥有大量“弹药”",
+          "url": "https://flash.jin10.com/detail/20260806123756235800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "美国总统特朗普在拉斯维加斯宣称：加拿大领导层很糟糕。",
           "url": "https://wallstreetcn.com/livenews/3145617",
           "source": "华尔街见闻-快讯",
@@ -206,6 +261,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "卡尼不点名调侃特朗普",
+          "url": "https://wallstreetcn.com/livenews/3145797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "特朗普被曝频繁致电沃什 “美联储传声筒”：没错，打好几次",
+          "url": "https://flash.jin10.com/detail/20260806121551898800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "特朗普直升机一度与客机距离过近",
@@ -236,9 +313,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "美国白宫否认特朗普与赫格塞思因弹药库存短缺发生争执",
+          "url": "https://wallstreetcn.com/livenews/3145771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "自沃什就任美联储主席以来，特朗普多次与其通话。 特朗普就伊朗问题以及人工智能对经济的影响向沃什寻求建议。 沃什在与特朗普的通话中对经济表达了积极看法。 尚不清楚特朗普与沃什是否讨论了货币政策。（华尔街日报）",
@@ -247,7 +335,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         }
@@ -263,11 +351,12 @@
           "source": "抖音",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 09时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 13时02分]"
         },
         {
           "title": "抖音手瓦选秀大会",

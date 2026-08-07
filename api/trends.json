@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T19:41:14.297470+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-08-07T20:45:24.385324+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -21,6 +21,20 @@
           "time_info": "[10时15分 ~ 18时45分]"
         },
         {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时50分 ~ 20时45分]"
+        },
+        {
           "title": "特朗普签署行政令，宣布加征关税",
           "url": "https://news.ifeng.com/c/8vNvJb617ek",
           "source": "凤凰网",
@@ -32,29 +46,17 @@
           "time_info": "[10时15分 ~ 16时10分]"
         },
         {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时50分 ~ 19时41分]"
-        },
-        {
           "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
           "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
           "source": "凤凰网",
           "ranks": [
             11,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时10分 ~ 19时41分]"
+          "appearance_count": 7,
+          "time_info": "[16时10分 ~ 20时45分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -76,8 +78,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时10分 ~ 19时41分]"
+          "appearance_count": 7,
+          "time_info": "[16时10分 ~ 20时45分]"
         },
         {
           "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
@@ -90,6 +92,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时15分 ~ 14时07分]"
+        },
+        {
+          "title": "特朗普称伊朗谈判取得进展 市场等待就业数据之际美指期货上涨",
+          "url": "https://flash.jin10.com/detail/20260807202458983800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "特朗普再称对伊朗战争将很快结束",
@@ -223,7 +236,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -237,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
+        },
+        {
+          "title": "语气显著软化！特朗普直言不降息不怪沃什，并甩锅“政治化理事会”",
+          "url": "https://flash.jin10.com/detail/20260807200444932800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "特朗普承认部分弹药供应“相对紧张”",
@@ -300,7 +324,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -319,8 +343,19 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "天才女友抖音追剧团",
+          "url": "https://www.douyin.com/hot/2601120",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
         {
           "title": "抖音支付两项关键岗位变更获得监管批准",
           "url": "https://wallstreetcn.com/livenews/3146529",

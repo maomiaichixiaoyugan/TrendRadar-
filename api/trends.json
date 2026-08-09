@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T12:58:08.817923+08:00",
-  "total_titles_processed": 782,
+  "generated_at": "2026-08-09T13:45:26.301855+08:00",
+  "total_titles_processed": 825,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 12时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 13时45分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -42,8 +42,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 12时58分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 13时45分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -69,8 +69,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 12时58分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 13时45分]"
         },
         {
           "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
@@ -81,8 +81,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 12时58分]"
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 13时45分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -101,11 +101,23 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 13时45分]"
+        },
+        {
+          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
+          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时57分 ~ 13时45分]"
         },
         {
           "title": "舒默怒斥特朗普：你在哪个星球",
@@ -118,17 +130,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时23分 ~ 06时21分]"
-        },
-        {
-          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
-          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 12时58分]"
         },
         {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T02:52:55.899358+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-08-12T03:59:01.064526+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 03时59分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -26,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 03时59分]"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",

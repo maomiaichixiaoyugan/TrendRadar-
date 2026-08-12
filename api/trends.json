@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T13:38:01.274101+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-08-12T15:13:46.362319+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时34分 ~ 13时38分]"
+          "appearance_count": 5,
+          "time_info": "[06时34分 ~ 15时13分]"
         },
         {
           "title": "美国总统特朗普：我不信任伊朗。",
@@ -109,6 +109,17 @@
           "time_info": "09时16分"
         },
         {
+          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
+          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 15时13分]"
+        },
+        {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
           "url": "https://flash.jin10.com/detail/20260812053053264800",
           "source": "金十数据",
@@ -120,17 +131,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时39分 ~ 07时33分]"
-        },
-        {
-          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
-          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 13时38分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",

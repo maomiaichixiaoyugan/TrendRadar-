@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T09:18:10.347706+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-08-13T12:04:16.943278+08:00",
+  "total_titles_processed": 840,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -19,6 +19,20 @@
           "time_info": "[00时50分 ~ 05时38分]"
         },
         {
+          "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765931",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时52分 ~ 12时04分]"
+        },
+        {
           "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
           "source": "澎湃新闻",
@@ -30,19 +44,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时50分 ~ 09时18分]"
-        },
-        {
-          "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33765931",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时52分 ~ 09时18分]"
         },
         {
           "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
@@ -158,6 +159,17 @@
           "time_info": "[05时37分 ~ 05时38分]"
         },
         {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
           "title": "“特朗普消息付费抢先看”服务引发交易机构抵制",
           "url": "https://flash.jin10.com/detail/20260813044836122800",
           "source": "金十数据",
@@ -175,7 +187,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -189,6 +201,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
+          "url": "https://www.cls.cn/detail/2452937",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
         },
         {
           "title": "据Axios：特朗普政府批评以色列国防部长卡茨有关继续占领黎巴嫩南部的言论，并表示相关表态违背了以色列政府与美国及黎巴嫩签署协议中的承诺。",
@@ -267,11 +290,12 @@
           "url": "https://www.zhihu.com/question/659432723",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 09时18分]"
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 12时04分]"
         }
       ]
     },
@@ -290,8 +314,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 05时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 12时04分]"
         }
       ]
     }

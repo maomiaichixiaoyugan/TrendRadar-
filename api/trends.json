@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T14:12:20.394529+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-08-13T18:56:38.679839+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -101,6 +101,39 @@
           "time_info": "03时59分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-13）",
+          "url": "https://flash.jin10.com/detail/20260813183204608800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
+          "title": "美新闻机构起诉特朗普",
+          "url": "https://www.douyin.com/hot/2607917",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
+          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
+          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "美国总统特朗普：白宫新闻秘书莱维特将于本月底离职。",
           "url": "https://flash.jin10.com/detail/20260813033557637800",
           "source": "金十数据",
@@ -152,11 +185,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 14时12分]"
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 18时56分]"
         },
         {
           "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
@@ -180,6 +214,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 05时38分]"
+        },
+        {
+          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "“特朗普消息付费抢先看”服务引发交易机构抵制",
@@ -224,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "特朗普：我想谋求第三任期，但美国法律太严",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33769936",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "特朗普因计划出售Truth Social帖文快速访问权限计划遭起诉。（彭博）",
@@ -284,7 +340,7 @@
     },
     {
       "keyword_group": "小红书 快手 抖音 抖音热搜 快手热搜 小红书爆款",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "杰伦格林抖音海选球迷太夯了",
@@ -302,13 +358,24 @@
           "time_info": "[00时50分 ~ 14时12分]"
         },
         {
+          "title": "董卿 抖音评论被造谣",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E5%8D%BF%20%E6%8A%96%E9%9F%B3%E8%AF%84%E8%AE%BA%E8%A2%AB%E9%80%A0%E8%B0%A3&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "追梦格林战队开启抖音海选",
           "url": "https://www.douyin.com/hot/2607641",
           "source": "抖音",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         }
@@ -316,8 +383,19 @@
     },
     {
       "keyword_group": "老百姓 村集体 村委会 土地 农村集体资产",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "泽连斯基声称收复745平方公里土地，“一切在计划中”",
+          "url": "https://news.ifeng.com/c/8vYbmXBfZZC",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
         {
           "title": "中国种植的土地那么大，为什么感觉东北大米比较出名又好吃？",
           "url": "https://www.zhihu.com/question/659432723",

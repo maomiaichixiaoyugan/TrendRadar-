@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T11:59:52.819899+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2026-08-14T13:39:34.904695+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
@@ -31,6 +31,17 @@
           "time_info": "[00时51分 ~ 06时34分]"
         },
         {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 13时39分]"
+        },
+        {
           "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
           "url": "https://flash.jin10.com/detail/20260814004157850800",
           "source": "金十数据",
@@ -53,24 +64,13 @@
           "time_info": "02时54分"
         },
         {
-          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
-          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
           "title": "特朗普与马斯克重修旧好：私人恩怨退场，政治利益重新把两人绑在一起",
           "url": "https://flash.jin10.com/detail/20260814114351665800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -132,8 +132,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 13时39分]"
+        },
+        {
+          "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
+          "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时17分 ~ 11时59分]"
+          "time_info": "[11时59分 ~ 13时39分]"
         },
         {
           "title": "发警报迫使特朗普换机 中情局质疑以色列用意",
@@ -153,18 +164,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
-          "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -189,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "霉霉特朗普 版权",
@@ -230,7 +241,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -352,9 +363,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 13时39分]"
         }
       ]
     }

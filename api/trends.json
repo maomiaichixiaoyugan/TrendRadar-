@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T04:14:33.670466+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-08-17T08:50:37.158368+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -23,11 +23,56 @@
           "url": "https://wallstreetcn.com/articles/3779521",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 04时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 08时50分]"
+        },
+        {
+          "title": "特朗普向朝韩发出强烈信号，信息量很大",
+          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
+        {
+          "title": "沙土巴三国签署共同防务协议，特朗普发声",
+          "url": "https://news.ifeng.com/c/8veP1BeKo8D",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
+        {
+          "title": "特朗普：我和金正恩关系好，将大幅削减美韩军演规模",
+          "url": "https://news.ifeng.com/c/8vePFPF1e1S",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
+        {
+          "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
+          "url": "https://news.ifeng.com/c/8vegxyVDbqF",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -216,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "特朗普称要大幅缩减美韩联合军演",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A6%81%E5%A4%A7%E5%B9%85%E7%BC%A9%E5%87%8F%E7%BE%8E%E9%9F%A9%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
         }
       ]
     }

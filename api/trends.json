@@ -1,58 +1,22 @@
 {
-  "generated_at": "2026-08-17T22:21:06.686119+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2026-08-18T08:49:22.110783+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 9,
       "titles": [
         {
-          "title": "特朗普向朝韩发出强烈信号，信息量很大",
-          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
-          "source": "凤凰网",
+          "title": "大V：特朗普“金蝉脱壳”是政治失算",
+          "url": "https://www.toutiao.com/trending/7675011910084857394/",
+          "source": "今日头条",
           "ranks": [
-            1,
-            2,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时50分 ~ 22时21分]"
-        },
-        {
-          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
-          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 04时14分]"
-        },
-        {
-          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
-          "url": "https://wallstreetcn.com/articles/3779521",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 08时50分]"
-        },
-        {
-          "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
-          "url": "https://news.ifeng.com/c/8vegxyVDbqF",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时50分 ~ 17时34分]"
+          "appearance_count": 1,
+          "time_info": "08时49分"
         },
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -62,406 +26,85 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
-        },
-        {
-          "title": "市场消息：特朗普的委内瑞拉事务特使正在推动“美国优先”石油交易。",
-          "url": "https://flash.jin10.com/detail/20260817200146802800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "08时49分"
         },
         {
-          "title": "美国最高法院拒绝特朗普再次请求审理其针对E. Jean Carroll 500万美元判决结果的上诉。",
-          "url": "https://flash.jin10.com/detail/20260817213146460800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "沙土巴三国签署共同防务协议，特朗普发声",
-          "url": "https://news.ifeng.com/c/8veP1BeKo8D",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时50分"
-        },
-        {
-          "title": "特朗普：我和金正恩关系好，将大幅削减美韩军演规模",
-          "url": "https://news.ifeng.com/c/8vePFPF1e1S",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时50分"
-        },
-        {
-          "title": "特朗普再促参议院通过全年采用夏令时法案",
-          "url": "https://wallstreetcn.com/livenews/3150053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时14分]"
-        },
-        {
-          "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
-          "url": "https://flash.jin10.com/detail/20260817031430338800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时14分]"
-        },
-        {
-          "title": "哈马斯方面表示，他们是否同意特朗普计划的第二阶段，取决于是否能实现永久停火和以色列撤军。",
-          "url": "https://flash.jin10.com/detail/20260817031406099800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时14分]"
-        },
-        {
-          "title": "据阿拉比亚电视台：特朗普高级顾问库什纳与加沙和平委员会的会晤已结束。",
-          "url": "https://flash.jin10.com/detail/20260816235136555800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
-        },
-        {
-          "title": "哈马斯方面表示，由哈立德·哈亚率领的组织领导层代表团今日在埃及会见了加沙协议的调解方和担保方，组织已向担保方通报，同意特朗普计划的第二阶段。",
-          "url": "https://flash.jin10.com/detail/20260817030717074800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时14分]"
-        },
-        {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
+          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
+          "url": "https://wallstreetcn.com/articles/3779635",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 17时34分]"
-        },
-        {
-          "title": "埃及、约旦、阿联酋、卡塔尔、印度尼西亚、沙特阿拉伯、土耳其和巴基斯坦的联合声明称，以色列的拒绝态度威胁到特朗普为结束加沙战争所作的加大力度的努力。",
-          "url": "https://flash.jin10.com/detail/20260816235052320800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
-        },
-        {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 17时34分]"
-        },
-        {
-          "title": "释疑丨扒开新型美式政商关系：特朗普到哪儿，权贵们的房子就买到哪儿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33797232",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时35分 ~ 22时21分]"
-        },
-        {
-          "title": "埃及、约旦、阿联酋、卡塔尔、印度尼西亚、沙特阿拉伯、土耳其和巴基斯坦发布联合声明，谴责以色列拒绝美国总统特朗普关于加沙的计划。",
-          "url": "https://flash.jin10.com/detail/20260816234910421800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
-        },
-        {
-          "title": "消息人士：特朗普高级顾问库什纳和“和平委员会”加沙事务高级代表尼古拉·姆拉德诺夫已向哈马斯承诺，以色列军队将与该组织的解除武装同步，从加沙撤出。",
-          "url": "https://flash.jin10.com/detail/20260816234600568800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
-        },
-        {
-          "title": "据阿拉比亚电视台：特朗普高级顾问库什纳向哈马斯方面强调，只有各方履行承诺，和平才能实现。",
-          "url": "https://flash.jin10.com/detail/20260816234319301800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 1,
+          "time_info": "08时49分"
         },
         {
           "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
           "url": "https://www.cls.cn/detail/2456389",
           "source": "财联社热门",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
-        },
-        {
-          "title": "据半岛电视台：巴勒斯坦消息人士透露，库什纳已告知哈马斯领导层，特朗普认为解除各派武装是加沙采取任何其他行动前的关键一步。",
-          "url": "https://flash.jin10.com/detail/20260817022525779800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时14分]"
-        },
-        {
-          "title": "特朗普女婿库什纳：埃及是美国在中东的重要合作伙伴。",
-          "url": "https://flash.jin10.com/detail/20260816215626803800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
-        },
-        {
-          "title": "特朗普会让美航母全面退化吗",
-          "url": "https://www.toutiao.com/trending/7674860385295404590/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 15时46分]"
-        },
-        {
-          "title": "特朗普的委内瑞拉事务特使正在推动“美国优先”石油交易。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3150496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "08时49分"
         },
         {
-          "title": "据阿拉比亚电视台：特朗普高级顾问库什纳向哈马斯领导人确认，哈马斯的武器将会从加沙地带撤出，不会在加沙存放。",
-          "url": "https://flash.jin10.com/detail/20260817004811237800",
-          "source": "金十数据",
+          "title": "60天期限已到，特朗普威胁阿曼，伊朗称将“全面进攻”",
+          "url": "https://news.ifeng.com/c/8vgLjEXesPE",
+          "source": "凤凰网",
           "ranks": [
-            12
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "08时49分"
         },
         {
-          "title": "据阿拉比亚电视台：特朗普高级顾问库什纳和加沙和平事务高级特使姆拉迪诺夫坚持要求哈马斯交出武器并拆除其基础设施。",
-          "url": "https://flash.jin10.com/detail/20260817004727097800",
-          "source": "金十数据",
+          "title": "以退为进？特朗普想用这招要挟韩国掏钱",
+          "url": "https://v.ifeng.com/c/8vfkc7n8wJm",
+          "source": "凤凰网",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "08时49分"
         },
         {
-          "title": "据阿拉比亚电视台：特朗普高级顾问库什纳和加沙和平事务高级特使姆拉迪诺夫拒绝了哈马斯关于“储存武器”的提议。",
-          "url": "https://flash.jin10.com/detail/20260817004657415800",
-          "source": "金十数据",
+          "title": "特朗普：金正恩已回应其对话请求",
+          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
+          "source": "凤凰网",
           "ranks": [
-            14
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "08时49分"
         },
         {
-          "title": "阿曼又被特朗普“点名”，分析人士称其惯于“雷声大雨点小”",
-          "url": "https://flash.jin10.com/detail/20260817215735050800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "美国白宫：特朗普政府和TrumpRx使处方药价格正在大幅下降，承诺已兑现。",
-          "url": "https://flash.jin10.com/detail/20260817215345128800",
+          "title": "民调亮起红灯！特朗普支持率跌至第二任期最低点",
+          "url": "https://flash.jin10.com/detail/20260818074806898800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "08时49分"
         },
         {
-          "title": "美国能源部长赖特：美国在天然气产量方面处于全球领先地位。得益于特朗普总统推动的“美国能源主导”议程，我们将在未来几十年继续保持领先地位。",
-          "url": "https://flash.jin10.com/detail/20260817215308369800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "特朗普称若阿曼阻碍美方重开霍尔木兹海峡 将对其实施轰炸",
-          "url": "https://wallstreetcn.com/livenews/3150515",
+          "title": "民调显示特朗普支持率创第二任期内新低",
+          "url": "https://wallstreetcn.com/livenews/3150715",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "特朗普对：我可能会支持以色列选举中的某位候选人。以色列不该袭击加沙。（福克斯）",
-          "url": "https://wallstreetcn.com/livenews/3150476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "市场消息：埃及总统塞西与特朗普女婿库什纳确认了解决地区当前危机的必要性，重申各方必须致力于履行加沙地带战争停火协议下的义务。",
-          "url": "https://flash.jin10.com/detail/20260816215609663800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "据半岛电视台：巴勒斯坦消息人士表示，库什纳向哈马斯领导层确认，特朗普决心推进其关于加沙地带的计划。",
-          "url": "https://flash.jin10.com/detail/20260817022158141800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "据CNN：美国特使库什纳敦促内塔尼亚胡推进特朗普支持的加沙停火计划，“不要制造障碍”<br/>。",
-          "url": "https://flash.jin10.com/detail/20260817215058439800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "特朗普威胁称，如果阿曼妨碍美国，美国将轰炸阿曼",
-          "url": "https://wallstreetcn.com/livenews/3150475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "特朗普要求伊朗举白旗投降",
-          "url": "https://wallstreetcn.com/livenews/3150512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "特朗普称要大幅缩减美韩联合军演",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A6%81%E5%A4%A7%E5%B9%85%E7%BC%A9%E5%87%8F%E7%BE%8E%E9%9F%A9%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时50分"
+          "time_info": "08时49分"
         }
       ]
     },
@@ -470,17 +113,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "东莞 17 亿元全额付款土地被无偿收回，官方公告称已解除出让合同，怎样从法律角度解读？",
-          "url": "https://www.zhihu.com/question/2072365745934005252",
-          "source": "知乎",
+          "title": "商务部等9部门：支持农村集体经营性建设用地依法入市发展县域商业",
+          "url": "https://wallstreetcn.com/livenews/3150745",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            2,
-            13
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时45分 ~ 21时35分]"
+          "appearance_count": 1,
+          "time_info": "08时49分"
         }
       ]
     }

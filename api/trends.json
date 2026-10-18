@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-18T10:26:37.523482+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-10-18T15:38:45.155203+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "“特朗普暂停对俄制裁，是历史性时刻”",
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 10时26分]"
+          "appearance_count": 7,
+          "time_info": "[01时41分 ~ 15时38分]"
         },
         {
           "title": "被问是否被特朗普当成替罪羊？泽连斯基神秘微笑",
@@ -51,8 +52,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 10时26分]"
+          "appearance_count": 7,
+          "time_info": "[01时41分 ~ 15时38分]"
         },
         {
           "title": "特朗普：希望能在G20峰会见到普京",
@@ -126,6 +127,17 @@
           "time_info": "[03时56分 ~ 05时56分]"
         },
         {
+          "title": "李在明上任一年多社交平台发文超千条，被质疑像特朗普",
+          "url": "https://news.ifeng.com/c/8xJat1cyqIn",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 15时38分]"
+        },
+        {
           "title": "特朗普重申伊朗战争将很快结束，汽油价格将会回落",
           "url": "https://flash.jin10.com/detail/20261018040202035800",
           "source": "金十数据",
@@ -162,6 +174,17 @@
           "time_info": "[05时56分 ~ 07时42分]"
         },
         {
+          "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
+          "url": "https://wallstreetcn.com/articles/3783843",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "美国总统特朗普：尽管政府已裁减超过100万名联邦雇员，但目前美国就业人数仍创历史新高。过去一项工作往往需要10个人完成。美国确实需要联邦雇员，但没必要每项工作都安排10个人。",
           "url": "https://flash.jin10.com/detail/20261018030831814800",
           "source": "金十数据",
@@ -184,17 +207,6 @@
           "time_info": "03时56分"
         },
         {
-          "title": "李在明上任一年多社交平台发文超千条，被质疑像特朗普",
-          "url": "https://news.ifeng.com/c/8xJat1cyqIn",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
           "title": "美国总统特朗普：针对伊朗的行动将很快结束，届时汽油价格将会下降。我们必须确保伊朗的核能力不会恢复，目前正在为此采取行动。",
           "url": "https://flash.jin10.com/detail/20261018030112309800",
           "source": "金十数据",
@@ -215,6 +227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "反特朗普运动“不要国王”Instagram账号遭暂停，Meta称系统误判",
+          "url": "https://flash.jin10.com/detail/20261018131444707800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "美国总统特朗普：我们终将与加拿大达成一项令人瞩目的协议。",
@@ -259,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "美国总统特朗普周日日程一览",
+          "url": "https://flash.jin10.com/detail/20261018124445164800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         }
       ]
     }

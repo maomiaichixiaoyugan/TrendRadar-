@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-18T07:42:30.749807+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-10-18T10:26:37.523482+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "“特朗普暂停对俄制裁，是历史性时刻”",
@@ -30,6 +30,31 @@
           "time_info": "[01时41分 ~ 07时42分]"
         },
         {
+          "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
+          "url": "https://www.cls.cn/detail/2507355",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时41分 ~ 10时26分]"
+        },
+        {
+          "title": "被问是否被特朗普当成替罪羊？泽连斯基神秘微笑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34268856",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时41分 ~ 10时26分]"
+        },
+        {
           "title": "特朗普：希望能在G20峰会见到普京",
           "url": "https://news.ifeng.com/c/8xIg9fCOn9f",
           "source": "凤凰网",
@@ -41,28 +66,17 @@
           "time_info": "[01时41分 ~ 07时42分]"
         },
         {
-          "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
-          "url": "https://www.cls.cn/detail/2507355",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时41分 ~ 07时42分]"
-        },
-        {
-          "title": "被问是否被特朗普当成替罪羊？泽连斯基神秘微笑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34268856",
+          "title": "特朗普签署行政令豁免对俄多项制裁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34269052",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            15
+            17,
+            20,
+            19
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时41分 ~ 07时42分]"
+          "time_info": "[01时41分 ~ 10时26分]"
         },
         {
           "title": "美国总统特朗普：所有使用风力发电的国家都在走向破产。",
@@ -87,18 +101,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时42分 ~ 07时42分]"
-        },
-        {
-          "title": "特朗普签署行政令豁免对俄多项制裁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34269052",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时41分 ~ 05时56分]"
         },
         {
           "title": "俄官员称特朗普放松对俄制裁有“历史意义”",
@@ -180,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "李在明上任一年多社交平台发文超千条，被质疑像特朗普",
+          "url": "https://news.ifeng.com/c/8xJat1cyqIn",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "美国总统特朗普：针对伊朗的行动将很快结束，届时汽油价格将会下降。我们必须确保伊朗的核能力不会恢复，目前正在为此采取行动。",

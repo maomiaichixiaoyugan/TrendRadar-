@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-10-20T09:25:49.804176+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-10-20T14:57:58.623731+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "普京提议中美俄三方会谈，特朗普表态",
+          "url": "https://original.ifeng.com/c/8xN6E5hd4IF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "特朗普：中方在乌问题上立场很公允",
+          "url": "https://www.toutiao.com/trending/7697897058136604715/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
         {
           "title": "美国总统特朗普：农业部将启动一项新的收获季燃料救助计划，为农民提供80亿美元支持。",
           "url": "https://flash.jin10.com/detail/20261020091836620800",
@@ -14,9 +36,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "美国中期选举三种结局全解析：特朗普将面临什么？2027年财政大战难避免",
+          "url": "https://flash.jin10.com/detail/20261020143836964800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "马斯克向特朗普账户捐80亿美元",
@@ -25,9 +58,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
+          "url": "https://news.ifeng.com/c/8xMyNrph5V3",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 14时57分]"
         },
         {
           "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
@@ -41,26 +86,16 @@
           "time_info": "[02时05分 ~ 06时44分]"
         },
         {
-          "title": "特朗普为何突然表态支持内塔尼亚胡",
-          "url": "https://www.toutiao.com/trending/7698521849260412470/",
-          "source": "今日头条",
+          "title": "特朗普称该换人代表乌克兰谈判 以色列总理下令推翻伊朗政权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2509123",
+          "source": "财联社热门",
           "ranks": [
-            7
+            13,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
-          "url": "https://news.ifeng.com/c/8xMyNrph5V3",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 14时57分]"
         },
         {
           "title": "花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州”",
@@ -69,20 +104,54 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 14时57分]"
+        },
+        {
+          "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34285005",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 14时57分]"
+        },
+        {
+          "title": "特朗普为何突然表态支持内塔尼亚胡",
+          "url": "https://www.toutiao.com/trending/7698521849260412470/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
         {
-          "title": "特朗普称该换人代表乌克兰谈判 以色列总理下令推翻伊朗政权 | 环球市场",
-          "url": "https://www.cls.cn/detail/2509123",
+          "title": "挪威政府：美国总统特使威特科夫将前往奥斯陆，特朗普女婿库什纳将以线上方式参与。",
+          "url": "https://flash.jin10.com/detail/20261020143203373800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "中期选举前关键民调！特朗普支持率创历史新低：31%",
+          "url": "https://www.cls.cn/detail/2509225",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "14时57分"
         },
         {
           "title": "【以色列总理下令推翻伊朗政权】当地时间10月19日晚，以色列总理内塔尼亚胡在接受以色列第14频道电视台采访时称，他向以军、以色列情报和特勤局（摩萨德）以及以军军事情报局下达了“推翻伊朗政权”的指令。内塔尼亚胡结合此前美国总统特朗普对他的公开支持表示，特朗普的态度“非常明确”，即认为当前的“核心任务是彻底消除伊朗对以色列造成的生存威胁 ”。（CCTV国际时讯）",
@@ -118,15 +187,15 @@
           "time_info": "06时44分"
         },
         {
-          "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34285005",
-          "source": "澎湃新闻",
+          "title": "挪威政府：美国总统特使威特科夫与特朗普女婿库什纳参加乌克兰会谈。",
+          "url": "https://flash.jin10.com/detail/20261020143029006800",
+          "source": "金十数据",
           "ranks": [
-            20
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "14时57分"
         },
         {
           "title": "以色列公布通话纪录 特朗普对内塔尼亚胡表支持",
@@ -190,7 +259,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -220,8 +289,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时05分 ~ 09时25分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 14时57分]"
         }
       ]
     }
